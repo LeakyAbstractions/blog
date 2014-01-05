@@ -1,0 +1,62 @@
+html{
+
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+body, span, h1, h2, h3, h4, h5, h6, section{
+
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-weight: normal;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: inherit;
+	vertical-align: baseline;
+}
+
+section{
+
+	display: block;
+}
+
+body{
+
+	background: #fff;
+	font-family: 'Guillermonkey', courier;
+}
+
+#main{
+
+	width: 800px;
+	min-height: 400px;
+	margin: 96px auto 32px;
+	background: url(../img/guillermo.png) no-repeat 100% 25%;
+}
+
+h1{
+
+	color: #444;
+	font-size: 96px;
+	font-weight: bold;
+	text-shadow: 1px 1px #000;
+	text-transform: uppercase;
+}
+
+h2, h3, h4, h5, h6{
+
+	color: #000;
+	font-size: 32px;
+}
+
+span:before{
+
+	content: "#";
+}
+
+span:hover{
+
+	color:  #a44;
+}
