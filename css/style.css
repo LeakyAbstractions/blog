@@ -5,7 +5,7 @@ html{
 	border: 0;
 }
 
-body, span, h1, h2, h3, h4, h5, h6, section{
+body, span, h1, h2, h3, h4, h5, h6, blockquote, section{
 
 	margin: 0;
 	padding: 0;
@@ -33,7 +33,7 @@ body{
 	width: 800px;
 	min-height: 400px;
 	margin: 96px auto 32px;
-	background: url(../img/guillermo.png) no-repeat 100% 25%;
+	background: url(../img/guillermo.png) no-repeat 100% 0%;
 }
 
 h1{
@@ -49,6 +49,40 @@ h2, h3, h4, h5, h6{
 
 	color: #000;
 	font-size: 32px;
+}
+
+blockquote{
+
+	min-width: 512px;
+	min-height: 180px;
+	background: url(../img/beauty.png) no-repeat 50% 0%;
+	color: #444;
+	text-align: center;
+	font-size: 24px;
+	margin-top: 1em;
+	padding-top: 200px;
+}
+
+blockquote strong{
+
+	color: #000;
+	font-weight: normal;
+}
+
+blockquote em{
+
+	color: #888;
+	font-style: normal;
+}
+
+blockquote:before{
+
+	content: "“";
+}
+
+blockquote:after{
+
+	content: "”";
 }
 
 span:before{
