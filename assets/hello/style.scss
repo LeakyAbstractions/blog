@@ -1,0 +1,109 @@
+---
+sitemap: false
+---
+
+html {
+
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body, span, h1, h2, h3, h4, h5, h6, blockquote, section {
+
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-weight: normal;
+  font-style: inherit;
+  font-size: 100%;
+  font-family: inherit;
+  vertical-align: baseline;
+}
+
+section {
+
+  display: block;
+}
+
+body {
+
+  background: #fff;
+  font-family: 'Guillermonkey', courier;
+}
+
+#main {
+
+  width: 800px;
+  min-height: 400px;
+  margin: 96px auto 32px;
+  background: url(guillermo.png) no-repeat 100% 0%;
+}
+
+h1 {
+
+  color: #444;
+  font-size: 96px;
+  font-weight: bold;
+  text-shadow: 1px 1px #000;
+  text-transform: uppercase;
+}
+
+h2, h3, h4, h5, h6 {
+
+  color: #000;
+  font-size: 32px;
+
+  em {
+
+    font-style: normal;
+
+    &:before {
+
+      content: "#";
+    }
+
+    &:hover {
+
+      color:  #a44;
+    }
+  }
+}
+
+blockquote {
+
+  min-width: 512px;
+  min-height: 180px;
+  background: url(beauty.png) no-repeat 50% 0%;
+  font-size: 24px;
+  margin-top: 1em;
+  padding-top: 200px;
+
+  p {
+
+    color: #444;
+    text-align: center;
+
+    strong {
+
+      color: #000;
+      font-weight: normal;
+    }
+
+    em {
+
+      color: #888;
+      font-style: normal;
+    }
+
+    &:before {
+
+      content: "“";
+    }
+
+    &:after {
+
+      content: "”";
+    }
+  }
+}
