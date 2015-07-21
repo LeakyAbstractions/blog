@@ -1,0 +1,18 @@
+#
+# Site settings
+#
+title: Simius Ex Machina
+description: >
+  Personal blog of Guillermo about
+  programming languages, compilers, interpreters, virtual machines
+  and software engineering in general.
+email: guillermocalvo@yahoo.com
+baseurl:
+url:
+twitter_username: guillermonkey
+github_username:  guillermocalvo
+
+#
+# Build settings
+#
+markdown: kramdown
