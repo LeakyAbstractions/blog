@@ -1,0 +1,56 @@
+{% capture nothing %}
+
+# Pluralized Array
+
+This script reads an array from the supplied parameters, favouring the singular parameter and returns an actual array.
+
+The script receives these parameters:
+
+- `singular`: An optional value
+- `plural`: An optional list of values, or a string containing space-separated values.
+
+* If singular parameter is provided, then the result will be an array with one element
+* Otherwise:
+  * If the plural parameter is an actual array, then the result will be that array
+  * Otherwise: the result will be the value of the plural parameter splitted by spaces
+
+The resulting array is returned in a variable `pluralized_array`.
+
+## Input parameters
+
+- singular: {{ include.singular }}
+- plural: {{ include.plural }}
+
+{% if include.singular %}
+
+## Singular parameter provided
+
+	{% assign pluralized_array = site.data.arrays.empty %}
+	{% assign pluralized_array = pluralized_array | push: include.singular %}
+
+{% elsif include.plural %}
+
+## Plural parameter provided
+
+	{% assign pluralized_array = include.plural | push: 'dummy' %}
+	{% assign tmp1 = include.plural | size %}
+	{% assign tmp2 = pluralized_array | size %}
+
+	{% if tmp2 > tmp1 %}
+		{% assign pluralized_array = include.plural %}
+	{% else %}
+		{% assign pluralized_array = include.plural | split: ' ' %}
+	{% endif %}
+
+	{% assign tmp1 = null %}
+	{% assign tmp2 = null %}
+
+{% else %}
+
+	{% assign pluralized_array = null %}
+
+{% endif %}
+
+---
+
+{% endcapture %}{% assign nothing = null %}

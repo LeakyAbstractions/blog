@@ -1,0 +1,57 @@
+{% capture nothing %}
+
+# Listing
+
+This script retrieves a list of elements from various sources.
+The elements can be pages, posts or both. They can also be filtered by categories or tags.
+
+The script uses the page attribute:
+
+- `page.listing.source`: An optional hash containing the source of the listing
+
+If the any of `paginator` or `page.paginator` are defined, then the list of elements
+will be limited to the appropriate elements for the current page.
+
+The resulting list of elements is returned in a variable `listing__elements`.
+
+## Input parameters
+
+- `page.listing.source`: {{ page.listing.source | debug }}
+- `page.listing.paginator`: {{ page.listing.paginator | debug }}
+- `paginator`: {{ paginator | debug }}
+
+{% if paginator %}
+
+## The actual list of elements is defined by Jekyll pagination
+
+	{% assign listing__elements = paginator.posts %}
+	{% include variables/paginator.liquid %}
+
+{% elsif page.listing.source %}
+
+## The list of elements is defined by the listing source
+
+	{% include variables/content.liquid source=page.listing.source %}
+	{% assign listing__elements = content__elements %}
+	{% assign content__elements = null %}
+
+	{% if page.paginator %}
+
+## The list of elements is limited by pagination
+
+		{% include variables/paginator.liquid posts=listing__elements %}
+		{% assign listing__elements = paginator__posts %}
+
+	{% endif %}
+
+{% else %}
+
+## The list of elements is empty
+
+		{% assign listing__elements = null %}
+
+{% endif %}
+
+---
+
+{% endcapture %}{% assign nothing = null %}
