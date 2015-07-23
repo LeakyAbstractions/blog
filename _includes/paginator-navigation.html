@@ -1,0 +1,34 @@
+
+<nav class="paginator-navigation">
+
+  <div class="backward">
+   {% if paginator__previous_page_path and paginator__previous_page %}
+    <a href="{{ paginator__previous_page_path }}">Page {{ paginator__previous_page }}</a>
+   {% elsif paginator__previous_page_path %}
+    <a href="{{ paginator__previous_page_path }}">Previous page</a>
+   {% else %}
+    <span class="empty">No previous pages</span>
+   {% endif %}
+  </div>
+
+  <div class="info">
+   {% if paginator__page and paginator__total_pages %}
+    Page: <span class="current_page">{{ paginator__page }}</span> of <span class="total_pages">{{ paginator__total_pages }}</span>
+   {% elsif paginator__page %}
+    Page: <span class="current_page">{{ paginator__page }}</span>
+   {% else %}
+    <span class="empty">No current page</span>
+   {% endif %}
+  </div>
+
+  <div class="forward">
+   {% if paginator__next_page_path and paginator__next_page %}
+    <a href="{{ paginator__next_page_path }}">Page {{ paginator__next_page }}</a>
+   {% elsif paginator__next_page_path %}
+    <a href="{{ paginator__next_page_path }}">Next page</a>
+   {% else %}
+    <span class="empty">No more pages</span>
+   {% endif %}
+  </div>
+
+</nav>
