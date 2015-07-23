@@ -39,3 +39,21 @@ defaults:
       type: posts
     values:
       layout: quote
+  -
+    scope:
+      path: quotes/page
+      type: pages
+    values:
+      title: Programming Quotes
+      layout: listing
+      listing:
+        include_file: listing-quotes.html
+        source:
+          type: posts
+          category: quotes
+        navigation:
+          bottom: true
+      paginator:
+        path_first: /quotes/page/
+        path: /quotes/page/:num/
+        per_page: 50
