@@ -1,0 +1,126 @@
+{% capture nothing %}
+
+
+# Generic Jekyll paginator
+
+Built-in Jekyll pagination does not currently support tags or categories.
+It simply pages through every post in `site.posts` regardless of page attributes.
+That's a bummer, because then we cannot page over posts grouped by tag or category.
+
+This script enables generic pagination and allows us to page over any collection of posts or pages.
+The resulting variables mimic the `paginator` object offered by Jekyll.
+If the page is actually using the built-in pagination, then its attributes wil be copied.
+
+The result will be a list of variables:
+
+- `paginator__page`: Current page number
+- `paginator__per_page`: Number of posts per page
+- `paginator__posts`: A list of posts for the current page
+- `paginator__total_posts`: Total number of posts in the site
+- `paginator__total_pages`: Number of pagination pages
+- `paginator__previous_page`: Page number of the previous pagination page, or nil if no previous page exists
+- `paginator__previous_page_path`: Path of previous pagination page, or nil if no previous page exists
+- `paginator__next_page`: Page number of the next pagination page, or nil if no subsequent page exists
+- `paginator__next_page_path`: Path of next pagination page, or nil if no subsequent page exists
+
+{% if paginator %}
+
+## Default Jekyl paginator
+
+	{% assign paginator__page                = paginator.page %}
+	{% assign paginator__per_page            = paginator.per_page %}
+	{% assign paginator__posts               = paginator.posts %}
+	{% assign paginator__total_posts         = paginator.total_posts %}
+	{% assign paginator__total_pages         = paginator.total_pages %}
+	{% assign paginator__previous_page       = paginator.previous_page %}
+	{% assign paginator__previous_page_path  = paginator.previous_page_path %}
+	{% assign paginator__next_page           = paginator.next_page %}
+	{% assign paginator__next_page_path      = paginator.next_page_path %}
+
+{% elsif page.paginator %}
+
+## Generic paginator
+
+	{% assign paginator__posts = include.posts %}
+	{% unless paginator__posts %}
+
+### Retrieve all source elements
+
+		{% include variables/content.liquid source=page.paginator.source %}
+
+		{% assign paginator__posts = content__elements %}
+		{% assign content__elements = null %}
+
+	{% endunless %}
+
+### Calculate total source elements
+
+	{% assign paginator__total_posts = paginator__posts | size %}
+
+### Find out current page
+
+	{% if page.current_page %}
+		{% assign paginator__page = page.current_page %}
+	{% else %}
+		{% assign paginator__page = 1 %}
+	{% endif %}
+
+### Find out elements per page
+
+	{% if page.paginator.per_page %}
+		{% assign paginator__per_page = page.paginator.per_page %}
+	{% elsif site.paginate %}
+		{% assign paginator__per_page = site.paginate %}
+	{% else %}
+		{% assign paginator__per_page = paginator__total_posts %}
+	{% endif %}
+
+### Calculate total pages
+
+	{% if paginator__total_posts > 0 and paginator__per_page > 0 %}
+		{% assign paginator__total_pages = paginator__total_posts | divided_by: paginator__per_page %}
+		{% assign tmp = paginator__total_posts | modulo: paginator__per_page %}
+		{% if tmp > 0 %}
+			{% assign paginator__total_pages = paginator__total_pages | plus: 1 %}
+		{% endif %}
+		{% assign tmp = null %}
+	{% elsif paginator__total_posts > 0 %}
+		{% assign paginator__total_pages = 1 %}
+	{% else %}
+		{% assign paginator__total_pages = 0 %}
+	{% endif %}
+
+### Calculate previous page
+
+	{% unless paginator__page > paginator__total_pages %}
+		{% if paginator__page == 2%}
+			{% assign paginator__previous_page      = 1 %}
+			{% assign paginator__previous_page_path = page.paginator.path_first %}
+		{% elsif paginator__page > 2 %}
+			{% assign paginator__previous_page      = page.current_page | minus: 1 %}
+			{% assign paginator__previous_page_path = page.paginator.path | replace: ':num', paginator__previous_page %}
+		{% endif %}
+	{% endunless %}
+
+### Calculate previous page
+
+	{% if paginator__total_pages > paginator__page %}
+		{% assign paginator__next_page      = paginator__page | plus: 1 %}
+		{% assign paginator__next_page_path = page.paginator.path | replace: ':num', paginator__next_page %}
+	{% endif %}
+
+### Filter source elements in current page
+
+	{% assign first_index = paginator__page | minus: 1 | times: paginator__per_page %}
+	{% assign tmp = site.data.arrays.empty %}
+	{% for element in paginator__posts limit: paginator__per_page offset: first_index %}
+		{% assign tmp = tmp | push: element %}
+	{% endfor %}
+	{% assign paginator__posts = tmp %}
+	{% assign tmp = null %}
+
+{% endif %}
+
+---
+
+{% endcapture %}{% assign nothing = null %}

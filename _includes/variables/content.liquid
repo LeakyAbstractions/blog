@@ -1,0 +1,150 @@
+{% capture nothing %}
+
+# Content Retriever
+
+This script collects content from various sources and returns an array of elements.
+The elements can be pages, posts or both. They can also be filtered by categories or tags.
+
+The script receives these parameters:
+
+- `source`: A hash containing all the parameters
+- `content_type(s)`: Optional type (or list of types) to retrieve (`posts` or `pages`)
+- `category(ies)`: Optional category (or list of categories) to filter the elements
+- `tag(s)`: Optional tag (or list of tags) to filter the elements
+
+The resulting array is returned in a variable `content__elements`.
+
+## Input parameters
+
+- `source`: {{ include.source }}
+- `type`: {{ include.type }}
+- `types`: {{ include.types }}
+- `category`: {{ include.category }}
+- `categories`: {{ include.categories }}
+- `tag`: {{ include.tag }}
+- `tags`: {{ include.tags }}
+
+## Pluralize arrays
+
+{% if include.source %}
+
+	{% include variables/pluralized_array.liquid singular=include.source.type plural=include.source.types %}
+	{% assign content__types = pluralized_array %}
+
+	{% include variables/pluralized_array.liquid singular=include.source.category plural=include.source.categories %}
+	{% assign content__categories = pluralized_array %}
+
+	{% include variables/pluralized_array.liquid singular=include.source.tag plural=include.source.tags %}
+	{% assign content__tags = pluralized_array %}
+
+{% else %}
+
+	{% include variables/pluralized_array.liquid singular=include.type plural=include.types %}
+	{% assign content__types = pluralized_array %}
+
+	{% include variables/pluralized_array.liquid singular=include.category plural=include.categories %}
+	{% assign content__categories = pluralized_array %}
+
+	{% include variables/pluralized_array.liquid singular=include.tag plural=include.tags %}
+	{% assign content__tags = pluralized_array %}
+
+{% endif %}
+
+{% assign pluralized_array = null %}
+
+## Retrieve all elements
+
+{% for content_type in content__types %}
+
+	{% case content_type %}
+		{% when 'posts' %}
+
+## Retrieve all posts
+			{% assign tmp = site.posts %}
+
+		{% when 'pages' %}
+
+## Retrieve all pages
+			{% assign tmp = site.pages %}
+
+		{% else %}
+
+## Retrieve an empty list due to wrong type `{{ content_type }}`
+			{% assign tmp = site.data.arrays.empty %}
+
+	{% endcase %}
+
+	{% unless content__elements %}
+		{% assign content__elements = tmp %}
+	{% else %}
+		{% for element in tmp %}
+			{% assign content__elements = content__elements | push: element %}
+		{% endfor %}
+	{% endunless %}
+{% else %}
+
+## Retrieve all posts (no source type specified)
+
+	{% assign content__elements = site.posts %}
+
+{% endfor %}
+{% assign tmp = null %}
+
+{% if content__categories or content__tags %}
+
+## Filter source elements
+
+	{% assign tmp = site.data.arrays.empty %}
+	{% assign set = site.data.arrays.empty %}
+
+	{% for category in content__categories %}
+
+### Filter by category `{{ category }}`
+
+		{% for element in content__elements %}
+			{% if element.categories contains category %}
+
+				{% unless tmp contains element.url %}
+* Added element `{{ element.url }}`
+
+					{% assign tmp = tmp | push: element.url %}
+					{% assign set = set | push: element %}
+				{% endunless %}
+			{% endif %}
+		{% endfor %}
+	{% endfor %}
+
+	{% for tag in content__tags %}
+
+### Filter by tag `{{ tag }}`
+
+		{% for element in content__elements %}
+			{% if element.tags contains tag %}
+
+				{% unless tmp contains element.url %}
+* Added element `{{ element.url }}`
+
+					{% assign tmp = tmp | push: element.url %}
+					{% assign set = set | push: element %}
+				{% endunless %}
+			{% endif %}
+		{% endfor %}
+	{% endfor %}
+
+	{% assign content__elements = set %}
+	{% assign set = null %}
+	{% assign tmp = null %}
+
+{% else %}
+
+#### No category or tag to filter by
+
+{% endif %}
+
+{% assign content__types = null %}
+{% assign content__categories = null %}
+{% assign content__tags = null %}
+
+---
+
+{% endcapture %}{% assign nothing = null %}
