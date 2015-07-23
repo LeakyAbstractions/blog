@@ -18,7 +18,24 @@ github_username:  guillermocalvo
 markdown: kramdown
 
 #
-# pagination
+# Pagination
 #
 paginate: 10
 paginate_path: /archive/page/:num/
+
+#
+# Default values
+#
+defaults:
+  -
+    scope:
+      path: blog
+      type: posts
+    values:
+      layout: blog
+  -
+    scope:
+      path: quotes
+      type: posts
+    values:
+      layout: quote
