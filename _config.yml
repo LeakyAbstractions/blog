@@ -16,3 +16,9 @@ github_username:  guillermocalvo
 # Build settings
 #
 markdown: kramdown
+
+#
+# pagination
+#
+paginate: 10
+paginate_path: /archive/page/:num/
