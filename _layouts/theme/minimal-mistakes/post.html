@@ -1,37 +1,8 @@
-<!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
-<head>
-{% include theme/minimal-mistakes/_head.html %}
-</head>
+---
+layout: theme/minimal-mistakes/default
+layout_css_class: post
+---
 
-<body class="post">
-
-{% include theme/minimal-mistakes/_browser-upgrade.html %}
-
-{% include theme/minimal-mistakes/_navigation.html %}
-
-{% if page.image.feature %}
-  <div class="image-wrap">
-  <img src=
-    {% if page.image.feature contains 'http' %}
-      "{{ page.image.feature }}"
-    {% else %}
-      "{{ site.url }}/images/{{ page.image.feature }}"
-    {% endif %}
-  alt="{{ page.title }} feature image">
-  {% if page.image.credit %}
-    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
-  {% endif %}
-  </div><!-- /.image-wrap -->
-{% endif %}
-
-<div id="main" role="main">
-  <div class="article-author-side">
-    {% include theme/minimal-mistakes/_author-bio.html %}
-  </div>
   <article class="post">
     <div class="headline-wrap">
       {% if page.link %}
@@ -52,26 +23,3 @@
     <section id="disqus_thread"></section><!-- /#disqus_thread -->
   {% endif %}
   </article>
-</div><!-- /#main -->
-
-<div class="footer-wrap">
-  {% if site.related_posts.size > 0 %}
-  <div class="related-articles">
-  <h4>You might also enjoy <small class="pull-right">(<a href="{{ site.url }}/posts/">View all posts</a>)</small></h4>
-    <ul>
-    {% for post in site.related_posts limit:3 %}
-      <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-    {% endfor %}
-    </ul>
-    <hr />
-  </div><!-- /.related-articles -->
-  {% endif %}
-  <footer>
-    {% include theme/minimal-mistakes/_footer.html %}
-  </footer>
-</div><!-- /.footer-wrap -->
-
-{% include theme/minimal-mistakes/_scripts.html %}
-
-</body>
-</html>
