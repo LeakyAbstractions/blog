@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+- title: Blog
+  url: /blog/
+
+- title: Quotes
+  url: /quotes/page/
+
+- title: Archive
+  url: /archive/page/
