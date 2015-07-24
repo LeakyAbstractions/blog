@@ -6,11 +6,27 @@ description: >
   Personal blog of Guillermo about
   programming languages, compilers, interpreters, virtual machines
   and software engineering in general.
-email: guillermocalvo@yahoo.com
 baseurl:
 url:
-twitter_username: guillermonkey
-github_username:  guillermocalvo
+
+#
+# Site owner
+#
+owner:
+  name: Guillermo Calvo
+  avatar: guillermo.png
+  bio: Seeking the troof through programming.
+  email: guillermocalvo@yahoo.com
+  disqus-shortname: guillermocalvo-github-io
+  twitter: guillermonkey
+  google:
+    plus: GuillermoCalvo
+    analytics: UA-61670496-2
+    verify: google4b20f13f27a4818e.html
+  github: guillermocalvo
+  stackoverflow: 534374/guillermo
+  linkedin: guillermocalvo
+  tumblr: guillermonkey
 
 #
 # Build settings
