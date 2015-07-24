@@ -8,6 +8,9 @@ description: >
   and software engineering in general.
 baseurl:
 url:
+locale:
+  language: en
+  territory: us
 
 #
 # Site owner
