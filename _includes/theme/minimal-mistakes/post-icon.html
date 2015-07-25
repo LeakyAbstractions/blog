@@ -2,11 +2,11 @@
 
 {% if include.post.categories contains 'blog' %}
 
-	{% assign tmp = 'fa-pencil-square-o' %}
+	{% assign tmp = 'pencil-square-o' %}
 
 {% elsif include.post.categories contains 'quotes' %}
 
-	{% assign tmp = 'fa-quote-left' %}
+	{% assign tmp = 'quote-left' %}
 
 {% else %}
 
@@ -14,4 +14,4 @@
 
 {% endif %}
 
-{% endcapture %}{% assign nothing = null %}<i class="fa {{ tmp }}"></i>{% assign tmp = null %}
+{% endcapture %}{% assign nothing = null %}{% include theme/minimal-mistakes/icon.html id=tmp %}{% assign tmp = null %}
