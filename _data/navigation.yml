@@ -2,12 +2,16 @@
 
 - title: About
   url: /about/
+  icon: info-circle
 
 - title: Blog
   url: /blog/
+  icon: pencil-square-o
 
 - title: Quotes
   url: /quotes/page/
+  icon: quote-left
 
 - title: Archive
   url: /archive/page/
+  icon: archive
