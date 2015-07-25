@@ -1,0 +1,12 @@
+
+  {% capture current_year %}{{ include.post.date | date: '%Y' }}{% endcapture %}
+  {% if last_year != current_year %}
+    <h3>{{ current_year }}</h3>
+    {% assign last_year = current_year %}
+  {% endif %}
+    <article>
+      <h2>
+        {% include theme/minimal-mistakes/post-link.html post=post %}
+      </h2>
+      <div>{{ include.post.excerpt }}</div>
+    </article>
