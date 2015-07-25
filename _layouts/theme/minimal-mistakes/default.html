@@ -19,11 +19,17 @@
     {% if page.image.feature contains 'http' %}
       "{{ page.image.feature }}"
     {% else %}
-      "{{ site.url }}/images/{{ page.image.feature }}"
+      "{{ site.url }}/images/feature/{{ page.image.feature }}"
     {% endif %}
   alt="{{ page.title }} feature image">
-  {% if page.image.credit %}
-    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+  {% if page.image.caption or page.image.credit %}
+    <span class="image-caption">
+        {% if page.image.creditlink %}<a href="{{ page.image.creditlink }}">{% endif %}
+        {% if page.image.caption %}{{ page.image.caption }}{% endif %}
+        {% if page.image.caption and page.image.credit %}&ndash;{% endif %}
+        {% if page.image.credit %}Photo Credit: {{ page.image.credit }}{% endif %}
+		{% if page.image.creditlink %}</a>{% endif %}
+    </span>
   {% endif %}
   </div>
 {% endif %}
