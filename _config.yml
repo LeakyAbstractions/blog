@@ -2,10 +2,7 @@
 # Site settings
 #
 title: Simius Ex Machina
-description: >
-  Personal blog of Guillermo about
-  programming languages, compilers, interpreters, virtual machines
-  and software engineering in general.
+description: Personal blog of Guillermo about programming languages, compilers, interpreters, virtual machines and software engineering in general.
 baseurl:
 url:
 locale:
@@ -41,6 +38,13 @@ sass:
   sass_dir: _sass
   style: compressed
   deploy_style: compressed
+compress_html:
+  clippings: []
+  comments: []
+  endings: []
+  profile: false
+  ignore:
+    envs: [development]
 
 #
 # Pagination
