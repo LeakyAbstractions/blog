@@ -2,11 +2,14 @@
 layout: post
 title: Hello world!
 date: 2015-07-21 20:30:00
+modified: 2015-07-25 18:15:00
 categories: blog
 tags:
   - programming
   - hello-world
   - c
+image:
+  feature: hello-world.jpg
 ---
 
 Hello internet!

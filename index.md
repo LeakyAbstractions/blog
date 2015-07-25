@@ -1,5 +1,9 @@
 ---
 layout: home
+image:
+  feature: chimp.jpg
+  credit: International Fund for Animal Welfare
+  creditlink: https://www.flickr.com/photos/animalrescueblog/
 ---
 
 <div class="home">
