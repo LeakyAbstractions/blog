@@ -1,3 +1,6 @@
+---
+layout: compress
+---
 <!DOCTYPE html>
 <!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
@@ -72,9 +75,7 @@
 
                         {% if page.cv.projects.featured %}
                             <!-- FEATURED -->
-                          {% for url in page.cv.projects.featured %}
-                           {% for project in site.pages %}
-                            {% if project.url == url %}
+                          {% for project in page.cv.projects.featured %}
                             <div class="item featured text-center">
                                 <h3 class="title"><a href="{{ project.more.link }}" target="_blank">{{ project.title }}</a></h3>
                                {% if project.subtitle %}
@@ -95,18 +96,13 @@
                                 <a class="btn btn-cta-secondary" href="{{ project.more.link }}" target="_blank">{{ project.more.title }}</a>
                               {% endif %}
                             </div>
-                             {% break %}
-                            {% endif %}
-                           {% endfor %}
                           {% endfor %}
                             <hr class="divider" />
                         {% endif %}
 
                         {% if page.cv.projects.relevant %}
                             <!-- RELEVANT -->
-                          {% for url in page.cv.projects.relevant %}
-                           {% for project in site.pages %}
-                            {% if project.url == url %}
+                          {% for project in page.cv.projects.relevant %}
                             <div class="item row">
                                 <a class="col-md-4 col-sm-4 col-xs-12" href="{{ project.more.link }}" target="_blank">
                                   <img class="img-responsive project-image" src="{{ site.url }}{{ project.image }}" alt="" />
@@ -119,9 +115,6 @@
                                   {% endif %}
                                 </div>
                             </div>
-                             {% break %}
-                            {% endif %}
-                           {% endfor %}
                           {% endfor %}
                         {% endif %}
 
@@ -136,9 +129,7 @@
                     <div class="section-inner">
                         <h2 class="heading">{{ page.cv.projects.otherTitle }}</h2>
                         <div class="content">
-                          {% for url in page.cv.projects.other %}
-                           {% for project in site.pages %}
-                            {% if project.url == url %}
+                          {% for project in page.cv.projects.other %}
                             <div class="item">
                                 <h3 class="title"><a href="{{ project.more.link }}">{{ project.title }}</a>{% if project.label %} <span class="label label-theme">{{ project.label }}</span>{% endif %}</h3>
                                 <div class="summary">{{ project.content | markdownify }}</div>
@@ -146,9 +137,6 @@
                                 <p><a class="more-link" href="{{ project.more.link }}" target="_blank"><i class="fa fa-external-link"></i> {{ project.more.title }}</a></p>
                               {% endif %}
                             </div>
-                             {% break %}
-                            {% endif %}
-                           {% endfor %}
                           {% endfor %}
                           {% if page.cv.projects.more %}
                             <a class="btn btn-cta-secondary" href="{{ page.cv.projects.more.link }}">
@@ -169,9 +157,7 @@
                         <h2 class="heading">{{ page.cv.experiences.title }}</h2>
                         <div class="content">
 
-                          {% for url in page.cv.experiences.featured %}
-                           {% for experience in site.pages %}
-                            {% if experience.url == url %}
+                          {% for experience in page.cv.experiences.featured %}
                             <div class="item">
                                 <h3 class="title" id="{{ experience.name | remove: '.md' }}">
                                     {{ experience.position }} -
@@ -189,14 +175,9 @@
                                 </div>
                                 <hr>
                             </div>
-                             {% break %}
-                            {% endif %}
-                           {% endfor %}
                           {% endfor %}
 
-                          {% for url in page.cv.experiences.relevant %}
-                           {% for experience in site.pages %}
-                            {% if experience.url == url %}
+                          {% for experience in page.cv.experiences.relevant %}
                             <div class="relevant item">
                                 <h3 class="title" id="{{ experience.name | remove: '.md' }}">
                                     <span class="level-label" data-toggle="tooltip" data-placement="bottom" data-animation="true" title="{{ experience.content | strip_html }}">
@@ -213,9 +194,6 @@
                                   {% endfor %}
                                 </div>
                             </div>
-                             {% break %}
-                            {% endif %}
-                           {% endfor %}
                            {% if forloop.last %}
                             <hr>
                            {% endif  %}
@@ -338,9 +316,7 @@
                     <div class="section-inner">
                         <h2 class="heading">{{ page.cv.endorsements.title }}</h2>
                         <div class="content">
-                          {% for url in page.cv.endorsements.featured %}
-                           {% for endorsement in site.pages %}
-                            {% if endorsement.url == url %}
+                          {% for endorsement in page.cv.endorsements.featured %}
                             <div class="item">
                                 <blockquote class="quote">
                                     <div><i class="fa fa-quote-left" style="float: left;"></i>{{ endorsement.content | markdownify }}</div>
@@ -351,9 +327,6 @@
                                   {% if endorsement.link %}</a>{% endif %}
                                 </p>
                             </div>
-                             {% break %}
-                            {% endif  %}
-                           {% endfor  %}
                           {% endfor  %}
                           {% if page.cv.endorsements.more %}
                             <p><a class="more-link" href="{{ page.cv.endorsements.more.link }}"><i class="fa fa-external-link"></i> {{ page.cv.endorsements.more.title }}</a></p>
@@ -405,4 +378,3 @@
     <script type="text/javascript" src="{{ site.url }}/assets/curriculum/main.js"></script>
 </body>
 </html>
-

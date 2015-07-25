@@ -226,11 +226,18 @@ iframe {
             margin-bottom: 30px;
             color: $color;
         }
-        img {
-            margin-bottom: 30px;
+        .featured-image {
+            img {
+                margin-bottom: 30px;
+            }
         }
         .desc {
             margin-bottom: 30px;
+            img {
+                width: 100%;
+                padding-left: 4em;
+                padding-right: 4em;
+			}
         }
     }
     .featured-image {
@@ -333,7 +340,7 @@ iframe {
     }
     .relevant {
         margin-bottom: 0;
-	}
+    }
 }
 
 /* Git section */
@@ -549,7 +556,7 @@ iframe {
         &:last-child {
           margin-bottom: 0;
         }
-	}
+    }
 }
 
 /* List section */
