@@ -52,12 +52,20 @@ defaults:
       type: posts
     values:
       layout: blog
+      comments: true
   -
     scope:
       path: quotes
       type: posts
     values:
       layout: quote
+      history: false
+      comments: true
+      image:
+        feature: ada-lovelace.jpg
+        caption: Portrait of Ada Lovelace
+        credit: Science & Society Picture Library
+        creditlink: http://www.scienceandsociety.co.uk/results.asp?image=10312035
   -
     scope:
       path: quotes/page
@@ -65,6 +73,11 @@ defaults:
     values:
       title: Programming Quotes
       layout: listing
+      image:
+        feature: ada-lovelace.jpg
+        caption: Portrait of Ada Lovelace
+        credit: Science & Society Picture Library
+        creditlink: http://www.scienceandsociety.co.uk/results.asp?image=10312035
       listing:
         include_file: listing-quotes.html
         source:
