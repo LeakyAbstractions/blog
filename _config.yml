@@ -34,7 +34,13 @@ owner:
 #
 # Build settings
 #
+permalink:   /:categories/:year/:month/:day/:title.html
 markdown: kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+  deploy_style: compressed
 
 #
 # Pagination
