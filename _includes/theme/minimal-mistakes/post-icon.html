@@ -1,0 +1,17 @@
+{% capture nothing %}
+
+{% if include.post.categories contains 'blog' %}
+
+	{% assign tmp = 'fa-pencil-square-o' %}
+
+{% elsif include.post.categories contains 'quotes' %}
+
+	{% assign tmp = 'fa-quote-left' %}
+
+{% else %}
+
+	{% assign tmp = 'file-text' %}
+
+{% endif %}
+
+{% endcapture %}{% assign nothing = null %}<i class="fa {{ tmp }}"></i>{% assign tmp = null %}

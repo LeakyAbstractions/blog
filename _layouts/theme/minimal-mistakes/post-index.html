@@ -1,28 +1,21 @@
 ---
 layout: theme/minimal-mistakes/default
 layout_css_class: post-index
-omit_related_posts: false
+omit_related_posts: true
 ---
+
+{{ content }}
+
+{% include variables/listing.liquid %}
+
+{% if page.listing.navigation.top %}{% if paginator or page.paginator %}{% include theme/minimal-mistakes/paginator-navigation.html %}{% endif %}{% endif %}
 
   <div id="index">
     <h1>{{ page.title }}</h1>
-    {% for post in site.posts %}
-    {% unless post.next %}
-      <h3>{{ post.date | date: '%Y' }}</h3>
-      {% else %}
-        {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-        {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-        {% if year != nyear %}
-          <h3>{{ post.date | date: '%Y' }}</h3>
-        {% endif %}
-      {% endunless %}
-      <article>
-        {% if post.link %}
-          <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
-        {% else %}
-          <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-          <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-        {% endif %}
-      </article>
-    {% endfor %}
+{% for post in listing__elements %}
+  {% include theme/minimal-mistakes/{{ page.listing.include_file }} post=post %}
+{% endfor %}
   </div>
+
+{% if page.listing.navigation.bottom %}{% if paginator or page.paginator %}{% include theme/minimal-mistakes/paginator-navigation.html %}{% endif %}{% endif %}
+
