@@ -18,7 +18,7 @@ layout: compress
 
 {% if page.image.feature %}
   <div class="image-wrap">
-  <img src= "{% include link.html url=page.image.feature %}" alt="{{ page.title }} feature image">
+  <img src="{% include link.html prepend='/images/feature/' url=page.image.feature %}" alt="{{ page.image.caption }}">
   {% if page.image.caption or page.image.credit %}
     <span class="image-credit">
         {% if page.image.creditlink %}<a href="{{ page.image.creditlink }}">{% endif %}
