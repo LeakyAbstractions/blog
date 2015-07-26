@@ -3,7 +3,6 @@ title: A C program
 tumblr: http://guillermonkey.tumblr.com/post/3281978831
 tags:
   - c
-  - criticism
 quote:
   author: Waldi Ravens
 ---

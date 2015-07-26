@@ -3,6 +3,7 @@ title: Good and great programmers
 tumblr: http://guillermonkey.tumblr.com/post/3142605170
 tags:
   - programming
+  - programmers
 quote:
   author: Anonymous
   link: http://www.codinghorror.com/blog/2004/12/never-design-what-you-can-steal.html

@@ -2,7 +2,6 @@
 title: The mythical man-month
 tumblr: http://guillermonkey.tumblr.com/post/3283493270
 tags:
-  - criticism
   - failure
   - manpower
   - software

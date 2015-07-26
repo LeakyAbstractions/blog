@@ -6,7 +6,6 @@ tags:
   - fortran
   - c
   - ada
-  - criticism
 quote:
   author: Ron Sercely
 ---

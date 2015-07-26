@@ -9,4 +9,4 @@ quote:
   author: Derek Sivers
 ---
 
-Fish don't know they're in water
+Fish don’t know they’re in water

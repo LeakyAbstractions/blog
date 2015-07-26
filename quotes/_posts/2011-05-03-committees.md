@@ -3,7 +3,6 @@ title: Committees
 tumblr: http://guillermonkey.tumblr.com/post/5169365429
 tags:
   - committees
-  - criticism
 quote:
   author: Sir Alec Issigonis
 ---

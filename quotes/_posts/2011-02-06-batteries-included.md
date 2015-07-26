@@ -9,4 +9,4 @@ quote:
   author: Dennis M. Ritchie
 ---
 
-A language that doesn't have everything is actually easier to program in than some that do.
+A language that doesn’t have everything is actually easier to program in than some that do.

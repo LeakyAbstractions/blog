@@ -3,7 +3,6 @@ title: Chaotic XML
 tumblr: http://guillermonkey.tumblr.com/post/3142971075
 tags:
   - xml
-  - criticism
 quote:
   author: Sarkos@reddit
 ---

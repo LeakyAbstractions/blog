@@ -6,7 +6,6 @@ tags:
   - errors
   - software
   - reliability
-  - criticism
 quote:
   author: Mitch Ratliffe
 ---

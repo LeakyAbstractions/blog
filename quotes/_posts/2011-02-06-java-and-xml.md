@@ -5,7 +5,6 @@ tags:
   - java
   - programming
   - xml
-  - criticism
 quote:
   author: Scott Bellware
 ---

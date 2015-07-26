@@ -2,6 +2,7 @@
 title: Complexity and maintainability
 tumblr: http://guillermonkey.tumblr.com/post/3290927192
 tags:
+  - programming
   - complexity
   - maintaining
   - programmers

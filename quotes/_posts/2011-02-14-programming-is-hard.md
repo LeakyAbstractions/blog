@@ -10,4 +10,4 @@ quote:
   link: http://snowclones.org/2008/02/19/x-is-hard-let%E2%80%99s-go-shopping/
 ---
 
-Programming is hard, let's go shopping.
+Programming is hard, let’s go shopping.

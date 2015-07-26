@@ -10,4 +10,4 @@ quote:
   author: David Wheeler
 ---
 
-Compatibility means deliberately repeating other people's mistakes.
+Compatibility means deliberately repeating other people’s mistakes.

@@ -5,7 +5,6 @@ tags:
   - failure
   - software
   - users
-  - criticism
 quote:
   author: Nathan Myhrvold
 ---

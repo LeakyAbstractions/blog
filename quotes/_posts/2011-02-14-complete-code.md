@@ -10,4 +10,4 @@ quote:
   author: null
 ---
 
-The code is 100% complete, it just doesn't work yet.
+The code is 100% complete, it just doesn’t work yet.

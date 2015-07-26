@@ -5,7 +5,6 @@ tags:
   - concurrency
   - threads
   - signals
-  - criticism
 quote:
   author: Anthony Baxter
 ---

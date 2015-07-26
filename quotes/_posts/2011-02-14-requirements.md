@@ -10,4 +10,4 @@ quote:
   author: null
 ---
 
-Why don't you guys get to work coding while we work on the requirements?
+Why don’t you guys get to work coding while we work on the requirements?

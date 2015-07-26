@@ -3,7 +3,6 @@ title: A black art
 tumblr: http://guillermonkey.tumblr.com/post/3282120726
 tags:
   - computer-science
-  - criticism
   - joke
 quote:
   author: Bill Clinton

@@ -3,8 +3,8 @@ title: Object-oriented programming
 tumblr: http://guillermonkey.tumblr.com/post/3282649389
 tags:
   - c
-  - criticism
   - object-oriented
+  - programming
 quote:
   author: Alan Kay
 ---

@@ -3,7 +3,6 @@ title: Fixing problems
 tumblr: http://guillermonkey.tumblr.com/post/3253965711
 tags:
   - overengineering
-  - criticism
   - simplicity
 quote:
   author: Bram Cohen

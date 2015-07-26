@@ -5,7 +5,6 @@ tags:
   - failure
   - hardware
   - software
-  - criticism
 quote:
   author: Henry Petroski
 ---

@@ -8,4 +8,4 @@ quote:
   author: Gordon Bell
 ---
 
-The cheapest, fastest, and most reliable components are those that aren't there.
+The cheapest, fastest, and most reliable components are those that aren’t there.

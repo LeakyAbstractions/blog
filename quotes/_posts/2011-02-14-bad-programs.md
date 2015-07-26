@@ -3,7 +3,6 @@ title: Bad programs
 tumblr: http://guillermonkey.tumblr.com/post/3290313030
 tags:
   - c
-  - criticism
   - programming-languages
   - failure
   - bad-programs

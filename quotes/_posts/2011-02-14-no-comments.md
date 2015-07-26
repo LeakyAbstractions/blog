@@ -10,4 +10,4 @@ quote:
   author: null
 ---
 
-Real programmers don't comment their code. If it was hard to *write*, it should be hard to *understand*.
+Real programmers don’t comment their code. If it was hard to *write*, it should be hard to *understand*.

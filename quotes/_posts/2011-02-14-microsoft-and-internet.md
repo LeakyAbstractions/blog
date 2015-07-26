@@ -3,7 +3,6 @@ title: Microsoft and internet
 tumblr: http://guillermonkey.tumblr.com/post/3283560377
 tags:
   - microsoft
-  - criticism
   - proprietary-software
   - html
 quote:

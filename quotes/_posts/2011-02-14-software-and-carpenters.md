@@ -3,7 +3,6 @@ title: Software and carpenters
 tumblr: http://guillermonkey.tumblr.com/post/3283185246
 tags:
   - programmers
-  - criticism
   - software
   - failure
 quote:

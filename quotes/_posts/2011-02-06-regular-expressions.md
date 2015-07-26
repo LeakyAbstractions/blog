@@ -4,9 +4,8 @@ tumblr: http://guillermonkey.tumblr.com/post/3142711225
 tags:
   - programming
   - regular-expressions
-  - criticism
 quote:
   author: Jamie Zawinski
 ---
 
-Some people, when confronted with a problem, think: "I know, I'll use regular expressions". Now they have two problems.
+Some people, when confronted with a problem, think: «I know, I’ll use regular expressions». Now they have two problems.

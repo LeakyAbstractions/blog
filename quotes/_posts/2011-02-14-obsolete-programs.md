@@ -2,6 +2,7 @@
 title: Obsolete programs
 tumblr: http://guillermonkey.tumblr.com/post/3290897069
 tags:
+  - programming
   - obsolescence
   - software
   - laws

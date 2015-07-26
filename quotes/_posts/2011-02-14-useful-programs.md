@@ -2,6 +2,7 @@
 title: Useful programs
 tumblr: http://guillermonkey.tumblr.com/post/3290907262
 tags:
+  - programming
   - software
   - specifications
   - laws

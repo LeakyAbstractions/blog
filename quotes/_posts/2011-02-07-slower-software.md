@@ -7,7 +7,7 @@ tags:
   - performance
 quote:
   author: Niklaus Wirth
-  caption: Wirth's law
+  caption: Wirth’s law
   link: https://en.wikipedia.org/wiki/Wirth%27s_law
 ---
 

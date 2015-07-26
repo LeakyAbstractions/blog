@@ -4,6 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3282907581
 tags:
   - computer-science
   - teamwork
+  - art
 quote:
   author: Donald Knuth
 ---

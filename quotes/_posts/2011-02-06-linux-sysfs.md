@@ -8,4 +8,4 @@ quote:
   author: Charles Forsyth
 ---
 
-I've wondered whether Linux sysfs should be called syphilis.
+I’ve wondered whether Linux sysfs should be called syphilis.

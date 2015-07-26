@@ -4,7 +4,6 @@ tumblr: http://guillermonkey.tumblr.com/post/3142937453
 tags:
   - overengineering
   - xml
-  - criticism
 quote:
   author: Phil Wadler
 ---

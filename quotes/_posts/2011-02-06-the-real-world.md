@@ -9,4 +9,4 @@ quote:
   author: Edsger W. Dijkstra
 ---
 
-Beware of «the real world». A speaker's apeal to it is always an invitation not to challenge his tacit assumptions.
+Beware of «the real world». A speaker’s apeal to it is always an invitation not to challenge his tacit assumptions.

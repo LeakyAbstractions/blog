@@ -9,4 +9,4 @@ quote:
   author: null
 ---
 
-The three C's of software engineering are: Communication, Communication and Communication. Projects hardly ever fail due to technical problems.
+The three C’s of software engineering are: Communication, Communication and Communication. Projects hardly ever fail due to technical problems.

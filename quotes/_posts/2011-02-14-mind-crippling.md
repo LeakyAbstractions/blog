@@ -3,7 +3,6 @@ title: Mind crippling
 tumblr: http://guillermonkey.tumblr.com/post/3282136883
 tags:
   - cobol
-  - criticism
 quote:
   author: Edsger W. Dijkstra
 ---

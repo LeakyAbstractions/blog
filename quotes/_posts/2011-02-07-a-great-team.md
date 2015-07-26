@@ -9,4 +9,4 @@ quote:
   author: Jim McCarthy
 ---
 
-You can't have great software without a great team, and most software teams behave like dysfunctional families.
+You can’t have great software without a great team, and most software teams behave like dysfunctional families.

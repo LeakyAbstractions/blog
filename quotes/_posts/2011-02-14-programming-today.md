@@ -4,7 +4,6 @@ tumblr: http://guillermonkey.tumblr.com/post/3281902744
 tags:
   - software
   - users
-  - criticism
   - programmers
   - failure
 quote:

@@ -5,7 +5,6 @@ tags:
   - arrogance
   - computer-science
   - dijkstra
-  - criticism
 quote:
   author: Alan Kay
 ---

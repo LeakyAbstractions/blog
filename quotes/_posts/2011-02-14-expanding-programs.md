@@ -2,6 +2,7 @@
 title: Expanding programs
 tumblr: http://guillermonkey.tumblr.com/post/3290917650
 tags:
+  - programming
   - memory
   - performance
   - software

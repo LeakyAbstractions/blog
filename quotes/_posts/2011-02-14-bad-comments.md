@@ -9,4 +9,4 @@ quote:
   author: null
 ---
 
-Bad comments are like bad sex. It may not be great, but it's better than nothing at all.
+Bad comments are like bad sex. It may not be great, but it’s better than nothing at all.

@@ -9,4 +9,4 @@ quote:
   link: http://genius.cat-v.org/rob-pike/
 ---
 
-When there is no type hierarchy, you don't have to manage the type hierarchy.
+When there is no type hierarchy, you don’t have to manage the type hierarchy.

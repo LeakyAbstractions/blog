@@ -7,7 +7,7 @@ tags:
   - failure
 quote:
   author: Mosher
-  caption: Mosher's Law of Software Engineering
+  caption: Mosher’s Law of Software Engineering
 ---
 
-Don't worry if it doesn't work right. If everything did, you'd be out of a job.
+Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.

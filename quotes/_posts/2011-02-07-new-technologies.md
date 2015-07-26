@@ -8,4 +8,4 @@ quote:
   author: Stewart Brand
 ---
 
-Once a new technology starts rolling, if you're not part of the steamroller, you're part of the road.
+Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.

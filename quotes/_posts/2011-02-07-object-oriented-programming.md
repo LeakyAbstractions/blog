@@ -4,7 +4,6 @@ tumblr: http://guillermonkey.tumblr.com/post/3163162465
 tags:
   - object-oriented
   - programming
-  - criticism
 quote:
   author: Richard Mansfield
 ---

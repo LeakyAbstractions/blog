@@ -8,4 +8,4 @@ quote:
   author: null
 ---
 
-If it works, it's obsolete.
+If it works, it’s obsolete.

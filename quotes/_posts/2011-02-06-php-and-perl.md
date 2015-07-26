@@ -5,7 +5,6 @@ tags:
   - perl
   - php
   - programming-languages
-  - criticism
 quote:
   author: Jon Ribbens
 ---

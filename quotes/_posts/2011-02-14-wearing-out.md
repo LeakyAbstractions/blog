@@ -4,7 +4,6 @@ tumblr: http://guillermonkey.tumblr.com/post/3283219616
 tags:
   - software
   - programmers
-  - criticism
 quote:
   author: null
 ---

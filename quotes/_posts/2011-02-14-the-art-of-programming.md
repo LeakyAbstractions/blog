@@ -4,6 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3290687580
 tags:
   - programming
   - computer-science
+  - art
   - ingenuity
 quote:
   author: null

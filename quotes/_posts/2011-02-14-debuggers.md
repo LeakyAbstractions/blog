@@ -3,7 +3,6 @@ title: Debuggers
 tumblr: http://guillermonkey.tumblr.com/post/3290353962
 tags:
   - programmers
-  - criticism
   - debugging
   - bugs
 quote:
