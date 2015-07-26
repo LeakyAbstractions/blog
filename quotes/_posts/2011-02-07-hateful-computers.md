@@ -5,7 +5,7 @@ tags:
   - computers
   - users
   - programmers
-  - failure
+  - hate
 quote:
   authors:
     - Larry Niven

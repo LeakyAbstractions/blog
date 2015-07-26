@@ -4,7 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3143782219
 tags:
   - elegance
   - performance
-  - special-cases
+  - corner-cases
 quote:
   authors:
     - Jon Bentley

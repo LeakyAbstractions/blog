@@ -3,7 +3,7 @@ title: Doing lots of things
 tumblr: http://guillermonkey.tumblr.com/post/3162914255
 tags:
   - computers
-  - failure
+  - purpose
 quote:
   author: Andy Rooney
 ---

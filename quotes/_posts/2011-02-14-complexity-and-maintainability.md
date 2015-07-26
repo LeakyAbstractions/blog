@@ -4,7 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3290927192
 tags:
   - programming
   - complexity
-  - maintaining
+  - maintainability
   - programmers
   - software
   - laws

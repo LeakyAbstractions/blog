@@ -5,7 +5,6 @@ tags:
   - software
   - brute-force
   - integrity
-  - failure
   - technical-debt
 quote:
   author: Alan Kay

@@ -6,12 +6,12 @@ tags:
   - bugs
   - complexity
   - documentation
-  - failure
   - laws
   - manpower
   - obsolescence
   - performance
   - programmers
+  - maintainability
   - testing
 quote:
   author: null

@@ -4,7 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3283185246
 tags:
   - programmers
   - software
-  - failure
+  - bugs
 quote:
   author: null
 ---

@@ -5,7 +5,6 @@ tags:
   - programming
   - requirements
   - understanding
-  - failure
 quote:
   author: null
 ---

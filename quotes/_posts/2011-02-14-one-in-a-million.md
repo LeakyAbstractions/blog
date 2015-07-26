@@ -4,9 +4,8 @@ tumblr: http://guillermonkey.tumblr.com/post/3293296756
 tags:
   - software
   - assumptions
-  - failure
   - programming
-  - special-cases
+  - corner-cases
 quote:
   author: Gordon Letwin
 ---

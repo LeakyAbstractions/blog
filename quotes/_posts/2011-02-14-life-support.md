@@ -4,7 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3290466700
 tags:
   - programming
   - bugs
-  - maintaining
+  - maintainability
   - software
 quote:
   author: null

@@ -3,7 +3,6 @@ title: User-friendliness
 tumblr: http://guillermonkey.tumblr.com/post/3144201044
 tags:
   - programmers
-  - failure
   - user-friendly
 quote:
   author: yiyus@reddit

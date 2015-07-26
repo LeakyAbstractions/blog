@@ -7,4 +7,4 @@ quote:
   author: Philippe Laurens
 ---
 
-...I understand. But, in the end, we are not shipping *your best effort*, we are shipping *a game*.
+…I understand. But, in the end, we are not shipping *your best effort*; we are shipping *a game*.

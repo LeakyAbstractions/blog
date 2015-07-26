@@ -4,7 +4,6 @@ tumblr: http://guillermonkey.tumblr.com/post/3155373497
 tags:
   - software
   - performance
-  - failure
   - memory
 quote:
   author: Larry Gleason

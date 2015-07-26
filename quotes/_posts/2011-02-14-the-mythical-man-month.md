@@ -2,10 +2,8 @@
 title: The mythical man-month
 tumblr: http://guillermonkey.tumblr.com/post/3283493270
 tags:
-  - failure
   - manpower
   - software
-  - law
 quote:
   author: Fred Brooks
   context: The Mythical Man-Month

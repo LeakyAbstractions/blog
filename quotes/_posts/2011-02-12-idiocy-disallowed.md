@@ -4,7 +4,6 @@ tumblr: http://guillermonkey.tumblr.com/post/3254346502
 tags:
   - programming-languages
   - design
-  - failure
 quote:
   author: Rob Pike
 ---

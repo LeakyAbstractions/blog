@@ -4,7 +4,6 @@ tumblr: http://guillermonkey.tumblr.com/post/3161809171
 tags:
   - accuracy
   - understanding
-  - failure
 quote:
   author: John von Neumann
 ---

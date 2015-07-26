@@ -4,7 +4,6 @@ tumblr: http://guillermonkey.tumblr.com/post/3292836806
 tags:
   - software
   - assumptions
-  - failure
   - problems
 quote:
   author: Notch

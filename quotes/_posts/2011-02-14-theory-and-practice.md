@@ -4,7 +4,6 @@ tumblr: http://guillermonkey.tumblr.com/post/3282521924
 tags:
   - theory
   - practice
-  - failure
 quote:
   author: Yogi Berra
 ---

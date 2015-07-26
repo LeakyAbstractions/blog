@@ -6,7 +6,7 @@ tags:
   - science
   - art
   - programmers
-  - readability
+  - maintainability
 quote:
   author: Jason Gorman
   link: http://twitter.com/#!/jasongorman/status/24765422787

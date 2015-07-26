@@ -5,7 +5,6 @@ tags:
   - project-management
   - engineering
   - software
-  - failure
   - speed
   - quality
   - price

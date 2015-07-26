@@ -4,7 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3254292139
 tags:
   - computer-science
   - complexity
-  - failure
+  - overengineering
 quote:
   author: Rob Pike
 ---

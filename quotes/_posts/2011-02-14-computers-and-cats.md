@@ -5,7 +5,6 @@ tags:
   - computers
   - randomness
   - reliability
-  - failure
 quote:
   author: EMCIC
 ---

@@ -3,7 +3,7 @@ title: Making the world a better place
 tumblr: http://guillermonkey.tumblr.com/post/3142987337
 tags:
   - computers
-  - failure
+  - politics
 quote:
   author: Mr. Borogove
 ---

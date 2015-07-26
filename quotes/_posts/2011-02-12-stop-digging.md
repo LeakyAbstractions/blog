@@ -2,9 +2,9 @@
 title: Stop digging
 tumblr: http://guillermonkey.tumblr.com/post/3254333340
 tags:
-  - real-world
   - software
-  - failure
+  - complexity
+  - dead-end
 quote:
   author: Ron Minnich
 ---

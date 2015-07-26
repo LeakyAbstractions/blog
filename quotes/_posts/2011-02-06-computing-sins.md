@@ -6,7 +6,6 @@ tags:
   - optimization
   - efficiency
   - performance
-  - failure
 quote:
   author: William A. Wulf
 ---

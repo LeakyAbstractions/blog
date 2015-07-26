@@ -5,6 +5,7 @@ tags:
   - not-invented-here
   - reusability
   - technical-debt
+  - maintainability
 quote:
   author: Richard Feynman
 ---

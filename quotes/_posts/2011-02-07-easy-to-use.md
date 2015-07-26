@@ -5,7 +5,6 @@ tags:
   - technology
   - computers
   - phones
-  - failure
   - complexity
 quote:
   author: Bjarne Stroustrup
