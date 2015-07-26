@@ -5,7 +5,6 @@ tags:
   - sgi
   - windows-nt
   - design
-  - failure
 quote:
   author: Alexander Viro
 ---

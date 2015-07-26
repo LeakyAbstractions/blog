@@ -4,7 +4,6 @@ tumblr: http://guillermonkey.tumblr.com/post/3161525182
 tags:
   - teamwork
   - software
-  - failure
 quote:
   author: Jim McCarthy
 ---

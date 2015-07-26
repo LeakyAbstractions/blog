@@ -3,7 +3,6 @@ title: Any idiot could write it
 tumblr: http://guillermonkey.tumblr.com/post/3254016351
 tags:
   - software
-  - failure
   - programmers
   - reliability
 quote:

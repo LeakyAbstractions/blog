@@ -4,7 +4,6 @@ tumblr: http://guillermonkey.tumblr.com/post/3293027217
 tags:
   - software
   - reliability
-  - failure
   - complexity
 quote:
   author: Geer et al.

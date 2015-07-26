@@ -5,7 +5,7 @@ tags:
   - documentation
   - source-code
   - comments
-  - failure
+  - obsolescence
   - programming
 quote:
   author: null

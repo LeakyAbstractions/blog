@@ -4,7 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3282824066
 tags:
   - software
   - analysis
-  - failure
+  - success
 quote:
   author: Tom DeMarco
 ---

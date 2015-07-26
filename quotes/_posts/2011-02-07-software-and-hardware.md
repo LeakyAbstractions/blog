@@ -2,9 +2,9 @@
 title: Software and hardware
 tumblr: http://guillermonkey.tumblr.com/post/3155172842
 tags:
-  - failure
   - hardware
   - software
+  - performance
 quote:
   author: Henry Petroski
 ---

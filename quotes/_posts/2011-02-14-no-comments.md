@@ -4,6 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3291334009
 tags:
   - programmers
   - source-code
+  - maintainability
   - comments
   - joke
 quote:

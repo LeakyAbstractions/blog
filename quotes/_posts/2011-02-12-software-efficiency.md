@@ -4,7 +4,6 @@ tumblr: http://guillermonkey.tumblr.com/post/3254253747
 tags:
   - software
   - performance
-  - failure
   - hardware
 quote:
   author: David May

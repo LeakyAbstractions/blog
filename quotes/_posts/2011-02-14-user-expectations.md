@@ -7,7 +7,6 @@ tags:
   - business
   - users
   - expectations
-  - failure
 quote:
   author: Esther Schindler
 ---

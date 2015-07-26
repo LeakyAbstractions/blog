@@ -3,8 +3,8 @@ title: Bad programs
 tumblr: http://guillermonkey.tumblr.com/post/3290313030
 tags:
   - c
+  - programming
   - programming-languages
-  - failure
   - bad-programs
 quote:
   author: null

@@ -3,7 +3,6 @@ title: Not necessarily a good idea
 tumblr: http://guillermonkey.tumblr.com/post/3143364183
 tags:
   - overengineering
-  - failure
   - randomness
 quote:
   author: R. Callon

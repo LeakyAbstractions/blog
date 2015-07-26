@@ -4,7 +4,8 @@ tumblr: http://guillermonkey.tumblr.com/post/3282055396
 tags:
   - software
   - programmers
-  - failure
+  - reliability
+  - bugs
 quote:
   author: Mosher
   caption: Mosher’s Law of Software Engineering

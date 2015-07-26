@@ -7,7 +7,6 @@ tags:
   - computer-science
   - programming-languages
   - turing-complete
-  - failure
 quote:
   author: Alan Perlis
 ---

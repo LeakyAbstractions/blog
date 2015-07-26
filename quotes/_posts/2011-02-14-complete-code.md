@@ -4,7 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3283295064
 tags:
   - programming
   - source-code
-  - failure
+  - bugs
   - testing
 quote:
   author: null

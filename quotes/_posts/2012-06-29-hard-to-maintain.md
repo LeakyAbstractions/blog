@@ -4,7 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/26169169113
 tags:
   - coding-standards
   - technical-debt
-  - maintaining
+  - maintainability
   - software
   - crap-code
 quote:

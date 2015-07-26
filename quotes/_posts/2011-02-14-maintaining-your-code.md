@@ -4,7 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3283121244
 tags:
   - programming
   - principles
-  - maintaining
+  - maintainability
 quote:
   author: Martin Golding
 ---

@@ -4,7 +4,6 @@ tumblr: http://guillermonkey.tumblr.com/post/3293314285
 tags:
   - software
   - reliability
-  - failure
 quote:
   author: Sam Redwine
 ---

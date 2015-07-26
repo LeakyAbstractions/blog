@@ -2,7 +2,6 @@
 title: Forward thinking
 tumblr: http://guillermonkey.tumblr.com/post/3293065049
 tags:
-  - failure
   - multics
   - overengineering
 quote:
