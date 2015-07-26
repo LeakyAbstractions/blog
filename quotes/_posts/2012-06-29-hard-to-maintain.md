@@ -6,7 +6,7 @@ tags:
   - technical-debt
   - maintainability
   - software
-  - crap-code
+  - bad-code
 quote:
   authors:
     - Nigel Jones
