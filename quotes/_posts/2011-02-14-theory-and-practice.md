@@ -9,4 +9,4 @@ quote:
   author: Yogi Berra
 ---
 
-In theory, theory and practice are the same. In practice, they're not.
+In theory, theory and practice are the same. In practice, they’re not.

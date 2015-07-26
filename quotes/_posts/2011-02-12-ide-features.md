@@ -5,7 +5,6 @@ tags:
   - programming-languages
   - ide
   - features
-  - criticism
 quote:
   author: Reg Braithwaite
 ---

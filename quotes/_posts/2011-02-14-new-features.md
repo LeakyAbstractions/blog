@@ -5,7 +5,6 @@ tags:
   - c
   - features
   - feature-bloat
-  - criticism
   - overengineering
   - complexity
 quote:

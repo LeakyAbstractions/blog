@@ -5,7 +5,6 @@ tags:
   - leaky-abstractions
   - overengineering
   - programming-languages
-  - criticism
 quote:
   author: Edsger W. Dijkstra
 ---

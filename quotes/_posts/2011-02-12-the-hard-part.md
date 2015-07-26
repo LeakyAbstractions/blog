@@ -9,4 +9,4 @@ quote:
   author: Paul Graham
 ---
 
-In programming, the hard part isn't solving problems, but deciding *what* problems to solve.
+In programming, the hard part isn’t solving problems, but deciding *what* problems to solve.

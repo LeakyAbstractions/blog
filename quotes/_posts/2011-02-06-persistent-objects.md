@@ -8,4 +8,4 @@ quote:
   author: Ken Thompson
 ---
 
-We have persistent objects, they're called files.
+We have persistent objects, they’re called files.

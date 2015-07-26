@@ -3,7 +3,6 @@ title: Run anywere
 tumblr: http://guillermonkey.tumblr.com/post/3291486524
 tags:
   - java
-  - criticism
   - portability
 quote:
   author: null

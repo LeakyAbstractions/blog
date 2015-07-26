@@ -8,4 +8,4 @@ quote:
   author: Edsger W. Dijkstra
 ---
 
-The computing scientist's main challenge is not to get confused by the complexities of his own making.
+The computing scientist’s main challenge is not to get confused by the complexities of his own making.

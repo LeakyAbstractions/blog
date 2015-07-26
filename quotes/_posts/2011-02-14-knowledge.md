@@ -5,6 +5,7 @@ tags:
   - computer-science
   - programming
   - knowledge
+  - art
 quote:
   author: Grace Hopper
 ---

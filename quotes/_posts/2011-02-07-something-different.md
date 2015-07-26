@@ -8,4 +8,4 @@ quote:
   author: null
 ---
 
-When you want to do something differently from the rest of the world, it's a good idea to look into whether the rest of the world knows something you don't.
+When you want to do something differently from the rest of the world, it’s a good idea to look into whether the rest of the world knows something you don’t.

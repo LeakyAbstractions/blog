@@ -3,9 +3,9 @@ title: Using Haskell
 tumblr: http://guillermonkey.tumblr.com/post/3254106767
 tags:
   - haskell
-  - criticism
   - optimization
   - complexity
+  - programming-languages
 quote:
   author: Mark Engelberg
 ---

@@ -9,4 +9,4 @@ quote:
   author: Chris Wenham
 ---
 
-Debugging time increases as a square of the program's size.
+Debugging time increases as a square of the program’s size.

@@ -4,7 +4,6 @@ tumblr: http://guillermonkey.tumblr.com/post/3283067341
 tags:
   - computers
   - users
-  - criticism
   - knowledge
 quote:
   author: Charles Babbage

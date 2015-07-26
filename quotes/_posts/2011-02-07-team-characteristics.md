@@ -10,4 +10,4 @@ quote:
     - Michele McCarthy
 ---
 
-If you want a product with certain characteristics, you must ensure that the team has those characteristics before the product's development.
+If you want a product with certain characteristics, you must ensure that the team has those characteristics before the product’s development.

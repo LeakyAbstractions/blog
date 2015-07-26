@@ -3,7 +3,7 @@ title: Violent XML
 tumblr: http://guillermonkey.tumblr.com/post/3142962230
 tags:
   - xml
-  - criticism
+  - brute-force
 quote:
   authors:
     - Aaron Patterson
@@ -13,8 +13,8 @@ quote:
     - Patrick Mahoney
     - Yoko Harada
     - Akinori MUSHA
-  context: nokogiri's README
+  context: nokogiri’s README
   link: http://www.nokogiri.org/
 ---
 
-XML is like violence: if it doesn't solve your problem, you aren't using enough of it.
+XML is like violence: if it doesn’t solve your problem, you aren’t using enough of it.

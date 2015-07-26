@@ -11,4 +11,4 @@ quote:
   author: null
 ---
 
-Constants aren't. Variables won't.
+Constants aren’t. Variables won’t.

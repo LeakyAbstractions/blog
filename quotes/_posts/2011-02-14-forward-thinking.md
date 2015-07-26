@@ -5,7 +5,6 @@ tags:
   - failure
   - multics
   - overengineering
-  - criticism
 quote:
   author: Erik Quanstrom
 ---

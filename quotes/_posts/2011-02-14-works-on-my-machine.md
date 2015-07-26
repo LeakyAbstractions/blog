@@ -9,4 +9,4 @@ quote:
   author: Vidiu Platon
 ---
 
-I don't care if it works on your machine! We are not shipping *your* machine!
+I don’t care if it works on your machine! We are not shipping *your* machine!

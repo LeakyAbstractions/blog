@@ -9,4 +9,4 @@ quote:
   author: null
 ---
 
-If we wanted *you* to understand it, we wouldn't call it ***code***.
+If we wanted *you* to understand it, we wouldn’t call it ***code***.

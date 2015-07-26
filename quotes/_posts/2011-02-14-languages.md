@@ -8,4 +8,4 @@ quote:
   author: Erik Naggum
 ---
 
-Languages shape the way we think, or don't.
+Languages shape the way we think, or don’t.

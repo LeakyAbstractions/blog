@@ -2,6 +2,7 @@
 title: Useless programs
 tumblr: http://guillermonkey.tumblr.com/post/3290913573
 tags:
+  - programming
   - documentation
   - software
   - laws

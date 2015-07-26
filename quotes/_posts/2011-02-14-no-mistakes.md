@@ -8,4 +8,4 @@ quote:
   author: null
 ---
 
-There are no *unitary tests* in our project because we **don't do mistakes** here.
+There are no *unitary tests* in our project because we **don’t do mistakes** here.

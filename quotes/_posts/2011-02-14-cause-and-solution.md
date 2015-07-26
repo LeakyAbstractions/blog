@@ -6,9 +6,8 @@ tags:
   - software
   - errors
   - users
-  - criticism
 quote:
   author: null
 ---
 
-I'm a programmer. People seem to think I can fix their computer problems. I guess they never wonder where those problems came from.
+I’m a programmer. People seem to think I can fix their computer problems. I guess they never wonder where those problems came from.

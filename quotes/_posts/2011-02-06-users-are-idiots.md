@@ -5,7 +5,6 @@ tags:
   - design
   - gnome
   - users
-  - criticism
 quote:
   author: Linus Torvalds
 ---

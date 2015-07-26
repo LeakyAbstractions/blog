@@ -4,7 +4,6 @@ tumblr: http://guillermonkey.tumblr.com/post/3144880548
 tags:
   - computers
   - programmers
-  - criticism
 quote:
   author: Bill Bryson
 ---

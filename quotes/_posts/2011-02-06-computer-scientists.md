@@ -7,4 +7,4 @@ quote:
   author: Richard Hamming
 ---
 
-Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
+Mathematicians stand on each others’ shoulders and computer scientists stand on each others’ toes.

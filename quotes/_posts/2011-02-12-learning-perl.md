@@ -3,7 +3,6 @@ title: Learning Perl
 tumblr: http://guillermonkey.tumblr.com/post/3254179610
 tags:
   - perl
-  - criticism
   - programming
   - learning
 quote:

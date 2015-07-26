@@ -8,7 +8,7 @@ tags:
   - hardware
 quote:
   author: David May
-  caption: May's Law
+  caption: May’s Law
 ---
 
-Software efficiency halves every 18 months, compensating Moore's Law.
+Software efficiency halves every 18 months, compensating Moore’s Law.

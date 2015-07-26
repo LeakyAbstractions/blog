@@ -2,6 +2,7 @@
 title: The 10 laws of computer programming
 tumblr: http://guillermonkey.tumblr.com/post/3290859368
 tags:
+  - programming
   - bugs
   - complexity
   - documentation
@@ -10,14 +11,12 @@ tags:
   - manpower
   - obsolescence
   - performance
-  - programming
+  - programmers
   - testing
 quote:
   author: null
   caption: Laws of Computer Programming
 ---
-
-The 10 Laws of Computer Programming:
 
 1. Any given program, when running, is obsolete.
 2. Any given program costs more and takes longer.

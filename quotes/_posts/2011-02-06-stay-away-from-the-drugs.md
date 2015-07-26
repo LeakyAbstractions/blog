@@ -10,4 +10,4 @@ quote:
   author: Alexander Viro
 ---
 
-In the same world where Vomit-Making System is elegant, SGI "designs" are and NT is The Wave Of Future™. Pardon me, but I'll stay in our universe and away from the drugs of such power.
+In the same world where Vomit-Making System is elegant, SGI «designs» are and NT is The Wave Of Future™. Pardon me, but I’ll stay in our universe and away from the drugs of such power.

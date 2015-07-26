@@ -4,6 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3142927116
 tags:
   - programming
   - data-structures
+  - programming-languages
 quote:
   author: R. Wm. Gosper
 ---

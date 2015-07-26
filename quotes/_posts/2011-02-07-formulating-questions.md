@@ -8,4 +8,4 @@ quote:
   author: Martin Fowler
 ---
 
-Comparing to another activity is useful if it helps you formulate questions, it's dangerous when you use it to justify answers.
+Comparing to another activity is useful if it helps you formulate questions, it’s dangerous when you use it to justify answers.

@@ -5,7 +5,6 @@ tags:
   - programming-languages
   - design
   - programmers
-  - criticism
 quote:
   author: Alan J. Perlis
 ---

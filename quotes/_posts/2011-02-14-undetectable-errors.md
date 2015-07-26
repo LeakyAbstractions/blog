@@ -2,6 +2,7 @@
 title: Undetectable errors
 tumblr: http://guillermonkey.tumblr.com/post/3290935452
 tags:
+  - programming
   - errors
   - software
   - testing

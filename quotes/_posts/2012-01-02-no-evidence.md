@@ -7,7 +7,7 @@ tags:
   - atheism
 quote:
   author: Hitchens
-  caption: Hitchens' Razor
+  caption: Hitchens’ Razor
 ---
 
 What can be asserted without evidence, can be dismissed without evidence.

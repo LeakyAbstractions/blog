@@ -11,4 +11,4 @@ quote:
   author: null
 ---
 
-If you don't have time to do it *right*, you better have time to do it *over*.
+If you don’t have time to do it *right*, you better have time to do it *over*.

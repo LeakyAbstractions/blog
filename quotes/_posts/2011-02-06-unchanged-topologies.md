@@ -9,4 +9,4 @@ quote:
   author: Peter Deutsch
 ---
 
-The fifth fallacy of distributed computing: Topology doesn't change.
+The fifth fallacy of distributed computing: Topology doesn’t change.

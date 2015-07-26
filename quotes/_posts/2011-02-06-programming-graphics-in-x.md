@@ -5,7 +5,6 @@ tags:
   - complexity
   - programming
   - xwindow
-  - criticism
 quote:
   author: Henry Spencer
 ---

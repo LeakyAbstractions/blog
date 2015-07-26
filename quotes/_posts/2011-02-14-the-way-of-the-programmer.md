@@ -6,6 +6,7 @@ tags:
   - learning
   - practice
   - programming
+  - programmers
   - theory
   - joy
 quote:

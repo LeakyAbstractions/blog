@@ -1,5 +1,5 @@
 ---
-title: A quality money can't just buy
+title: A quality money can’t just buy
 tumblr: http://guillermonkey.tumblr.com/post/3143443134
 tags:
   - software

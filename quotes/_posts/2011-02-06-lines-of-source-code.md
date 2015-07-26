@@ -5,6 +5,7 @@ tags:
   - software
   - metrics
   - source-code
+  - programming
 quote:
   author: Bill Gates
 ---

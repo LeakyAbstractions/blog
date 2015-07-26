@@ -5,7 +5,6 @@ tags:
   - computers
   - errors
   - users
-  - criticism
 quote:
   author: null
 ---

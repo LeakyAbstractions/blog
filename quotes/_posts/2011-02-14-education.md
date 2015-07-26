@@ -3,7 +3,6 @@ title: Education
 tumblr: http://guillermonkey.tumblr.com/post/3282001478
 tags:
   - computer-science
-  - criticism
   - programming
   - expertise
 quote:

@@ -8,4 +8,4 @@ quote:
   author: John Carmack
 ---
 
-If you're willing to restrict the flexibility of your approach, you can almost always do something better.
+If you’re willing to restrict the flexibility of your approach, you can almost always do something better.

@@ -3,6 +3,7 @@ title: Bad and good programmers
 tumblr: http://guillermonkey.tumblr.com/post/3155107006
 tags:
   - programming
+  - programmers
   - data-structures
 quote:
   author: Linus Torvalds

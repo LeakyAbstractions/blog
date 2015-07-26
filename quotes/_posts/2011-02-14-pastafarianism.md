@@ -9,4 +9,4 @@ quote:
   author: Roberto Waltman
 ---
 
-In the one and only true way, the object-oriented version of "Spaghetti code" is, of course, "Lasagna code" (too many layers).
+In the one and only true way, the object-oriented version of «Spaghetti code» is, of course, «Lasagna code» (too many layers).

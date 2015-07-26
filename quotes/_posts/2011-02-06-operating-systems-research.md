@@ -7,7 +7,6 @@ tags:
   - operating-systems
   - research
   - unix
-  - criticism
 quote:
   author: Dennis Ritchie
 ---

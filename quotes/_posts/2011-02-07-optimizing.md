@@ -5,9 +5,8 @@ tags:
   - programming
   - optimization
   - radicalism
-  - criticism
 quote:
   author: Donald Knuth
 ---
 
-You're bound to be unhappy if you optimize everything.
+You’re bound to be unhappy if you optimize everything.
