@@ -1,0 +1,28 @@
+---
+layout: theme/minimal-mistakes/default
+layout_css_class: post-index
+omit_related_posts: true
+---
+
+{% include variables/tags.liquid initial=page.tag_list %}
+
+  <div id="index">
+
+    <h1>Tags starting with «{{ page.tag_list | upcase }}»</h1>
+
+    {{ content }}
+
+{% for tag in site__tags %}
+
+    <h3 id="{{ tag | slugify }}">{{ tag }}</h3>
+	{% for post in site.tags[tag] %}
+		{% include theme/minimal-mistakes/listing-tags.html post=post %}
+	{% endfor %}
+
+{% else %}
+
+    No tags here yet.
+
+{% endfor %}
+
+  </div>

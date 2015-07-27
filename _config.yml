@@ -78,6 +78,17 @@ defaults:
         creditlink: http://www.scienceandsociety.co.uk/results.asp?image=10312035
   -
     scope:
+      path: tags
+      type: pages
+    values:
+      title: Tags
+      layout: tags
+      image:
+        feature: gift-tag.jpg
+        credit: Dennis van Zuijlekom
+        creditlink: https://www.flickr.com/photos/dvanzuijlekom/
+  -
+    scope:
       path: quotes/page
       type: pages
     values:
