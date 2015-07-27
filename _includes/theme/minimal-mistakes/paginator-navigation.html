@@ -1,11 +1,12 @@
 
+{% if paginator__previous_page_path or paginator__next_page_path %}
 <nav class="paginator-navigation">
 
   <div class="backward">
    {% if paginator__previous_page_path and paginator__previous_page %}
-    <a href="{{ paginator__previous_page_path }}">Page {{ paginator__previous_page }}</a>
+    <a class="btn" href="{{ paginator__previous_page_path }}"><i class="fa fa-backward"></i> {{ paginator__previous_page }}</a>
    {% elsif paginator__previous_page_path %}
-    <a href="{{ paginator__previous_page_path }}">Previous page</a>
+    <a class="btn" href="{{ paginator__previous_page_path }}"><i class="fa fa-backward"></i></a>
    {% else %}
     <span class="empty">No previous pages</span>
    {% endif %}
@@ -13,9 +14,9 @@
 
   <div class="info">
    {% if paginator__page and paginator__total_pages %}
-    Page: <span class="current_page">{{ paginator__page }}</span> of <span class="total_pages">{{ paginator__total_pages }}</span>
+    Page <span class="current_and_total"><span class="current_page">{{ paginator__page }}</span> of <span class="total_pages">{{ paginator__total_pages }}</span></span>
    {% elsif paginator__page %}
-    Page: <span class="current_page">{{ paginator__page }}</span>
+    Page <span class="current_page">{{ paginator__page }}</span>
    {% else %}
     <span class="empty">No current page</span>
    {% endif %}
@@ -23,12 +24,13 @@
 
   <div class="forward">
    {% if paginator__next_page_path and paginator__next_page %}
-    <a href="{{ paginator__next_page_path }}">Page {{ paginator__next_page }}</a>
+    <a class="btn" href="{{ paginator__next_page_path }}"><i class="fa fa-forward"></i> {{ paginator__next_page }}</a>
    {% elsif paginator__next_page_path %}
-    <a href="{{ paginator__next_page_path }}">Next page</a>
+    <a class="btn" href="{{ paginator__next_page_path }}"><i class="fa fa-forward"></i></a>
    {% else %}
-    <span class="empty">No more pages</span>
+    <span class="empty">No next pages</span>
    {% endif %}
   </div>
 
 </nav>
+{% endif %}
