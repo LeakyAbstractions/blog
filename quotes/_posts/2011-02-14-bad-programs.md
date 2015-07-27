@@ -5,7 +5,7 @@ tags:
   - c
   - programming
   - programming-languages
-  - bad-programs
+  - bad-code
 quote:
   author: null
 ---
