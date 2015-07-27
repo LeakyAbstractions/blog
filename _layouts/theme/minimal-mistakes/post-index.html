@@ -8,14 +8,16 @@ omit_related_posts: true
 
 {% include variables/listing.liquid %}
 
+  <div id="index">
+
+    <h1>{{ page.title }}</h1>
+
 {% if page.listing.navigation.top %}{% if paginator or page.paginator %}{% include theme/minimal-mistakes/paginator-navigation.html %}{% endif %}{% endif %}
 
-  <div id="index">
-    <h1>{{ page.title }}</h1>
 {% for post in listing__elements %}
   {% include theme/minimal-mistakes/{{ page.listing.include_file }} post=post %}
 {% endfor %}
-  </div>
 
 {% if page.listing.navigation.bottom %}{% if paginator or page.paginator %}{% include theme/minimal-mistakes/paginator-navigation.html %}{% endif %}{% endif %}
 
+  </div>
