@@ -1,0 +1,39 @@
+---
+layout: theme/minimal-mistakes/default
+layout_css_class: post-index
+omit_related_posts: true
+scripts:
+  - /assets/minimal-mistakes/js/plugins/jqcloud.min.js
+  - /assets/minimal-mistakes/js/tag-cloud.js
+styles:
+  - /assets/minimal-mistakes/css/tag-cloud.css
+---
+
+<div id="index">
+
+  <h1>{{ page.title }}</h1>
+
+  <div id="tag-cloud"></div>
+
+  <div>
+    {{ content }}
+  </div>
+
+{% include variables/tags.liquid %}
+
+{% for tag in site__tags %}
+ {% assign initial = tag | split: '' %}
+ {% assign initial = initial[0] %}
+ {% unless initial == last_initial %}
+  {% assign last_initial = initial %}
+  {% if last_initial %}</ul>{% endif %}
+
+  <h3><a href="{{ site.url }}/tags/{{ initial }}/">Tags starting with «{{ initial | upcase }}»</a></h3>
+  <ul class="tag-index">
+ {% endunless %}
+    <li><a href="{% include tag-link.html tag=tag %}"><i class="fa fa-tag"></i> {{ tag }}</a></li>
+{% endfor %}
+
+  </ul>
+
+</div>

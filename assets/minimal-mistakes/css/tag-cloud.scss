@@ -1,0 +1,98 @@
+---
+# Tag Cloud
+---
+
+div.jqcloud {
+
+	width: 100%;
+	height: 320px;
+	margin-bottom: 4em;
+	overflow: hidden;
+	position: relative;
+	line-height: normal;
+	font-weight: bolder;
+	font-family: "PT Serif", serif;
+	font-size: .6em;
+
+	a {
+		color: inherit;
+		font-size: inherit;
+		text-decoration: none;
+	}
+
+	a:hover {
+		text-shadow: 0 0 1.5em yellow;
+	}
+
+	span {
+		padding: 0;
+	}
+
+	span.w10{
+		font-size: 550%;
+		color: #9A0000;
+	}
+
+	span.w9 {
+		font-size: 500%;
+		color: #9A0000;
+	}
+
+	span.w8 {
+		font-size: 450%;
+		color: #A81414;
+	}
+
+	span.w7 {
+		font-size: 400%;
+		color: #A81414;
+	}
+
+	span.w6 {
+		font-size: 350%;
+		color: #C23434;
+	}
+
+	span.w5 {
+		font-size: 300%;
+		color: #C23434;
+	}
+
+	span.w4 {
+		font-size: 250%;
+		color: #DB5858;
+	}
+
+	span.w3 {
+		font-size: 200%;
+		color:#DB5858;
+	}
+
+	span.w2 {
+		font-size: 150%;
+		color: #E87272;
+	}
+
+	span.w1 {
+		font-size: 100%;
+		color: #E87272;
+	}
+}
+
+ul.tag-index {
+
+	list-style: none;
+	padding: 0;
+
+	li {
+
+		display: inline;
+		margin-right: .5em;
+		white-space: nowrap;
+
+		a {
+			color: inherit;
+			text-decoration: none;
+		}
+	}
+}

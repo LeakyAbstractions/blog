@@ -1,0 +1,1 @@
+{{ site.url }}{% assign initial = include.tag | downcase | split: '' %}/tags/{{ initial[0] }}/#{{ include.tag | slugify }}{% assign initial = nil %}
