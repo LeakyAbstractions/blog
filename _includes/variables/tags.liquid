@@ -1,0 +1,40 @@
+{% capture nothing %}
+
+# Site Tags
+
+This script returns an ordered list of tags.
+
+Parameters:
+
+- `initial`: An optional character to filter the tags
+
+The resulting array is returned in a variable `site__tags`.
+
+## Input parameters
+
+- `initial`: {{ include.initial }}
+
+
+{% assign site__tags = site.data.arrays.empty %}
+
+{% for tags in site.tags %}
+
+	{% assign tag = tags | first %}
+
+	{% if include.initial %}
+		{% assign initial = tag | downcase | split: '' %}
+		{% if include.initial != initial[0] %}{% continue %}{% endif %}
+	{% endif %}
+
+	{% assign site__tags = site__tags | push: tag %}
+
+{% endfor %}
+
+{% assign site__tags = site__tags | sort %}
+
+{% assign initial = null %}
+{% assign tag = null %}
+
+---
+
+{% endcapture %}{% assign nothing = null %}

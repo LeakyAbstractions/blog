@@ -1,0 +1,8 @@
+
+    <article>
+      <h2>
+        {% include theme/minimal-mistakes/post-icon.html post=post %}
+        {% include theme/minimal-mistakes/post-link.html post=post %}
+      </h2>
+      <p>{{ include.post.excerpt | strip_html | truncate: 160 }}</p>
+    </article>
