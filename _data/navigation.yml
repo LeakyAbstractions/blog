@@ -15,3 +15,7 @@
 - title: Archive
   url: /archive/page/
   icon: archive
+
+- title: Tags
+  url: /tags/
+  icon: tags
