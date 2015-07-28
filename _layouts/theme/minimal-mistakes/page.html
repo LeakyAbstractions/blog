@@ -1,18 +1,6 @@
 ---
-layout: theme/minimal-mistakes/default
+layout: theme/minimal-mistakes/article
 layout_css_class: page
 ---
 
-  <article class="page">
-    <h1>{{ page.title }}</h1>
-    <div class="article-wrap">
-      {{ content }}
-      {% if page.share != false %}
-        <hr />
-        {% include theme/minimal-mistakes/_social-share.html %}
-      {% endif %}
-    </div><!-- /.article-wrap -->
-    {% if site.owner.disqus-shortname and page.comments == true %}
-      <section id="disqus_thread"></section><!-- /#disqus_thread -->
-    {% endif %}
-  </article>
+{{ content }}

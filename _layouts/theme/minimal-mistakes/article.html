@@ -1,0 +1,39 @@
+---
+layout: theme/minimal-mistakes/default
+---
+
+<article class="{{ page.layout_css_class }}">
+
+{% if page.headline != false %}
+  <div class="headline-wrap">
+    <h1>
+  {% if page.link %}
+      <a href="{{ page.link }}">
+  {% else %}
+      <a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">
+  {% endif %}
+        {% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}
+      </a>
+    </h1>
+  </div>
+{% endif %}
+
+  <div class="article-wrap">
+
+    {{ content }}
+
+{% if page.history or page.share %}
+    <hr />
+    <footer role="contentinfo">
+      {% if page.history %}{% include theme/minimal-mistakes/_history.html %}{% endif %}
+      {% if page.share %}{% include theme/minimal-mistakes/_social-share.html %}{% endif %}
+    </footer>
+{% endif %}
+
+  </div>
+
+{% if page.comments and site.owner.disqus-shortname %}
+  <section id="disqus_thread"></section>
+{% endif %}
+
+  </article>
