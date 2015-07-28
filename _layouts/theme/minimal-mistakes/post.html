@@ -4,22 +4,26 @@ layout_css_class: post
 ---
 
   <article class="post">
+
     <div class="headline-wrap">
       {% if page.link %}
         <h1><a href="{{ page.link }}">{{ page.title }}</a></h1>
       {% else %}
         <h1><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
       {% endif %}
-    </div><!--/ .headline-wrap -->
+    </div>
+
     <div class="article-wrap">
       {{ content }}
       <hr />
       <footer role="contentinfo">
-        {% if page.share != false %}{% include theme/minimal-mistakes/_social-share.html %}{% endif %}
-        <p class="byline"><strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p>
+		{% if page.history %}{% include theme/minimal-mistakes/_history.html %}{% endif %}
+        {% if page.share %}{% include theme/minimal-mistakes/_social-share.html %}{% endif %}
       </footer>
-    </div><!-- /.article-wrap -->
-  {% if site.owner.disqus-shortname and page.comments == true %}
-    <section id="disqus_thread"></section><!-- /#disqus_thread -->
+    </div>
+
+  {% if page.comments and site.owner.disqus-shortname %}
+    <section id="disqus_thread"></section>
   {% endif %}
+
   </article>
