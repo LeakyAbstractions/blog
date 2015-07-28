@@ -5,15 +5,21 @@ omit_related_posts: true
 ---
 
   <div id="index">
-    <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
-    {% for post in site.posts limit:5 %}
-    <article>
-      {% if post.link %}
-        <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
-      {% else %}
-        <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-      {% endif %}
-    </article>
-    {% endfor %}
+
+  {{ content }}
+
+{% if page.recent.blog > 0 and site.categories.blog.size > 0 %}
+  <h3><a href="{{ site.url }}/feed/blog.xml">{% include theme/minimal-mistakes/icon.html id='rss' %}</a> Recent Blog Posts</h3>
+ {% for post in site.categories.blog limit: page.recent.blog %}
+  {% include theme/minimal-mistakes/listing-recent-blog.html post=post %}
+ {% endfor %}
+{% endif %}
+
+{% if page.recent.quotes > 0 and site.categories.quotes.size > 0 %}
+  <h3><a href="{{ site.url }}/feed/quotes.xml">{% include theme/minimal-mistakes/icon.html id='rss' %}</a> Recent Programming Quotes</h3>
+ {% for post in site.categories.quotes limit: page.recent.quotes %}
+  {% include theme/minimal-mistakes/listing-recent-quotes.html post=post %}
+ {% endfor %}
+{% endif %}
+
   </div>
