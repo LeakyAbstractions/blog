@@ -58,11 +58,28 @@ paginate_path: /archive/page/:num/
 defaults:
   -
     scope:
+      path: ""
+      type: posts
+    values:
+      share: true
+      comments: true
+      related: true
+      history: true
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      share: false
+      comments: false
+      related: false
+      history: false
+  -
+    scope:
       path: blog
       type: posts
     values:
       layout: blog
-      comments: true
   -
     scope:
       path: quotes
@@ -70,7 +87,6 @@ defaults:
     values:
       layout: quote
       history: false
-      comments: true
       image:
         feature: ada-lovelace.jpg
         caption: Portrait of Ada Lovelace
