@@ -1,29 +1,6 @@
 ---
-layout: theme/minimal-mistakes/default
+layout: theme/minimal-mistakes/article
 layout_css_class: post
 ---
 
-  <article class="post">
-
-    <div class="headline-wrap">
-      {% if page.link %}
-        <h1><a href="{{ page.link }}">{{ page.title }}</a></h1>
-      {% else %}
-        <h1><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
-      {% endif %}
-    </div>
-
-    <div class="article-wrap">
-      {{ content }}
-      <hr />
-      <footer role="contentinfo">
-		{% if page.history %}{% include theme/minimal-mistakes/_history.html %}{% endif %}
-        {% if page.share %}{% include theme/minimal-mistakes/_social-share.html %}{% endif %}
-      </footer>
-    </div>
-
-  {% if page.comments and site.owner.disqus-shortname %}
-    <section id="disqus_thread"></section>
-  {% endif %}
-
-  </article>
+{{ content }}
