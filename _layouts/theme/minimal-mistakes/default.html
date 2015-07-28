@@ -39,8 +39,7 @@ layout: compress
 </div>
 
 <div class="footer-wrap">
-{% unless page.omit_related_posts %}
-  {% if site.related_posts.size > 0 %}
+{% if page.related and site.related_posts.size > 0 %}
   <div class="related-articles">
   <h4>You might also enjoy <small class="pull-right">(<a href="{{ site.url }}/blog/">View all posts</a>)</small></h4>
     <ul>
@@ -50,8 +49,7 @@ layout: compress
     </ul>
     <hr />
   </div>
-  {% endif %}
-{% endunless %}
+{% endif %}
   <footer>
     {% include theme/minimal-mistakes/_footer.html %}
   </footer>
