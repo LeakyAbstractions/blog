@@ -79,7 +79,7 @@ defaults:
       path: blog
       type: posts
     values:
-      layout: blog
+      layout: post
   -
     scope:
       path: quotes
