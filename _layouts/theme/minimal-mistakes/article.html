@@ -18,6 +18,10 @@ layout: theme/minimal-mistakes/default
   </div>
 {% endif %}
 
+{% if page.badge %}
+  <div class="badge"><i class="fa fa-{{ page.badge }}"></i></div>
+{% endif %}
+
   <div class="article-wrap">
 
     {{ content }}
