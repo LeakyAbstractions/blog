@@ -1,15 +1,14 @@
 ---
-layout: post
 title: Hello world!
 date: 2015-07-21 20:30:00
 modified: 2015-07-27 20:25:00
-categories: blog
 tags:
   - programming
   - hello-world
   - c
 image:
   feature: hello-world.jpg
+badge: globe
 ---
 
 Hello internet! I found out about Jekyll and just created this blog. This is the mandatory *hello world* post.
