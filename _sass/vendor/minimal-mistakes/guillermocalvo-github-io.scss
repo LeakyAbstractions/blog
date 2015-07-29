@@ -18,6 +18,31 @@ article {
 	}
 }
 
+/* Quote */
+article.quote {
+
+	.article-wrap {
+
+		font-size: 1.5em;
+	}
+
+	.quote-info {
+
+		clear: both;
+		margin-top: 2em;
+		padding-top: 1em;
+		border-top: #ccc dotted;
+		padding-left: 1em;
+
+		.author:before,
+		.authors:before,
+		.anonymous:before {
+
+			content: "\2015";
+		}
+	}
+}
+
 /* Footer */
 .footer-wrap {
 
