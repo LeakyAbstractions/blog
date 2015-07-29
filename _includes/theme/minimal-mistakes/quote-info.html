@@ -1,0 +1,24 @@
+
+  <div class="quote-info">
+   {% if include.quote_info.link %}
+    {% assign quote_link1 = '<a rel="nofollow" href="' | append: include.quote_info.link | append: '">' %}
+    {% assign quote_link2 = '</a>' %}
+   {% endif %}
+   {% if include.quote_info.caption %}
+    <div class="caption"><h5>{{ quote_link1 }}{{ include.quote_info.caption }}{{ quote_link2 }}</h5></div>
+   {% endif %}
+   {% if include.quote_info.authors %}
+    <div class="authors">{{ quote_link1 }}{{ include.quote_info.authors | array_to_sentence_string }}{{ quote_link2 }}</div>
+   {% elsif include.quote_info.author %}
+    <div class="author">{{ quote_link1 }}{{ include.quote_info.author }}{{ quote_link2 }}</div>
+   {% else %}
+    {% unless include.quote_info.caption or include.quote_info.caption.context %}
+    <div class="anonymous">{{ quote_link1 }}Anonymous{{ quote_link2 }}</div>
+    {% endunless %}
+   {% endif %}
+   {% if include.quote_info.context %}
+    <div class="context">({{ quote_link1 }}{{ include.quote_info.context }}{{ quote_link2 }})</div>
+   {% endif %}
+   {% assign quote_link1 = null %}
+   {% assign quote_link2 = null %}
+  </div>

@@ -26,6 +26,8 @@ layout: theme/minimal-mistakes/default
 
     {{ content }}
 
+    {% if page.quote %}{% include theme/minimal-mistakes/quote-info.html quote_info=page.quote %}{% endif %}
+
   </div>
 
 {% if page.history or page.share %}
