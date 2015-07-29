@@ -130,3 +130,20 @@ ul.tag-index {
 		}
 	}
 }
+
+/* Dialogs */
+ul.dialog {
+
+	margin: 0;
+	padding: 0;
+
+	li {
+
+		list-style: none;
+	}
+
+	li:before {
+
+		content: "\2015";
+	}
+}
