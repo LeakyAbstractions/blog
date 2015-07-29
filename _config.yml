@@ -87,6 +87,7 @@ defaults:
     values:
       layout: quote
       history: false
+      badge: quote-left
       image:
         feature: ada-lovelace.jpg
         caption: Portrait of Ada Lovelace
