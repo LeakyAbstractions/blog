@@ -68,6 +68,7 @@ defaults:
       type: posts
     values:
       share: true
+      taglist: true
       comments: true
       related: true
       history: true
@@ -77,6 +78,7 @@ defaults:
       type: pages
     values:
       share: false
+      taglist: false
       comments: false
       related: false
       history: false

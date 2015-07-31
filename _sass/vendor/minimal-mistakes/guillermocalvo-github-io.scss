@@ -112,6 +112,40 @@ nav.paginator-navigation {
 	}
 }
 
+/* Article Tag List */
+.tagged-as {
+
+	margin-bottom: 0px + $doc-line-height;
+	margin-bottom: 0rem + ($doc-line-height / $doc-font-size);
+
+	h4 {
+		@include font-rem(14);
+		margin-bottom: 10px;
+		text-transform: uppercase;
+	}
+
+	ul {
+
+		list-style: none;
+		margin: 0;
+		padding: 0;
+
+
+		li {
+			list-style: none;
+			margin: 0;
+			padding: 0;
+			display: inline-block;
+			margin-right: .5em;
+
+			a {
+				color: inherit;
+				text-decoration: none;
+			}
+		}
+	}
+}
+
 /* List of Tags */
 ul.tag-index {
 

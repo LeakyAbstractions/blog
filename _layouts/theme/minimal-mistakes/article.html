@@ -30,10 +30,11 @@ layout: theme/minimal-mistakes/default
 
   </div>
 
-{% if page.history or page.share %}
+{% if page.history or page.taglist or page.share %}
   <hr />
   <footer role="contentinfo">
     {% if page.history %}{% include theme/minimal-mistakes/_history.html %}{% endif %}
+    {% if page.taglist and page.tags %}{% include theme/minimal-mistakes/_tagged-as.html %}{% endif %}
     {% if page.share %}{% include theme/minimal-mistakes/_social-share.html %}{% endif %}
   </footer>
 {% endif %}
