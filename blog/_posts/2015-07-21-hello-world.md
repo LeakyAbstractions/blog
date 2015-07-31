@@ -1,19 +1,20 @@
 ---
 title: Hello world!
-date: 2015-07-21 20:30:00
-modified: 2015-07-27 20:25:00
 tags:
-  - programming
+  - meta
   - hello-world
+  - programming
   - c
 image:
   feature: hello-world.jpg
 badge: globe
 ---
 
-Hello internet! I found out about Jekyll and just created this blog. This is the mandatory *hello world* post.
 
-Hopefully I will be writing soon about programming languages, compilers, interpreters, virtual machines and software engineering in general.
+I found out about [Jekyll](http://jekyllrb.com/) and just created this blog. This is the mandatory *hello world* post.
+
+I don't atually know what kind of content I will publish here... hopefully soon I will be writing soon about programming languages, compilers, interpreters, virtual machines and software engineering in general. I might even post stuff about other interesting topics such as: video games, music, books, art or Japan.
+
 Just don't expect me to write too often.
 
 {% highlight c %}
