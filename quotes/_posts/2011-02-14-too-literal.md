@@ -1,6 +1,7 @@
 ---
 title: Too literal
 tumblr: http://guillermonkey.tumblr.com/post/3290656444
+badge: comments
 tags:
   - programmers
   - joke
