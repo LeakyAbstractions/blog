@@ -1,6 +1,7 @@
 ---
 title: Programmers and sex
 tumblr: http://guillermonkey.tumblr.com/post/3290640474
+badge: comments
 tags:
   - programmers
   - joke

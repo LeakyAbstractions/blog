@@ -3,6 +3,7 @@ title: The purpose of software engineering
 tumblr: http://guillermonkey.tumblr.com/post/3162196078
 tags:
   - computer-science
+  - purpose
   - software
   - complexity
 quote:

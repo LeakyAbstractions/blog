@@ -3,7 +3,7 @@ title: The optimization operator
 tumblr: http://guillermonkey.tumblr.com/post/3144846606
 tags:
   - programming-languages
-  - c
+  - c++
   - operators
 quote:
   author: null

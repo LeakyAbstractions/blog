@@ -1,6 +1,7 @@
 ---
 title: Powers of two
 tumblr: http://guillermonkey.tumblr.com/post/3290681841
+badge: smile-o
 tags:
   - programmers
   - joke

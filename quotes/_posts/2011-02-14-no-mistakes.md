@@ -1,6 +1,7 @@
 ---
 title: No mistakes
 tumblr: http://guillermonkey.tumblr.com/post/3291440513
+badge: smile-o
 tags:
   - testing
   - joke

@@ -1,6 +1,7 @@
 ---
 title: Programming is hard
 tumblr: http://guillermonkey.tumblr.com/post/3292940945
+badge: smile-o
 tags:
   - programming
   - joke

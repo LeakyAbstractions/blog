@@ -1,6 +1,7 @@
 ---
 title: No comments
 tumblr: http://guillermonkey.tumblr.com/post/3291334009
+badge: smile-o
 tags:
   - programmers
   - source-code

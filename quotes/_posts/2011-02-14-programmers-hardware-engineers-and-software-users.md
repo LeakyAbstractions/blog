@@ -1,11 +1,12 @@
 ---
 title: Programmers, hardware engineers and software users
 tumblr: http://guillermonkey.tumblr.com/post/3290799734
+badge: smile-o
 tags:
   - joke
   - programmers
   - users
-  - sysadmins
+  - engineers
 quote:
   author: null
 ---

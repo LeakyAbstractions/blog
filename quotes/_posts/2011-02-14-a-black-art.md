@@ -1,6 +1,7 @@
 ---
 title: A black art
 tumblr: http://guillermonkey.tumblr.com/post/3282120726
+badge: smile-o
 tags:
   - computer-science
   - joke
