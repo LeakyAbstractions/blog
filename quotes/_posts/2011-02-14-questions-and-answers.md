@@ -2,7 +2,7 @@
 title: Questions and answers
 tumblr: http://guillermonkey.tumblr.com/post/3290343347
 tags:
-  - c++
+  - c-plus-plus
 quote:
   author: null
 ---

@@ -2,7 +2,7 @@
 title: Object-oriented programming
 tumblr: http://guillermonkey.tumblr.com/post/3282649389
 tags:
-  - c++
+  - c-plus-plus
   - object-oriented
   - programming
 quote:

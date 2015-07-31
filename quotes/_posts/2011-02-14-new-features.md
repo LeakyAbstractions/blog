@@ -2,7 +2,7 @@
 title: New features
 tumblr: http://guillermonkey.tumblr.com/post/3283203910
 tags:
-  - c++
+  - c-plus-plus
   - features
   - feature-bloat
   - overengineering
