@@ -6,7 +6,7 @@ tags:
   - fortran
   - c
   - ada
-  - c++
+  - c-plus-plus
 quote:
   author: Ron Sercely
 ---
