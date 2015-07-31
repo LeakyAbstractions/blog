@@ -1,0 +1,8 @@
+<div class="tagged-as">
+  <h4>Tagged as</h4>
+  <ul>
+ {% for tag in page.tags %}
+    <li><a href="{% include tag-link.html tag=tag %}"><i class="fa fa-tag"></i> {{ tag }}</a></li>
+ {% endfor %}
+  </ul>
+</div>
