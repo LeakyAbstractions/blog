@@ -11,12 +11,14 @@
       </h2>
       <div>
         {{ include.post.excerpt }}
-{% if include.post.quote.authors %}
+{% if include.post.quote %}
+  {% if include.post.quote.authors %}
         <p class="authors">{{ include.post.quote.authors | array_to_sentence_string }}</p>
-{% elsif include.post.quote.author %}
+  {% elsif include.post.quote.author %}
         <p class="author">{{ include.post.quote.author }}</p>
-{% else %}
+  {% else %}
         <p class="anonymous">Anonymous</p>
+  {% endif %}
 {% endif %}
       </div>
     </article>
