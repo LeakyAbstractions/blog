@@ -3,5 +3,14 @@
       <h2>
         {% include theme/minimal-mistakes/post-link.html post=post %}
       </h2>
-      <div>{{ include.post.excerpt }}</div>
+      <div>
+        {{ include.post.content }}
+{% if include.post.quote.authors %}
+        <p class="authors">{{ include.post.quote.authors | array_to_sentence_string }}</p>
+{% elsif include.post.quote.author %}
+        <p class="author">{{ include.post.quote.author }}</p>
+{% else %}
+        <p class="anonymous">Anonymous</p>
+{% endif %}
+      </div>
     </article>
