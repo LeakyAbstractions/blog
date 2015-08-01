@@ -9,9 +9,8 @@ tags:
   - c-plus-plus
 quote:
   author: Ron Sercely
+  caption: The evolution of languages
 ---
-
-The evolution of languages:
 
 * FORTRAN is a non-typed language.
 * C is a weakly typed language.
