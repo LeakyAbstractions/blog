@@ -63,6 +63,28 @@ article.quote {
 	}
 }
 
+/* Quote List */
+#index {
+
+	article {
+
+		div {
+
+			ul, ol {
+
+				margin: 0;
+			}
+
+			p.author:before,
+			p.authors:before,
+			p.anonymous:before {
+
+				content: "\2015";
+			}
+		}
+	}
+}
+
 /* Footer */
 .footer-wrap {
 
