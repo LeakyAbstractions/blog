@@ -51,6 +51,8 @@ compress_html:
   profile: false
   ignore:
     envs: [development]
+gems:
+  - jekyll-sitemap
 
 #
 # Pagination
@@ -118,6 +120,7 @@ defaults:
         feature: gift-tag.jpg
         credit: Dennis van Zuijlekom
         creditlink: https://www.flickr.com/photos/dvanzuijlekom/
+      sitemap: false
   -
     scope:
       path: quotes/page
@@ -141,3 +144,4 @@ defaults:
         path_first: /quotes/page/
         path: /quotes/page/:num/
         per_page: 50
+      sitemap: false
