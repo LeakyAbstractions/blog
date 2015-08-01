@@ -8,6 +8,10 @@
 
 	{% assign tmp = 'quote-left' %}
 
+{% elsif include.post.categories contains 'coding' %}
+
+	{% assign tmp = 'code' %}
+
 {% else %}
 
 	{% assign tmp = 'file-text' %}

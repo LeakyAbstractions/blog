@@ -8,6 +8,10 @@
   url: /blog/
   icon: pencil-square-o
 
+- title: Coding
+  url: /coding/
+  icon: code
+
 - title: Quotes
   url: /quotes/page/
   icon: quote-left

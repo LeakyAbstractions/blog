@@ -1,14 +1,13 @@
 ---
 layout: listing
-title: Blog
+title: Blog Posts
 listing:
   include_file: listing-blog.html
   source:
     type: posts
     category: blog
 image:
-  feature: sinclair-spectrum.jpg
-  caption: ZX Spectrum
-  credit: Andy Bowd
-  creditlink: https://www.flickr.com/photos/bowdie/
+  feature: typewriter.jpg
+  credit: Pete
+  creditlink: https://www.flickr.com/photos/comedynose/
 ---

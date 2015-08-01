@@ -90,6 +90,12 @@ defaults:
       layout: post
   -
     scope:
+      path: coding
+      type: posts
+    values:
+      layout: post
+  -
+    scope:
       path: quotes
       type: posts
     values:
