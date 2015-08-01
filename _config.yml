@@ -2,7 +2,7 @@
 # Site settings
 #
 title: Simius Ex Machina
-description: Personal blog of Guillermo about programming languages, compilers, interpreters, virtual machines and software engineering in general.
+description: Personal blog of Guillermo Calvo about programming, technology and software engineering in general.
 baseurl:
 url:
 locale:
