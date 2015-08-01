@@ -1,0 +1,17 @@
+---
+title: Haskell
+tumblr: http://guillermonkey.tumblr.com/post/3144000547
+tags:
+  - programming-languages
+  - haskell
+  - c-plus-plus
+  - perl
+  - python
+  - ruby
+  - c-sharp
+  - java
+  - php
+author: Audrey Tang
+---
+
+Haskell is faster than C++, more concise than Perl, more regular than Python, more flexible than Ruby, more typeful than C#, more robust than Java, and has absolutely nothing in common with PHP.
