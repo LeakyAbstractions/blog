@@ -5,8 +5,9 @@ image:
   credit: International Fund for Animal Welfare
   creditlink: https://www.flickr.com/photos/animalrescueblog/
 recent:
-  blog: 4
+  coding: 4
   quotes: 4
+  blog: 4
 ---
 
 # Simius Ex Machina

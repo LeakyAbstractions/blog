@@ -7,10 +7,10 @@ layout_css_class: home
 
   {{ content }}
 
-{% if page.recent.blog > 0 and site.categories.blog.size > 0 %}
-  <h3><a class="feed" href="{{ site.url }}/feed/blog.xml">{% include theme/minimal-mistakes/icon.html id='rss' %}</a> Recent Blog Posts</h3>
- {% for post in site.categories.blog limit: page.recent.blog %}
-  {% include theme/minimal-mistakes/listing-recent-blog.html post=post %}
+{% if page.recent.coding > 0 and site.categories.coding.size > 0 %}
+  <h3><a class="feed" href="{{ site.url }}/feed/coding.xml">{% include theme/minimal-mistakes/icon.html id='rss' %}</a> Recent Programming Posts</h3>
+ {% for post in site.categories.coding limit: page.recent.coding %}
+  {% include theme/minimal-mistakes/listing-recent-coding.html post=post %}
  {% endfor %}
 {% endif %}
 
@@ -18,6 +18,13 @@ layout_css_class: home
   <h3><a class="feed" href="{{ site.url }}/feed/quotes.xml">{% include theme/minimal-mistakes/icon.html id='rss' %}</a> Recent Programming Quotes</h3>
  {% for post in site.categories.quotes limit: page.recent.quotes %}
   {% include theme/minimal-mistakes/listing-recent-quotes.html post=post %}
+ {% endfor %}
+{% endif %}
+
+{% if page.recent.blog > 0 and site.categories.blog.size > 0 %}
+  <h3><a class="feed" href="{{ site.url }}/feed/blog.xml">{% include theme/minimal-mistakes/icon.html id='rss' %}</a> Recent Blog Posts</h3>
+ {% for post in site.categories.blog limit: page.recent.blog %}
+  {% include theme/minimal-mistakes/listing-recent-blog.html post=post %}
  {% endfor %}
 {% endif %}
 

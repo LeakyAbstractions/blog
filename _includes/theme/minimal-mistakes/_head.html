@@ -15,6 +15,7 @@
 {% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
 <link rel="canonical" href="{{ canonical }}">
 <link href="{{ site.url }}/feed/blog.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} - Blog Posts">
+<link href="{{ site.url }}/feed/coding.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} - Programming Posts">
 <link href="{{ site.url }}/feed/quotes.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} - Programming Quotes">
 <link href="{{ site.url }}/feed/archive.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} - Archive">
 
