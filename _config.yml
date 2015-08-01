@@ -55,7 +55,7 @@ compress_html:
 #
 # Pagination
 #
-paginate: 10
+paginate: 20
 paginate_path: /archive/page/:num/
 
 #
