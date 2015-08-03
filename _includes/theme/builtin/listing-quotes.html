@@ -5,4 +5,4 @@
   {% assign last_year = current_year %}
 {% endif %}
 
-<h4><a href="{{ site.url }}{{ include.post.url }}">{{ include.post.title }}</a></h4>
+<h4><a href="{{ include.post.url | prepend: site.baseurl }}">{{ include.post.title }}</a></h4>

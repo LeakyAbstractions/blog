@@ -1,1 +1,1 @@
-<a href="{{ site.url }}{{ include.post.url }}" title="{{ include.post.title }}">{{ include.post.title }}</a>
+<a href="{{ include.post.url | prepend: site.baseurl }}" title="{{ include.post.title }}">{{ include.post.title }}</a>

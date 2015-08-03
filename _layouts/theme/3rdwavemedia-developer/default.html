@@ -13,15 +13,15 @@ layout: compress
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="{{ page.description }}">
     <meta name="author" content="{{ page.author }}">
-    <link rel="shortcut icon" href="{{ site.url }}/favicon.ico">
-    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href='http://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic'>
+    <link rel="stylesheet" type="text/css" href='http://fonts.googleapis.com/css?family=Montserrat:400,700'>
+	<link rel="shortcut icon" type="image/x-icon" href="{{ '/assets/curriculum/favicon.ico'                    | prepend: site.baseurl }}">
     <!-- Global CSS -->
-    <link rel="stylesheet" href="{{ site.url }}/assets/curriculum/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="{{ '/assets/curriculum/bootstrap/css/bootstrap.min.css'       | prepend: site.baseurl }}">
     <!-- Plugins CSS -->
-    <link rel="stylesheet" href="{{ site.url }}/assets/curriculum/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="{{ '/assets/curriculum/font-awesome/css/font-awesome.min.css' | prepend: site.baseurl }}">
     <!-- Theme CSS -->
-    <link id="theme-style" rel="stylesheet" href="{{ site.url }}/assets/curriculum/styles.css">
+    <link rel="stylesheet" type="text/css" href="{{ '/assets/curriculum/styles.css'                            | prepend: site.baseurl }}" id="theme-style">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -34,7 +34,7 @@ layout: compress
     <!-- HEADER -->
     <header class="header">
         <div class="container">
-            <img class="profile-image img-responsive pull-left" src="{{ site.url }}{{ page.cv.personal.image }}" alt="{{ page.cv.personal.name }}" />
+            <img class="profile-image img-responsive pull-left" src="{{ page.cv.personal.image | prepend: site.baseurl }}" alt="{{ page.cv.personal.name }}" />
             <div class="profile-content pull-left">
                 <h1 class="name">{{ page.cv.personal.name }}</h1>
                 <h2 class="desc">{{ page.cv.personal.desc }}</h2>
@@ -83,7 +83,7 @@ layout: compress
                                {% endif %}
                                 <div class="featured-image">
                                     <a href="{{ project.more.link }}" target="_blank">
-                                        <img class="img-responsive project-image" src="{{ site.url }}{{ project.image }}" alt="" />
+                                        <img class="img-responsive project-image" src="{{ project.image | prepend: site.baseurl }}" alt="" />
                                     </a>
                                   {% if project.label %}
                                     <div class="ribbon">
@@ -105,7 +105,7 @@ layout: compress
                           {% for project in page.cv.projects.relevant %}
                             <div class="item row">
                                 <a class="col-md-4 col-sm-4 col-xs-12" href="{{ project.more.link }}" target="_blank">
-                                  <img class="img-responsive project-image" src="{{ site.url }}{{ project.image }}" alt="" />
+                                  <img class="img-responsive project-image" src="{{ project.image | prepend: site.baseurl }}" alt="" />
                                 </a>
                                 <div class="desc col-md-8 col-sm-8 col-xs-12">
                                     <h3 class="title"><a href="{{ project.more.link }}" target="_blank">{{ project.title }}</a>{% if project.label %} <span class="label label-theme">{{ project.label }}{% endif %}</h3>
@@ -371,10 +371,10 @@ layout: compress
     </footer>
 
     <!-- Javascript -->
-    <script type="text/javascript" src="{{ site.url }}/assets/curriculum/jquery-1.11.2.min.js"></script>
-    <script type="text/javascript" src="{{ site.url }}/assets/curriculum/jquery-migrate-1.2.1.min.js"></script>
-    <script type="text/javascript" src="{{ site.url }}/assets/curriculum/bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="{{ '/assets/curriculum/jquery-1.11.2.min.js'          | prepend: site.baseurl }}"></script>
+    <script type="text/javascript" src="{{ '/assets/curriculum/jquery-migrate-1.2.1.min.js'   | prepend: site.baseurl }}"></script>
+    <script type="text/javascript" src="{{ '/assets/curriculum/bootstrap/js/bootstrap.min.js' | prepend: site.baseurl }}"></script>
     <!-- custom js -->
-    <script type="text/javascript" src="{{ site.url }}/assets/curriculum/main.js"></script>
+    <script type="text/javascript" src="{{ '/assets/curriculum/main.js'                       | prepend: site.baseurl }}"></script>
 </body>
 </html>

@@ -1,1 +1,1 @@
-{% if include.url contains '://' %}{{ include.url }}{% else %}{{ site.url }}{% if include.prepend %}{{include.prepend }}{% endif %}{{ include.url }}{% if include.append %}{{include.append }}{% endif %}{% endif %}
+{% if include.url contains '://' %}{{ include.url }}{% else %}{{ include.url | append: include.append | prepend: include.prepend | prepend: site.baseurl }}{% endif %}

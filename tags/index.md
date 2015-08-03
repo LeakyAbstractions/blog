@@ -8,4 +8,4 @@ image:
 share: false
 ---
 
-You may click on a tag to discover related [**blog posts**]({{ site.url }}/blog/) and [**programming quotes**]({{ site.url }}/quotes/).
+You may click on a tag to discover related [**blog posts**]({{ '/blog/' | prepend: site.baseurl }}) and [**programming quotes**]({{ '/quotes/' | prepend: site.baseurl }}).
