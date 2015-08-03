@@ -3,29 +3,22 @@ layout: theme/minimal-mistakes/default
 layout_css_class: home
 ---
 
-  <div id="index">
+<div id="index">
 
   {{ content }}
 
-{% if page.recent.coding > 0 and site.categories.coding.size > 0 %}
-  <h3><a class="feed" href="{{ '/feed/coding.xml' | prepend: site.baseurl }}">{% include theme/minimal-mistakes/icon.html id='rss' %}</a> Recent Programming Posts</h3>
- {% for post in site.categories.coding limit: page.recent.coding %}
-  {% include theme/minimal-mistakes/listing-recent-coding.html post=post %}
- {% endfor %}
-{% endif %}
+{% for recent in page.recent %}
+ {% if site.categories[recent.category].size > 0 %}
+  <h3>
+    {% if recent.feed %}
+    <a class="feed" href="{{ recent.feed | prepend: site.baseurl }}">{% include theme/minimal-mistakes/icon.html id='rss' %}</a>
+    {% endif %}
+    <a href="{{ recent.link | prepend: site.baseurl }}">{{ recent.title }}</a>
+  </h3>
+  {% for post in site.categories[recent.category] limit: recent.limit %}
+   {% include theme/minimal-mistakes/{{ recent.include_file }} post=post %}
+  {% endfor %}
+ {% endif %}
+{% endfor %}
 
-{% if page.recent.quotes > 0 and site.categories.quotes.size > 0 %}
-  <h3><a class="feed" href="{{ '/feed/quotes.xml' | prepend: site.baseurl }}">{% include theme/minimal-mistakes/icon.html id='rss' %}</a> Recent Programming Quotes</h3>
- {% for post in site.categories.quotes limit: page.recent.quotes %}
-  {% include theme/minimal-mistakes/listing-recent-quotes.html post=post %}
- {% endfor %}
-{% endif %}
-
-{% if page.recent.blog > 0 and site.categories.blog.size > 0 %}
-  <h3><a class="feed" href="{{ '/feed/blog.xml' | prepend: site.baseurl }}">{% include theme/minimal-mistakes/icon.html id='rss' %}</a> Recent Blog Posts</h3>
- {% for post in site.categories.blog limit: page.recent.blog %}
-  {% include theme/minimal-mistakes/listing-recent-blog.html post=post %}
- {% endfor %}
-{% endif %}
-
-  </div>
+</div>
