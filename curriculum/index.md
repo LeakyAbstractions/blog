@@ -16,6 +16,12 @@ cv:
     contact:
       title: Contact Me
       link: mailto:guillermocalvo@yahoo.com
+    feed:
+      title: Recent Posts
+      link: https://guillermocalvo.github.io/feed/coding.xml
+      limit: 2
+      effect: slideFastSynced
+      more: Read more
     interests:
       title: Main interests
       featured:

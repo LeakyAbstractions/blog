@@ -15,7 +15,7 @@ layout: compress
     <meta name="author" content="{{ page.author }}">
     <link rel="stylesheet" type="text/css" href='http://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic'>
     <link rel="stylesheet" type="text/css" href='http://fonts.googleapis.com/css?family=Montserrat:400,700'>
-	<link rel="shortcut icon" type="image/x-icon" href="{{ '/assets/curriculum/favicon.ico'                    | prepend: site.baseurl }}">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ '/assets/curriculum/favicon.ico'                    | prepend: site.baseurl }}">
     <!-- Global CSS -->
     <link rel="stylesheet" type="text/css" href="{{ '/assets/curriculum/bootstrap/css/bootstrap.min.css'       | prepend: site.baseurl }}">
     <!-- Plugins CSS -->
@@ -357,6 +357,17 @@ layout: compress
                 </aside>
               {% endif %}
 
+              {% if page.cv.personal.feed %}
+                <!-- RECENT POSTS -->
+                <aside class="blog aside section">
+                    <div class="section-inner">
+                        <h2 class="heading">{{ page.cv.personal.feed.title }}</h2>
+                        <div id="rss-feeds" class="content" feed-url="{{ page.cv.personal.feed.link }}" feed-limit="{{ page.cv.personal.feed.limit }}" feed-effect="{{ page.cv.personal.feed.effect }}" feed-more="{{ page.cv.personal.feed.more }}">
+                        </div>
+                    </div>
+                </aside>
+              {% endif %}
+
             </div>
 
         </div>
@@ -374,6 +385,7 @@ layout: compress
     <script type="text/javascript" src="{{ '/assets/curriculum/jquery-1.11.2.min.js'          | prepend: site.baseurl }}"></script>
     <script type="text/javascript" src="{{ '/assets/curriculum/jquery-migrate-1.2.1.min.js'   | prepend: site.baseurl }}"></script>
     <script type="text/javascript" src="{{ '/assets/curriculum/bootstrap/js/bootstrap.min.js' | prepend: site.baseurl }}"></script>
+    <script type="text/javascript" src="{{ '/assets/curriculum/jquery.rss.min.js'             | prepend: site.baseurl }}"></script>
     <!-- custom js -->
     <script type="text/javascript" src="{{ '/assets/curriculum/main.js'                       | prepend: site.baseurl }}"></script>
 </body>
