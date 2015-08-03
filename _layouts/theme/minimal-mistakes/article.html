@@ -10,7 +10,7 @@ layout: theme/minimal-mistakes/default
   {% if page.link %}
       <a href="{{ page.link }}">
   {% else %}
-      <a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">
+      <a href="{{ page.url | prepend: site.baseurl }}" rel="bookmark" title="{{ page.title }}">
   {% endif %}
         {% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}
       </a>

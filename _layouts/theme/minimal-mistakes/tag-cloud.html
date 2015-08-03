@@ -27,7 +27,7 @@ styles:
   {% assign last_initial = initial %}
   {% if last_initial %}</ul>{% endif %}
 
-  <h3><a href="{{ site.url }}/tags/{{ initial }}/">Tags starting with «{{ initial | upcase }}»</a></h3>
+  <h3><a href="{{ initial | prepend: '/tags/' | prepend: site.baseurl }}/">Tags starting with «{{ initial | upcase }}»</a></h3>
   <ul class="tag-index">
  {% endunless %}
     <li><a href="{% include tag-link.html tag=tag %}"><i class="fa fa-tag"></i> {{ tag }}</a></li>

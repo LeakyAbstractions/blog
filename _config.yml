@@ -3,8 +3,8 @@
 #
 title: Simius Ex Machina
 description: Personal blog of Guillermo Calvo about programming, technology and software engineering in general.
+url: https://guillermocalvo.github.io
 baseurl:
-url:
 locale:
   language: en
   territory: us
