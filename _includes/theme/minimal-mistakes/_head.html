@@ -41,17 +41,21 @@
 
 <!-- Icons -->
 <!-- 16x16 -->
-<link rel="shortcut icon" href="{{ '/favicon.ico'                                                                            | prepend: site.baseurl }}">
+<link rel="shortcut icon" href="{{                                '/favicon.ico'                                             | prepend: site.baseurl }}" type="image/x-icon">
 <!-- 32x32 -->
-<link rel="shortcut icon" href="{{ '/favicon/favicon-32x32.png'                                                              | prepend: site.baseurl }}">
+<link rel="shortcut icon" sizes="32x32" href="{{                  '/images/favicon/favicon-32x32.png'                        | prepend: site.baseurl }}" type="image/png">
+<!-- 192x192 for Android Chrome -->
+<link rel="icon" sizes="192x192" href="{{                         '/images/favicon/android-chrome-192x192.png'               | prepend: site.baseurl }}" type="image/png">
 <!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
-<link rel="apple-touch-icon-precomposed" href="{{                 '/images/favicon/apple-touch-icon-precomposed.png'         | prepend: site.baseurl }}">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="{{   '/images/favicon/apple-touch-icon-precomposed.png'         | prepend: site.baseurl }}" type="image/png">
 <!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{   '/images/favicon/apple-touch-icon-72x72-precomposed.png'   | prepend: site.baseurl }}">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{   '/images/favicon/apple-touch-icon-72x72-precomposed.png'   | prepend: site.baseurl }}" type="image/png">
 <!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{ '/images/favicon/apple-touch-icon-114x114-precomposed.png' | prepend: site.baseurl }}">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{ '/images/favicon/apple-touch-icon-114x114-precomposed.png' | prepend: site.baseurl }}" type="image/png">
 <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ '/images/favicon/apple-touch-icon-144x144-precomposed.png' | prepend: site.baseurl }}">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ '/images/favicon/apple-touch-icon-144x144-precomposed.png' | prepend: site.baseurl }}" type="image/png">
+<!-- 180x180 Apple Touch icon (for iPhone 6 Plus; other device will scale it down as needed) -->
+<link rel="apple-touch-icon" sizes="180x180" href="{{             '/images/favicon/apple-touch-icon-180x180-precomposed.png' | prepend: site.baseurl }}" type="image/png">
 
 {% for style in page.styles %}
 <link href='{% include link.html url=style %}' rel='stylesheet' type='text/css'>
