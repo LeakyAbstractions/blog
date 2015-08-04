@@ -1,0 +1,2 @@
+{% for link in include.links %}
+<link rel="{{ link.rel }}" href="{{ link.href | prepend: site.baseurl }}"{% if link.type %} type="{{ link.type }}"{% endif %}{% if link.sizes %} sizes="{{ link.sizes }}"{% endif %}{% if link.title %} title="{{ link.title }}"{% endif %}>{% endfor %}

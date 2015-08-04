@@ -1,5 +1,64 @@
 ---
 layout: compress
+
+feeds:
+  - title: Simius Ex Machina - Programming Posts
+    href: /feed/coding.xml
+    type: application/rss+xml
+    rel: alternate
+  - title: Simius Ex Machina - Programming Quotes
+    href: /feed/quotes.xml
+    type: application/rss+xml
+    rel: alternate
+  - title: Simius Ex Machina - Blog Posts
+    href: /feed/blog.xml
+    type: application/rss+xml
+    rel: alternate
+  - title: Simius Ex Machina - Archive
+    href: /feed/archive.xml
+    type: application/rss+xml
+    rel: alternate
+
+favicons:
+  - # 16x16
+    rel: shortcut icon
+    href: /favicon.ico
+    type: image/x-icon
+  - # 32x32
+    rel: shortcut icon
+    sizes: 32x32
+    href: /images/favicon/favicon-32x32.png
+    type: image/png
+  - # Android Chrome
+    rel: icon
+    href: /images/favicon/android-chrome-192x192.png
+    sizes: 192x192
+    type: image/png
+  - # iPhone 3GS, pre-2011 iPod Touch and older Android devices (precomposed)
+    rel: apple-touch-icon-precomposed
+    href: /images/favicon/apple-touch-icon-precomposed.png
+    sizes: 57x57
+    type: image/png
+  - # 1st generation iPad, iPad 2 and iPad mini (precomposed)
+    rel: apple-touch-icon-precomposed
+    href: /images/favicon/apple-touch-icon-72x72-precomposed.png
+    sizes: 72x72
+    type: image/png
+  - # iPhone 4, 4S, 5 and post-2011 iPod Touch (precomposed)
+    rel: apple-touch-icon-precomposed
+    href: /images/favicon/apple-touch-icon-114x114-precomposed.png
+    sizes: 114x114
+    type: image/png
+  - # iPad 3rd and 4th generation (precomposed)
+    rel: apple-touch-icon-precomposed
+    href: /images/favicon/apple-touch-icon-144x144-precomposed.png
+    sizes: 144x144
+    type: image/png
+  - # 180x180 Apple Touch icon (for iPhone 6 Plus; other device will scale it down as needed)
+    rel: apple-touch-icon
+    href: /images/favicon/apple-touch-icon-180x180-precomposed.png
+    sizes: 180x180
+    type: image/png
 ---
 <!doctype html>
 <!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -25,7 +84,7 @@ layout: compress
         {% if page.image.caption %}{{ page.image.caption }}{% endif %}
         {% if page.image.caption and page.image.credit %}&ndash;{% endif %}
         {% if page.image.credit %}Photo Credit: {{ page.image.credit }}{% endif %}
-		{% if page.image.creditlink %}</a>{% endif %}
+        {% if page.image.creditlink %}</a>{% endif %}
     </span>
   {% endif %}
   </div>
