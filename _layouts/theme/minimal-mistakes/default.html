@@ -100,7 +100,12 @@ favicons:
 <div class="footer-wrap">
 {% if page.related and site.related_posts.size > 0 %}
   <div class="related-articles">
-  <h4>You might also enjoy <small class="pull-right">(<a href="{{ '/blog/' | prepend: site.baseurl }}">View all posts</a>)</small></h4>
+  <h4>
+    You might also enjoy
+{% if page.view_all %}
+    <small class="pull-right">(<a href="{{ page.view_all.link | prepend: site.baseurl }}">View all<span> {{ page.view_all.title }}</span></a>)</small>
+{% endif %}
+  </h4>
     <ul>
     {% for post in site.related_posts limit:3 %}
       <li>{% include theme/minimal-mistakes/post-link.html post=post %}</li>

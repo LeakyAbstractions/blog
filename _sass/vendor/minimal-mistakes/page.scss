@@ -675,6 +675,13 @@ $button-size: 1.5rem;
 	h4 {
 		text-transform: uppercase;
 		margin-bottom: 0;
+
+		small span {
+			display: none;
+			@media #{$medium} {
+				display: inline;
+			}
+		}
 	}
 	li {
 		margin-bottom: 0;

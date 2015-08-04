@@ -74,6 +74,9 @@ defaults:
       comments: true
       related: true
       history: true
+      view_all:
+        link: /archive/
+        title: posts
   -
     scope:
       path: ""
@@ -90,18 +93,27 @@ defaults:
       type: posts
     values:
       layout: post
+      view_all:
+        link: /blog/
+        title: blog posts
   -
     scope:
       path: coding
       type: posts
     values:
       layout: post
+      view_all:
+        link: /coding/
+        title: programming posts
   -
     scope:
       path: quotes
       type: posts
     values:
       layout: quote
+      view_all:
+        link: /quotes/page/
+        title: programming quotes
       history: false
       badge: quote-left
       image:
