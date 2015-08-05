@@ -207,7 +207,7 @@ layout: compress
                           {% for experience in page.cv.experiences.relevant %}
                             <div class="relevant item">
                                 <h3 class="title" id="{{ experience.name | remove: '.md' }}">
-                                    <span class="level-label" data-toggle="tooltip" data-placement="bottom" data-animation="true" title="{{ experience.content | strip_html }}">
+                                    <span class="level-label" data-toggle="tooltip" data-placement="bottom" data-animation="true" title="{{ experience.content | markdownify | strip_html }}">
                                         {{ experience.position }} -
                                         <span class="place">
                                             {% if experience.link %}<a href="{{ experience.link }}">{% endif %}{{ experience.company }}{% if experience.link %}</a>{% endif %}
@@ -389,6 +389,7 @@ layout: compress
                 <aside class="blog aside section">
                     <div class="section-inner">
                         <h2 class="heading">{{ page.cv.personal.feed.title }}</h2>
+						{% if page.cv.personal.feed.description %}{{ page.cv.personal.feed.description | markdownify }}{% endif %}
                         <div id="rss-feeds" class="content" feed-url="{{ page.cv.personal.feed.link }}" feed-limit="{{ page.cv.personal.feed.limit }}" feed-effect="{{ page.cv.personal.feed.effect }}" feed-more="{{ page.cv.personal.feed.more }}">
                         </div>
                     </div>
