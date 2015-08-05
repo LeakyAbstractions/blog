@@ -58,6 +58,7 @@ cv:
       link: mailto:guillermocalvo@yahoo.com
     feed:
       title: Recent Posts
+      description: These are some of the latest posts from my blog [Simius Ex Machina](https://guillermocalvo.github.io/).
       link: https://guillermocalvo.github.io/feed/coding.xml
       limit: 2
       effect: slideFastSynced
