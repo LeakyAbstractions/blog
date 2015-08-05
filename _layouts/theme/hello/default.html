@@ -1,11 +1,79 @@
+---
+layout: compress
+
+favicons:
+  - # 16x16
+    rel: shortcut icon
+    href: /assets/hello/favicon.ico
+    type: image/x-icon
+  - # 64x64
+    rel: shortcut icon
+    sizes: 64x64
+    href: /assets/hello/favicon-64x64.png
+    type: image/png
+  - # Android Chrome
+    rel: icon
+    href: /assets/hello/favicon-320x320.png
+    sizes: 320x320
+    type: image/png
+  - # Apple Touch icon
+    rel: apple-touch-icon
+    href: /assets/hello/favicon-320x320.png
+    sizes: 320x320
+    type: image/png
+
+open_graph:
+  title: Hello world!
+  username: guillermocalvo
+  first_name: Guillermo
+  last_name: Calvo
+  gender: male
+  site_name: Simius Ex Machina
+  url: http://guillermocalvo.github.io/
+  description: "#Programming #Computers #Software #Internet #Technology #VideoGames #IndieDev #Arcade #8bits #Music #Books #Movies #Comics #Design #Japan #Culture #Art #Anime #Manga #Origami"
+  locale: en_US
+  image: /assets/hello/thumb.png
+
+twitter_cards:
+  title: Hello world!
+  description: "#Programming #Computers #Software #Internet #Technology #VideoGames #IndieDev #Arcade #8bits #Music #Books #Movies #Comics #Design #Japan #Culture #Art #Anime #Manga #Origami"
+  creator: guillermonkey
+  card: summary_large_image
+  image: /assets/hello/thumb.png
+---
 <!doctype html>
 <html lang="en">
+	<!-- HELLO WORLD! -->
 	<head>
 		<meta charset="utf-8">
 		<title>Guillermo Calvo</title>
+		<link rel="canonical" href="{{ page.url | replace: 'index.html', '' | prepend: site.baseurl | prepend: site.url }}">
 		<link href="{{ '/assets/hello/Guillermonkey.css' | prepend: site.baseurl }}" rel="stylesheet"/>
 		<link href="{{ '/assets/hello/style.css'         | prepend: site.baseurl }}" rel="stylesheet"/>
-		<link href="{{ '/assets/hello/favicon.png'       | prepend: site.baseurl }}" rel="shortcut icon"/>
+
+		{% include rel-link.html links=page.favicons %}
+
+    	<!-- Open Graph -->
+    	<meta property="og:title" content="{{ page.open_graph.title }}">
+    	<meta property="og:description" content="{{ page.open_graph.description }}">
+    	<meta property="og:type" content="profile">
+    	<meta property="profile:username" content="{{ page.open_graph.username }}">
+    	<meta property="profile:first_name" content="{{ page.open_graph.first_name }}">
+    	<meta property="profile:last_name" content="{{ page.open_graph.last_name }}">
+    	<meta property="profile:gender" content="{{ page.open_graph.gender }}">
+    	<meta property="og:url" content="{{ page.open_graph.url }}">
+    	<meta property="og:site_name" content="{{ page.open_graph.site_name }}">
+    	<meta property="og:locale" content="{{ page.open_graph.locale }}">
+    	<meta property="og:image" content="{{ page.open_graph.image | prepend: site.baseurl | prepend: site.url }}">
+
+    	<!-- Twitter Cards -->
+    	<meta name="twitter:title" content="{{ page.twitter_cards.title }}">
+    	<meta name="twitter:description" content="{{ page.twitter_cards.description }}">
+    	<meta name="twitter:site" content="{{ site.owner.twitter | prepend: '@' }}">
+    	<meta name="twitter:creator" content="{{ page.twitter_cards.creator | prepend: '@' }}">
+    	<meta name="twitter:card" content="{{ page.twitter_cards.card }}">
+    	<meta name="twitter:image" content="{{ page.twitter_cards.image | prepend: site.baseurl | prepend: site.url }}">
+
 	</head>
 	<body>
 		<section id="main">
