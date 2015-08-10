@@ -16,6 +16,10 @@
   url: /blog/
   icon: pencil-square-o
 
+- title: Projects
+  url: /projects/
+  icon: flask
+
 - title: Tags
   url: /tags/
   icon: tags
