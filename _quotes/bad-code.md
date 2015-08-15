@@ -1,0 +1,11 @@
+---
+title: Bad code
+tumblr: http://guillermonkey.tumblr.com/post/3150619555
+tags:
+  - programming-languages
+  - failure
+  - bad-code
+author: Anonymous
+---
+
+There is not now, nor has there ever been, nor will there ever be, any programming language in which it is the least bit difficult to write bad code.
