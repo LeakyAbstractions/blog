@@ -4,7 +4,6 @@ tumblr: http://guillermonkey.tumblr.com/post/3142805542
 tags:
   - arrogance
   - computer-science
-  - dijkstra
 quote:
   author: Alan Kay
 ---
