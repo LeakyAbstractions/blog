@@ -223,3 +223,29 @@ ul.dialog {
 		content: "\2015";
 	}
 }
+
+/* Site Search */
+.site-search {
+
+	.gsib_a {
+
+		padding-top: 2px;
+	}
+
+	input.gsc-input {
+
+		transition: all 0s;
+	}
+
+	input.gsc-search-button {
+
+		box-sizing: initial;
+		background-color: #4e4e4e;
+		transition: background-color 1s ease;
+
+		&:hover {
+
+			background-color: #989898;
+		}
+	}
+}
