@@ -7,19 +7,19 @@ image:
 recent:
   - title: Recent Coding Posts
     link: /coding/
-    feed: /feed/coding.xml
+    feed: http://feeds.feedburner.com/SimiusExMachina-Coding
     category: coding
     limit: 2
     include_file: listing-recent-coding.html
   - title: Recent Coding Quotes
     link: /quotes/
-    feed: /feed/quotes.xml
+    feed: http://feeds.feedburner.com/SimiusExMachina-Quotes
     category: quotes
     limit: 2
     include_file: listing-recent-quotes.html
   - title: Recent Blog Posts
     link: /blog/
-    feed: /feed/blog.xml
+    feed: http://feeds.feedburner.com/SimiusExMachina-Blog
     category: blog
     limit: 2
     include_file: listing-recent-blog.html
