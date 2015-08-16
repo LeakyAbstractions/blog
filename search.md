@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Google Custom Search
+title: Site Search
 sitemap: false
 permalink: /search/
 ---
@@ -17,4 +17,4 @@ permalink: /search/
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
-<gcse:search></gcse:search>
+<div class="site-search"><gcse:search></gcse:search></div>
