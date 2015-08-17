@@ -5,6 +5,7 @@ title: Simius Ex Machina
 description: Personal blog about programming, technology and software engineering in general.
 url: https://guillermocalvo.github.io
 baseurl:
+twitter: SimiusExMachina
 locale:
   language: en
   territory: us
