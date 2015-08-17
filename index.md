@@ -12,7 +12,7 @@ recent:
     limit: 2
     include_file: listing-recent-coding.html
   - title: Recent Coding Quotes
-    link: /quotes/
+    link: /quotes/page/
     feed: http://feeds.feedburner.com/SimiusExMachina-Quotes
     category: quotes
     limit: 2
