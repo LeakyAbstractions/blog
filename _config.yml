@@ -16,6 +16,9 @@ locale:
 owner:
   name: Guillermo Calvo
   avatar: guillermo.png
+  about:
+    link: /about/
+    title: About me
   bio: Seeking the troof through programming.
   email: guillermocalvo@yahoo.com
   disqus-shortname: guillermocalvo-github-io
