@@ -93,6 +93,12 @@ defaults:
       history: false
   -
     scope:
+      path: ""
+      type: drafts
+    values:
+      layout: post
+  -
+    scope:
       path: blog
       type: posts
     values:
