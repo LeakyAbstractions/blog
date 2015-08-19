@@ -1,0 +1,1 @@
+{% if include.post.comments %}<i class="fa fa-comments"></i> <a href="{{ include.post.url | prepend: site.baseurl }}#disqus_thread" title="{{ include.title }}">{{ include.text }}</a>{% endif %}
