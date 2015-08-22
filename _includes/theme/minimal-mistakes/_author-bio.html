@@ -21,6 +21,8 @@
   {% if author.instagram %}<a href="http://instagram.com/{{ author.instagram }}" class="author-social" target="_blank"><i class="fa fa-fw fa-instagram"></i> Instagram</a>{% endif %}
   {% if author.tumblr %}<a href="http://{{ author.tumblr }}.tumblr.com" class="author-social" target="_blank"><i class="fa fa-fw fa-tumblr-square"></i> Tumblr</a>{% endif %}
   {% if author.github %}<a href="http://github.com/{{ author.github }}" class="author-social" target="_blank"><i class="fa fa-fw fa-github"></i> Github</a>{% endif %}
+  {% if author.bitbucket %}<a href="https://bitbucket.org/{{ author.bitbucket }}" class="author-social" target="_blank"><i class="fa fa-fw fa-bitbucket-square"></i> Bitbucket</a>{% endif %}
+  {% if author.sourceforge %}<a href="http://sourceforge.net/u/{{ author.sourceforge }}" class="author-social" target="_blank"><i class="fa fa-fw fa-code"></i> Sourceforge</a>{% endif %}
   {% if author.stackoverflow %}<a href="http://stackoverflow.com/users/{{ author.stackoverflow }}" class="author-social" target="_blank"><i class="fa fa-fw fa-stack-overflow"></i> Stackoverflow</a>{% endif %}
   {% if author.lastfm %}<a href="http://lastfm.com/user/{{ author.lastfm }}" class="author-social" target="_blank"><i class="fa fa-fw fa-music"></i> Last.fm</a>{% endif %}
   {% if author.dribbble %}<a href="http://dribbble.com/{{ author.dribbble }}" class="author-social" target="_blank"><i class="fa fa-fw fa-dribbble"></i> Dribbble</a>{% endif %}
@@ -33,4 +35,5 @@
   {% if author.flickr %}<a href="http://www.flickr.com/{{ author.flickr }}" class="author-social" target="_blank"><i class="fa fa-fw fa-flickr"></i> Flickr</a>{% endif %}
   {% if author.codepen %}<a href="http://codepen.io/{{ author.codepen }}" class="author-social" target="_blank"><i class="fa fa-fw fa-codepen"></i> CodePen</a>{% endif %}
   {% if author.wikipedia %}<a href="https://en.wikipedia.org/wiki/{{ author.wikipedia }}" class="author-social" target="_blank"><i class="fa fa-fw fa-wikipedia-w"></i> Wikipedia</a>{% endif %}
+  {% if author.home %}<a href="{{ author.home }}" class="author-social" target="_blank"><i class="fa fa-fw fa-home"></i> Homepage</a>{% endif %}
 </div>
