@@ -5,7 +5,7 @@ tags:
   - programmers
   - humility
 quote:
-  author: Edsger W. Dijkstra
+  author: Edsger Dijkstra
 ---
 
 The competent programmer is fully aware of the limited size of his own skull. He therefore approaches his task with full humility, and avoids clever tricks like the plague.
