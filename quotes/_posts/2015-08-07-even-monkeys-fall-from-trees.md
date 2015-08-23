@@ -3,7 +3,7 @@ title: Even monkeys fall from trees
 tumblr: http://guillermonkey.tumblr.com/post/3141937439
 tags:
   - monkeys
-  - japanese
+  - mistakes
 quote:
   author: Japanese proverb
 ---
