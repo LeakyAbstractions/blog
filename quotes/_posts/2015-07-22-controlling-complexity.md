@@ -5,7 +5,7 @@ tags:
   - programming
   - complexity
 quote:
-  author: Brian W. Kernighan
+  author: Brian Kernighan
 ---
 
 Controlling complexity is the essence of computer programming.

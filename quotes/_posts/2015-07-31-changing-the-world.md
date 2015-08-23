@@ -5,7 +5,7 @@ tags:
   - programming
   - source-code
 quote:
-  author: null
+  author: Anonymous
 ---
 
 I would love to change the world, but they won’t give me the source code.
