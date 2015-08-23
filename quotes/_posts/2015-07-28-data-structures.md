@@ -6,7 +6,7 @@ tags:
   - data-structures
   - programming-languages
 quote:
-  author: R. Wm. Gosper
+  author: Bill Gosper
 ---
 
 A data structure is just a stupid programming language.
