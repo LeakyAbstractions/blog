@@ -6,7 +6,7 @@ tags:
   - design
   - implementation
 quote:
-  author: C.A.R. Hoare
+  author: Tony Hoare
   caption: My billion-dollar mistake
   context: About the invention of the null reference in 1965, that led to innumerable errors, vulnerabilities, and system crashes
 ---
