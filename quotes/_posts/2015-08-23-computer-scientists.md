@@ -3,6 +3,7 @@ title: Computer scientists
 tumblr: http://guillermonkey.tumblr.com/post/3143006718
 tags:
   - computer-science
+  - mathematical-science
 quote:
   author: Richard Hamming
 ---
