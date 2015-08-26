@@ -1,0 +1,501 @@
+
+"Anonymous":
+  name: Anonymous
+  bio: The author of this quote is unknown.
+  avatar: quotes/default.jpg
+
+"Jeff Atwood":
+  name: Jeff Atwood
+  bio: >
+    American software developer, author, blogger, and entrepreneur. Known for the programming blog
+    [**Coding Horror**](http://blog.codinghorror.com/). Co-founder of the question-and-answer website
+    [**Stack Overflow**](https://stackoverflow.com/), with [*Joel Spolsky*](https://en.wikipedia.org/wiki/Joel_Spolsky),
+    and the [**Stack Exchange Network**](http://stackexchange.com/). In 2013,
+    [his new company](http://blog.codinghorror.com/civilized-discourse-construction-kit/ "Civilized Discourse Construction Kit, Inc.")
+    announced its flagship product, [**Discourse**](http://www.discourse.org/ "A new discussion platform").
+  avatar: quotes/jeff_atwood.jpg
+  about:
+    link: http://blog.codinghorror.com/about-me/
+  wikipedia: Jeff_Atwood
+  email: jatwood@codinghorror.com
+  twitter: codinghorror
+  home: http://blog.codinghorror.com/
+
+"Pete Becker":
+  name: Pete Becker
+  bio: >
+    Consultant and computer programmer, specializing in library design and implementation.
+    Recognized as **one of the world's foremost experts in [C++](https://isocpp.org/ "The C++ Programming Language")**.
+    Has been contributing to the **C++ standardization** process since its inception and has authored several
+    publications, including magazine articles and columns, and a book on
+    [**the first C++ Library Technical Report**](http://www.petebecker.com/tr1book/tr1book.html "Also known as TR1").
+  avatar: quotes/pete_becker.jpg
+  about:
+    link: http://www.petebecker.com/
+  wikipedia: Pete_Becker
+  email: petebecker@acm.org
+  stackoverflow: 1593860/pete-becker
+  linkedin: pub/pete-becker/5/75b/a6
+  home: http://www.petebecker.com/
+
+"Stan Kelly-Bootle":
+  name: Stanley Bootle
+  bio: >
+    British author, singer-songwriter and computer scientist. His best-known song is the "Liverpool Lullaby", which
+    [Judy Collins](https://en.wikipedia.org/wiki/Judy_Collins) recorded in 1966 for her album,
+    [In My Life](https://en.wikipedia.org/wiki/In_My_Life_(Judy_Collins_album)).
+    Achieved **the first postgraduate degree in computer science** in 1954.
+  avatar: quotes/stan_kelly_bootle.jpg
+  about:
+    link: http://www.feniks.com/skb/about/about.html
+  wikipedia: Stan_Kelly-Bootle
+  home: http://www.feniks.com/skb/
+
+"Bill Bryson":
+  name: William McGuire "Bill" Bryson
+  bio: >
+    Best-selling American author of humorous books on **travel**, as well as books on the **English language** and
+    **science**. Born in the United States, resided in Britain for most of his adult life
+    before returning to America in 1995. In 2003 moved back to Britain with his family.
+    Served as chancellor of [*Durham University*](http://www.dur.ac.uk/) from 2005 through 2011.
+  avatar: quotes/bill_bryson.jpg
+  about:
+    link: http://www.billbryson.co.uk/index.php/about/
+  wikipedia: Bill_Bryson
+  facebook: BillBrysonAuthor
+  youtube: BillBrysonTV
+  home: http://www.billbryson.co.uk/
+
+"Tom Cargill":
+  name: Tom Cargill
+  bio: >
+    Early-adopter of C++ in 1983; influenced the language design. Recognized authority in the field of
+    [**object-oriented programming**](https://en.wikipedia.org/wiki/Object-oriented_programming).
+    His work at [*Bell Labs*](http://bell-labs.com) resulted in the creation of the first major system programmed in C++
+    --- a family of **portable distributed debuggers** which remain in production use and continue to evolve within
+    [*AT&T*](http://www.att.com/) today. Author of
+    <strong><span title="Addison-Wesley, 1992">C++ Programming Style</span></strong>. An independent consultant since
+    1989, works with [*Lone Eagle Systems*](http://loneagle.com/) on
+    [*Java*](https://www.java.com/ "Java Programming Language") and object-oriented design issues.
+  avatar: quotes/tom_cargill.jpg
+  about:
+    link: http://www.profcon.com/profcon/tac.htm
+  home: http://loneagle.com/staff/index.html
+
+"Edsger Dijkstra":
+  name: Edsger Wybe Dijkstra
+  bio: >
+    Dutch computer scientist. One of the most influential members of
+    **computing science’s [founding generation](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)**.
+    Helped shape the field of computer science through his fundamental contributions to: *algorithm design*,
+    *programming languages*, *program design*, *operating systems*, *distributed processing*,
+    *formal specification and verification* and *design of mathematical arguments*. Received the
+    [**1972 Turing Award**](http://amturing.acm.org/) and was the *Schlumberger Centennial Chair of Computer Sciences*
+    at [*The University of Texas*](http://www.utexas.edu/) from 1984 until 2000.
+  avatar: quotes/edsger_dijkstra.jpg
+  about:
+    link: http://www.cs.utexas.edu/users/EWD/
+  wikipedia: Edsger_W._Dijkstra
+
+"Albert Einstein":
+  name: Albert Einstein
+  bio: >
+    German-born theoretical physicist. Developed the
+    [**general theory of relativity**](https://en.wikipedia.org/wiki/General_relativity), one of the two pillars of
+    modern physics (alongside [*quantum mechanics*](https://en.wikipedia.org/wiki/Quantum_mechanics)).
+    Was a big influence in the [**philosophy of science**](https://en.wikipedia.org/wiki/Philosophy_of_science).
+    Best known in popular culture for his
+    [**mass–energy equivalence formula**](https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence)
+    <code>E = mc<sup>2</sup></code>.
+    Received the 1921 [**Nobel Prize in Physics**](https://en.wikipedia.org/wiki/Nobel_Prize_in_Physics) for his
+    discovery of the law of the [**photoelectric effect**](https://en.wikipedia.org/wiki/Photoelectric_effect), a
+    pivotal step in the evolution of [quantum theory](https://en.wikipedia.org/wiki/Introduction_to_quantum_mechanics).
+  avatar: quotes/albert_einstein.jpg
+  about:
+    link: http://einstein.biz/biography.php
+  wikipedia: Albert_Einstein
+  home: http://einstein.biz/
+
+"Dick Gabriel":
+  name: Richard P. Gabriel
+  bio: >
+    American computer scientist who is known for his work related to
+    [**Lisp**](https://en.wikipedia.org/wiki/Lisp_programming_language "Lisp Programming Language") (and especially
+    [**Common Lisp**](https://common-lisp.net/ "A dialect of the Lisp programming language")) in computing. His best
+    known work was a 1990 essay [**“Lisp; Good News, Bad News, How to Win Big”**](https://www.dreamsongs.com/WIB.html),
+    which incorporated the phrase [**Worse is Better**](http://dreamsongs.com/WorseIsBetter.html), and his set of
+    Lisp benchmarks (the "Gabriel Benchmarks"), published in 1985 as **Performance and evaluation of Lisp systems**.
+  avatar: quotes/dick_gabriel.jpg
+  about:
+    link: http://dreamsongs.com/RPG.html
+  wikipedia: Richard_P._Gabriel
+  home: http://dreamsongs.com/
+
+"Bill Gates":
+  name: William Henry "Bill" Gates III
+  bio: >
+    American business magnate, philanthropist, investor, computer programmer, and inventor. In 1975, co-founded
+    [*Microsoft*](http://www.microsoft.com), the world’s largest PC software company, with
+    [*Paul Allen*](https://en.wikipedia.org/wiki/Paul_Allen). During his career at *Microsoft*, Gates held the positions
+    of chairman, CEO and chief software architect, and was the largest individual shareholder until May 2014.
+    Gates has authored and co-authored several books.
+  avatar: quotes/bill_gates.jpg
+  about:
+    link: http://www.gatesnotes.com/globalpages/bio
+  wikipedia: Bill_Gates
+  facebook: BillGates
+  linkedin: williamhgates
+  twitter: billgates
+  youtube: thegatesnotes
+  home: http://www.gatesnotes.com/
+
+"Geer et al.":
+  name: "CyberInsecurity: The Cost of Monopoly"
+  bio: |
+    - [Daniel Geer](https://en.wikipedia.org/wiki/Dan_Geer "Chief Technical Officer, @Stake")
+    - [Charles P. Pfleeger](http://www.informit.com/authors/bio/47ABD7B3-BFA5-4CAC-B115-3ABBE5B959CA "Master Security Architect, Exodus Communications, Inc.")
+    - [Bruce Schneier](https://en.wikipedia.org/wiki/Bruce_Schneier "Founder, Chief Technical Officer, Counterpane Internet Security")
+    - [John S. Quarterman](https://en.wikipedia.org/wiki/John_Quarterman "Founder, InternetPerils, Matrix NetSystems, Inc.")
+    - [Perry Metzger](http://en.citizendium.org/wiki/Perry_Metzger "Independent Consultant")
+    - [Rebecca Bace](http://www.infidel.net/bios/bacebio.php "CEO, Infidel")
+    - [Peter Gutmann](https://en.wikipedia.org/wiki/Peter_Gutmann_(computer_scientist) "Researcher, Department of Computer Science, University of Auckland")
+  avatar: quotes/cyberinsecurity.jpg
+  about:
+    link: http://cryptome.org/cyberinsecurity.htm
+
+"David Gelernter":
+  name: David Hillel Gelernter
+  bio: >
+    American artist, writer, and professor of computer science at [*Yale University*](http://www.yale.edu/).
+    Former national fellow at the [*American Enterprise Institute*](http://www.aei.org/) and senior fellow in
+    Jewish thought at the Shalem Center, and sat on the National Endowment for the Arts. Known for contributions to
+    [**parallel computation**](https://en.wikipedia.org/wiki/Parallel_computation) and for his widely published books.
+  avatar: quotes/david_gelernter.jpg
+  about:
+    link: http://cpsc.yale.edu/people/david-gelernter
+  wikipedia: David_Gelernter
+  email: david.gelernter@yale.edu
+  home: http://cpsc.yale.edu/people/david-gelernter
+
+"Bill Gosper":
+  name: Ralph William "Bill" Gosper, Jr
+  bio: >
+    American mathematician and programmer from Pennsauken Township, New Jersey. Along with
+    [Richard Greenblatt](https://en.wikipedia.org/wiki/Richard_Greenblatt_(programmer)), may be considered to have
+    **founded the [hacker](https://en.wikipedia.org/wiki/Hacker_(programmer_subculture)) community**. Holds a place of
+    pride in the [**Lisp**](https://en.wikipedia.org/wiki/Lisp_programming_language "Lisp Programming Language")
+    community.
+  avatar: quotes/bill_gosper.jpg
+  about:
+    link: http://gosper.org/bill.html
+  wikipedia: Bill_Gosper
+  home: http://gosper.org/
+
+"Richard Hamming":
+  name: Richard Wesley Hamming
+  bio: >
+    American mathematician whose work had many implications for **computer science** and **telecommunications**.
+    His contributions include the [*Hamming code*](https://en.wikipedia.org/wiki/Hamming_code) (which makes use of a
+    [*Hamming matrix*](https://en.wikipedia.org/wiki/Hamming_matrix)),
+    the [*Hamming window*](https://en.wikipedia.org/wiki/Window_function#Hamming_window),
+    [*Hamming numbers*](https://en.wikipedia.org/wiki/Hamming_numbers),
+    [*sphere-packing*](https://en.wikipedia.org/wiki/Sphere-packing)
+    (or [*Hamming bound*](https://en.wikipedia.org/wiki/Hamming_bound))
+    and the [*Hamming distance*](https://en.wikipedia.org/wiki/Hamming_distance).
+  avatar: quotes/richard_hamming.jpg
+  about:
+    link: http://www-history.mcs.st-andrews.ac.uk/Biographies/Hamming.html
+  wikipedia: Richard_Hamming
+
+"Tony Hoare":
+  name: Sir Charles Antony Richard Hoare
+  bio: >
+    British computer scientist. Fellow of the [*Royal Academy of Engineering*](http://www.raeng.org.uk/).
+    Developed the sorting algorithm [**quicksort**](https://en.wikipedia.org/wiki/Quicksort) in 1959/1960.
+    Developed [**Hoare logic**](https://en.wikipedia.org/wiki/Hoare_logic)
+    for verifying program correctness, and the formal language
+    [**CSP**](https://en.wikipedia.org/wiki/Communicating_Sequential_Processes "Communicating Sequential Processes") to
+    specify the **interactions of [concurrent processes](https://en.wikipedia.org/wiki/Concurrency_(computer_science))**
+    (including the [dining philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)) and the
+    inspiration for the [**occam programming language**](https://en.wikipedia.org/wiki/Occam_(programming_language)).
+  avatar: quotes/tony_hoare.jpg
+  about:
+    link: http://www.computerhistory.org/fellowawards/hall/bios/Antony,Hoare/
+  wikipedia: Tony_Hoare
+  home: http://www.cs.ox.ac.uk/people/tony.hoare/
+
+"Ron Jeffries":
+  name: Ron Jeffries
+  bio: >
+    One of the founders of the
+    [**XP software development methodology**](http://www.extremeprogramming.org/ "Extreme Programming") circa 1996,
+    along with [*Kent Beck*](https://en.wikipedia.org/wiki/Kent_Beck) and
+    [*Ward Cunningham*](https://en.wikipedia.org/wiki/Ward_Cunningham). Author of **Extreme Programming Installed** (the
+    second book published about XP) and **Extreme Programming Adventures in C#**. One of the 17 original signatories of
+    the [**Agile Manifesto**](http://agilemanifesto.org/ "Manifesto for Agile Software Development").
+  avatar: quotes/ron_jeffries.jpg
+  about:
+    link: http://ronjeffries.com/xprog/articles/bio/
+  wikipedia: Ron_Jeffries
+  email: ronjeffries@acm.org
+  twitter: RonJeffries
+  github: RonJeffries
+  home: http://ronjeffries.com/
+
+"Brian Kernighan":
+  name: Brian Wilson Kernighan
+  bio: >
+    Canadian computer scientist. Contributed to the development of
+    [**UNIX**](http://www.unix.org/ "The UNIX Operating System") at [*Bell Labs*](http://bell-labs.com) alongside
+    Unix creators [*Ken Thompson*](https://en.wikipedia.org/wiki/Ken_Thompson) and
+    [*Dennis Ritchie*](https://en.wikipedia.org/wiki/Dennis_Ritchie).
+    Co-author of [**AWK**](https://en.wikipedia.org/wiki/AWK "AWK Programming Language")
+    and [**AMPL**](https://en.wikipedia.org/wiki/AMPL "A Mathematical Programming Language").
+  avatar: quotes/brian_kernighan.jpg
+  about:
+    link: http://genius.cat-v.org/brian-kernighan/
+  wikipedia: Brian_Kernighan
+
+"Alan Kay":
+  name: Alan Curtis Kay
+  bio: >
+    American computer scientist. Fellow of the [*American Academy of Arts and Sciences*](https://www.amacad.org/), the
+    [*National Academy of Engineering*](http://www.nae.edu/) and the [*Royal Society of Arts*](https://www.thersa.org/).
+    Best known for his pioneering work on
+    [**object-oriented programming**](https://en.wikipedia.org/wiki/Object-oriented_programming) and
+    **windowing [GUI](https://en.wikipedia.org/wiki/Graphical_user_interface "Graphical User Interface")** design.
+    President of the [*Viewpoints Research Institute*](http://www.vpri.org/),
+    and an Adjunct Professor of Computer Science at the [*University of California, Los Angeles*](http://www.ucla.edu/).
+  avatar: quotes/alan_kay.jpg
+  about:
+    link: http://www.ted.com/speakers/alan_kay
+  wikipedia: Alan_Kay
+  home: http://www.vpri.org/html/people/founders.htm
+
+"Donald Knuth":
+  name: Donald Ervin Knuth
+  bio: >
+    American computer scientist, mathematician, and professor emeritus at
+    [*Stanford University*](https://www.stanford.edu/). Author of the multi-volume work
+    [**The Art of Computer Programming**](http://www-cs-faculty.stanford.edu/~uno/taocp.html). Worked on several
+    branches of theoretical computer science. **Father of the analysis of algorithms**, systematized formal mathematical
+    techniques for the analysis of the computational complexity of algorithms.
+    Creator of [**TeX**](http://tug.org/begin.html "TeX; The Computer Typesetting System"),
+    [**METAFONT**](https://en.wikipedia.org/wiki/Metafont "font definition language and rendering system") and the
+    [**Computer Modern**](https://en.wikipedia.org/wiki/Computer_Modern) family of typefaces.
+  avatar: quotes/donald_knuth.jpg
+  about:
+    link: http://cs.stanford.edu/~uno/vita.pdf
+  wikipedia: Donald_Knuth
+  home: http://cs.stanford.edu/~uno/
+
+"Bertrand Meyer":
+  name: Bertrand Meyer
+  bio: >
+    French academic, author, and consultant in the field of **computer languages**.
+    Created [**Eiffel**](https://en.wikipedia.org/wiki/Eiffel_(programming_language) "The Eiffel Programming Language")
+    and the idea of [**design by contract**](https://en.wikipedia.org/wiki/Design_by_contract).
+    Also defined the [**Uniform Access Principle**](https://en.wikipedia.org/wiki/Uniform_access_principle).
+    Received the **Software System Award** of the [*ACM*](http://www.acm.org/ "Association for Computing Machinery")
+    for *"impact on software quality"* in recognition of the design of **Eiffel**. Fellow of the *ACM* since 2008.
+  avatar: quotes/bertrand_meyer.jpg
+  about:
+    link: http://se.ethz.ch/~meyer/
+  wikipedia: Bertrand_Meyer
+  twitter: Bertrand_Meyer
+  facebook: bertrand.meyer.12
+  linkedin: in/bertrandmeyer
+  home: https://bertrandmeyer.com/
+
+"Eric O’Dell":
+  name: Eric O’Dell
+  bio: >
+    Posted to the [Usenet](https://en.wikipedia.org/wiki/Usenet) group
+    [`comp.lang.dylan`](https://groups.google.com/forum/#!forum/comp.lang.dylan).
+  avatar: quotes/default.jpg
+  about:
+    link: http://people.csail.mit.edu/gregs/info-dylan-archive-html-2000/msg01208.html
+
+"Ray Ozzie":
+  name: Raymond "Ray" Ozzie
+  bio: >
+    American software industry entrepreneur who held the positions of **Chief Technical Officer** and
+    **Chief Software Architect** at [*Microsoft*](http://www.microsoft.com) between 2005 and 2010.
+    Best known for his role in creating [**Lotus Notes**](http://www.notes.net/), before *Microsoft*.
+  avatar: quotes/ray_ozzie.jpg
+  about:
+    link: http://ozzie.net/about/
+  wikipedia: Ray_Ozzie
+  home: http://ozzie.net/
+
+"Rob Pike":
+  name: Robert Pike
+  bio: >
+    Canadian software engineer and author. Best known for his work at [*Bell Labs*](http://bell-labs.com), where he was
+    a member of the [**UNIX**](http://www.unix.org/ "The UNIX Operating System") team and was involved in the creation
+    of [**Plan 9**](http://plan9.bell-labs.com/plan9/ "Plan 9 operating systems") and
+    [**Inferno**](http://www.vitanuova.com/inferno/ "Inferno Operating Systems"), as well as
+    [**Limbo**](http://www.vitanuova.com/inferno/limbo.html "Limbo Programming Language").
+    Co-author, with [*Brian Kernighan*](https://en.wikipedia.org/wiki/Brian_Kernighan) of
+    [**The Practice of Programming**](http://www.cs.princeton.edu/~bwk/tpop.webpage/) and
+    **The Unix Programming Environment**. Co-creator of [**UTF-8**](https://en.wikipedia.org/wiki/UTF-8),
+    with [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson_(computer_programmer)).
+  avatar: quotes/rob_pike.jpg
+  about:
+    link: http://www.herpolhode.com/rob/rob.html
+  wikipedia: Rob_Pike
+  email: r@google.com
+  home: http://herpolhode.com/rob/
+
+"Japanese proverb":
+  name: Japanese Proverbs
+  bio: >
+    A Japanese proverb ([諺, ことわざ](https://en.wiktionary.org/wiki/%E8%AB%BA "kotowaza")) may take the form of a
+    **short saying** (<span title="iinarawashi">言い習わし</span>),
+    an **idiomatic phrase** (<span title="kanyouku">慣用句</span>),
+    or a **four-character idiom** ([四字熟語](https://en.wikipedia.org/wiki/Yojijukugo "yojijukugo")).
+  avatar: quotes/japanese_proverb.jpg
+  about:
+    link: https://en.wikipedia.org/wiki/Japanese_proverbs
+  wikipedia: Japanese_proverbs
+
+"Dennis Ritchie":
+  name: Dennis MacAlistair Ritchie
+  bio: >
+    American computer scientist. Created
+    [**C**](https://en.wikipedia.org/wiki/C_(programming_language) "The C Programming Language") and
+    [**UNIX**](http://www.unix.org/ "The UNIX Operating System") at [*Bell Labs*](http://bell-labs.com),
+    at [*Bell Labs*](http://bell-labs.com) with long-time colleague
+    [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson_(computer_programmer)),
+    Both received the [**Turing Award**](http://amturing.acm.org/) from the
+    [*ACM*](http://www.acm.org/ "Association for Computing Machinery") in 1983, the
+    [**Hamming Medal**](https://en.wikipedia.org/wiki/IEEE_Richard_W._Hamming_Medal) from the
+    [*IEEE*](https://www.ieee.org./ "Institute of Electrical and Electronics Engineers") in 1990 and the
+    [**National Medal of Technology**](https://en.wikipedia.org/wiki/National_Medal_of_Technology) in 1999.
+  avatar: quotes/dennis_ritchie.jpg
+  about:
+    link: http://cm.bell-labs.co/who/dmr/
+  wikipedia: Dennis_Ritchie
+
+"Jeff Sickel":
+  name: Jeff Sickel
+  bio: >
+    Responsible for [**cpython**](https://bitbucket.org/jas/cpython), A fresh port of
+    [**Python**](https://www.python.org/ "Python Programming Language")
+    and [**Mercurial**](https://mercurial.selenic.com/ "Mercurial Cource Control Management") to
+    [**Plan 9**](http://plan9.bell-labs.com/plan9/ "Plan 9 operating systems") for ARM, x86, and AMD64.
+    His work balances between the humanities and the technological requirements of living, interpreting,
+    and integrating into our modern culture.
+  avatar: quotes/jeff_sickel.jpg
+  about:
+    link: http://www.corpus-callosum.com/
+  email: jas@corpus-callosum.com
+  linkedin: jeffsickel
+  sourceforge: jsickel
+  bitbucket: jas
+
+"Henry Spencer":
+  name: Henry Spencer
+  bio: >
+    Canadian computer programmer and space enthusiast. Wrote
+    [**regex**](https://groups.google.com/forum/#!original/mod.sources/OqVZYQNSmDs/G_T2jHu5QI8J), a widely used software
+    library for [*regular expressions*](https://en.wikipedia.org/wiki/Regular_expression);
+    co-wrote [**C News**](https://en.wikipedia.org/wiki/C_News "A Usenet server program"). Also wrote
+    [**The Ten Commandments for C Programmers**](https://groups.google.com/forum/#!msg/comp.lang.c/CYgWkWdWCcQ/thMt3RfByAgJ).
+    Co-author, with [*David Lawrence*](http://www.oreilly.com/pub/au/452),
+    of the book [**Managing Usenet**](http://www.oreilly.com/catalog/musenet/).
+  avatar: quotes/henry_spencer.jpg
+  about:
+    link: https://en.wikipedia.org/wiki/Henry_Spencer
+  wikipedia: Henry_Spencer
+
+"Audrey Tang":
+  name: Audrey Tang
+  bio: >
+    Taiwanese [**free software**](https://www.gnu.org/philosophy/free-sw.html) programmer, who has been described as one
+    of the *ten greats of Taiwanese computing*. Best known for initiating and leading
+    [**Pugs**](http://pugs.blogs.com/), a joint effort from the
+    [*Haskell*](https://en.wikipedia.org/wiki/Haskell_(programming_language) "Haskell Programming Language") and
+    [*Perl*](https://en.wikipedia.org/wiki/Perl "Perl Programming Language") communities to implement
+    [*Perl 6*](http://perl6.org/ "The Perl 6 Programming Language"). Also made contributions to internationalization and
+    localization efforts for several *Free Software* programs, including
+    [**SVK**](https://metacpan.org/pod/SVK "SVK - A Distributed Version Control System"),
+    [**RT**](https://bestpractical.com/rt/ "RT; Request Tracker") and
+    [**Slashdot**](http://slashdot.org/ "Slashdot Weblog System").
+  avatar: quotes/audrey_tang.jpg
+  about:
+    link: https://en.wikipedia.org/wiki/Audrey_Tang
+  wikipedia: Audrey_Tang
+  home: http://pugs.blogs.com/audrey/
+
+"Ken Thompson":
+  name: Kenneth "Ken" Thompson
+  bio: >
+    American pioneer of computer science. Designed and implemented
+    [**UNIX**](http://www.unix.org/ "The UNIX Operating System") at [*Bell Labs*](http://bell-labs.com).
+    Invented [**B**](https://en.wikipedia.org/wiki/B_(programming_language) "The B Programming Language"), the
+    direct predecessor to [**C**](https://en.wikipedia.org/wiki/C_(programming_language) "The C Programming Language").
+    Creator and early developer of [**Plan 9**](http://plan9.bell-labs.com/plan9/ "Plan 9 operating systems").
+    Co-inventor of [**Go**](https://golang.org/ "The Go programming language"), at [*Google*](http://www.google.com).
+  avatar: quotes/ken_thompson.jpg
+  about:
+    link: http://genius.cat-v.org/ken-thompson/
+  wikipedia: Ken_Thompson
+  email: ken@google.com
+
+"Chris Wenham":
+  name: Christopher Lawrence Wenham
+  bio: >
+    Worked deep for a number of IT departments, internet providers and web design firms as a **programmer** and
+    **manager** for several decades, quitting while he was ahead. Now writes as a **freelancer**. Has written for
+    [*Salon*](http://www.salon.com/) and has been published in [*Hacker Monthly*](http://hackermonthly.com/)
+    and a little bit of private and small press.
+  avatar: quotes/chris_wenham.jpg
+  about:
+    link: http://chriswenham.com/about/
+  email: cwenham@gmail.com
+  twitter: WenhamToo
+  google:
+    plus: +ChrisWenham
+  youtube: clwenham
+  home: http://chriswenham.com/
+  blog: https://sites.google.com/site/yacoset/
+
+"David Wheeler":
+  name: David Wheeler
+  bio: >
+    British computer scientist at the [*University of Cambridge*](http://www.cam.ac.uk/). Born in Birmingham and gained
+    a scholarship at [*Trinity College*](http://www.trin.cam.ac.uk/) to read the
+    [**Cambridge Mathematical Tripos**](https://en.wikipedia.org/wiki/Mathematical_Tripos), graduating in 1948.
+    Completed **the world’s first PhD in computer science** in 1951.
+  avatar: quotes/david_wheeler.jpg
+  about:
+    link: https://en.wikipedia.org/wiki/David_Wheeler_(British_computer_scientist)
+  wikipedia: David_Wheeler_(British_computer_scientist)
+
+"Jamie Zawinski":
+  name: James Werner "Jamie" Zawinski
+  bio: >
+    American [hacker](https://en.wikipedia.org/wiki/Hacker_(programmer_subculture)) responsible for significant
+    contributions to the [**free software**](https://www.gnu.org/philosophy/free-sw.html) projects
+    [**Mozilla**](https://www.mozilla.org/ "Mozilla Free Software Community") and
+    [**XEmacs**](http://www.xemacs.org/ "XEmacs, The next generation of Emacs"), and early versions of the
+    [**Netscape Navigator**](https://en.wikipedia.org/wiki/Netscape_Navigator) web browser. Maintains
+    [**XScreenSaver**](http://www.jwz.org/xscreensaver/ "The XScreenSaver project"), which provides
+    screen-blanking for [*Mac OS X*](https://en.wikipedia.org/wiki/Mac_OS_X) and for
+    [*Unix*](http://www.unix.org/ "The UNIX Operating System") and
+    [*Unix-like*](https://en.wikipedia.org/wiki/Unix-like) computer operating systems
+    using [*X Window*](http://www.x.org/ "The X Window System").
+  avatar: quotes/jamie_zawinski.jpg
+  about:
+    link: http://www.jwz.org/about.html
+  wikipedia: Jamie_Zawinski
+  email: jwz@jwz.org
+  twitter: jwz
+  facebook: yesthatjwz
+  youtube: yesthatjwz
+  google:
+    plus: "103802396060899980860"
+  kickstarter: jwz
+  slashdot: Jamie+Zawinski
+  home: http://www.jwz.org/
