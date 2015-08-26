@@ -1,0 +1,40 @@
+{% capture nothing %}
+
+# Page Author
+
+This script assigns the author of the current page to the variable `author`.
+
+
+{% if page.author %}
+
+	## Blog Author
+
+	{% assign author = site.data.authors[page.author] %}
+
+	{% unless author %}
+
+		{% assign author = site.owner %}
+
+	{% endunless %}
+
+{% elsif page.quote %}
+
+	## Quote Author
+
+	{% assign author = site.data.quote_authors[page.quote.author] %}
+
+	{% unless author %}
+
+		{% assign author = site.data.quote_authors.Anonymous %}
+
+	{% endunless %}
+
+{% else %}
+
+	## Site Owner
+
+	{% assign author = site.owner %}
+
+{% endif %}
+
+{% endcapture %}{% assign nothing = null %}
