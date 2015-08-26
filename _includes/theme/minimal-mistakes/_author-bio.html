@@ -1,9 +1,3 @@
-{% if page.author %}
-  {% assign author = site.data.authors[page.author] %}
-{% else %}
-  {% assign author = site.owner %}
-{% endif %}
-
 <div itemscope itemtype="http://schema.org/Person">
 
 {% if author.about %}<a href="{{ author.about.link }}" title="{{ author.about.title }}">{% endif %}

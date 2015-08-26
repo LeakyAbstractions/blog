@@ -2,10 +2,7 @@
 <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
 <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 <meta name="keywords" content="{{ page.tags | join: ', ' }}">
-{% if page.author %}
-  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
-{% endif %}
-
+{% include variables/author.liquid %}
 {% include theme/minimal-mistakes/_open-graph.html %}
 
 {% if site.owner.google.verify %}<!-- Webmaster Tools verfication -->
