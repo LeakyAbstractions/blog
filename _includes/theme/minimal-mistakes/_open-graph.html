@@ -1,13 +1,10 @@
-{% if page.image.feature  %}{% assign page_image = page.image.feature | prepend: '/images/feature/' %}
-{% elsif page.image.thumb %}{% assign page_image = page.image.thumb   | prepend: '/images/thumb/'   %}
-{% else                   %}{% assign page_image = '/images/thumb/default-thumb.png'                %}
-{% endif %}
+{% include variables/page_image.liquid %}
 <!-- Twitter Cards -->
 <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}">
 {% if site.twitter %}<meta name="twitter:site" content="{{ site.twitter | prepend: '@' }}">{% endif %}
-{% if author.twitter %}<meta name="twitter:creator" content="{{ author.twitter      | prepend: '@' }}">{% endif %}
-<meta name="twitter:card" content="summary{% if page.image.feature %}_large_image{% endif %}">
+{% if author.twitter %}<meta name="twitter:creator" content="{{ author.twitter | prepend: '@' }}">{% endif %}
+<meta name="twitter:card" content="summary{% if page_image_large %}_large_image{% endif %}">
 <meta name="twitter:image" content="{{ page_image | prepend: site.baseurl | prepend: site.url }}">
 
 <!-- Open Graph -->
