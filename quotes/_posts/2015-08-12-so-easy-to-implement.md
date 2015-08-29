@@ -1,5 +1,5 @@
 ---
-title: So Easy to Implement
+title: So easy to implement
 tags:
   - null-reference
   - programming-languages
