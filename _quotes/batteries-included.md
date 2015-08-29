@@ -1,0 +1,11 @@
+---
+title: Batteries included
+tumblr: http://guillermonkey.tumblr.com/post/3143925588
+tags:
+  - programming-languages
+  - systems-design
+  - simplicity
+author: Dennis Ritchie
+---
+
+A language that doesn’t have everything is actually easier to program in than some that do.
