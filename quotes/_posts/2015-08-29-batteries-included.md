@@ -6,7 +6,7 @@ tags:
   - design
   - simplicity
 quote:
-  author: Dennis M. Ritchie
+  author: Dennis Ritchie
 ---
 
 A language that doesn’t have everything is actually easier to program in than some that do.
