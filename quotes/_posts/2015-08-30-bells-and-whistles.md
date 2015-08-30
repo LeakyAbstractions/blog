@@ -6,7 +6,7 @@ tags:
   - overengineering
   - programming-languages
 quote:
-  author: Edsger W. Dijkstra
+  author: Edsger Dijkstra
 ---
 
 Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
