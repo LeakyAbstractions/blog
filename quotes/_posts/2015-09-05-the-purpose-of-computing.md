@@ -4,7 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3144270422
 tags:
   - purpose
   - computer-science
-  - mathematics
+  - knowledge
 quote:
   author: Richard Hamming
 ---
