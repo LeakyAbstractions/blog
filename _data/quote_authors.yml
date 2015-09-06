@@ -443,6 +443,31 @@
   wikipedia: Ken_Thompson
   email: ken@google.com
 
+"Tom Van Vleck":
+  name: Tom Van Vleck
+  bio: >
+    American computer software engineer and a computer security expert.
+    Worked at [*MIT*](http://mit.edu/ "Massachusetts Institute of Technology")
+    on [**CTSS**](https://en.wikipedia.org/wiki/Compatible_Time-Sharing_System "Compatible Time-Sharing System"),
+    and co-authored its [**first email program**](http://www.multicians.org/thvv/mail-history.html). In 1965, joined
+    [**Project Mac**](https://en.wikipedia.org/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory#Project_MAC "Project on Mathematics and Computation"),
+    which is the origin of the
+    [*MIT Computer Science and Artificial Intelligence Laboratory*](https://en.wikipedia.org/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory "MIT Computer Science and Artificial Intelligence Laboratory").
+    Worked for development of
+    [**Multics**](http://www.multicians.org/history.html "Multiplexed Information and Computing Service")
+    for more than 16 years at *MIT* and [*Honeywell Information Systems*](http://honeywell.com/).
+    Since 2007, most of the [**Multics source code**](http://www.multicians.org/multics-source.html) and documentation
+    is provided as [*free software*](https://www.gnu.org/philosophy/free-sw.html) by
+    [*IS&T at MIT*](https://ist.mit.edu/ "Information Systems & Technology").
+  avatar: quotes/tom_van_vleck.jpg
+  about:
+    link: http://www.multicians.org/thvv/tvvvita.html
+  google:
+    plus: +TomVanVleck
+  home: http://www.multicians.org/thvv/tvv-home.html?1
+  blog: http://thvv.livejournal.com/
+  linkedin: in/tomvanvleck
+
 "Chris Wenham":
   name: Christopher Lawrence Wenham
   bio: >
