@@ -9,7 +9,7 @@ quote:
   author: William of Ockham
   link: https://en.wikipedia.org/wiki/Occam%27s_razor
   caption: Lex parsimoniae
-  context: «Entities must not be multiplied beyond necessity»
+  context: Â«Entities must not be multiplied beyond necessityÂ»
 ---
 
 Entia non sunt multiplicanda praeter necessitatem.
