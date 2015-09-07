@@ -316,6 +316,22 @@
   about:
     link: http://people.csail.mit.edu/gregs/info-dylan-archive-html-2000/msg01208.html
 
+"William of Ockham":
+  name: William of Ockham
+  bio: >
+    English [Franciscan](https://en.wikipedia.org/wiki/Franciscan) [friar](https://en.wikipedia.org/wiki/Friar)
+    and [scholastic](https://en.wikipedia.org/wiki/Scholasticism) philosopher and theologian, who is believed
+    to have been born in [*Ockham*](https://en.wikipedia.org/wiki/Ockham,_Surrey), a small village in
+    [*Surrey*](https://en.wikipedia.org/wiki/Surrey). Considered to be one of the major figures of
+    [**medieval thought**](https://en.wikipedia.org/wiki/Medieval_philosophy) and was at the centre of the
+    **major intellectual and political controversies of the fourteenth century**. Commonly known for the methodological
+    principle that bears his name, [**Occam's razor**](https://en.wikipedia.org/wiki/Occam%27s_razor).
+    Produced significant works on logic, physics, and theology.
+  avatar: quotes/william_of_ockham.jpg
+  about:
+    link: http://www-gap.dcs.st-and.ac.uk/~history/Mathematicians/Ockham.html
+  wikipedia: William_of_Ockham
+
 "Ray Ozzie":
   name: Raymond "Ray" Ozzie
   bio: >
