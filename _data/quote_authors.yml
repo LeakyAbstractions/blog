@@ -514,6 +514,19 @@
     link: https://en.wikipedia.org/wiki/David_Wheeler_(British_computer_scientist)
   wikipedia: David_Wheeler_(British_computer_scientist)
 
+"William Wulf":
+  name: William Allan Wulf
+  bio: >
+    Computer scientist notable for his work in **programming languages** and **compilers**. Was a University Professor
+    and the *AT&T Professor of Engineering and Applied Sciences* in the Department of Computer Science at the
+    [*University of Virginia*](http://www.virginia.edu/), until June 2012.
+  avatar: quotes/william_wulf.jpg
+  about:
+    link: http://www.cs.virginia.edu/people/faculty/wulf.html
+  wikipedia: William_Wulf
+  email: wulf@cs.virginia.edu
+  home: http://www.cs.virginia.edu/~wulf/
+
 "Jamie Zawinski":
   name: James Werner "Jamie" Zawinski
   bio: >
