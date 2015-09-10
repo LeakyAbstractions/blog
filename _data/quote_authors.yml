@@ -82,6 +82,26 @@
     link: http://www.profcon.com/profcon/tac.htm
   home: http://loneagle.com/staff/index.html
 
+"L Peter Deutsch":
+  name: L Peter Deutsch
+  bio: >
+    American software developer and composer. Founder of [**Aladdin Enterprises**](http://www.major2nd.com/ae/) and creator
+    of [**Ghostscript**](http://www.ghostscript.com/), a [*free software*](https://www.gnu.org/philosophy/free-sw.html)
+    [*PostScript*](https://en.wikipedia.org/wiki/PostScript) and [*PDF*](https://en.wikipedia.org/wiki/PDF) interpreter.
+    Developed the **definitive [Smalltalk](https://en.wikipedia.org/wiki/Smalltalk) implementation** that inspired Java
+    [just-in-time technology](https://en.wikipedia.org/wiki/Just-in-time_compilation) 15 or-so years later.
+    At 17, wrote [**Basic PDP-1 LISP**](http://www.computerhistory.org/pdp-1/media/document/DEC.pdp_1.1964.102650371.pdf),
+    **the [PDP-1](https://en.wikipedia.org/wiki/PDP-1) [Lisp 1.5](https://en.wikipedia.org/wiki/Lisp_programming_language) implementation**.
+    Received a Ph.D. in *Computer Science* from the
+    [*University of California, Berkeley*](http://www.berkeley.edu/) in 1973, and has previously worked at
+    [*Xerox PARC*](http://www.parc.com/) and [*Sun Microsystems*](http://www.oracle.com/us/sun/index.htm).
+    Inducted as a Fellow of the [*ACM*](http://www.acm.org/ "Association for Computing Machinery") in 1994.
+  avatar: quotes/l_peter_deutsch.jpg
+  about:
+    link: http://www.codersatwork.com/l-peter-deutsch.html
+  wikipedia: L_Peter_Deutsch
+  home: http://www.major2nd.com/users/lpd/
+
 "Edsger Dijkstra":
   name: Edsger Wybe Dijkstra
   bio: >
