@@ -534,6 +534,19 @@
     link: https://en.wikipedia.org/wiki/David_Wheeler_(British_computer_scientist)
   wikipedia: David_Wheeler_(British_computer_scientist)
 
+"Niklaus Wirth":
+  name: Niklaus Emil Wirth
+  bio: >
+    Swiss computer scientist, best known for **designing several programming languages**, including
+    [**Pascal**](http://pascal-central.com/ppl/index.html#Origins), and for pioneering several classic topics in
+    **software engineering**. In 1984, won the [**Turing Award**](http://amturing.acm.org/) for developing a sequence of
+    **innovative computer languages**.
+  avatar: quotes/niklaus_wirth.jpg
+  about:
+    link: http://www.computerhistory.org/fellowawards/hall/bios/Niklaus,Wirth/
+  wikipedia: Niklaus_Wirth
+  home: http://people.inf.ethz.ch/wirth/
+
 "William Wulf":
   name: William Allan Wulf
   bio: >
