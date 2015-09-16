@@ -504,6 +504,29 @@
   blog: http://thvv.livejournal.com/
   linkedin: in/tomvanvleck
 
+"Philip Wadler":
+  name: Philip Lee "Phil" Wadler
+  bio: >
+    American computer scientist known for his contributions to **programming language design** and **type theory**.
+    In particular, contributed to the theory behind
+    [**functional programming**](https://en.wikipedia.org/wiki/Functional_programming) and the use of
+    [**monads in functional programming**](https://en.wikipedia.org/wiki/Monads_in_functional_programming),
+    the design of [**Haskell**](http://haskell.org/ "A purely functional language"), and
+    [**XQuery**](http://www.w3.org/XML/Query/ "A declarative query language"). In 1984, created
+    [**Orwell**](https://en.wikipedia.org/wiki/Orwell_(programming_language) "Orwell programming language").
+    Was involved in adding [**generic types**](https://en.wikipedia.org/wiki/Generic_programming) to
+    [*Java 5.0*](https://www.java.com/).
+  avatar: quotes/philip_wadler.jpg
+  about:
+    link: http://homepages.inf.ed.ac.uk/wadler/bio.html
+  wikipedia: Philip_Wadler
+  twitter: philipwadler
+  google:
+    plus: "100359591585949676427"
+  youtube: philipwadler
+  home: http://homepages.inf.ed.ac.uk/wadler/
+  blog: http://wadler.blogspot.com.es/
+
 "Chris Wenham":
   name: Christopher Lawrence Wenham
   bio: >
