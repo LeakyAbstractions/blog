@@ -276,6 +276,15 @@
     link: http://genius.cat-v.org/brian-kernighan/
   wikipedia: Brian_Kernighan
 
+"Kernighan and Plauger":
+  name: "The Elements of Programming Style"
+  bio: |
+    - [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan)
+    - [P. J. Plauger](https://en.wikipedia.org/wiki/P._J._Plauger)
+  avatar: quotes/the-elements-of-programming-style.jpg
+  about:
+    link: https://en.wikipedia.org/wiki/The_Elements_of_Programming_Style
+
 "Alan Kay":
   name: Alan Curtis Kay
   bio: >
