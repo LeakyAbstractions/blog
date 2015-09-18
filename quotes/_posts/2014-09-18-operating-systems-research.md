@@ -2,13 +2,13 @@
 title: Operating systems research
 tumblr: http://guillermonkey.tumblr.com/post/3144762056
 tags:
-  - failure
+  - unix
   - linux
   - operating-systems
   - research
-  - unix
+  - failure
 quote:
   author: Dennis Ritchie
 ---
 
-Unix has retarded OS research by 10 years and linux has retarded it by 20.
+Unix has retarded OS research by 10 years and Linux has retarded it by 20.
