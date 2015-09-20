@@ -2,11 +2,10 @@
 title: Configuration
 tumblr: http://guillermonkey.tumblr.com/post/3292660305
 tags:
-  - defaults
   - software
-  - specifications
-  - flexibility
   - configuration
+  - defaults
+  - flexibility
 quote:
   author: null
 ---
