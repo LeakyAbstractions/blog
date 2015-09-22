@@ -4,8 +4,9 @@ tumblr: http://guillermonkey.tumblr.com/post/3143047494
 tags:
   - simplicity
   - reliability
+  - software
 quote:
-  author: Edsger W. Dijkstra
+  author: Edsger Dijkstra
 ---
 
 Simplicity is prerequisite for reliability.
