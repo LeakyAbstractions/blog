@@ -2,19 +2,20 @@
 title: The eight fallacies of distributed computing
 tumblr: http://guillermonkey.tumblr.com/post/3143170350
 tags:
-  - administrators
-  - bandwith
   - distributed-computing
-  - falacies
-  - latency
-  - network-topology
+  - fallacies
   - networks
-  - security
   - reliability
+  - latency
+  - bandwith
+  - security
+  - topology
+  - administrators
 quote:
-  author: Peter Deutsch
-  caption: The Eight Fallacies of Distributed Computing
+  author: L Peter Deutsch
 ---
+
+The Eight Fallacies of Distributed Computing:
 
 1. The network is reliable.
 2. Latency is zero.
