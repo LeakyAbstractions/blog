@@ -4,7 +4,6 @@ tumblr: http://guillermonkey.tumblr.com/post/3143873632
 tags:
   - software
   - brute-force
-  - integrity
   - technical-debt
 quote:
   author: Alan Kay
