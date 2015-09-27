@@ -5,8 +5,6 @@ tags:
   - programming
   - constants
   - variables
-  - real-world
-  - specifications
 quote:
   author: null
 ---
