@@ -4,7 +4,8 @@ tumblr: http://guillermonkey.tumblr.com/post/9129584903
 tags:
   - predictions
   - future
-  - joke
+  - time
+  - estimations
 quote:
   author: Niels Bohr
 ---
