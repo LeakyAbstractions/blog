@@ -51,6 +51,19 @@
   wikipedia: Stan_Kelly-Bootle
   home: http://www.feniks.com/skb/
 
+"Niels Bohr":
+  name: Niels Henrik David Bohr
+  bio: >
+    Danish physicist who made foundational contributions to understanding
+    [**atomic structure**](https://en.wikipedia.org/wiki/Atomic_structure) and quantum theory, for which received the
+    [**Nobel Prize in Physics**](https://en.wikipedia.org/wiki/Nobel_Prize_in_Physics) in 1922.
+    Was also a philosopher and a promoter of **scientific research**.
+  avatar: quotes/niels_bohr.jpg
+  about:
+    link: http://academictree.org/physics/peopleinfo.php?pid=1943
+  wikipedia: Niels_Bohr
+  home: http://www.nba.nbi.dk/
+
 "Bill Bryson":
   name: William McGuire "Bill" Bryson
   bio: >
