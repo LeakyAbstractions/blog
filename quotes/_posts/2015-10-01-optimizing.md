@@ -4,7 +4,6 @@ tumblr: http://guillermonkey.tumblr.com/post/3155441081
 tags:
   - programming
   - optimization
-  - radicalism
 quote:
   author: Donald Knuth
 ---
