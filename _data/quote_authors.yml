@@ -422,6 +422,27 @@
   email: r@google.com
   home: http://herpolhode.com/rob/
 
+"P. J. Plauger":
+  name: Phillip James (Bill) Plauger
+  bio: >
+    Author, entrepreneur and computer programmer. Has written and co-written articles and books about
+    **programming style**, **software tools**, and
+    [**C**](https://en.wikipedia.org/wiki/C_(programming_language) "The C Programming Language"), as well as works of
+    **science fiction**. Worked at [*Bell Labs*](http://bell-labs.com) from 1969 to 1975, where coauthored
+    [**Elements of Programming Style**](https://en.wikipedia.org/wiki/The_Elements_of_Programming_Style) and
+    [**Software Tools**](https://openlibrary.org/books/OL4934660M) with
+    [*Brian Kernighan*](https://en.wikipedia.org/wiki/Brian_Kernighan). In 1978, founded
+    [**Whitesmiths**](https://en.wikipedia.org/wiki/Whitesmiths), the first company to sell a **C compiler** and
+    [**Unix-like operating system (Idris)**](https://en.wikipedia.org/wiki/Idris_(operating_system)).
+    Also invented [**pair programming**](https://en.wikipedia.org/wiki/Pair_programming) there. Has been involved in
+    C and C++ standardization and is now the president of [**Dinkumware**](http://www.dinkumware.com/).
+  avatar: quotes/p_j_plauger.jpg
+  about:
+    link: http://www.isfdb.org/cgi-bin/ea.cgi?P._J._Plauger
+  wikipedia: P._J._Plauger
+  mail: pjp@plauger.com
+  home: http://www.plauger.com/
+
 "Japanese proverb":
   name: Japanese Proverbs
   bio: >
