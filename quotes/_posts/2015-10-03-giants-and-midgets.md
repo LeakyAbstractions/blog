@@ -3,7 +3,6 @@ title: Giants and midgets
 tumblr: http://guillermonkey.tumblr.com/post/3150717778
 tags:
   - computer-science
-  - failure
   - science
   - software
 quote:
