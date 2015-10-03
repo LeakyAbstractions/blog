@@ -95,6 +95,25 @@
     link: http://www.profcon.com/profcon/tac.htm
   home: http://loneagle.com/staff/index.html
 
+"Alan Cooper":
+  name: Alan Cooper
+  bio: >
+    American software designer and programmer. Widely recognized as the **“Father of Visual Basic”**, is also known for
+    his books [**About Face 3: The Essentials of Interaction Design**](https://openlibrary.org/books/OL7595751M) and
+    [**The Inmates Are Running the Asylum: Why High-Tech Products Drive Us Crazy and How to Restore the Sanity**]
+    (https://openlibrary.org/works/OL58154W).
+    As founder of [**Cooper**](http://www.cooper.com/), a leading interaction design consultancy, created the
+    [**Goal-Directed design methodology**]
+    (http://www.cooper.com/journal/2014/04/inside-goal-directed-design-a-two-part-conversation-with-alan-cooper) and
+    pioneered the use of [**personas**](http://www.cooper.com/journal/2008/5/the_origin_of_personas) as practical
+    [**interaction design**](https://en.wikipedia.org/wiki/Interaction_design) tools to create high-tech products.
+  avatar: quotes/alan_cooper.jpg
+  about:
+    link: http://www.cooper.com/people/alan_cooperhttp://www.cooper.com/journal/alan_cooper/
+  wikipedia: Alan_Cooper
+  blog: http://www.cooper.com/author/alan_cooper
+  twitter: mralancooper
+
 "L Peter Deutsch":
   name: L Peter Deutsch
   bio: >
