@@ -97,6 +97,42 @@ article.quote {
 	}
 }
 
+/* Quote Author List */
+#index {
+
+	article.quote_author {
+
+		@include clearfix;
+		margin: 0 0 2rem;
+
+		div {
+
+			p {
+				margin: 0 0 .5rem;
+			}
+		}
+
+		img.bio-photo {
+
+			@include rounded(150px);
+			float: right;
+			width: 8rem;
+			height: 8rem;
+			margin: 1rem 0 1rem 1rem;
+		}
+
+		a.author-social {
+
+			display: inline;
+
+			span {
+
+				display: none;
+			}
+		}
+	}
+}
+
 /* Footer */
 .footer-wrap {
 

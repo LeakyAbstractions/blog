@@ -1,0 +1,29 @@
+{% assign quote_author_name = include.post[0] %}
+{% unless quote_author_name == 'Anonymous' %}
+
+	{% assign quotes = site.data.arrays.empty %}
+	{% for post in site.categories.quotes %}
+		{% if post.quote.author == quote_author_name %}
+			{% assign quotes = quotes | push: post %}
+		{% endif %}
+	{% endfor %}
+
+	{% if quotes %}
+
+    <article class="quote_author" id="{{ quote_author_name }}">
+
+		{% assign author = include.post | last %}
+		{% include theme/minimal-mistakes/_author-bio.html %}
+
+      <ul>
+		{% for post in quotes %}
+        <li>
+			{% include theme/minimal-mistakes/post-link.html post=post %}
+        </li>
+		{% endfor %}
+      </ul>
+    </article>
+
+	{% endif %}
+
+{% endunless %}
