@@ -69,8 +69,21 @@ The resulting array is returned in a variable `content__elements`.
 
 		{% else %}
 
+
+			{% if content_type contains 'data.' %}
+
+## Retrieve site data
+
+				{% assign tmp = content_type | split: '.' | last %}
+				{% assign tmp = site.data[tmp] %}
+
+			{% else %}
+
 ## Retrieve an empty list due to wrong type `{{ content_type }}`
-			{% assign tmp = site.data.arrays.empty %}
+
+				{% assign tmp = site.data.arrays.empty %}
+
+			{% endif %}
 
 	{% endcase %}
 
