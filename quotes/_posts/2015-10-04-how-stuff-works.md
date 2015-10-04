@@ -2,10 +2,10 @@
 title: How stuff works
 tumblr: http://guillermonkey.tumblr.com/post/3150825381
 tags:
-  - not-invented-here
-  - reusability
-  - technical-debt
+  - knowledge
   - maintainability
+  - technical-debt
+  - not-invented-here
 quote:
   author: Richard Feynman
 ---
