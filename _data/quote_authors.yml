@@ -95,6 +95,24 @@
     link: http://www.profcon.com/profcon/tac.htm
   home: http://loneagle.com/staff/index.html
 
+"John Carmack":
+  name: John D. Carmack
+  bio: >
+    American game programmer and the co-founder of [**Id Software**](http://www.idsoftware.com/). Was the
+    **lead programmer** of the Id **video games** [*Commander Keen*](https://en.wikipedia.org/wiki/Commander_Keen),
+    [*Wolfenstein 3D*](https://en.wikipedia.org/wiki/Wolfenstein_3D),
+    [*Doom*](https://en.wikipedia.org/wiki/Doom_(series)), [*Quake*](https://en.wikipedia.org/wiki/Quake_(video_game)),
+    [*Rage*](https://en.wikipedia.org/wiki/Rage_(video_game)) and their sequels. Best known for his
+    **innovations in 3D graphics**, such as his famous
+    [**Carmack's Reverse algorithm for shadow volumes**](https://en.wikipedia.org/wiki/Shadow_volume), and is also a
+    rocketry enthusiast and the founder and lead engineer of [*Armadillo Aerospace*](http://www.armadilloaerospace.com/).
+    In August 2013, took the position of CTO at [*Oculus VR*](http://oculusvr.com/).
+  avatar: quotes/john_carmack.jpg
+  about:
+    link: https://www.mobygames.com/developer/sheet/view/developerId,682/
+  wikipedia: John_Carmack
+  twitter: id_aa_carmack
+
 "Alan Cooper":
   name: Alan Cooper
   bio: >
