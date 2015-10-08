@@ -1,9 +1,9 @@
 ---
-title: The design of Unix
+title: The design of UNIX
 tumblr: http://guillermonkey.tumblr.com/post/3142903110
 tags:
-  - design
   - unix
+  - design
   - users
   - flexibility
 quote:
