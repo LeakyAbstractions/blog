@@ -281,6 +281,23 @@
   wikipedia: Bill_Gosper
   home: http://gosper.org/
 
+"Doug Gwyn":
+  name: Douglas Gwyn
+  bio: >
+    American computer scientist and Unix expert.
+    Worked at [*Ballistic Research Lab*](https://en.wikipedia.org/wiki/Ballistic_Research_Laboratory) in Maryland,
+    where contributed greatly to
+    [**the ANSI version of C**](https://en.wikipedia.org/wiki/C_(programming_language) "The C Programming Language").
+    Helped turning C (which [**UNIX**](http://www.unix.org/ "The UNIX Operating System") is based on) into a
+    standardized computing language, which is used now all around the world. Was a frequent poster back in the heyday of
+    [Usenet](https://en.wikipedia.org/wiki/Usenet).
+    Currently Emeritus at [*US Army Research Laboratory*](http://www.arl.army.mil/).
+  avatar: quotes/default.jpg
+  about:
+    link: http://ftp.arl.mil/mike/comphist/hist.html
+  linkedin: pub/douglas-gwyn/63/807/212
+  email: gwyn@arl.mil
+
 "Richard Hamming":
   name: Richard Wesley Hamming
   bio: >
