@@ -440,6 +440,29 @@
   linkedin: in/bertrandmeyer
   home: https://bertrandmeyer.com/
 
+"Ron Minnich":
+  name: Ronald G. Minnich
+  bio: >
+    American software engineer and old-time Unix hacker. Has long been associated with **Open Source firmware**. Founded
+    the **LinuxBIOS project** in 1999 (renamed [**coreboot**](http://www.coreboot.org/) in 2008) to provide fast and
+    flexible Open Source [EFI](http://www.uefi.org/ "Unified Extensible Firmware Interface") firmware for multiple
+    platforms. Worked for the *Cluster Research Lab* in the *Advanced Computing Laboratory* at
+    [*Los Alamos National Laboratory*](http://lanl.gov/), doing research in the areas of
+    **distributed and [cluster computing](https://en.wikipedia.org/wiki/Computer_cluster)** and **high performance networks**.
+    Also contributed to [**Plan 9**](http://plan9.bell-labs.com/plan9/ "Plan 9 operating systems")
+    and has been involved in many open source projects, such as
+    [**Akaros**](http://akaros.cs.berkeley.edu/akaros-web/news.php "A free operating system for manycore architectures").
+    Currently works at [*Google*](https://www.google.com/)
+  avatar: quotes/ron_minnich.jpg
+  about:
+    link: https://www.linkedin.com/pub/ron-minnich/3/994/960
+  linkedin: pub/ron-minnich/3/994/960
+  google:
+    plus: +ronminnich
+  github: rminnich
+  bitbucket: rminnich
+  twitter: coreboot
+
 "Eric O’Dell":
   name: Eric O’Dell
   bio: >
