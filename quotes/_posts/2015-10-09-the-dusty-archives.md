@@ -3,6 +3,7 @@ title: The dusty archives
 tumblr: http://guillermonkey.tumblr.com/post/3143244105
 tags:
   - computer-science
+  - research
   - amnesia
 quote:
   author: Ron Minnich
