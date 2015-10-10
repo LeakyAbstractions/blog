@@ -3,9 +3,9 @@ title: The object-oriented model
 tumblr: http://guillermonkey.tumblr.com/post/3143840469
 tags:
   - object-oriented
-  - programming
-  - reusability
   - spaghetti-code
+  - programming
+  - bad-code
 quote:
   author: Paul Graham
 ---
