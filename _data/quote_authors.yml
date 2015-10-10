@@ -281,6 +281,25 @@
   wikipedia: Bill_Gosper
   home: http://gosper.org/
 
+"Paul Graham":
+  name: Paul Graham
+  bio: >
+    English programmer, essayist and [venture capitalist](https://en.wikipedia.org/wiki/Venture_capital). Known for his
+    work on [**Lisp**](https://en.wikipedia.org/wiki/Lisp_programming_language "Lisp Programming Language").
+    Co-founded [**Viaweb**](https://en.wikipedia.org/wiki/Viaweb)
+    (which eventually became [**Yahoo! Store**](https://smallbusiness.yahoo.com/ecommerce)) and
+    the [**Y Combinator**](http://www.ycombinator.com/) seed capital firm. Publishes essays on
+    [**paulgraham.com**](http://www.paulgraham.com/) and is author of some programming books, such as:
+    [**On Lisp**](https://openlibrary.org/works/OL7944707W),
+    [**ANSI Common Lisp**](https://openlibrary.org/works/OL7944696W), and
+    [**Hackers & Painters**](https://openlibrary.org/works/OL2973119W).
+  avatar: quotes/paul_graham.jpg
+  about:
+    link: http://www.paulgraham.com/bio.html
+  wikipedia: Paul_Graham_(computer_programmer)
+  twitter: paulg
+  home: http://www.paulgraham.com/
+
 "Doug Gwyn":
   name: Douglas Gwyn
   bio: >
