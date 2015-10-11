@@ -3,10 +3,9 @@ title: Localhost
 tumblr: http://guillermonkey.tumblr.com/post/3293219289
 badge: smile-o
 tags:
-  - computers
-  - networks
   - programming
   - joke
+  - networks
 quote:
   author: null
 ---
