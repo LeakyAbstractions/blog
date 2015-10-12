@@ -5,7 +5,7 @@ tags:
   - computer-science
   - computers
 quote:
-  author: Edsger W. Dijkstra
+  author: Edsger Dijkstra
 ---
 
 Computer science is no more about computers than astronomy is about telescopes.
