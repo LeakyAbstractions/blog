@@ -655,6 +655,31 @@
   wikipedia: Ken_Thompson
   email: ken@google.com
 
+"Linus Torvalds":
+  name: Linus Benedict Torvalds
+  bio: >
+    Finnish American software engineer, who was the principal force behind the development of the
+    [**Linux kernel**](https://en.wikipedia.org/wiki/Linux_kernel) that became
+    **the most popular kernel for operating systems**, like [*GNU*](https://en.wikipedia.org/wiki/GNU) and
+    [*Android*](https://en.wikipedia.org/wiki/Android_(operating_system)). Later became the chief architect of the Linux
+    kernel and now acts as the project's coordinator. Also created
+    [**Git**](https://git-scm.com/ "Git, the distributed revision control system"). Was honored, along with
+    [*Shinya Yamanaka*](https://en.wikipedia.org/wiki/Shinya_Yamanaka), with the 2012
+    [**Millennium Technology Prize**](http://taf.fi/en/millennium-technology-prize/) by the
+    [*Technology Academy Finland*](http://www.technologyacademy.fi/index_en.html)
+    *in recognition of his creation of a new open source operating system for computers leading to the widely used Linux kernel*.
+    Is also the recipient of the 2014 [*IEEE*](https://www.ieee.org./ "Institute of Electrical and Electronics Engineers")
+    [**Computer Society Computer Pioneer Award**](http://www.computer.org/web/awards/pioneer).
+  avatar: quotes/linus_torvalds.jpg
+  about:
+    link: https://en.wikipedia.org/wiki/Linus_Torvalds
+  wikipedia: Linus_Torvalds
+  google:
+    plus: +LinusTorvalds
+  youtube: 971linus
+  github: torvalds
+  home: http://torvalds-family.blogspot.com/
+
 "Leonardo da Vinci":
   name: Leonardo di ser Piero da Vinci
   bio: >
