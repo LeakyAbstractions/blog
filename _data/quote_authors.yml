@@ -482,6 +482,23 @@
   bitbucket: rminnich
   twitter: coreboot
 
+"Erik Naggum":
+  name: Erik Naggum
+  bio: >
+    Norwegian computer programmer recognized for his work in the fields of
+    [**SGML**](https://en.wikipedia.org/wiki/SGML), [**Emacs**](https://en.wikipedia.org/wiki/Emacs) and
+    [**Lisp**](https://en.wikipedia.org/wiki/Lisp_programming_language "Lisp Programming Language"). Since the early 90s
+    was also a provocative participant on various [Usenet](https://en.wikipedia.org/wiki/Usenet) discussion groups. Made
+    significant contributions to [**RFC 1123**](https://en.wikipedia.org/wiki/Link_layer), which defines and discusses
+    the requirements for Internet host software, and [**RFC 2049**](https://en.wikipedia.org/wiki/MIME), which defines
+    electronic information transfer of various binary formats through e-mail.
+  avatar: quotes/erik_naggum.jpg
+  about:
+    link: http://www.emacswiki.org/emacs/ErikNaggum
+  wikipedia: Erik_Naggum
+  email: erik@naggum.no
+  home: http://naggum.no/
+
 "Eric O’Dell":
   name: Eric O’Dell
   bio: >
