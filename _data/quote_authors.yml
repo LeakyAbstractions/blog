@@ -206,6 +206,21 @@
   wikipedia: Richard_Feynman
   home: http://www.richardfeynman.com/
 
+"Henry Ford":
+  name: Henry Ford
+  bio: >
+    American industrialist, the founder of the [**Ford Motor Company**](https://en.wikipedia.org/wiki/Ford_Motor_Company),
+    and the sponsor of the development of the [**assembly line**](https://en.wikipedia.org/wiki/Assembly_line) technique
+    of [**mass production**](https://en.wikipedia.org/wiki/Mass_production). Although did not invent the automobile or
+    the assembly line, converted the automobile from an expensive curiosity	into a practical conveyance, that would
+    profoundly impact the landscape of the twentieth century. Credited with
+    [**"Fordism"**](https://en.wikipedia.org/wiki/Fordism): mass production of inexpensive goods coupled with high wages
+    for workers.
+  avatar: quotes/henry_ford.jpg
+  about:
+    link: http://hfha.org/
+  wikipedia: Henry_Ford
+
 "Dick Gabriel":
   name: Richard P. Gabriel
   bio: >
