@@ -653,6 +653,22 @@
     link: https://en.wikipedia.org/wiki/Henry_Spencer
   wikipedia: Henry_Spencer
 
+"Charles Stross":
+  name: Charles David George "Charlie" Stross
+  bio: >
+    British writer of science fiction, [Lovecraftian horror](https://en.wikipedia.org/wiki/Lovecraftian_horror) and
+    fantasy. Specialises in [**hard science fiction**](https://en.wikipedia.org/wiki/Hard_science_fiction) and
+    [**space opera**](https://en.wikipedia.org/wiki/Space_opera). Between 1994 and 2004, was also an active writer for
+    the magazine [*Computer Shopper*](http://www.computershopper.co.uk/) and was responsible for the monthly
+    *Linux column*. Due to time constraints, he eventually stopped writing for *Computer Shopper* to devote more time to
+    **novels**. However, he continues to publish freelance articles on the Internet.
+  avatar: quotes/charles_stross.jpg
+  about:
+    link: http://www.antipope.org/charlie/blog-static/fiction/faq.html
+  wikipedia: https://en.wikipedia.org/wiki/Charles_Stross
+  twitter: cstross
+  home: http://www.antipope.org/charlie/
+
 "Audrey Tang":
   name: Audrey Tang
   bio: >
