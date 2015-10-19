@@ -653,6 +653,32 @@
     link: https://en.wikipedia.org/wiki/Henry_Spencer
   wikipedia: Henry_Spencer
 
+"Mike Stay":
+  name: Michael Stay
+  bio: >
+    American cryptanalyst and [reverse engineer](https://en.wikipedia.org/wiki/Reverse_engineering). For five years was
+    one of the principal developers on [**Google's Caja**](https://developers.google.com/caja/) project, a 
+    virtualization layer for web browsers. Co-designed the **security model** which was later adopted by
+    [ECMAScript 5](http://www.ecma-international.org/publications/standards/Ecma-262.htm) --- every modern web browser
+    uses it. Also wrote the rules for an
+    **ES3-to-ES5 [transpiler](https://en.wikipedia.org/wiki/Source-to-source_compiler)** that inserted security hooks
+    and the runtime security library to support it.
+    Has published papers on [**cryptanalysis**](https://en.wikipedia.org/wiki/Cryptanalysis),
+    [**algorithmic information theory**](https://en.wikipedia.org/wiki/Algorithmic_information_theory),
+    [**thermodynamics**](https://en.wikipedia.org/wiki/Thermodynamics),
+    [**quantum computation**](https://en.wikipedia.org/wiki/Quantum_computation), and
+    [**higher category theory**](https://en.wikipedia.org/wiki/Higher_category_theory).
+  avatar: quotes/mike_stay.jpg
+  about:
+    link: https://www.cs.auckland.ac.nz/~mike/
+  email: metaweta@gmail.com
+  youtube: metawetayt
+  twitter: metaweta
+  google:
+    plus: +MikeStay
+  github: metaweta
+  home: https://reperiendi.wordpress.com/
+
 "Charles Stross":
   name: Charles David George "Charlie" Stross
   bio: >
