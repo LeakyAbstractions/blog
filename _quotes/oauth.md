@@ -1,0 +1,9 @@
+---
+title: OAuth
+tumblr: http://guillermonkey.tumblr.com/post/3143745376
+tags:
+  - oauth
+author: Mike Stay
+---
+
+OAuth is the best that the wrong way of doing things can provide.
