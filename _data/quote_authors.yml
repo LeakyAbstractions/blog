@@ -221,6 +221,25 @@
     link: http://hfha.org/
   wikipedia: Henry_Ford
 
+"Charles Forsyth":
+  name: Charles H. Forsyth
+  bio: >
+    British computer scientist and recognised authority on [**UNIX**](http://www.unix.org/ "The UNIX Operating System"),
+    its successor [**Plan 9**](http://plan9.bell-labs.com/plan9/ "Plan 9 operating systems"), and its new cousin
+    [**Inferno**](http://www.vitanuova.com/inferno/ "Inferno Operating Systems"). Has more than 30 years of wide
+    computing experience, specialising in the **design and implementation of systems software**. Early user of Unix
+    outside *Bell Labs*, developing **low-level drivers**, **protocol stacks**, **compilers**, and
+    **system and application software**. Founding director of [**Vita Nuova**](http://www.vitanuova.com/), began
+    extending the reach of Inferno to new platforms, and has since been instrumental in deciding Inferno's future.
+  avatar: quotes/charles_forsyth.jpg
+  about:
+    link: http://www.researchgate.net/profile/Charles_Forsyth3
+  linkedin: pub/charles-forsyth/1/8b/862
+  email: charles.forsyth@gmail.com
+  twitter: charles_forsyth
+  home: http://www.terzarima.net/
+  blog: http://softwaremagpie.blogspot.com.es/
+
 "Dick Gabriel":
   name: Richard P. Gabriel
   bio: >
