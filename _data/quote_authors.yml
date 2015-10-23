@@ -698,6 +698,27 @@
   github: metaweta
   home: https://reperiendi.wordpress.com/
 
+"Bjarne Stroustrup":
+  name: Bjarne Stroustrup
+  bio: >
+    Danish computer scientist, most notable for the
+    **creation and development of the widely used [C++](https://isocpp.org/ "The C++ Programming Language")**. 
+    Distinguished **Research Professor*** and holds the **College of Engineering Chair in Computer Science** at
+    [*Texas A&M University*](http://www.tamu.edu/), a visiting professor at
+    [*Columbia University*](http://www.columbia.edu/), and works at
+    [*Morgan Stanley*](https://www.morganstanley.com/). Has written or co-written a number of books, including
+    the following: [**A Tour of C++**](http://www.stroustrup.com/Tour.html),
+    [**Programming: Principles and Practice Using C++**](http://www.stroustrup.com/programming.html),
+    [**The C++ Programming Language**](http://www.stroustrup.com/4th.html),
+    [**The Design and Evolution of C++**](http://www.stroustrup.com/dne.html)
+    and [**many other publications**](http://www.stroustrup.com/papers.html).
+  avatar: quotes/bjarne_stroustrup.jpg
+  about:
+    link: https://parasol.tamu.edu/people/bs/
+  wikipedia: Bjarne_Stroustrup
+  email: bjarne@stroustrup.com
+  home: http://www.stroustrup.com/
+
 "Charles Stross":
   name: Charles David George "Charlie" Stross
   bio: >
