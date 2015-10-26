@@ -38,6 +38,24 @@
   linkedin: pub/pete-becker/5/75b/a6
   home: http://www.petebecker.com/
 
+"Federico Benavento":
+  name: Federico G. Benavento
+  bio: >
+    Argentinean Law/Arts student and software developer. Author of [**Abaco**](http://lab-fgb.com/abaco/), a multi-page
+    graphical **Web Browser** for [*Plan 9*](http://plan9.bell-labs.com/plan9/ "Plan 9 operating systems") and
+    [**Mac9P**](https://github.com/benavento/mac9p), a *Mac OS X* **kernel extension** that allows mounting
+    [**9P**](http://en.wikipedia.org/wiki/9P) file systems.
+  avatar: quotes/federico_benavento.jpg
+  about:
+    link: https://www.linkedin.com/in/federicobenavento
+  email: benavento@gmail.com
+  google:
+    plus: "105061949126000164400"
+  github: benavento
+  linkedin: in/federicobenavento
+  twitter: fgb__
+  home: http://lab-fgb.com/
+
 "Stan Kelly-Bootle":
   name: Stanley Bootle
   bio: >
