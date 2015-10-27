@@ -230,7 +230,7 @@
     American industrialist, the founder of the [**Ford Motor Company**](https://en.wikipedia.org/wiki/Ford_Motor_Company),
     and the sponsor of the development of the [**assembly line**](https://en.wikipedia.org/wiki/Assembly_line) technique
     of [**mass production**](https://en.wikipedia.org/wiki/Mass_production). Although did not invent the automobile or
-    the assembly line, converted the automobile from an expensive curiosity	into a practical conveyance, that would
+    the assembly line, converted the automobile from an expensive curiosity into a practical conveyance, that would
     profoundly impact the landscape of the twentieth century. Credited with
     [**"Fordism"**](https://en.wikipedia.org/wiki/Fordism): mass production of inexpensive goods coupled with high wages
     for workers.
@@ -351,6 +351,16 @@
   wikipedia: Paul_Graham_(computer_programmer)
   twitter: paulg
   home: http://www.paulgraham.com/
+
+"Gerald W. Grumet":
+  name: Gerald W. Grumet
+  bio: >
+    American psychiatrist. Author of the book **Taming the Bureaucrat**, a research into the increasing
+    *bureaucratization* of medicine. Concluded that the central problem of bureaucracy is the
+    **rigid or obsessional personalities** that form the functional core of advanced societies.
+  avatar: quotes/gerald_w_grumet.jpg
+  about:
+    link: https://www.smashwords.com/profile/view/geraldgrumet
 
 "Doug Gwyn":
   name: Douglas Gwyn
