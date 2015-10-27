@@ -2,10 +2,9 @@
 title: Simplifying and complicating
 tumblr: http://guillermonkey.tumblr.com/post/3141923424
 tags:
-  - design
-  - programming
-  - complexity
   - simplicity
+  - complexity
+  - morons
 quote:
   author: Gerald W. Grumet
 ---
