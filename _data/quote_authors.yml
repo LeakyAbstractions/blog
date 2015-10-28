@@ -503,6 +503,21 @@
   wikipedia: Donald_Knuth
   home: http://cs.stanford.edu/~uno/
 
+"Katie Lucas":
+  name: Katie Lauren Lucas
+  bio: >
+    British software engineer. Specialized in **high-performance and large-scale processing systems**. Primarily
+    interested in **server-side development** — [Big data](https://en.wikipedia.org/wiki/Big_data) processing.
+    Her strongest background is in the **design and implementation** of **[object-oriented](https://en.wikipedia.org/wiki/Object-oriented_programming) software**
+    in *C++* with some work in *Java*. Has also developed in *Python*, *Perl* and *Shell*. Currently works at [*Google*](http://www.google.com), where has also worked on **UI development**, creating
+    **visualisations into complex data** using JS/Closure/HTML/CSS/etc.
+  avatar: quotes/default.jpg
+  about:
+    link: http://www.fysh.org/~katie/cv/
+  linkedin: pub/katie-lucas/2/38/ab8
+  email: katie@fysh.org
+  home: http://www.fysh.org/~katie/
+
 "Bertrand Meyer":
   name: Bertrand Meyer
   bio: >
