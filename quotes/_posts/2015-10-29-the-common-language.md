@@ -7,4 +7,4 @@ quote:
   author: null
 ---
 
-The common language of programmers is Profanity.
+The common language of programmers is *Profanity*.
