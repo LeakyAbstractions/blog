@@ -2,8 +2,9 @@
 title: Formulating questions
 tumblr: http://guillermonkey.tumblr.com/post/3155338553
 tags:
-  - design
-  - parallelism
+  - science
+  - questions
+  - answers
 quote:
   author: Martin Fowler
 ---
