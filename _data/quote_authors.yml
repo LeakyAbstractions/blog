@@ -258,6 +258,28 @@
   home: http://www.terzarima.net/
   blog: http://softwaremagpie.blogspot.com.es/
 
+"Martin Fowler":
+  name: Martin Fowler
+  bio: >
+    British software engineer, author and international public speaker on software development, specializing in
+    **[object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming) analysis and design**,
+    [**UML**](https://en.wikipedia.org/wiki/Unified_Modeling_Language),
+    [**patterns**](https://en.wikipedia.org/wiki/Design_pattern_(computer_science) "Design patterns"), and
+    [**agile**](https://en.wikipedia.org/wiki/Agile_software_development "Agile software development") methodologies,
+    including [**extreme programming**](http://www.extremeprogramming.org/). Popularized the practice of
+    [code refactoring](https://en.wikipedia.org/wiki/Code_refactoring) with his 1999 book
+    [**Refactoring **](https://openlibrary.org/books/OL7407595M). In 2004 introduced an architectural pattern called
+    [**Presentation Model**](http://martinfowler.com/eaaDev/PresentationModel.html).
+  avatar: quotes/martin_fowler.jpg
+  about:
+    link: http://martinfowler.com/aboutMe.html
+  wikipedia: Martin_Fowler
+  google:
+    plus: "107610341080687821846"
+  email: fowler@acm.org
+  twitter: martinfowler
+  home: http://martinfowler.com/
+
 "Dick Gabriel":
   name: Richard P. Gabriel
   bio: >
@@ -720,7 +742,7 @@
   name: Michael Stay
   bio: >
     American cryptanalyst and [reverse engineer](https://en.wikipedia.org/wiki/Reverse_engineering). For five years was
-    one of the principal developers on [**Google's Caja**](https://developers.google.com/caja/) project, a 
+    one of the principal developers on [**Google's Caja**](https://developers.google.com/caja/) project, a
     virtualization layer for web browsers. Co-designed the **security model** which was later adopted by
     [ECMAScript 5](http://www.ecma-international.org/publications/standards/Ecma-262.htm) --- every modern web browser
     uses it. Also wrote the rules for an
@@ -746,7 +768,7 @@
   name: Bjarne Stroustrup
   bio: >
     Danish computer scientist, most notable for the
-    **creation and development of the widely used [C++](https://isocpp.org/ "The C++ Programming Language")**. 
+    **creation and development of the widely used [C++](https://isocpp.org/ "The C++ Programming Language")**.
     Distinguished **Research Professor** and holds the **College of Engineering Chair in Computer Science** at
     [*Texas A&M University*](http://www.tamu.edu/), a visiting professor at
     [*Columbia University*](http://www.columbia.edu/), and works at
