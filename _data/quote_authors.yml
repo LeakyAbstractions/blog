@@ -148,6 +148,19 @@
   blog: http://www.cooper.com/author/alan_cooper
   twitter: mralancooper
 
+"Dave Cutler":
+  name: David Neil "Dave" Cutler, Sr.
+  bio: >
+    American software engineer, designer and developer of several operating systems including
+    [**Windows NT**](https://en.wikipedia.org/wiki/Microsoft_Windows_NT) at [*Microsoft*](http://www.microsoft.com) and
+    [**RSX-11M**](https://en.wikipedia.org/wiki/RSX-11M), [**VMS**](http://www.hp.com/go/openvms) and
+    [**VAXELN**](https://en.wikipedia.org/wiki/VAXELN) at
+    [*Digital Equipment Corporation*](https://en.wikipedia.org/wiki/Digital_Equipment_Corporation).
+  avatar: quotes/dave_cutler.jpg
+  about:
+    link: http://www.microsoft.com/about/technicalrecognition/david-cutler.aspx
+  wikipedia: Dave_Cutler
+
 "L Peter Deutsch":
   name: L Peter Deutsch
   bio: >
