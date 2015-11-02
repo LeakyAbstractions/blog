@@ -886,6 +886,18 @@
     link: http://www.biography.com/people/leonardo-da-vinci-40396
   wikipedia: Leonardo_da_Vinci
 
+"Alexander Viro":
+  name: Alexander Viro
+  bio: >
+    Developer of the [**Linux kernel**](https://en.wikipedia.org/wiki/Linux_kernel). Maintains the file subsystem,
+    [**VFS** "Virtual file system"](https://en.wikipedia.org/wiki/Virtual_file_system). Icorporated the private
+    name space concept into the 2.5 Linux kernel. [*Linus Torvalds*](https://en.wikipedia.org/wiki/Linus_Torvalds) said
+    about his code: ["Poetry in patches, indeed"](https://lkml.org/lkml/2001/12/27/99).
+  avatar: quotes/alexander_viro.jpg
+  about:
+    link: http://www.abclinuxu.cz/kdo-je/alexander-viro
+  email: viro@zeniv.linux.org.uk
+
 "Tom Van Vleck":
   name: Tom Van Vleck
   bio: >
