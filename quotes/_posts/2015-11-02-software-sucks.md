@@ -5,6 +5,8 @@ tags:
   - software
   - source-code
   - bugs
+  - open-source
+  - proprietary
 quote:
   author: Alexander Viro
 ---
