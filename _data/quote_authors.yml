@@ -649,6 +649,21 @@
   wikipedia: Ray_Ozzie
   home: http://ozzie.net/
 
+"David Parnas":
+  name: David Lorge Parnas
+  bio: >
+    Canadian early pioneer of [software engineering](https://en.wikipedia.org/wiki/Software_engineering). Developed the
+    concept of [**information hiding**](https://en.wikipedia.org/wiki/Information_hiding) in
+    [**modular programming**](https://en.wikipedia.org/wiki/Modular_programming), which is an important element of
+    [**object-oriented programming**](https://en.wikipedia.org/wiki/Object-oriented_programming) today. Author of the
+    seminal paper [**On the criteria to be used in decomposing systems into modules**](http://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf)
+    and [**A rational design process: How and why to fake it**](http://dl.acm.org/citation.cfm?id=9800). Also noted for
+    his advocacy of **precise documentation**.
+  avatar: quotes/david_parnas.jpg
+  about:
+    link: https://en.wikipedia.org/wiki/David_Parnas
+  wikipedia: David_Parnas
+
 "Rob Pike":
   name: Robert Pike
   bio: >
