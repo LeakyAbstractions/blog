@@ -3,7 +3,7 @@ title: Overlooked risks
 tumblr: http://guillermonkey.tumblr.com/post/3144921305
 tags:
   - programmers
-  - incompetence
+  - productivity
 quote:
   author: David Parnas
 ---
