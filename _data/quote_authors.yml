@@ -308,6 +308,21 @@
   wikipedia: Richard_P._Gabriel
   home: http://dreamsongs.com/
 
+"Bdale Garbee":
+  name: Alfred Dickinson Barksdale Garbee II
+  bio: >
+    American computer specialist who works with Linux, particularly [*Debian*](https://www.debian.org/). Contributor to
+    the [**free software**](https://www.gnu.org/philosophy/free-sw.html) community since 1979, his background includes
+    many years of **hardware design**, **[UNIX](http://www.unix.org/ "The UNIX Operating System") internals**, and
+    **embedded  systems** work. Also an amateur **radio hobbyist** (*KB0G*), a member of
+    [*AMSAT*](http://amsat.org/ "Amateur Radio in Space"), [*TAPR](http://tapr.org/ "Tucson Amateur Packet Radio")
+    (former vice-president) and the [*ARRL*](http://www.arrl.org/ "American Radio Relay League").
+  avatar: quotes/bdale_garbee.jpg
+  about:
+    link: http://gag.com/bdale/bio/
+  wikipedia: Bdale_Garbee
+  home: http://gag.com/bdale/
+
 "Bill Gates":
   name: William Henry "Bill" Gates III
   bio: >
