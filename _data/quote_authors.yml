@@ -196,6 +196,20 @@
     link: http://www.cs.utexas.edu/users/EWD/
   wikipedia: Edsger_W._Dijkstra
 
+"Peter Drucker":
+  name: Peter Ferdinand Drucker
+  bio: >
+    Austrian-born American **management consultant**, **educator**, and **author**, whose writings contributed to the
+    philosophical and practical foundations of the modern business corporation. He was also a leader in the development
+    of **management education**, he invented the concept known as
+    [**management by objectives**](https://en.wikipedia.org/wiki/Management_by_objectives) and
+    [**self-control**](https://en.wikipedia.org/wiki/Self-control), and he has been described as
+    **"the founder of modern management"**.
+  avatar: quotes/peter_drucker.jpg
+  about:
+    link: http://www.druckerinstitute.com/peter-druckers-life-and-legacy/
+  wikipedia: Peter_Drucker
+
 "Albert Einstein":
   name: Albert Einstein
   bio: >
