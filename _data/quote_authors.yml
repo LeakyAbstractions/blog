@@ -97,6 +97,22 @@
   youtube: BillBrysonTV
   home: http://www.billbryson.co.uk/
 
+"Ross Callon":
+  name: Ross Callon
+  bio: >
+    American engineer who has been participating in [IETF](https://www.ietf.org/ "The Internet Engineering Task Force")
+    meetings and has worked on a variety of **routing and standards issues**. Distinguished engineer in the
+    *routing software group* at [*Juniper Networks*](http://www.juniper.net/) and **routing area director** of the
+    [*IETF*](https://www.ietf.org/ "The Internet Engineering Task Force"). Former co-chair of the
+    [**OPSEC**](https://tools.ietf.org/wg/opsec/ "Operational Security Capabilities") and
+    [**L3VPN**](http://www.muonics.com/rfc/int/l3vpn/ "Layer 3 Virtual Private Network") working groups. Athor and co-author of several [RFCs](https://en.wikipedia.org/wiki/Request_for_Comments "Request for Comments"), such as:
+    [**L3VPN Framework document**](http://www.muonics.com/rfc/rfc4110.php "RFC4110") and [**PPVPN Security Framework**](RFC4111).
+  avatar: quotes/ross_callon.jpg
+  about:
+    link: http://www.networksorcery.com/enp/authors/CallonRoss.htm
+  email: rcallon@juniper.net
+  linkedin: in/ross-callon-b8383695
+
 "Tom Cargill":
   name: Tom Cargill
   bio: >
