@@ -3,6 +3,7 @@ title: Standards
 tumblr: http://guillermonkey.tumblr.com/post/3143790871
 tags:
   - standards
+  - stupidity
 quote:
   author: Norman Diamond
 ---
