@@ -197,6 +197,18 @@
   wikipedia: L_Peter_Deutsch
   home: http://www.major2nd.com/users/lpd/
 
+"Norman Diamond":
+  name: Norman Diamond
+  bio: >
+    Former executive Director of the
+    [*Pacific Northwest Labor College*](http://depts.washington.edu/labhist/cpproject/labor_college.shtml). Worked in a
+    steel mill, saw mill and as a college professor. His writing on **cultural criticism**, **social movements** and
+    **science and technology** focuses on how values and understandings change. Co-author of
+    [**The Power in Our Hands: A Curriculum on the History of Work and Workers in the United States**](http://www.alibris.com/Power-in-Our-Hands-Norman-Diamond/book/11363453).
+  avatar: avatar: quotes/default.jpg
+  about:
+    link: "#"
+
 "Edsger Dijkstra":
   name: Edsger Wybe Dijkstra
   bio: >
