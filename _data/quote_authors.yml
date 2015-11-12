@@ -694,6 +694,29 @@
     link: http://www-gap.dcs.st-and.ac.uk/~history/Mathematicians/Ockham.html
   wikipedia: William_of_Ockham
 
+"John Osterhout":
+  name: John Kenneth Ousterhout
+  bio: >
+    **Chairman of [Electric Cloud](http://www.electric-cloud.com/)** and a **professor of computer science** at
+    [*Stanford University*](http://www.stanford.edu/). Founded **Electric Cloud** with
+    [*John Graham-Cumming*](https://en.wikipedia.org/wiki/John_Graham-Cumming). Previously was a
+    **professor of computer science** at [University of California, Berkeley](http://www.berkeley.edu/) where he created
+    [**Tcl**](http://www.tcl-lang.org/ "the Tcl scripting language") and the [**Tk**](http://www.tcl.tk/)
+    platform-independent widget toolkit, and proposed the idea of
+    [coscheduling](https://en.wikipedia.org/wiki/Coscheduling). Also led the research group that designed the
+    **experimental [**Sprite**](http://www.eecs.berkeley.edu/Research/Projects/CS/sprite/sprite.html) operating system**
+    and **the first [log-structured file system](https://en.wikipedia.org/wiki/Log-structured_file_system)**. Also the
+    original author of the [**Magic**](http://opencircuitdesign.com/magic/)
+    [**VLSI**](https://en.wikipedia.org/wiki/Very-large-scale_integration "Very-large-scale integration")
+    [**CAD**](https://en.wikipedia.org/wiki/Computer-aided_design "Computer-aided design") program.
+  avatar: quotes/john_osterhout.jpg
+  about:
+    link: https://en.wikipedia.org/wiki/John_Ousterhout
+  wikipedia: John_Ousterhout
+  email: ouster@cs
+  twitter: JohnOusterhout
+  home: http://web.stanford.edu/~ouster/cgi-bin/home.php
+
 "Ray Ozzie":
   name: Raymond "Ray" Ozzie
   bio: >
