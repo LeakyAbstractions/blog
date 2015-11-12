@@ -2,10 +2,11 @@
 title: Twice as fast
 tumblr: http://guillermonkey.tumblr.com/post/3142946475
 tags:
-  - bugs
-  - optimization
   - programming
   - reliability
+  - bugs
+  - time
+  - optimization
 quote:
   author: John Osterhout
 ---
