@@ -2,8 +2,8 @@
 title: Linux sysfs
 tumblr: http://guillermonkey.tumblr.com/post/3143075837
 tags:
-  - sysfs
   - linux
+  - sysfs
 quote:
   author: Charles Forsyth
 ---
