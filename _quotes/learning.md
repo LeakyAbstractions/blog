@@ -1,0 +1,14 @@
+---
+title: Learning
+tumblr: http://guillermonkey.tumblr.com/post/3143029741
+tags:
+  - software
+  - industry
+  - mistakes
+  - failure
+  - success
+  - learning
+author: Keith Braithwaite
+---
+
+It’s a curious thing about our industry: not only do we not learn from our mistakes, we also don’t learn from our successes.
