@@ -94,6 +94,23 @@
   wikipedia: Niels_Bohr
   home: http://www.nba.nbi.dk/
 
+"Keith Braithwaite":
+  name: Keith Braithwaite
+  bio: >
+    Experienced Agile coach. Leader of [*Zuhlke Engineering*](http://www.zuehlke.com/)'s *Centre of Agile practice* in
+    London. Provides **Agile training**, **consultancy** and **mentoring** to development teams in the wholesale
+    finance and mobile telecoms industries. Frequent speaker at Agile conferences around the world. Co-authored the
+    first published descriptions of successful **distributed Agile** based on his experience.
+  avatar: quotes/keith_braithwaite.jpg
+  about:
+    link: http://gotocon.com/aarhus-2010/speaker/Keith+Braithwaite
+  linkedin: in/keithbraithwaite
+  twitter: keithb_b
+  flicker: keithbraithwaite
+  soundcloud: keithb_b
+  blog: http://peripateticaxiom.blogspot.com/
+  home: http://cumulative-hypotheses.org/
+
 "Bill Bryson":
   name: William McGuire "Bill" Bryson
   bio: >
