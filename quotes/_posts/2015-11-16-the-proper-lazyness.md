@@ -3,7 +3,9 @@ title: The proper lazyness
 tumblr: http://guillermonkey.tumblr.com/post/3150967022
 tags:
   - programmers
+  - bliss
   - automatization
+  - time
 quote:
   author: Douglas Adams
 ---
