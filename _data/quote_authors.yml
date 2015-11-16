@@ -4,6 +4,21 @@
   bio: The author of this quote is unknown.
   avatar: quotes/default.jpg
 
+"Douglas Adams":
+  name: Douglas Noel Adams
+  bio: >
+    English writer, humorist, and dramatist. Best known as the author of
+    [**The Hitchhiker's Guide to the Galaxy**](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy),
+    which originated in 1978 as a [*BBC*](http://www.bbc.com/) radio comedy before developing into a "trilogy" of
+    five books that sold more than 15 million copies in his lifetime and generated a television series, several in
+    stage plays, comics, a computer game, and in 2005 a feature film. Adams's contribution to UK radio is commemorated
+    [*The Radio Academy*](http://www.radioacademy.org/)'s *Hall of Fame*.
+  avatar: quotes/douglas_adams.jpg
+  about:
+    link: https://en.wikipedia.org/wiki/Douglas_Adams
+  wikipedia: Douglas_Adams
+  home: http://www.douglasadams.com/
+
 "Jeff Atwood":
   name: Jeff Atwood
   bio: >
