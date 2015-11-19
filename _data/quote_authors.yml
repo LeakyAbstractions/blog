@@ -208,6 +208,25 @@
   blog: http://www.cooper.com/author/alan_cooper
   twitter: mralancooper
 
+"Russ Cox":
+  name: Russ Cox
+  bio: >
+    American software engineer and author. Best known for his work at [*Bell Labs*](http://bell-labs.com), where wrote
+    **kernel code**, **networked servers**, **file systems**, and a bit of **graphics code** for
+    [**Plan 9**](http://plan9.bell-labs.com/plan9/ "Plan 9 operating systems"). Currently works at
+    [*Google*](http://www.google.com) as one of the lead developers of the
+    [**Go programming language**](https://golang.org/).
+  avatar: quotes/russ_cox.jpg
+  about:
+    link: https://swtch.com/~rsc/
+  google:
+    plus: +RussCox-rsc
+  youtube: 9rsc
+  email: rsc@swtch.com
+  twitter: _rsc
+  github: rsc
+  home: http://research.swtch.com/
+
 "Dave Cutler":
   name: David Neil "Dave" Cutler, Sr.
   bio: >
