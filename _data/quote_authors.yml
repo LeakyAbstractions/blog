@@ -894,6 +894,25 @@
   sourceforge: jsickel
   bitbucket: jas
 
+"Sophocles":
+  name: Σοφοκλῆς, Sophoklēs
+  bio: >
+    One of three [ancient Greek](https://en.wikipedia.org/wiki/Classical_Greece)
+    [tragedians](https://en.wikipedia.org/wiki/Tragedy) whose plays have survived. For almost 50 years, was
+    **the most awarded playwright** in the dramatic competitions of
+    [*Athens*](https://en.wikipedia.org/wiki/Classical_Athens). Wrote 120 plays during the course of his life, but only
+    seven have survived in a complete form: [*Ajax*](https://en.wikipedia.org/wiki/Ajax_(Sophocles)),
+    [*Antigone*](https://en.wikipedia.org/wiki/Antigone_(Sophocles)),
+    [*The Women of Trachis*](https://en.wikipedia.org/wiki/The_Trachiniae),
+    [*Oedipus the King*](https://en.wikipedia.org/wiki/Oedipus_the_King),
+    [*Electra*](https://en.wikipedia.org/wiki/Electra_(Sophocles)),
+    [*Philoctetes*](https://en.wikipedia.org/wiki/Philoctetes_(Sophocles)) and
+    [*Oedipus at Colonus*](https://en.wikipedia.org/wiki/Oedipus_at_Colonus).
+  avatar: quotes/sophocles.jpg
+  about:
+    link: http://www.gutenberg.org/ebooks/author/26
+  wikipedia: Sophocles
+
 "Henry Spencer":
   name: Henry Spencer
   bio: >
