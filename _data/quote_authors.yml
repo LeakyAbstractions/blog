@@ -260,6 +260,15 @@
   wikipedia: L_Peter_Deutsch
   home: http://www.major2nd.com/users/lpd/
 
+"devizen.com":
+  name: devizen.com
+  bio: >
+    `devizen.com` was a web site about programming and software development.
+  avatar: quotes/default.jpg
+  about:
+    link: http://web.archive.org/web/20080717024940/http://devizen.com/blog/2007/09/11/ruin/
+  home: http://web.archive.org/web/20100111043752/http://devizen.com/
+
 "Norman Diamond":
   name: Norman Diamond
   bio: >
