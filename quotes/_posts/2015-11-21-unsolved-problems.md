@@ -2,10 +2,13 @@
 title: Unsolved problems
 tumblr: http://guillermonkey.tumblr.com/post/3142663063
 tags:
-  - programming
+  - programmers
   - perfection
+  - programming
+  - problems
 quote:
-  author: Devizen
+  author: devizen.com
+  context: *Programming Can Ruin Your Life* (essay)
   link: http://web.archive.org/web/20080717024940/http://devizen.com/blog/2007/09/11/ruin/
 ---
 
