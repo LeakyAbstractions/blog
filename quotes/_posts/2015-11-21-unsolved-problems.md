@@ -8,7 +8,7 @@ tags:
   - problems
 quote:
   author: devizen.com
-  context: *Programming Can Ruin Your Life* (essay)
+  context: “Programming Can Ruin Your Life”, essay
   link: http://web.archive.org/web/20080717024940/http://devizen.com/blog/2007/09/11/ruin/
 ---
 
