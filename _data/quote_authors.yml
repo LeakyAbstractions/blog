@@ -265,8 +265,10 @@
   bio: >
     `devizen.com` was a web site about programming and software development.
   avatar: quotes/default.jpg
+  reddit: devizen
+  email: info@devizen.com
   about:
-    link: http://web.archive.org/web/20080717024940/http://devizen.com/blog/2007/09/11/ruin/
+    link: http://web.archive.org/web/20090424210536/http://devizen.com/blog/about
   home: http://web.archive.org/web/20100111043752/http://devizen.com/
 
 "Norman Diamond":
