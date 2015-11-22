@@ -1,0 +1,12 @@
+---
+title: X-Windows
+tumblr: http://guillermonkey.tumblr.com/post/3143915228
+tags:
+  - x-windows
+  - systems-design
+  - overengineering
+  - features
+author: Marcus J. Ranum
+---
+
+If the designers of X-Windows built cars, there would be no fewer than five steering wheels hidden about the cockpit, none of which followed the same principles – but you’d be able to shift gears with your car stereo. Useful feature that.
