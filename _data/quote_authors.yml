@@ -870,6 +870,23 @@
     link: https://en.wikipedia.org/wiki/Japanese_proverbs
   wikipedia: Japanese_proverbs
 
+"Marcus J. Ranum":
+  name: Marcus J. Ranum
+  bio: >
+    American computer researcher. World-renowned Expert on security system design and implementation. Credited with a
+    number of innovations in firewalls, including building
+    **the first Internet email server for the [whitehouse.gov domain](http://whitehouse.gov/)**, and
+    [intrusion detection systems](https://en.wikipedia.org/wiki/Intrusion_detection_system). Has held technical and
+    leadership positions with a number of computer security companies, and is a Faculty member of the
+    [*Institute for Applied Network Security*](http://www.iansresearch.com/).
+  avatar: quotes/marcus_j_ranum.jpg
+  about:
+    link: http://www.ranum.com/stock_content/about.html
+  wikipedia: Marcus_J._Ranum
+  email: mjr@ranum.com
+  twitter: mjranum
+  home: http://www.ranum.com/
+
 "Dennis Ritchie":
   name: Dennis MacAlistair Ritchie
   bio: >
