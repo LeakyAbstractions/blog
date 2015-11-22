@@ -4,7 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3144129292
 tags:
   - compatibility
   - technical-debt
-  - design
+  - systems-design
   - errors
 quote:
   author: David Wheeler

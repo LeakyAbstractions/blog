@@ -4,7 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/19975118927
 tags:
   - simplicity
   - abstraction
-  - design
+  - systems-design
 quote:
   author: Hans Hofmann
 ---

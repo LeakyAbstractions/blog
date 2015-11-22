@@ -3,7 +3,7 @@ title: Batteries included
 tumblr: http://guillermonkey.tumblr.com/post/3143925588
 tags:
   - programming-languages
-  - design
+  - systems-design
   - simplicity
 quote:
   author: Dennis Ritchie

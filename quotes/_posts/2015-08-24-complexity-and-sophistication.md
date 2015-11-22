@@ -4,7 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3144116116
 tags:
   - complexity
   - sophistication
-  - design
+  - systems-design
 quote:
   author: Niklaus Wirth
 ---

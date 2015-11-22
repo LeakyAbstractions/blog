@@ -3,7 +3,7 @@ title: Users are idiots
 tumblr: http://guillermonkey.tumblr.com/post/3143771660
 tags:
   - gnome
-  - design
+  - systems-design
   - users
   - morons
 quote:

@@ -2,7 +2,7 @@
 title: As simple as possible
 tumblr: http://guillermonkey.tumblr.com/post/3142669631
 tags:
-  - design
+  - systems-design
   - simplicity
 quote:
   author: Albert Einstein

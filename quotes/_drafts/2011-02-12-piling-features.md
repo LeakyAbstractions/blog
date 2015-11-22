@@ -5,7 +5,7 @@ tags:
   - programming-languages
   - features
   - feature-bloat
-  - design
+  - systems-design
   - simplicity
 quote:
   author: RnRS

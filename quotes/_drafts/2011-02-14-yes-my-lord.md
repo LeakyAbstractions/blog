@@ -3,7 +3,7 @@ title: Yes, my lord
 tumblr: http://guillermonkey.tumblr.com/post/3282329107
 tags:
   - programming-languages
-  - design
+  - systems-design
   - programmers
 quote:
   author: Alan J. Perlis

@@ -3,7 +3,7 @@ title: Adequacy and excellence
 tumblr: http://guillermonkey.tumblr.com/post/3283174153
 tags:
   - software
-  - design
+  - systems-design
   - perfection
   - inspiration
 quote:
