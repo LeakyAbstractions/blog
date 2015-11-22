@@ -3,7 +3,7 @@ title: Software design
 tumblr: http://guillermonkey.tumblr.com/post/3142816430
 tags:
   - software
-  - design
+  - systems-design
   - bugs
 quote:
   author: Tony Hoare

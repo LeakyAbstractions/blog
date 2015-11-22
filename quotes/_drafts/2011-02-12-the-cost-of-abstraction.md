@@ -4,7 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3254304553
 tags:
   - overengineering
   - leaky-abstractions
-  - design
+  - systems-design
   - simplicity
 quote:
   author: John Carmack

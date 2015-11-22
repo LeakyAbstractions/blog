@@ -3,7 +3,7 @@ title: The design of UNIX
 tumblr: http://guillermonkey.tumblr.com/post/3142903110
 tags:
   - unix
-  - design
+  - systems-design
   - users
   - flexibility
 quote:

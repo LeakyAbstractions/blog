@@ -3,7 +3,7 @@ title: Idiocy disallowed
 tumblr: http://guillermonkey.tumblr.com/post/3254346502
 tags:
   - programming-languages
-  - design
+  - systems-design
 quote:
   author: Rob Pike
 ---

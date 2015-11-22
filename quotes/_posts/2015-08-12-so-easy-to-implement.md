@@ -3,7 +3,7 @@ title: So easy to implement
 tags:
   - null-reference
   - programming-languages
-  - design
+  - systems-design
   - implementation
 quote:
   author: Tony Hoare

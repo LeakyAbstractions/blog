@@ -3,7 +3,7 @@ title: Simplifying
 tumblr: http://guillermonkey.tumblr.com/post/3155410728
 tags:
   - simplicity
-  - design
+  - systems-design
 quote:
   author: Hans Hoffmann
 ---

@@ -3,7 +3,7 @@ title: Occam's razor
 tumblr: http://guillermonkey.tumblr.com/post/3143960264
 tags:
   - simplicity
-  - design
+  - systems-design
   - latin
 quote:
   author: William of Ockham

@@ -3,7 +3,7 @@ title: Restricting the flexibility
 tumblr: http://guillermonkey.tumblr.com/post/3142908047
 tags:
   - software
-  - design
+  - systems-design
   - flexibility
 quote:
   author: John Carmack

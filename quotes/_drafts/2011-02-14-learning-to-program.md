@@ -3,7 +3,7 @@ title: Learning to program
 tumblr: http://guillermonkey.tumblr.com/post/3282710517
 tags:
   - programming
-  - design
+  - systems-design
   - software
 quote:
   author: Ted Nelson

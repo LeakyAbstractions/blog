@@ -2,7 +2,7 @@
 title: Complexity
 tumblr: http://guillermonkey.tumblr.com/post/3292801634
 tags:
-  - design
+  - systems-design
   - anti-principle
   - complexity
 quote:

@@ -3,7 +3,7 @@ title: Object-oriented design
 tumblr: http://guillermonkey.tumblr.com/post/3144042884
 tags:
   - object-oriented
-  - design
+  - systems-design
   - programming
 quote:
   author: Rob Pike

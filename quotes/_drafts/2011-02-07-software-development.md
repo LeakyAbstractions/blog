@@ -3,7 +3,7 @@ title: Software development
 tumblr: http://guillermonkey.tumblr.com/post/3162002570
 tags:
   - software
-  - design
+  - systems-design
   - clarity
 quote:
   author: Bjarne Stroustrup

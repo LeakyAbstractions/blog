@@ -2,7 +2,7 @@
 title: Notations
 tumblr: http://guillermonkey.tumblr.com/post/3161880587
 tags:
-  - design
+  - systems-design
   - simplicity
   - notation
 quote:

@@ -2,7 +2,7 @@
 title: Designing perfection
 tumblr: http://guillermonkey.tumblr.com/post/3282423919
 tags:
-  - design
+  - systems-design
   - perfection
   - simplicity
 quote:

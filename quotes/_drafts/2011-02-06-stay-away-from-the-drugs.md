@@ -4,7 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3143388025
 tags:
   - sgi
   - windows-nt
-  - design
+  - systems-design
 quote:
   author: Alexander Viro
 ---

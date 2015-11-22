@@ -1,7 +1,7 @@
 ---
 title: Don’t press the button
 tags:
-  - design
+  - systems-design
   - users
   - morons
 quote:

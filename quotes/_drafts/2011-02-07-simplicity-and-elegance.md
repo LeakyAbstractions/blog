@@ -4,7 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3155347708
 tags:
   - simplicity
   - elegance
-  - design
+  - systems-design
 quote:
   author: Jon Franklin
 ---
