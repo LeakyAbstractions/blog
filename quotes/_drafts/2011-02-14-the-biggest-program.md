@@ -2,7 +2,7 @@
 title: The biggest program
 tumblr: http://guillermonkey.tumblr.com/post/3291026006
 tags:
-  - xwindow
+  - x-windows
   - overengineering
   - big-programs
 quote:
