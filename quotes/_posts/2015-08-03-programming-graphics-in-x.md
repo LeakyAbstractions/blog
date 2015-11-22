@@ -4,7 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3143103964
 tags:
   - complexity
   - programming
-  - xwindow
+  - x-windows
 quote:
   author: Henry Spencer
 ---
