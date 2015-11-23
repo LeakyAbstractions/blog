@@ -96,6 +96,23 @@
   wikipedia: Stan_Kelly-Bootle
   home: http://www.feniks.com/skb/
 
+"Gordon Bell":
+  name: Chester Gordon Bell
+  bio: >
+    American electrical engineer and manager. An early employee of
+    [*DEC*](https://en.wikipedia.org/wiki/Digital_Equipment_Corporation "Digital Equipment Corporation"), designed
+    several of their [**PDP**](https://en.wikipedia.org/wiki/Programmed_Data_Processor "Programmed Data Processor")
+    machines and later became Vice President of Engineering, overseeing the development of the
+    [**VAX**](https://en.wikipedia.org/wiki/VAX). His later career includes entrepreneur, investor, founding
+    Assistant Director of [*NSF*](http://www.nsf.gov/ "National Science Foundation")'s Computing and Information Science
+    and Engineering Directorate, and researcher emeritus at *Microsoft Research*.
+  avatar: quotes/gordon_bell.jpg
+  about:
+    link: http://research.microsoft.com/en-us/people/gbell/
+  wikipedia: Gordon_Bell
+  email: gbell@outlook.com
+  home: http://research.microsoft.com/~gbell/
+
 "Niels Bohr":
   name: Niels Henrik David Bohr
   bio: >
