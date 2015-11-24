@@ -2,9 +2,11 @@
 title: Theory and practice
 tumblr: http://guillermonkey.tumblr.com/post/3144869908
 tags:
-  - practice
   - programmers
   - theory
+  - practice
+  - software
+  - bugs
 quote:
   author: null
 ---
