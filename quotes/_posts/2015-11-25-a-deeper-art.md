@@ -2,8 +2,9 @@
 title: A deeper art
 tumblr: http://guillermonkey.tumblr.com/post/3162226931
 tags:
-  - magic
+  - low-level
   - knowledge
+  - magic
 quote:
   author: J.R.R. Tolkien
 ---
