@@ -1070,6 +1070,20 @@
   wikipedia: Ken_Thompson
   email: ken@google.com
 
+"J.R.R. Tolkien":
+  name: John Ronald Reuel Tolkien
+  bio: >
+    English writer, poet, philologist, and university professor who is best known as the author of the classic
+    [high-fantasy](https://en.wikipedia.org/wiki/High_fantasy) works
+    [**The Hobbit**](https://en.wikipedia.org/wiki/The_Hobbit),
+    [**The Lord of the Rings**](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings), and
+    [**The Silmarillion**](https://en.wikipedia.org/wiki/The_Silmarillion).
+  avatar: quotes/j_r_r_tolkien.jpg
+  about:
+    link: http://www.tolkiensociety.org/author/biography/
+  wikipedia: J._R._R._Tolkien
+  home: http://www.tolkienestate.com/
+
 "Linus Torvalds":
   name: Linus Benedict Torvalds
   bio: >
