@@ -3,7 +3,7 @@ title: Software and entropy
 tumblr: http://guillermonkey.tumblr.com/post/3155138278
 tags:
   - software
-  - randomness
+  - entropy
 quote:
   author: null
 ---
