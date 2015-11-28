@@ -6,7 +6,7 @@ tags:
   - reliability
   - simplicity
 quote:
-  author: C.A.R. Hoare
+  author: Tony Hoare
 ---
 
 The unavoidable price of reliability is simplicity.
