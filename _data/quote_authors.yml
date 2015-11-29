@@ -820,6 +820,17 @@
   wikipedia: Ray_Ozzie
   home: http://ozzie.net/
 
+"Parkinson":
+  name: Cyril Northcote Parkinson
+  bio: >
+    British naval historian and author of some 60 books, the most famous of which was his best-seller
+    [**Parkinson's Law**](https://en.wikipedia.org/wiki/Parkinson%27s_Law), which led him to be also considered as an
+    important scholar in public administration and management.
+  avatar: quotes/parkinson.jpg
+  about:
+    link: http://www.biography.com/people/c-northcote-parkinson-9433636
+  wikipedia: C._Northcote_Parkinson
+
 "David Parnas":
   name: David Lorge Parnas
   bio: >
