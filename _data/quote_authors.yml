@@ -1249,6 +1249,20 @@
   email: wulf@cs.virginia.edu
   home: http://www.cs.virginia.edu/~wulf/
 
+"yiyus":
+  name: Jesús Galán López
+  bio: >
+    Spanish scientific researcher and PhD student.
+  avatar: quotes/default.jpg
+  about:
+    link: http://yiyus.info/cv.pdf
+  email: yiyu.jgl@gmail.com
+  reddit: yiyus
+  github: yiyus
+  bitbucket: yiyus
+  deviantart: y-i-y-u-s
+  home: http://yiyus.info/
+
 "Jamie Zawinski":
   name: James Werner "Jamie" Zawinski
   bio: >
