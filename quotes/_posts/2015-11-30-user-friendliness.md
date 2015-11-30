@@ -5,7 +5,7 @@ tags:
   - programmers
   - user-friendly
 quote:
-  author: yiyus@reddit
+  author: yiyus
   link: http://www.reddit.com/r/programming/comments/8y348/my_programming_quotes_file_was_well_received_when/c0aspwo
 ---
 
