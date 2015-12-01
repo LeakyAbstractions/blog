@@ -846,6 +846,19 @@
     link: https://en.wikipedia.org/wiki/David_Parnas
   wikipedia: David_Parnas
 
+"Laurence J. Peter":
+  name: Laurence Johnston Peter
+  bio: >
+    Canadian educator and [*hierarchiologist*](https://en.wikipedia.org/wiki/Hierarchical_organization), best known to
+    the general public for the formulation of the [**Peter Principle**](https://en.wikipedia.org/wiki/Peter_principle),
+    in which he states: "*In a hierarchy every employee tends to rise to his level of incompetence ...*
+    *in time every post tends to be occupied by an employee who is incompetent to carry out its duties ...*
+    *Work is accomplished by those employees who have not yet reached their level of incompetence.*".
+  avatar: quotes/laurence_j_peter.jpg
+  about:
+    link: http://global.britannica.com/biography/Laurence-J-Peter
+  wikipedia: Laurence_J._Peter
+
 "Rob Pike":
   name: Robert Pike
   bio: >
