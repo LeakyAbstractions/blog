@@ -3,6 +3,7 @@ title: Complex problems
 tumblr: http://guillermonkey.tumblr.com/post/3155153201
 tags:
   - complexity
+  - problems
 quote:
   author: Laurence J. Peter
 ---
