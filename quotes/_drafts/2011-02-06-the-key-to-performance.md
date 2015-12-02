@@ -2,7 +2,7 @@
 title: The key to performance
 tumblr: http://guillermonkey.tumblr.com/post/3143782219
 tags:
-  - elegance
+  - beauty
   - performance
   - corner-cases
 quote:

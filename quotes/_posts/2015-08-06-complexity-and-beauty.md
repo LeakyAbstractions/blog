@@ -3,7 +3,7 @@ title: Complexity and beauty
 tumblr: http://guillermonkey.tumblr.com/post/3142896288
 tags:
   - software
-  - elegance
+  - beauty
   - complexity
   - programming
 quote:

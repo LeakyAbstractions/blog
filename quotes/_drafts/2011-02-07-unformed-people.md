@@ -2,7 +2,7 @@
 title: Unformed people
 tumblr: http://guillermonkey.tumblr.com/post/3161748430
 tags:
-  - elegance
+  - beauty
   - novelty
 quote:
   author: Erik Naggum

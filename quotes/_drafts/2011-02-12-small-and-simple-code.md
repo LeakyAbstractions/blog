@@ -3,7 +3,7 @@ title: Small and simple code
 tumblr: http://guillermonkey.tumblr.com/post/3254129882
 tags:
   - programming
-  - elegance
+  - beauty
   - principles
 quote:
   author: Cinap Lenrek
