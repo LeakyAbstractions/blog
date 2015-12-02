@@ -158,6 +158,22 @@
   youtube: BillBrysonTV
   home: http://www.billbryson.co.uk/
 
+"R. Buckminster Fuller":
+  name: Richard Buckminster "Bucky" Fuller
+  bio: >
+    American architect, systems theorist, author, designer and inventor. Published
+    [more than 30 books](https://openlibrary.org/authors/OL770663A/R._Buckminster_Fuller),
+    **coining or popularizing terms** such as [**Spaceship Earth**](https://en.wikipedia.org/wiki/Spaceship_Earth),
+    [**ephemeralization**](https://en.wikipedia.org/wiki/Ephemeralization), and
+    [**synergetic**](https://en.wikipedia.org/wiki/Synergetics_(Fuller)). He also developed numerous inventions, mainly
+    architectural designs, and popularized the widely known [geodesic dome](https://en.wikipedia.org/wiki/Geodesic_dome).
+    Carbon molecules known as fullerenes were later named by scientists for their structural and mathematical
+    resemblance to geodesic spheres.
+  avatar: quotes/r_buckminster_fuller.jpg
+  about:
+    link: http://buckminsterfuller.net/aboutus.html
+  wikipedia: Buckminster_Fuller
+
 "Ross Callon":
   name: Ross Callon
   bio: >
