@@ -2,8 +2,8 @@
 title: Beautiful solutions
 tumblr: http://guillermonkey.tumblr.com/post/3155071922
 tags:
-  - programming
-  - elegance
+  - beauty
+  - problem-solving
 quote:
   author: R. Buckminster Fuller
 ---
