@@ -2,7 +2,7 @@
 title: The most beautiful code
 tumblr: http://guillermonkey.tumblr.com/post/3162475961
 tags:
-  - elegance
+  - beauty
   - simplicity
   - programming
   - source-code
