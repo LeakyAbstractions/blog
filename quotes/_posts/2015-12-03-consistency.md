@@ -3,7 +3,8 @@ title: Consistency
 tumblr: http://guillermonkey.tumblr.com/post/3155291682
 tags:
   - consistency
-  - shortsightedness
+  - morons
+  - snake-oil
 quote:
   author: Ralph Waldo Emerson
 ---
