@@ -813,6 +813,17 @@
     link: http://www-gap.dcs.st-and.ac.uk/~history/Mathematicians/Ockham.html
   wikipedia: William_of_Ockham
 
+"David Ogilvy":
+  name: David Mackenzie Ogilvy
+  bio: >
+    English Advertising executive who was widely hailed as **The Father of Advertising**. In 1962,
+    [*Time*](https://en.wikipedia.org/wiki/Time_(magazine)) called him
+    *"the most sought-after wizard in today's advertising industry"*.
+  avatar: quotes/david_ogilvy.jpg
+  about:
+    link: http://www.ogilvy.com/About/Our-History/David-Ogilvy-Bio.aspx
+  wikipedia: David_Ogilvy_(businessman)
+
 "John Osterhout":
   name: John Kenneth Ousterhout
   bio: >
