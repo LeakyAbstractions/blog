@@ -1346,13 +1346,12 @@
   name: Ezra Zygmuntowicz
   bio: >
     Seasoned expert in [**Rails**](http://rubyonrails.org/) application deployment and a regular contributor in the
-    Rails community though speaking engagements and contributed many open source projects, such as
+    Rails community. Contributed many open source projects, such as
     [**BackgrounDrb**](http://backgroundrb.rubyforge.org/), [**ez-where**](https://github.com/ezmobius/ez-where),
-    [**Rubinius**](http://rubini.us/) and [**Merb**](https://en.wikipedia.org/wiki/Merb), a pocket web framework
-    allowing faster serving of dynamic pages in Rails. Author of book
+    [**Rubinius**](http://rubini.us/) and [**Merb**](https://en.wikipedia.org/wiki/Merb). Author of the book
     [**Deploying Rails Applications, a Step-by-Step Guide**](https://pragprog.com/book/fr_deploy/deploying-rails-applications).
-    Co-founder of the Rails hosting company
-    [*Engine Yard*](https://www.engineyard.com/) and CTO at [*Stuffstr.com*](http://www.stuffstr.com/).
+    Co-founder of the Rails hosting company [*Engine Yard*](https://www.engineyard.com/) and CTO at
+    [*Stuffstr.com*](http://www.stuffstr.com/).
   avatar: quotes/ezra_zygmuntowicz.jpg
   about:
     link: https://blog.newrelic.com/2014/12/02/ezra-zygmuntowicz/
