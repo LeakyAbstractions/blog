@@ -6,9 +6,10 @@ tags:
   - source-code
   - optimization
   - performance
+  - simplicity
 quote:
   author: Ezra Zygmuntowicz
-  caption: merb motto
+  caption: Merb motto
   link: https://twitter.com/ezmobius/status/61523924546093056
 ---
 
