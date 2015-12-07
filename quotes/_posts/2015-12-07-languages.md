@@ -3,7 +3,7 @@ title: Languages
 tumblr: http://guillermonkey.tumblr.com/post/3293574219
 tags:
   - programming-languages
-  - understanding
+  - knowledge
 quote:
   author: Erik Naggum
 ---
