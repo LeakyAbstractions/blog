@@ -967,6 +967,18 @@
   twitter: mjranum
   home: http://www.ranum.com/
 
+"Jon Ribbens":
+  name: Jonathan Ribbens
+  bio: >
+    British programmer, programming team leader and entrepreneur. Currently Technical Director for
+    [Sitemorse](https://sitemorse.com/ "Sitemorse Technologies Limited").
+  avatar: quotes/jon_ribbens.jpg
+  about:
+    link: https://twitter.com/jribbens
+  twitter: jribbens
+  sourceforge: jribbens
+  github: jribbens
+
 "Dennis Ritchie":
   name: Dennis MacAlistair Ritchie
   bio: >
