@@ -730,6 +730,24 @@
   email: katie@fysh.org
   home: http://www.fysh.org/~katie/
 
+"Jim McCarthy":
+  name: Jim McCarthy
+  bio: >
+    American software developer, author, and entrepreneur. Led large software development, business and marketing
+    efforts at [*Bell Labs*](http://bell-labs.com), [The Whitewater Group](http://www.whitewatergroup.com/), and
+    [*Microsoft*](http://www.microsoft.com). In 1996, co-founded
+    [**McCarthy Technologies**](http://www.mccarthyshow.com/) with his wife. Together, authored
+    [**Software for Your Head**](https://openlibrary.org/books/OL7408046M) and
+    [**Dynamics of Software Development**](https://openlibrary.org/works/OL15184849W/). They now host a
+    [**podcast show**](http://www.mccarthyshow.com/episodes/) on team dynamics and other business issues.
+  avatar: quotes/jim_mccarthy.jpg
+  about:
+    link: http://www.mccarthyshow.com/aboutus/
+  email: jim@mccarthy.net
+  linkedin: in/jimmccarthy2
+  twitter: mccarthyjim1
+  home: http://www.mccarthyshow.com/
+
 "Bertrand Meyer":
   name: Bertrand Meyer
   bio: >
