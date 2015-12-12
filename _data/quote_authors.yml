@@ -806,6 +806,30 @@
   email: erik@naggum.no
   home: http://naggum.no/
 
+"John von Neumann":
+  name: John von Neumann
+  bio: >
+    Hungarian-American pure and applied mathematician, physicist, inventor, and
+    [polymath](https://en.wikipedia.org/wiki/Polymath). Made major contributions to a number of fields, including
+    **mathematics** ([foundations of mathematics](https://en.wikipedia.org/wiki/Foundations_of_mathematics),
+    [functional analysis](https://en.wikipedia.org/wiki/Functional_analysis),
+    [ergodic theory](https://en.wikipedia.org/wiki/Ergodic_theory), [geometry](https://en.wikipedia.org/wiki/Geometry),
+    [topology](https://en.wikipedia.org/wiki/Topology), and
+    [numerical analysis](https://en.wikipedia.org/wiki/Numerical_analysis)), **physics** (
+    [quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics),
+    [hydrodynamics](https://en.wikipedia.org/wiki/Fluid_dynamics),
+    [fluid dynamics](https://en.wikipedia.org/wiki/Fluid_dynamics)
+    and [quantum statistical mechanics](https://en.wikipedia.org/wiki/Quantum_statistical_mechanics)), **economics**
+    ([game theory](https://en.wikipedia.org/wiki/Game_theory)), **computing**
+    ([Von Neumann architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture),
+    [linear programming](https://en.wikipedia.org/wiki/Linear_programming),
+    [self-replicating machines](https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor),
+    [stochastic computing](https://en.wikipedia.org/wiki/Stochastic_computing)), and **statistics**.
+  avatar: quotes/john_von_neumann.jpg
+  about:
+    link: http://www-history.mcs.st-andrews.ac.uk/Biographies/Von_Neumann.html
+  wikipedia: John_von_Neumann
+
 "Eric O’Dell":
   name: Eric O’Dell
   bio: >
