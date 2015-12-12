@@ -3,7 +3,7 @@ title: Being exact
 tumblr: http://guillermonkey.tumblr.com/post/3161809171
 tags:
   - accuracy
-  - understanding
+  - knowledge
 quote:
   author: John von Neumann
 ---
