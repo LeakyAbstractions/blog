@@ -6,7 +6,7 @@ tags:
   - programmers
   - refactoring
   - learning
-  - understanding
+  - knowledge
 quote:
   author: Jonathan Rockway
   link: http://news.ycombinator.com/item?id=1205125
