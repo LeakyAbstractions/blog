@@ -3,7 +3,7 @@ title: 10 types of people
 tumblr: http://guillermonkey.tumblr.com/post/3290460494
 tags:
   - binary
-  - understanding
+  - knowledge
 quote:
   author: null
 ---

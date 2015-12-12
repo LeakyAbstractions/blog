@@ -4,7 +4,6 @@ tumblr: http://guillermonkey.tumblr.com/post/3291457039
 tags:
   - programming
   - requirements
-  - understanding
 quote:
   author: null
 ---

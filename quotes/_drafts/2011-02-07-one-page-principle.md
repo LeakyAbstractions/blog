@@ -5,7 +5,7 @@ tags:
   - specifications
   - standards
   - simplicity
-  - understanding
+  - knowledge
 quote:
   author: Mark Ardis
 ---

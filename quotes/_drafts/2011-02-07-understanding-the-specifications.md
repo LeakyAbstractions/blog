@@ -4,6 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3162467740
 tags:
   - programmers
   - specifications
+  - knowledge
 quote:
   author: V.A. Vyssotsky
 ---
