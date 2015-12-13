@@ -36,6 +36,23 @@
   twitter: codinghorror
   home: http://blog.codinghorror.com/
 
+"Anthony Baxter":
+  name: Anthony Baxter
+  bio: >
+    Australian software engineer. Involved in the open source community for years, largely working in and on
+    [**Python**](https://www.python.org/ "Python Programming Language"). Contributed to many open source projects,
+    mostly related to **networking** and **protocol implementations**. Currently works with
+    [Google.org’s Crisis Response Team](https://www.google.org/crisisresponse/) building tools to collect and share
+    emergency information during natural disasters.
+  avatar: quotes/anthony_baxter.jpg
+  about:
+    link: https://plus.google.com/113677459543143443951
+  email: anthonybaxter@gmail.com
+  google:
+    plus: "113677459543143443951"
+  twitter: anthonybaxter
+  home: http://anthonybaxter.livejournal.com/profile
+
 "Pete Becker":
   name: Pete Becker
   bio: >
