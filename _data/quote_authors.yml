@@ -731,6 +731,22 @@
   wikipedia: Donald_Knuth
   home: http://cs.stanford.edu/~uno/
 
+"Leslie Lamport":
+  name: Leslie B. Lamport
+  bio: >
+    American computer scientist. Best known for being the initial developer of
+    [**LaTeX**](http://latex-project.org/ "LaTeX – A document preparation system") and his seminal work in
+    [**distributed systems**](https://en.wikipedia.org/wiki/Distributed_computing). Winner of the
+    [**2013 Turing Award**](http://amturing.acm.org/) for imposing clear, well-defined coherence on the seemingly
+    chaotic behavior of distributed computing systems, in which several autonomous computers communicate with each other
+    by passing messages. Devised **important algorithms** and developed formal modeling and verification protocols that
+    have resulted in improved correctness, performance, and reliability of computer systems.
+  avatar: quotes/leslie_lamport.jpg
+  about:
+    link: http://research.microsoft.com/en-us/um/people/lamport/index.html
+  wikipedia: Leslie_Lamport
+  home: http://www.lamport.org/
+
 "Katie Lucas":
   name: Katie Lauren Lucas
   bio: >
