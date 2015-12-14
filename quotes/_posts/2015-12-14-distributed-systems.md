@@ -3,6 +3,7 @@ title: Distributed systems
 tumblr: http://guillermonkey.tumblr.com/post/3161411109
 tags:
   - distributed-computing
+  - computers
   - failure
 quote:
   author: Leslie Lamport
