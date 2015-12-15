@@ -3,7 +3,10 @@ title: Java and XML
 tumblr: http://guillermonkey.tumblr.com/post/3142513493
 tags:
   - java
-  - programming
+  - dsl
+  - programming-languages
+  - exceptions
+  - stack-traces
   - xml
 quote:
   author: Scott Bellware
