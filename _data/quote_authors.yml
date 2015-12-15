@@ -70,6 +70,26 @@
   linkedin: pub/pete-becker/5/75b/a6
   home: http://www.petebecker.com/
 
+"Scott Bellware":
+  name: Scott Bellware
+  bio: >
+    Canadian software product designer and developer. Certified
+    [**ScrumMaster**](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm "CSM")
+    and [**Microsoft MVP**](https://mvp.microsoft.com/ "Most Valuable Professional") for
+    [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)). Teaches
+    [agile engineering practices](https://en.wikipedia.org/wiki/Agile_software_development "Agile software development")
+    through workshops held in conjunction with [.NET](https://en.wikipedia.org/wiki/.NET_Framework) user groups in the
+    US and Canada.
+  avatar: quotes/scott_bellware.jpg
+  about:
+    link: https://about.me/sbellware
+  google:
+    plus: +ScottBellware
+  linkedin: in/scottbellware
+  github: sbellware
+  twitter: sbellware
+  home: http://blog.scottbellware.com/
+
 "Federico Benavento":
   name: Federico G. Benavento
   bio: >
