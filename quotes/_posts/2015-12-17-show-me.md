@@ -1,0 +1,10 @@
+---
+title: Show me
+tumblr: http://guillermonkey.tumblr.com/post/3282405321
+tags:
+  - programming
+  - source-code
+author: Linus Torvalds
+---
+
+Talk is cheap. Show me the code.
