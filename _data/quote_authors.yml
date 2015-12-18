@@ -954,6 +954,26 @@
   wikipedia: Ray_Ozzie
   home: http://ozzie.net/
 
+"Sean Parent":
+  name: Sean Parent
+  bio: >
+    American computer scientist and software architect. Worked at [*Apple*](http://www.apple.com/) from 1988 through
+    1993, where was part of the system software team that developed the technologies allowing *Apple*’s successful
+    transition to [PowerPC](https://en.wikipedia.org/wiki/PowerPC). In 1993 joined [*Adobe*](http://www.adobe.com/) as a
+    senior engineer working on [**Photoshop**](http://www.photoshop.com/products/photoshop) and later managed
+    [*Adobe’s Software Technology Lab*](http://stlab.adobe.com/). In 2009 spent a year at
+    [*Google*](http://www.google.com) working on [*Chrome OS*](http://www.google.com/chromeos) before returning to
+    *Adobe* as principal scientist and software architect for *Adobe*’s
+    [**mobile digital imaging group**](http://blogs.adobe.com/creativecloud/category/digital-imaging/).
+  avatar: quotes/sean_parent.jpg
+  about:
+    link: https://twitter.com/seanparent
+  email: sean_parent@mac.com
+  github: sean-parent
+  twitter: seanparent
+  linkedin: in/sean-parent-103777
+  stackoverflow: 1041288/sean-parent
+
 "Parkinson":
   name: Cyril Northcote Parkinson
   bio: >
