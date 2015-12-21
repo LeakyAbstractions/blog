@@ -19,6 +19,18 @@
   wikipedia: Douglas_Adams
   home: http://www.douglasadams.com/
 
+"Jeremy S. Anderson":
+  name: Jeremy S. Anderson
+  bio: >
+    American IT Manager and hands-on senior **UNIX systems and network administrator** with extensive experience with
+    software development and scripting. Mainly interested in the study of Mandarin Chinese, cooking, hiking, and
+    **programming for fun and profit**.
+  avatar: quotes/jeremy_s_anderson.jpg
+  about:
+    link: http://www.2monkeys.org/resume.doc
+  email: jeremy@2monkeys.org
+  home: http://www.2monkeys.org/
+
 "Jeff Atwood":
   name: Jeff Atwood
   bio: >
