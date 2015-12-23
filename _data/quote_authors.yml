@@ -175,6 +175,26 @@
   wikipedia: Stan_Kelly-Bootle
   home: http://www.feniks.com/skb/
 
+"Russell Borogove":
+  name: Russell Borogove
+  bio: >
+    American Software Engineer with extensive experience in the game industry. Has worked at several game companies,
+    such as [*Shaba Games*](https://en.wikipedia.org/wiki/Shaba_Games), [*SEGA*](http://www.sega.com/) or
+    [*Accolade*](https://en.wikipedia.org/wiki/Accolade_(game_company)).
+    Also, developed audio software (plug-in components for VST hosts and stand-alone programs) and published it at
+    [**Tiny God**](http://www.tinygod.com/).
+    Currently Chief Architect at [*Backbeat Networks*](http://www.backbeat.net/)
+  avatar: quotes/russell_borogove.jpg
+  about:
+    link: http://mister-borogove.livejournal.com/profile
+  linkedin: in/russell-borogove-1a23022
+  stackoverflow: 374746/russell-borogove
+  github: borogove
+  disqus: russellborogove
+  email: kaleja@estarcion.com
+  twitter: mister_borogove
+  home: http://www.estarcion.com/kaleja/
+
 "Keith Braithwaite":
   name: Keith Braithwaite
   bio: >
