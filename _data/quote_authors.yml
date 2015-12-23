@@ -132,19 +132,6 @@
     link: https://en.wikipedia.org/wiki/Warren_Bennis
   wikipedia: Warren_Bennis
 
-"Stan Kelly-Bootle":
-  name: Stanley Bootle
-  bio: >
-    British author, singer-songwriter and computer scientist. His best-known song is the "Liverpool Lullaby", which
-    [Judy Collins](https://en.wikipedia.org/wiki/Judy_Collins) recorded in 1966 for her album,
-    [In My Life](https://en.wikipedia.org/wiki/In_My_Life_(Judy_Collins_album)).
-    Achieved **the first postgraduate degree in computer science** in 1954.
-  avatar: quotes/stan_kelly_bootle.jpg
-  about:
-    link: http://www.feniks.com/skb/about/about.html
-  wikipedia: Stan_Kelly-Bootle
-  home: http://www.feniks.com/skb/
-
 "Gordon Bell":
   name: Chester Gordon Bell
   bio: >
@@ -174,6 +161,19 @@
     link: http://academictree.org/physics/peopleinfo.php?pid=1943
   wikipedia: Niels_Bohr
   home: http://www.nba.nbi.dk/
+
+"Stan Kelly-Bootle":
+  name: Stanley Bootle
+  bio: >
+    British author, singer-songwriter and computer scientist. His best-known song is the "Liverpool Lullaby", which
+    [Judy Collins](https://en.wikipedia.org/wiki/Judy_Collins) recorded in 1966 for her album,
+    [In My Life](https://en.wikipedia.org/wiki/In_My_Life_(Judy_Collins_album)).
+    Achieved **the first postgraduate degree in computer science** in 1954.
+  avatar: quotes/stan_kelly_bootle.jpg
+  about:
+    link: http://www.feniks.com/skb/about/about.html
+  wikipedia: Stan_Kelly-Bootle
+  home: http://www.feniks.com/skb/
 
 "Keith Braithwaite":
   name: Keith Braithwaite
