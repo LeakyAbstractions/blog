@@ -5,7 +5,8 @@ tags:
   - computers
   - politics
 quote:
-  author: Mr. Borogove
+  author: Russell Borogove
+  link: https://www.jwz.org/blog/2005/09/palm-synchronization/#comment-51437
 ---
 
 Computers are about making life easier in much the same way that the Republican party is about fiscal responsibility and a culture of life.
