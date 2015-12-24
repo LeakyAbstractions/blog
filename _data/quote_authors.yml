@@ -212,6 +212,19 @@
   blog: http://peripateticaxiom.blogspot.com/
   home: http://cumulative-hypotheses.org/
 
+"W. Stan Brown":
+  name: William Stanley Brown
+  bio: >
+    American gifted mathematician and physicist. Earned his Ph.D. from
+    [*Princeton University*](http://www.princeton.edu/) in 1961. Joined the [*Bell Labs*](http://bell-labs.com) Research
+    Department and was a **pioneer** in the emerging fields of **computer science** and **information systems**.
+    Developed [**ALTRAN**](https://en.wikipedia.org/wiki/ALTRAN), a [FORTRAN](https://en.wikipedia.org/wiki/FORTRAN)
+    extension providing rational algebra, around 1968. Continued to contribute to *Bell Labs*' international planning
+    program and its global information sharing community until his retirement in 1996.
+  avatar: quotes/w_stan_brown.jpg
+  about:
+    link: http://obits.nj.com/obituaries/starledger/obituary.aspx?pid=162589293
+
 "Bill Bryson":
   name: William McGuire "Bill" Bryson
   bio: >
