@@ -3,9 +3,12 @@ title: Halloween and Christmas
 tumblr: http://guillermonkey.tumblr.com/post/3290673153
 badge: smile-o
 tags:
-  - octal
   - programmers
+  - octal
+  - decimal
   - joke
+  - halloween
+  - christmas
 quote:
   author: null
 ---
