@@ -2,8 +2,9 @@
 title: Solving problems
 tumblr: http://guillermonkey.tumblr.com/post/3143851456
 tags:
+  - problem-solving
   - programming
-  - principles
+  - source-code
 quote:
   author: John Johnson
 ---
