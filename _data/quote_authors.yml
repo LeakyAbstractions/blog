@@ -740,6 +740,11 @@
   github: RonJeffries
   home: http://ronjeffries.com/
 
+"John Johnson":
+  name: John Johnson
+  bio: No biographical information available.
+  avatar: quotes/default.jpg
+
 "Brian Kernighan":
   name: Brian Wilson Kernighan
   bio: >
