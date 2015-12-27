@@ -132,6 +132,15 @@
     link: https://en.wikipedia.org/wiki/Warren_Bennis
   wikipedia: Warren_Bennis
 
+"Jon Bentley and Doug McIlroy":
+  name: "Engineering a Sort Function"
+  bio: |
+    - [Jon L. Bentley](https://en.wikipedia.org/wiki/Jon_Bentley)
+    - [M. Douglas McIlroy](https://en.wikipedia.org/wiki/Douglas_McIlroy)
+  avatar: quotes/engineering-a-sort-function.jpg
+  about:
+    link: http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.14.8162
+
 "Gordon Bell":
   name: Chester Gordon Bell
   bio: >
