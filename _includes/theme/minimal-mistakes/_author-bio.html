@@ -7,7 +7,7 @@
   <h3 itemprop="name">{{ author.name }}</h3>
   <div itemprop="description">{{ author.bio | markdownify }}</div>
   {% if author.wikipedia %}<a href="https://en.wikipedia.org/wiki/{{ author.wikipedia }}" class="author-social" target="_blank"><i class="fa fa-fw fa-wikipedia-w"></i><span> Wikipedia</span></a>{% endif %}
-  {% if author.email %}<a href="mailto:{{ author.email }}" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i><span> Email</span></a>{% endif %}
+  {% if author.email %}<a href="{{ author.email | replace: '@', '%7BAT%7D' | append: '@remove.this' | prepend: 'mailto:' }}" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i><span> Email</span></a>{% endif %}
   {% if author.twitter %}<a href="http://twitter.com/{{ author.twitter }}" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i><span> Twitter</span></a>{% endif %}
   {% if author.facebook %}<a href="http://facebook.com/{{ author.facebook }}" class="author-social" target="_blank"><i class="fa fa-fw fa-facebook-square"></i><span> Facebook</span></a>{% endif %}
   {% if author.google.plus %}<a href="http://plus.google.com/{{ author.google.plus }}" class="author-social" target="_blank"><i class="fa fa-fw fa-google-plus-square"></i><span> Google+</span></a>{% endif %}
