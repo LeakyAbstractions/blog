@@ -435,6 +435,26 @@
     link: http://www.druckerinstitute.com/peter-druckers-life-and-legacy/
   wikipedia: Peter_Drucker
 
+"Tom Duff":
+  name: Thomas Douglas Selkirk Duff
+  bio: >
+    Canadian computer programmer and computer graphics expert. In 1974 graduated from the
+    [*University of Waterloo*](https://uwaterloo.ca/) with a *Bachelor of Mathematics* and,
+    two years later, got a *Master of Science from* the [*University of Toronto*](http://www.utoronto.ca/).
+    Created [**Duff's device**](https://en.wikipedia.org/wiki/Duff%27s_device), a loop unrolling mechanism in C.
+    Has worked at the [*NYIT*](http://www.nyit.edu/ "New York Institute of Technology"] Computer Graphics Lab,
+    [*Lucasfilm*](http://lucasfilm.com/)'s Computer Research and Development Division and
+    [*Bell Labs*](http://bell-labs.com) Computing Science Research Center. Has worked at
+    [*Pixar Animation Studios*](http://www.pixar.com/) since 1996.
+  avatar: quotes/tom_duff.jpg
+  about:
+    link: http://www.tomduff.com/about.html
+  wikipedia: Tom_Duff
+  email: td@iq0.com
+  linkedin: in/toduff
+  twitter: TomDuff
+  home: http://iq0.com/
+
 "Albert Einstein":
   name: Albert Einstein
   bio: >
