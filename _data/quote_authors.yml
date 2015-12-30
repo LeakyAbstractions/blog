@@ -1207,6 +1207,17 @@
     link: http://cm.bell-labs.co/who/dmr/
   wikipedia: Dennis_Ritchie
 
+"Andy Rooney":
+  name: Andrew Aitken "Andy" Rooney
+  bio: >
+    American radio and television writer who was best known for his weekly broadcast
+    **"A Few Minutes with Andy Rooney"**, a part of the [*CBS News*](http://www.cbsnews.com/) program
+    [*60 Minutes*](http://www.cbsnews.com/60-minutes/) from 1978 to 2011.
+  avatar: quotes/andy_rooney.jpg
+  about:
+    link: http://www.imdb.com/name/nm0740299/
+  wikipedia: Andy_Rooney
+
 "George Santayana":
   name: Jorge Agustín Nicolás Ruiz de Santayana y Borrás
   bio: >
