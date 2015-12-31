@@ -161,19 +161,17 @@
 "Joshua Bloch":
   name: Joshua J. Bloch
   bio: >
-    American software engineer and technology author. Holds a B.S. from
-    [*Columbia University*](http://www.columbia.edu/) and a Ph.D. from
-    [*Carnegie-Mellon University*](http://www.cmu.edu/). Led the design and implementation of numerous
+    American software engineer and technology author. Led the design and implementation of numerous
     [*Java*](https://www.java.com/ "Java Programming Language") features as an architect in the
     *Core Java Platform Group* at [*Sun Microsystems*](http://www.oracle.com/us/sun/index.htm), including the
     [**Java Collections Framework**](https://en.wikipedia.org/wiki/Java_collections_framework), the `java. math` package
     and the [assert mechanism](https://en.wikipedia.org/wiki/Assertion_(software_development)).
-    Author of numerous articles and papers. His Ph.D. thesis on the
-    [**replication of abstract data objects**](http://reports-archive.adm.cs.cmu.edu/anon/1990/abstracts/90-133.html)
-    was nominated for the [*ACM*](http://www.acm.org/ "Association for Computing Machinery")
-    Distinguished [Doctoral Dissertation](http://awards.acm.org/doctoral_dissertation/) Award. Author of the programming
-    guide [**Effective Java**](http://www.oracle.com/technetwork/java/effectivejava-136174.html "2001") and co-author of
-    other Java books, [**Java Puzzlers**](http://www.javapuzzlers.com/ "2005") and
+    Author of numerous articles and papers. His
+    [Ph.D. thesis](http://reports-archive.adm.cs.cmu.edu/anon/1990/abstracts/90-133.html "A Practical Approach to Replication of Abstract Data Objects")
+    was nominated for the [*ACM*](http://www.acm.org/ "Association for Computing Machinery") Distinguished
+    [Doctoral Dissertation](http://awards.acm.org/doctoral_dissertation/) Award. Author of the programming guide
+    [**Effective Java**](http://www.oracle.com/technetwork/java/effectivejava-136174.html "2001") and co-author of other
+    Java books, [**Java Puzzlers**](http://www.javapuzzlers.com/ "2005") and
     [**Java Concurrency In Practice**](http://jcip.net/ "2006").
   avatar: quotes/joshua_bloch.jpg
   about:
