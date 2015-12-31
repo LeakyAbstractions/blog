@@ -1,0 +1,11 @@
+---
+title: Doubts
+tumblr: http://guillermonkey.tumblr.com/post/3163119861
+tags:
+  - simplicity
+  - systems-design
+  - features
+author: Joshua Bloch
+---
+
+When in doubt, leave it out.
