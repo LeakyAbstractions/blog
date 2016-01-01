@@ -338,6 +338,19 @@
   wikipedia: John_Carmack
   twitter: id_aa_carmack
 
+"Oswald Chambers":
+  name: Oswald Chambers
+  bio: >
+    Scottish [Baptist](https://en.wikipedia.org/wiki/Baptist) and
+    [Holiness Movement](https://en.wikipedia.org/wiki/Holiness_Movement) evangelist and teacher, best known for the
+    devotional [**My Utmost for His Highest**](https://en.wikipedia.org/wiki/My_Utmost_for_His_Highest).
+  avatar: quotes/oswald_chambers.jpg
+  about:
+    link: http://www.oswaldchambers.co.uk/bio/
+  wikipedia: Oswald_Chambers
+  twitter: myutmost
+  home: http://utmost.org/
+
 "Alan Cooper":
   name: Alan Cooper
   bio: >
