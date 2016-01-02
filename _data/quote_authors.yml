@@ -1463,6 +1463,21 @@
   github: torvalds
   home: http://torvalds-family.blogspot.com/
 
+"Verity Stob":
+  name: Verity Stob
+  bio: >
+    Verity Stob is the pseudonym of a British software developer and satirical columnist. Author of humorous and
+    satirical articles about information technology, particularly software development. Has written articles and columns
+    for various magazines, newspapers, and websites, including [*.EXE magazine*](http://gizmonaut.net/exe/),
+    [*Dr. Dobb's Journal*](http://www.drdobbs.com/jvm/verity-stob/228700850) and
+    [*The Register*](http://www.theregister.co.uk/software/stob/) for over 20 years.
+  avatar: quotes/verity_stob.jpg
+  about:
+    link: http://programmer.97things.oreilly.com/wiki/index.php/Verity_Stob
+  wikipedia: Verity_Stob
+  email: verity.stob@gmail.com
+  home: http://www.theregister.co.uk/software/stob/
+
 "Leonardo da Vinci":
   name: Leonardo di ser Piero da Vinci
   bio: >
