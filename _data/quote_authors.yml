@@ -1015,6 +1015,16 @@
     link: http://www-history.mcs.st-andrews.ac.uk/Biographies/Von_Neumann.html
   wikipedia: John_von_Neumann
 
+"Larry Niven and Jerry Pournelle":
+  name: Oath of Fealty
+  bio: >
+    - [Larry Niven](https://en.wikipedia.org/wiki/Larry_Niven)
+    - [Jerry Pournelle](https://en.wikipedia.org/wiki/Jerry_Pournelle)
+  avatar: quotes/oath-of-fealty.jpg
+  about:
+    link: https://openlibrary.org/works/OL510422W
+  wikipedia: Oath_of_Fealty_(novel)
+
 "Eric O’Dell":
   name: Eric O’Dell
   bio: >
