@@ -4,12 +4,10 @@ tumblr: http://guillermonkey.tumblr.com/post/3161818154
 tags:
   - computers
   - users
-  - programmers
   - hate
+  - programmers
 quote:
-  authors:
-    - Larry Niven
-    - Jerry Pournelle
+  author: Larry Niven and Jerry Pournelle
 ---
 
 That’s the thing about people who think they hate computers. What they really hate is lousy programmers.
