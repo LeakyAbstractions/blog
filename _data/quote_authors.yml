@@ -31,6 +31,27 @@
   email: jeremy@2monkeys.org
   home: http://www.2monkeys.org/
 
+"Joe Armstrong":
+  name: Joe Armstrong
+  bio: >
+    Swedish computer scientist who is best known as the creator of
+    [**Erlang**](https://en.wikipedia.org/wiki/Erlang_(programming_language) "Erlang (programming language)"). Expert in
+    the construction of [**fault tolerant systems**](https://en.wikipedia.org/wiki/Fault-tolerant_computer_system).
+    Has worked for 30 years in industry and research. Author of several books. Coined the term
+    *"Concurrency Oriented Programming"*. Developed Erlang at [*Ericsson*](http://www.ericsson.com/) as the chief
+    software architect of the project which produced
+    [**OTP**](https://en.wikipedia.org/wiki/Open_Telecom_Platform "Open Telecom Platform"), a framework for building
+    Erlang applications.
+  avatar: quotes/joe_armstrong.jpg
+  about:
+    link: http://www.codersatwork.com/joe-armstrong.html
+  wikipedia: Joe_Armstrong_(programming)
+  email: joearms@gmail.com
+  github: joearms
+  twitter: joeerl
+  linkedin: in/joe-armstrong-b9233b106
+  home: http://joearms.github.io/
+
 "Jeff Atwood":
   name: Jeff Atwood
   bio: >
