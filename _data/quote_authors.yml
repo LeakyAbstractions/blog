@@ -266,6 +266,22 @@
   blog: http://peripateticaxiom.blogspot.com/
   home: http://cumulative-hypotheses.org/
 
+"Stewart Brand":
+  name: Stewart Brand
+  bio: >
+    American writer, best known as editor of the [*Whole Earth Catalog*](http://www.wholeearth.com/). Founded a number
+    of organizations, including [**The WELL**](http://www.well.com/), the
+    [**Global Business Network**](http://www.gbn.com/), and the [**Long Now Foundation**](http://www.longnow.org/).
+    Author of several books, most recently
+    [**Whole Earth Discipline: An Ecopragmatist Manifesto**](https://openlibrary.org/works/OL823141W).
+  avatar: quotes/stewart_brand.jpg
+  about:
+    link: http://sb.longnow.org/SB_homepage/Bio.html
+  wikipedia: Stewart_Brand
+  email: sb@longnow.org
+  twitter: stewartbbrand
+  home: http://sb.longnow.org/SB_homepage/
+
 "W. Stan Brown":
   name: William Stanley Brown
   bio: >
