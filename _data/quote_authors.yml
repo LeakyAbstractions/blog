@@ -1408,16 +1408,14 @@
 "Joe Stoy":
   name: Joseph E. "Joe" Stoy
   bio: >
-    British computer scientist. Originally studied physics at [*Oxford University*](http://www.ox.ac.uk/). Early in his
-    career, in the 1970s, worked on [**denotational semantics**](https://en.wikipedia.org/wiki/Denotational_semantics)
+    British computer scientist. In the 1970s, worked on
+    [**denotational semantics**](https://en.wikipedia.org/wiki/Denotational_semantics)
     with [*Christopher Strachey*](https://en.wikipedia.org/wiki/Christopher_Strachey) in the
     [*Programming Research Group*](https://en.wikipedia.org/wiki/Programming_Research_Group) at the
-    *Oxford University Computing Laboratory* (now the
-    [Oxford University Department of Computer Science](http://www.cs.ox.ac.uk/)). Also was a Fellow of
-    [*Balliol College*](http://www.balliol.ox.ac.uk/) and spent time at
-    [MIT](http://mit.edu/ "Massachusetts Institute of Technology") in the United States. In 2003, co-founded
-    [**Bluespec, Inc**](http://www.bluespec.com/).
-    Author of [**Denotational Semantics: The Scott-Strachey Approach to Programming Language Semantics**](http://www.amazon.com/dp/0262690764).
+    *[Oxford University](http://www.ox.ac.uk/) Computing Laboratory* (now the
+    [Oxford University Department of Computer Science](http://www.cs.ox.ac.uk/)). Author of
+    [**Denotational Semantics: The Scott-Strachey Approach to Programming Language Semantics**](http://www.amazon.com/dp/0262690764).
+    In 2003, co-founded [**Bluespec, Inc**](http://www.bluespec.com/).
   avatar: quotes/joe_stoy.jpg
   about:
     link: https://en.wikipedia.org/wiki/Joe_Stoy
