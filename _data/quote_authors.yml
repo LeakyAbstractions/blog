@@ -957,6 +957,21 @@
   github: crism
   home: http://crism.maden.org/
 
+"Richard Mansfield":
+  name: Richard Mansfield
+  bio: >
+    American programmer and the **author of several bestselling books**. Widely recognized expert on computer
+    programming. Has written
+    [numerous articles and columns](http://www.atarimagazines.com/compute/index/index.php?author=Richard+Mansfield) on
+    computer topics, and was the editor of [*Compute!*](https://en.wikipedia.org/wiki/Compute! "Compute! Magazine").
+    Writes occasionally for [*DevX.com*](http://assets.devx.com/devx/7819.gif) and created much controversy with his
+    article [**OOP is Much Better in Theory Than in Practice**](http://www.devx.com/opinion/Article/26776).
+    Has authored or co-authored [more than 44 books](https://www.goodreads.com/author/list/39875.Richard_Mansfield).
+    Overall, his books have sold more than 500,000 copies worldwide and have been translated into 12 languages.
+  avatar: quotes/richard_mansfield.jpg
+  about:
+    link: https://www.overdrive.com/creators/254251/richard-mansfield
+
 "Jim McCarthy":
   name: Jim McCarthy
   bio: >
