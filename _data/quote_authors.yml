@@ -31,6 +31,25 @@
   email: jeremy@2monkeys.org
   home: http://www.2monkeys.org/
 
+"Mark Ardis":
+  name: Mark A. Ardis
+  bio: >
+    American serial software engineering educator. Distinguished Service Professor at the
+    [*School of Systems and Enterprises*](http://www.stevens.edu/sse/). Several years of industrial experience in
+    software product line engineering. Has been helping to **establish software engineering programs** at
+    [*Wang Institute*](https://en.wikipedia.org/wiki/Wang_Institute_of_Graduate_Studies),
+    [*Carnegie-Mellon University*](http://www.cmu.edu/),
+    [*Rose-Hulman Institute of Technology*](http://www.rose-hulman.edu/),
+    [*Rochester Institute of Technology*](http://www.rit.edu/) and
+    [Stevens Institute of Technology](http://www.stevens.edu/).
+  avatar: quotes/mark_ardis.jpg
+  about:
+    link: http://personal.stevens.edu/~mardis/personal.html
+  facebook: mark.ardis
+  email: mark.ardis@stevens.edu
+  linkedin: in/markardis
+  home: http://personal.stevens.edu/~mardis/
+
 "Joe Armstrong":
   name: Joe Armstrong
   bio: >
