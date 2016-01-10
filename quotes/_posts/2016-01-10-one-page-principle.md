@@ -7,7 +7,8 @@ tags:
   - simplicity
   - knowledge
 quote:
+  caption: One Page Principle
   author: Mark Ardis
 ---
 
-One Page Principle: A specification that will not fit on one page of 8.5x11 inch paper cannot be understood.
+A specification that will not fit on one page of 8.5x11 inch paper cannot be understood.
