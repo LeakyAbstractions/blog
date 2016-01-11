@@ -4,7 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3163704266
 tags:
   - programmers
   - automatization
-  - computers
+  - future
 quote:
   author: Doug McIlroy
 ---
