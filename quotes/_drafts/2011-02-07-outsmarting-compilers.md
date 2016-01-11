@@ -6,9 +6,7 @@ tags:
   - optimization
   - programming
 quote:
-  authors:
-    - Kernighan
-    - Plauger
+  author: Kernighan and Plauger
 ---
 
 Trying to outsmart a compiler defeats much of the purpose of using one.
