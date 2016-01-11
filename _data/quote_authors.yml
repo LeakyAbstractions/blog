@@ -1009,6 +1009,26 @@
   twitter: mccarthyjim1
   home: http://www.mccarthyshow.com/
 
+"Doug McIlroy":
+  name: Malcolm Douglas McIlroy
+  bio: >
+    American mathematician, engineer, and programmer. As of 2007 he is an *Adjunct Professor* of Computer Science at
+    [*Dartmouth College*](http://dartmouth.edu/). Best known for having originally developed
+    [**UNIX pipelines**](https://en.wikipedia.org/wiki/Pipeline_(Unix)),
+    [**software componentry**](https://en.wikipedia.org/wiki/Software_componentry) and several
+    [**UNIX**](http://www.unix.org/ "The UNIX Operating System") tools, such as `spell`, `diff`, `sort`, `join`,
+    `graph`, `speak`, and `tr`.
+    His [seminal work on **software componentization**](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1968.PDF)
+    makes him a pioneer of
+    [**component-based software engineering**](https://en.wikipedia.org/wiki/Component-based_software_engineering) and
+    [software product line engineering](https://en.wikipedia.org/wiki/Software_product_line_engineering).
+  avatar: quotes/doug_mcilroy.jpg
+  about:
+    link: http://www.cs.dartmouth.edu/~doug/biography
+  wikipedia: Douglas_McIlroy
+  email: doug@cs.dartmouth.edu
+  home: http://www.cs.dartmouth.edu/~doug/
+
 "Bertrand Meyer":
   name: Bertrand Meyer
   bio: >
