@@ -1739,6 +1739,20 @@
     link: https://en.wikipedia.org/wiki/David_Wheeler_(British_computer_scientist)
   wikipedia: David_Wheeler_(British_computer_scientist)
 
+"Maurice Wilkes":
+  name: Sir Maurice Vincent Wilkes
+  bio: >
+    British computer scientist credited with several important developments in computing. Received a number of
+    distinctions: [*Distinguished Fellow of the British Computer Society*](https://en.wikipedia.org/wiki/DFBCS),
+    [*Fellow of the Royal Academy of Engineering*](https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Academy_of_Engineering)
+    and [*Fellow of the Royal Society*](https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society). At the time of his
+    death, was an *Emeritus Professor* of the [*University of Cambridge*](http://cam.ac.uk/).
+  avatar: quotes/maurice_wilkes.jpg
+  about:
+    link: http://www.cl.cam.ac.uk/archive/mvw1/short-biography.html
+  wikipedia: Maurice_Wilkes
+  home: http://www.cl.cam.ac.uk/archive/mvw1
+
 "Niklaus Wirth":
   name: Niklaus Emil Wirth
   bio: >
