@@ -1654,6 +1654,19 @@
   blog: http://thvv.livejournal.com/
   linkedin: in/tomvanvleck
 
+"Voltaire":
+  name: François-Marie Arouet
+  bio: >
+    French **[Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment) writer**, historian, and philosopher
+    famous for his wit, his attacks on the established Catholic Church, and his advocacy of
+    [**freedom of religion**](https://en.wikipedia.org/wiki/Freedom_of_religion),
+    [**freedom of expression**](https://en.wikipedia.org/wiki/Freedom_of_expression),
+    and [**separation of church and state**](https://en.wikipedia.org/wiki/Separation_of_church_and_state).
+  avatar: quotes/voltaire.jpg
+  about:
+    link: https://en.wikipedia.org/wiki/Voltaire
+  wikipedia: Voltaire
+
 "Philip Wadler":
   name: Philip Lee "Phil" Wadler
   bio: >
