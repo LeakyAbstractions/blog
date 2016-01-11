@@ -1016,8 +1016,8 @@
     [*Dartmouth College*](http://dartmouth.edu/). Best known for having originally developed
     [**UNIX pipelines**](https://en.wikipedia.org/wiki/Pipeline_(Unix)),
     [**software componentry**](https://en.wikipedia.org/wiki/Software_componentry) and several
-    [**UNIX**](http://www.unix.org/ "The UNIX Operating System") tools, such as `spell`, `diff`, `sort`, `join`,
-    `graph`, `speak`, and `tr`.
+    [**UNIX**](http://www.unix.org/ "The UNIX Operating System") tools, such as <tt>spell</tt>, <tt>diff</tt>,
+    <tt>sort</tt>, <tt>join</tt>, <tt>graph</tt>, <tt>speak</tt>, and <tt>tr</tt>.
     His [seminal work on **software componentization**](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1968.PDF)
     makes him a pioneer of
     [**component-based software engineering**](https://en.wikipedia.org/wiki/Component-based_software_engineering) and
