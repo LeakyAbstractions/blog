@@ -567,6 +567,25 @@
   wikipedia: Albert_Einstein
   home: http://einstein.biz/
 
+"Dwight D. Eisenhower":
+  name: Dwight David "Ike" Eisenhower
+  bio: >
+    The 34th **President of the United States** from 1953 until 1961, and the last U.S. President to have been born in
+    the 19th century. Was a [five-star general](https://en.wikipedia.org/wiki/General_of_the_Army_(United_States)) in
+    the [*United States Army*](https://en.wikipedia.org/wiki/United_States_Army) during
+    [*World War II*](https://en.wikipedia.org/wiki/World_War_II), served as
+    [*Supreme Commander*](https://en.wikipedia.org/wiki/Supreme_Commander_of_the_Allied_Expeditionary_Force) of the
+    [*Allied Forces*](https://en.wikipedia.org/wiki/Allies_of_World_War_II) in Europe and was responsible for planning
+    and supervising the invasion of North Africa in [**Operation Torch**](https://en.wikipedia.org/wiki/Operation_Torch)
+    in 1942–43 and the successful [*invasion of France*](https://en.wikipedia.org/wiki/Invasion_of_Normandy) and
+    [Germany](https://en.wikipedia.org/wiki/Allied_advance_from_Paris_to_the_Rhine) in 1944–45 from the
+    [*Western Front*](https://en.wikipedia.org/wiki/Western_Front_(World_War_II)). In 1951, became the first
+    [*Supreme Commander* of NATO](https://en.wikipedia.org/wiki/Supreme_Allied_Commander_Europe).
+  avatar: quotes/dwight_d_eisenhower.jpg
+  about:
+    link: https://www.whitehouse.gov/1600/presidents/dwightdeisenhower
+  wikipedia: Dwight_D._Eisenhower
+
 "Ralph Waldo Emerson":
   name: Ralph Waldo Emerson
   bio: >
