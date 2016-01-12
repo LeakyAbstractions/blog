@@ -4,7 +4,6 @@ tumblr: http://guillermonkey.tumblr.com/post/3162322744
 tags:
   - simplicity
   - complexity
-  - software
   - business
 quote:
   author: Chris Sacca
