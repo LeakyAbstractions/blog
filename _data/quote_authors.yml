@@ -1380,6 +1380,23 @@
     link: http://www.imdb.com/name/nm0740299/
   wikipedia: Andy_Rooney
 
+"Chris Sacca":
+  name: Christopher Sacca
+  bio: >
+    [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley)
+    [venture investor](https://en.wikipedia.org/wiki/Venture_capital), public speaker,
+    [private equity](https://en.wikipedia.org/wiki/Private_equity) adviser, and former employee of
+    [*Google*](http://www.google.com). An investor in [*Twitter*](https://twitter.com/) and
+    [Uber](https://www.uber.com/). Known for his signature embroidered cowboy shirts.
+  avatar: quotes/chris_sacca.jpg
+  about:
+    link: http://www.whatisleft.org/about.html
+  wikipedia: Chris_Sacca
+  email: csacca@gmail.com
+  twitter: Sacca
+  linkedin: in/chris-sacca-3b7a6210a
+  home: http://lowercasecapital.com/
+
 "George Santayana":
   name: Jorge Agustín Nicolás Ruiz de Santayana y Borrás
   bio: >
