@@ -5,6 +5,7 @@ tags:
   - programmers
   - automatization
   - future
+  - business
 quote:
   author: Doug McIlroy
 ---
