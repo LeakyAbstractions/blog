@@ -5,7 +5,7 @@ tags:
   - testing
   - software
   - reliability
-  - programming
+  - quality
 quote:
   author: Steve McConnell
 ---
