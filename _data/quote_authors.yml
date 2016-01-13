@@ -1048,6 +1048,27 @@
   email: doug@cs.dartmouth.edu
   home: http://www.cs.dartmouth.edu/~doug/
 
+"Steve McConnell":
+  name: Steven C. McConnell
+  bio: >
+    American software engineer and author of software engineering textbooks. Worked in the desktop software industry
+    since 1984 and has expertise in **rapid development methodologies**, **project estimation**,
+    **software construction practices**, performance tuning, system integration, and third-party contract management.
+    Writes books and articles, teaches classes, and oversees software engineering practices at
+    [*Construx Software*](http://www.construx.com/) as CEO and Chief Software Engineer. Author of
+    [**Code Complete**](http://www.stevemcconnell.com/cc.htm),
+    [**Rapid Development**](http://www.stevemcconnell.com/rd.htm), and
+    [**Software Estimation**](http://www.stevemcconnell.com/est.htm).
+  avatar: quotes/steve_mcconnell.jpg
+  about:
+    link: http://www.stevemcconnell.com/aboutme.htm
+  wikipedia: Steve_McConnell
+  linkedin: in/stevemcc/es
+  email: stevemcc@construx.com
+  twitter: stevemconstrux
+  home: http://www.stevemcconnell.com/
+  blog: http://www.construx.com/Blogs/10x_Software_Development/?id=15082
+
 "Bertrand Meyer":
   name: Bertrand Meyer
   bio: >
