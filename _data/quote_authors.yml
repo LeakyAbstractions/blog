@@ -1110,6 +1110,24 @@
   bitbucket: rminnich
   twitter: coreboot
 
+"Nathan Myhrvold":
+  name: Nathan Paul Myhrvold
+  bio: >
+    Formerly [CTO](https://en.wikipedia.org/wiki/Chief_Technology_Officer "Chief Technology Officer") at
+    [*Microsoft*](http://www.microsoft.com), is co-founder of
+    [**Intellectual Ventures**](http://www.intellectualventures.com/) and the principal author of
+    [**Modernist Cuisine**](http://modernistcuisine.com/). Co-inventor on 17 patents at *Microsoft* and has co-sponsored
+    applications for over 500 other patents for which his corporation is funding the patent monetization effort.
+  avatar: quotes/nathan_myhrvold.jpg
+  about:
+    link: http://www.nathanmyhrvold.com/index.php/about
+  wikipedia: Nathan_Myhrvold
+  facebook: nathanmyhrvoldofficial/
+  pinterest: nathanmyhrvold
+  email: info@nathanmyhrvold.com
+  twitter: nathanmyhrvold
+  home: http://www.nathanmyhrvold.com/
+
 "Erik Naggum":
   name: Erik Naggum
   bio: >
