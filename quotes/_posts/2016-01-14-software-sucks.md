@@ -4,6 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3161739154
 tags:
   - software
   - users
+  - morons
 quote:
   author: Nathan Myhrvold
 ---
