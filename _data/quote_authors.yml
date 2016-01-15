@@ -19,6 +19,30 @@
   wikipedia: Douglas_Adams
   home: http://www.douglasadams.com/
 
+"Agile Manifesto":
+  name: "Manifesto for Agile Software Development"
+  bio: |
+    - [Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck)
+    - [Mike Beedle](https://www.linkedin.com/in/mikebeedle)
+    - [Arie van Bennekum](https://www.linkedin.com/in/ariev3)
+    - [Alistair Cockburn](https://en.wikipedia.org/wiki/Alistair_Cockburn)
+    - [Ward Cunningham](https://en.wikipedia.org/wiki/Ward_Cunningham)
+    - [Martin Fowler](https://en.wikipedia.org/wiki/Martin_Fowler)
+    - [James Grenning](https://www.linkedin.com/in/jwgrenning)
+    - [Jim Highsmith](https://en.wikipedia.org/wiki/Jim_Highsmith)
+    - [Andrew Hunt](https://en.wikipedia.org/wiki/Andy_Hunt_(author))
+    - [Ron Jeffries](https://en.wikipedia.org/wiki/Ron_Jeffries)
+    - [Jon Kern](https://www.linkedin.com/in/jonkern)
+    - [Brian Marick](https://en.wikipedia.org/wiki/Brian_Marick)
+    - [Robert C. Martin](https://en.wikipedia.org/wiki/Robert_Cecil_Martin)
+    - [Steve Mellor](https://en.wikipedia.org/wiki/Stephen_J._Mellor)
+    - [Ken Schwaber](https://en.wikipedia.org/wiki/Ken_Schwaber)
+    - [Jeff Sutherland](https://en.wikipedia.org/wiki/Jeff_Sutherland)
+    - [Dave Thomas](https://en.wikipedia.org/wiki/David_A._Thomas_(software_developer))
+  avatar: quotes/agile_manifesto.jpg
+  about:
+    link: http://www.agilemanifesto.org/
+
 "Jeremy S. Anderson":
   name: Jeremy S. Anderson
   bio: >
