@@ -1010,6 +1010,31 @@
   about:
     link: https://www.overdrive.com/creators/254251/richard-mansfield
 
+"Robert C. Martin":
+  name: Robert Cecil "Uncle Bob" Martin
+  bio: >
+    American software professional, international software consultant and author. Colloquially known as *Uncle Bob*.
+    Regular speaker at conferences and trade shows. Co-author of the
+    [**Agile Manifesto**](http://agilemanifesto.org/), served as the first chairman of the
+    [*Agile Alliance*](https://www.agilealliance.org/). Leading member of the
+    [Worldwide Software Craftsmanship Movement - Clean Code](http://scna.softwarecraftsmanship.org/schedule/#uncle-bob).
+    Author of "landmark" books on
+    [**Agile Programming**](http://cleancoder.com/books/agile-software-development-principles-patterns-and-practices),
+    **Extreme Programming**, [**UML**](http://cleancoder.com/books/uml-for-java-programmers "UML for Java Programmers"),
+    **Object-Oriented Programming**, **C++ Programming** and most recently
+    [**Clean Code**](http://cleancoder.com/books/clean-code-a-handbook-of-agile-software-craftsmanship) and
+    [**Clean Coder**](http://cleancoder.com/books/).
+  avatar: quotes/robert_c_martin.jpg
+  about:
+    link: http://cleancoder.com/
+  wikipedia: Robert_Cecil_Martin
+  facebook: pages/Clean-Code-Project-w-Uncle-Bob-Consulting-LLC/167819613257225
+  linkedin: in/robert-martin-7395b0
+  github: unclebob
+  email: unclebob@cleancoder.com
+  twitter: unclebobmartin
+  home: http://cleancoder.com/
+
 "Jim McCarthy":
   name: Jim McCarthy
   bio: >
