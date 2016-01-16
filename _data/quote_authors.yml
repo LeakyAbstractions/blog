@@ -1395,6 +1395,24 @@
     link: http://global.britannica.com/biography/Laurence-J-Peter
   wikipedia: Laurence_J._Peter
 
+"Henry Petroski":
+  name: Henry Petroski
+  bio: >
+    American engineer specializing in [**failure analysis**](https://en.wikipedia.org/wiki/Failure_analysis). A
+    professor both of [**civil engineering**](https://en.wikipedia.org/wiki/Civil_engineering) and history at
+    [*Duke University*](http://www.duke.edu/). Also a prolific author; has written over a dozen books – beginning with
+    [**To Engineer is Human: The Role of Failure in Successful Design**](http://www.penguinrandomhouse.com/books/130247/)
+    and including a number of titles detailing the
+    [**industrial design**](https://en.wikipedia.org/wiki/Industrial_design) history of common, everyday objects.
+    Frequent lecturer and a columnist for the magazines [*American Scientist*](http://www.americanscientist.org/) and
+    [*Prism*](http://prismmagazine.org/). His most recently published book is
+    [**To Forgive Design: Understanding Failure**](https://openlibrary.org/works/OL16216261W).
+  avatar: quotes/henry_petroski.jpg
+  about:
+    link: http://cee.duke.edu/faculty/henry-petroski
+  wikipedia: Henry_Petroski
+  email: petroski@duke.edu
+
 "Rob Pike":
   name: Robert Pike
   bio: >
