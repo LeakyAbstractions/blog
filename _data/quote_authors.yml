@@ -916,6 +916,19 @@
   wikipedia: Tony_Hoare
   home: http://www.cs.ox.ac.uk/people/tony.hoare/
 
+"Hans Hoffmann":
+  name: Hans Hoffmann
+  bio: >
+    German-born American **abstract expressionist** painter. One of the most important figures of postwar American art.
+    Celebrated for his exuberant, color-filled canvases, and renowned as an influential teacher for generations of
+    artists—first in his native Germany, then in New York and Provincetown—Hofmann played a pivotal role in the
+    development of [Abstract Expressionism](https://en.wikipedia.org/wiki/Abstract_expressionism).
+  avatar: quotes/hans_hoffmann.jpg
+  about:
+    link: http://www.hanshofmann.org/about/
+  wikipedia: Hans_Hofmann
+  home: http://www.hanshofmann.net/
+
 "Ron Jeffries":
   name: Ron Jeffries
   bio: >
