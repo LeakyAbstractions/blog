@@ -2,8 +2,9 @@
 title: System weaknesses
 tumblr: http://guillermonkey.tumblr.com/post/3161432372
 tags:
-  - software
   - programming
+  - software
+  - weaknesses
   - refactoring
   - bugs
 quote:
