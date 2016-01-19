@@ -1024,6 +1024,26 @@
   wikipedia: Leslie_Lamport
   home: http://www.lamport.org/
 
+"Bruce Leverett":
+  name: Bruce Wallace Leverett
+  bio: >
+    American computer scientist, software engineer at Panasas, a provider of high performance parallel storage
+    solutions. Ph.D. in CS from [*Carnegie-Mellon University*](http://www.cmu.edu/) in 1981 on
+    [**register allocation in optimizing compilers**](http://en.wikipedia.org/wiki/Register_allocation), and as
+    [**USCF Life Master in chess**](http://en.wikipedia.org/wiki/Chess_master "United States Chess Federation").
+    His research interests in academics and industry, beside
+    [**compiler optimization**](https://chessprogramming.wikispaces.com/Optimization) and
+    [**code generation**](http://en.wikipedia.org/wiki/Code_generation_%28compiler%29), include
+    [**memory management**](http://en.wikipedia.org/wiki/Memory_management) and
+    [**file systems**](http://en.wikipedia.org/wiki/File_system), where he contributed to the
+    [*POSIX*](http://en.wikipedia.org/wiki/POSIX) compliant
+    [*Episode filesystem*](http://en.wikipedia.org/wiki/Episode_filesystem).
+  avatar: quotes/bruce_leverett.jpg
+  about:
+    link: https://chessprogramming.wikispaces.com/Bruce+W.+Leverett
+  linkedin: in/bruce-leverett-8704a834
+  home: http://www.cs.cmu.edu/~bwl/
+
 "Katie Lucas":
   name: Katie Lauren Lucas
   bio: >
