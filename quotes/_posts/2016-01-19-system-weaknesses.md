@@ -9,6 +9,7 @@ tags:
   - bugs
 quote:
   author: Bruce Leverett
+  context: Register Allocation in Optimizing Compilers
 ---
 
 But in our enthusiasm, we could not resist a radical overhaul of the system, in which all of its major weaknesses have been exposed, analyzed, and replaced with new weaknesses.
