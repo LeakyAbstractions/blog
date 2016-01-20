@@ -2,9 +2,10 @@
 title: Modern computing
 tumblr: http://guillermonkey.tumblr.com/post/3254292139
 tags:
-  - computer-science
+  - software
   - complexity
   - overengineering
+  - technical-debt
 quote:
   author: Rob Pike
 ---
