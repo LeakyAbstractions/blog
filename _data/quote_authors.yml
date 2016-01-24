@@ -1134,6 +1134,15 @@
   twitter: mccarthyjim1
   home: http://www.mccarthyshow.com/
 
+"Jim McCarthy and Michele McCarthy":
+  name: "Software for Your Head"
+  bio: |
+    - [Jim McCarthy](https://twitter.com/mccarthyjim1)
+    - [Michele McCarthy](https://twitter.com/michmccarthy)
+  avatar: quotes/software_for_your_head.jpg
+  about:
+    link: https://openlibrary.org/books/OL7408046M/Software_for_Your_Head
+
 "Doug McIlroy":
   name: Malcolm Douglas McIlroy
   bio: >
