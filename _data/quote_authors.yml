@@ -196,6 +196,26 @@
     link: https://en.wikipedia.org/wiki/Warren_Bennis
   wikipedia: Warren_Bennis
 
+"Jon Bentley":
+  name: Jon Louis Bentley
+  bio: >
+    American computer scientist and researcher, credited with the heuristic-based partitioning algorithm
+    [k-d tree](https://en.wikipedia.org/wiki/K-d_tree "k-dimensional tree"). Distinguished Member of the
+    *Technical Staff* in the *Computing Sciences Research Center* at
+    [*Bell Labs*](http://bell-labs.com), the research and development arm of
+    [*Lucent Technologies*](https://en.wikipedia.org/wiki/Lucent). Author of the books
+    [**Programming Pearls**](http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880/?tag=drdos-20) and
+    [**More Programming Pearls**](http://www.amazon.com/More-Programming-Pearls-Confessions-Coder/dp/0201118890/).
+    Received the
+    [*Dr. Dobb's*](http://www.drdobbs.com/)[**Excellence in Programming Award**](http://www.drdobbs.com/architecture-and-design/dr-dobbs-excellence-in-programming-award/184404057)
+    in 2000.
+  avatar: quotes/jon_bentley.jpg
+  about:
+    link: https://en.wikipedia.org/wiki/Jon_Bentley
+  wikipedia: Jon_Bentley
+  email: jlb@research.bell-labs.com
+  linkedin: in/jon-bentley-33565561
+
 "Jon Bentley and Doug McIlroy":
   name: "Engineering a Sort Function"
   bio: |
