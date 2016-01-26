@@ -2013,6 +2013,25 @@
   deviantart: y-i-y-u-s
   home: http://yiyus.info/
 
+"Pamela Zave":
+  name: Pamela Zave
+  bio: >
+    American computer scientist and researcher. Author of several technical publications, some of which won
+    **Best Paper awards**. Has given numerous talks all over the world, including invited lectures at several
+    conferences. Known for her work in
+    [**requirements engineering**](https://en.wikipedia.org/wiki/Requirements_engineering) and her use of
+    [**formal methods**](https://en.wikipedia.org/wiki/Formal_methods) in telecommunications. Works at
+    [*AT&T*](http://www.att.com/) Labs. Holds 16 patents in the telecommunications area, and is currently chair of
+    [*IFIP*](http://www.ifip.org/ "International Federation for Information Processing")
+    [*Working Group 2.3*](https://ifip-tc2-wg23.paluno.uni-due.de/) on Programming Methodology.
+  avatar: quotes/pamela_zave.jpg
+  about:
+    link: http://www.research.att.com/people/Zave_Pamela
+  wikipedia: Pamela_Zave
+  email: pamela@research.att.com
+  linkedin: in/pamela-zave-74959b2
+  home: http://www.pamelazave.com/
+
 "Jamie Zawinski":
   name: James Werner "Jamie" Zawinski
   bio: >
