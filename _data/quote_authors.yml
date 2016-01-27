@@ -1621,6 +1621,21 @@
     link: https://www.reddit.com/user/Sarkos
   reddit: Sarkos
 
+"George Bernard Shaw":
+  name: George Bernard Shaw
+  bio: >
+    Nobel Prize and Oscar-winning Irish [playwright](https://en.wikipedia.org/wiki/Playwright), critic and socialist
+    whose influence on Western theatre, culture and politics stretched from the 1880s to his death in 1950. Originally
+    earning his way as an influential London music and theatre critic, Shaw's greatest gift was for the modern drama.
+    Strongly influenced by [Henrik Ibsen](https://en.wikipedia.org/wiki/Henrik_Ibsen), successfully introduced a new
+    realism into English-language drama. Wrote more than 60 plays. With his range from biting contemporary satire to
+    historical allegory, became the **leading comedy dramatist of his generation** and one of the most important
+    playwrights in the English language since the 17th century.
+  avatar: quotes/george_bernard_shaw.jpg
+  about:
+    link: http://www.nobelprize.org/nobel_prizes/literature/laureates/1925/shaw-bio.html
+  wikipedia: George_Bernard_Shaw
+
 "Jeff Sickel":
   name: Jeff Sickel
   bio: >
