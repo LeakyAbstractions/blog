@@ -3,7 +3,7 @@
 #
 title: Simius Ex Machina
 description: Personal blog about programming, technology and software engineering in general.
-url: https://guillermocalvo.github.io
+url: http://guillermo.in
 baseurl:
 twitter: SimiusExMachina
 locale:
@@ -20,7 +20,7 @@ owner:
     link: /about/
     title: About me
   bio: Seeking the troof through programming.
-  email: guillermocalvo@yahoo.com
+  email: hello@guillermo.in
   disqus-shortname: guillermocalvo-github-io
   twitter: guillermonkey
   google:

@@ -50,16 +50,16 @@ cv:
     name: Guillermo Calvo
     desc: Software Developer
     location: Zaragoza, Spain
-    email: guillermocalvo@yahoo.com
-    website: https://guillermocalvo.github.io/
+    email: cv@guillermo.in
+    website: http://guillermo.in/
     image: /assets/curriculum/guillermo.png
     contact:
       title: Contact Me
-      link: mailto:guillermocalvo@yahoo.com
+      link: mailto:cv@guillermo.in
     feed:
       title: Recent Posts
-      description: These are some of the latest posts from my blog [Simius Ex Machina](https://guillermocalvo.github.io/).
-      link: https://guillermocalvo.github.io/feed/coding.xml
+      description: These are some of the latest posts from my blog [Simius Ex Machina](http://guillermo.in/).
+      link: http://guillermo.in/feed/coding.xml
       limit: 2
       effect: slideFastSynced
       more: Read more
@@ -188,7 +188,7 @@ cv:
       - title: exceptions4c
         more:
           title: Find out more
-          link: http://guillermocalvo.github.io/exceptions4c/
+          link: http://guillermo.in/exceptions4c/
         label: Open Source
         image: /curriculum/projects/exceptions4c.png
         content: A **C library for error handling** through exceptions. Among other functionalities, it lets the developer handle error signals sent by the operative system to the program (such as *division by zero*). It is portable and supports multi-threading.
