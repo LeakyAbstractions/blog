@@ -4,6 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3254346502
 tags:
   - programming-languages
   - systems-design
+  - morons
 quote:
   author: Rob Pike
 ---
