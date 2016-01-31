@@ -3,6 +3,8 @@ title: Can’t possibly go wrong
 tumblr: http://guillermonkey.tumblr.com/post/3283544907
 tags:
   - error-recovery
+  - failure
+  - probability
   - assumptions
 quote:
   author: Douglas Adams
