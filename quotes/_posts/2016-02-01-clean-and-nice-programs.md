@@ -2,7 +2,10 @@
 title: Clean and nice programs
 tumblr: http://guillermonkey.tumblr.com/post/3293144347
 tags:
-  - good-programs
+  - good-code
+  - beauty
+  - time
+  - optimization
 quote:
   author: Joshua Bloch
 ---
