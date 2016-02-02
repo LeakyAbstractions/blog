@@ -5,6 +5,8 @@ badge: comments
 tags:
   - programmers
   - joke
+  - hardware
+  - software
 quote:
   author: null
 ---
