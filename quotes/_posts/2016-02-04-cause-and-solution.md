@@ -3,9 +3,10 @@ title: Cause and solution
 tumblr: http://guillermonkey.tumblr.com/post/3292477434
 tags:
   - programmers
+  - computers
+  - problems
   - software
-  - errors
-  - users
+  - bugs
 quote:
   author: null
 ---
