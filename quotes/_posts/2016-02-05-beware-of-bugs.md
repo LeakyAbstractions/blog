@@ -6,7 +6,7 @@ tags:
   - bugs
   - testing
 quote:
-  author: Donald E. Knuth.
+  author: Donald Knuth
 ---
 
 Beware of bugs in the above code; I have only *proved* it correct, not *tried* it.
