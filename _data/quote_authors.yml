@@ -1502,6 +1502,20 @@
   email: pjp@plauger.com
   home: http://www.plauger.com/
 
+"Pliny the Elder":
+  name: Gaius Plinius Secundus
+  bio: >
+    Roman author, naturalist, and natural philosopher. Was also a naval and army commander of the early
+    [Roman Empire](https://en.wikipedia.org/wiki/Roman_Empire) and personal friend of the emperor
+    [*Vespasian*](https://en.wikipedia.org/wiki/Vespasian). Spending most of his spare time studying, writing or
+    investigating natural and geographic phenomena in the field, wrote an encyclopedic work,
+    [**Naturalis Historia**](https://en.wikipedia.org/wiki/Natural_History_(Pliny)), which became a model for all other
+    encyclopedias.
+  avatar: quotes/pliny_the_elder.jpg
+  about:
+    link: https://en.wikipedia.org/wiki/Pliny_the_Elder
+  wikipedia: Pliny_the_Elder
+
 "Japanese proverb":
   name: Japanese Proverbs
   bio: >
