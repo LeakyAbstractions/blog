@@ -2,6 +2,7 @@
 title: True glory
 tumblr: http://guillermonkey.tumblr.com/post/3162927629
 tags:
+  - success
   - writing
   - reading
 quote:
