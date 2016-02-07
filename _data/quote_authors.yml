@@ -498,6 +498,26 @@
   github: rsc
   home: http://research.swtch.com/
 
+"Simon Cozens":
+  name: Simon Cozens
+  bio: >
+    British Perl programmer and author. Has released [**more than 100 Perl modules**](http://search.cpan.org/~simon/).
+    His [books](http://www.isbnplus.com/author/Simon_Cozens) include
+    [**Beginning Perl**](https://www.perl.org/books/beginning-perl/),
+    [**Extending and Embedding Perl**](http://www.isbnplus.com/9781930110823), and the second edition of
+    [**Advanced Perl Programming**](http://www.oreilly.com/catalog/advperl/). Also maintained the
+    [www.perl.com](http://www.perl.com/) site for [*O’Reilly*](http://www.oreilly.com/) for several years and was a
+    columnist for [*the Perl Journal*](http://c2.com/cgi/wiki?ThePerlJournal). His academic training is in Japanese, and
+    latterly in missiology; he aims to work for the church in Japan in the future.
+  avatar: quotes/simon_cozens.jpg
+  about:
+    link: http://www.simon-cozens.org/content/programming#Bio
+  email: simon@simon-cozens.org
+  facebook: lathos
+  twitter: simoncozens
+  github: simoncozens
+  home: http://www.simon-cozens.org/
+
 "Dave Cutler":
   name: David Neil "Dave" Cutler, Sr.
   bio: >
