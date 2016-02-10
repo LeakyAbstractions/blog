@@ -1606,6 +1606,27 @@
     link: http://cm.bell-labs.co/who/dmr/
   wikipedia: Dennis_Ritchie
 
+"Jonathan Rockway":
+  name: Jonathan Rockway
+  bio: >
+    American software engineer, [*Perl*](https://en.wikipedia.org/wiki/Perl "Perl Programming Language") hacker and
+    author. Has been programming Perl since his middle-school years. Worked as a software developer at the
+    [*University of Chicago*](http://www.uchicago.edu/) and later on at
+    [*Infinity Interactive*](https://www.iinteractive.com/). Currently works at [*Google*](http://www.google.com).
+    Maintains [a collection of modules on the CPAN](http://search.cpan.org/~jrockway/).
+    Member of the [Catalyst](http://www.catalystframework.org/) Core Team. Has written a number of
+    [books](http://www.amazon.com/dp/1847190952/?tag=kmjn-20) and tries to speak at as many Perl conferences as possible.
+  avatar: quotes/jonathan_rockway.jpg
+  stackoverflow: 8457/jrockway
+  about:
+    link: https://plus.google.com/+JonathanRockway
+  google
+    plus: +JonathanRockway
+  email: jon@jrock.us
+  github: jrockway
+  twitter: jrockway
+  home: https://www.jrock.us/
+
 "Andy Rooney":
   name: Andrew Aitken "Andy" Rooney
   bio: >
