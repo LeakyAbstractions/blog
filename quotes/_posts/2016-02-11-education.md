@@ -3,8 +3,9 @@ title: Education
 tumblr: http://guillermonkey.tumblr.com/post/3282001478
 tags:
   - computer-science
-  - programming
-  - expertise
+  - education
+  - experts
+  - programmers
 quote:
   author: Eric S. Raymond
 ---
