@@ -1576,6 +1576,24 @@
   linkedin: in/mich-ravera-6ab772
   stackoverflow: 4302730/mich-ravera
 
+"Eric S. Raymond":
+  name: Eric Steven Raymond
+  bio: >
+    American software developer, author of the widely cited 1997 essay and 1999 book
+    [**The Cathedral and the Bazaar**](http://www.catb.org/~esr/writings/cathedral-bazaar/) and other works, and
+    **open-source software advocate**. Wrote a guidebook for the [Roguelike](https://en.wikipedia.org/wiki/Roguelike)
+    game [NetHack](https://en.wikipedia.org/wiki/NetHack). In the 1990s, he edited and updated the
+    [**Jargon File**](http://www.catb.org/~esr/jargon/), currently in print as the
+    [**The New Hacker's Dictionary**](http://www.amazon.com/TNHD/dp/0262680920).
+  avatar: quotes/eric_s_raymond.jpg
+  about:
+    link: http://www.catb.org/~esr/who-is-ESR.html
+  wikipedia: Eric_S._Raymond
+  email: esr@thyrsus.com
+  github: eric-s-raymond
+  twitter: esrtweet
+  home: http://www.catb.org/~esr/
+
 "Jon Ribbens":
   name: Jonathan Ribbens
   bio: >
