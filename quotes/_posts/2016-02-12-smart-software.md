@@ -4,7 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3254270610
 tags:
   - buzzwords
   - software
-  - errors
+  - snake-oil
 quote:
   author: Christian Neukirchen
 ---
