@@ -1300,6 +1300,23 @@
   email: erik@naggum.no
   home: http://naggum.no/
 
+"Christian Neukirchen":
+  name: Christian Neukirchen
+  bio: >
+    German software developer known for creating the first tumblelog [Anarchaia](http://anarchaia.org/). Has written
+    popular [Ruby](http://www.ruby-lang.org/ "Ruby programming language") libraries, such as the abstract webserver
+    interface [**Rack**](http://rack.rubyforge.org/) and the Behavior Driven Development framework
+    [bacon](https://github.com/chneukirchen/bacon).
+  avatar: quotes/christian_neukirchen.jpg
+  about:
+    link: http://chneukirchen.org/infopage.html
+  github: chneukirchen
+  skype: chneukirchen
+  email: chneukirchen@gmail.com
+  twitter: chneukirchen
+  blog: http://chneukirchen.org/trivium/
+  home: http://chneukirchen.org/
+
 "John von Neumann":
   name: John von Neumann
   bio: >
