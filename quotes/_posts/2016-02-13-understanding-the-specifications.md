@@ -6,7 +6,7 @@ tags:
   - specifications
   - knowledge
 quote:
-  author: V.A. Vyssotsky
+  author: Victor A. Vyssotsky
 ---
 
 Programmers won’t tell you that they don’t understand the specification; they will happily invent their way through the gaps and obscurities.
