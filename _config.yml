@@ -74,6 +74,7 @@ defaults:
       path: ""
       type: posts
     values:
+      type: post
       share: true
       taglist: true
       comments: true
@@ -87,6 +88,7 @@ defaults:
       path: ""
       type: pages
     values:
+      type: page
       share: false
       taglist: false
       comments: false
@@ -97,12 +99,14 @@ defaults:
       path: ""
       type: drafts
     values:
+      type: draft
       layout: post
   -
     scope:
       path: blog
       type: posts
     values:
+      subtype: blog
       layout: post
       view_all:
         link: /blog/
@@ -112,6 +116,7 @@ defaults:
       path: coding
       type: posts
     values:
+      subtype: coding
       layout: post
       view_all:
         link: /coding/
@@ -121,6 +126,7 @@ defaults:
       path: quotes
       type: posts
     values:
+      subtype: quote
       layout: quote
       view_all:
         link: /quotes/page/
@@ -138,6 +144,7 @@ defaults:
       type: pages
     values:
       title: Tags
+      subtype: tags
       layout: tags
       image:
         feature: gift-tag.jpg
@@ -150,6 +157,7 @@ defaults:
       type: pages
     values:
       title: Programming Quotes
+      subtype: listing
       layout: listing
       image:
         feature: ada-lovelace.jpg
