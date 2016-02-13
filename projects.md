@@ -1,5 +1,6 @@
 ---
 layout: page
+subtype: projects
 title: My Hobby Projects
 excerpt: These are some of the latest hobby projects I've been working on.
 permalink: /projects/

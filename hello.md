@@ -1,5 +1,6 @@
 ---
 layout: hello
+subtype: hello
 ---
 
 # Guillermo Calvo

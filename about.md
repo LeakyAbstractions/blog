@@ -1,5 +1,6 @@
 ---
 layout: page
+subtype: about
 title: About Me
 excerpt: I'm Guillermo, a software developer from Zaragoza, Spain. I believe in the beauty and elegance of small, uncomplicated code. I always try to keep things as simple as possible, but not simpler.
 permalink: /about/
