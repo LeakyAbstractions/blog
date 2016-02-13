@@ -78,7 +78,7 @@ if( document.location.pathname.startsWith('{{ redirect_path }}') ){
 {% include theme/minimal-mistakes/_head.html %}
 </head>
 
-<body class="{{ page.layout }}">
+<body class="{{ page.type }} {{ page.subtype | append: '-' | append: page.type }}">
 
 {% include theme/minimal-mistakes/_browser-upgrade.html %}
 
