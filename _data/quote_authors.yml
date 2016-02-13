@@ -2011,6 +2011,25 @@
     link: https://en.wikipedia.org/wiki/Voltaire
   wikipedia: Voltaire
 
+"Victor A. Vyssotsky":
+  name: Victor Alexander Vyssotsky
+  bio: >
+    American mathematician and computer scientist. Was the technical head of
+    [**the Multics project**](http://www.multicians.org/history.html "Multiplexed Information and Computing Service") at
+    [*Bell Labs*](http://bell-labs.com) and later *Executive Director of Research* in the Information Systems Division
+    of [*AT&T*](http://www.att.com/) *Bell Labs*. Multics, whilst not particularly commercially successful in itself,
+    directly inspired [*Ken Thompson*](https://en.wikipedia.org/wiki/Ken_Thompson_(computer_programmer)) to develop
+    [**UNIX**](http://www.unix.org/ "The UNIX Operating System"). In the early 1960s, along with
+    [*Robert Morris Sr.*](https://en.wikipedia.org/wiki/Robert_Morris_Sr.) and
+    [*Doug McIlroy*](https://en.wikipedia.org/wiki/Doug_McIlroy), devised and played a computer game called
+    [**Darwin**](https://en.wikipedia.org/wiki/Darwin_(programming_game)) (later known as
+    [*Core War*](http://corewar.co.uk/darwin.htm)) on an [IBM 7090](https://en.wikipedia.org/wiki/IBM_7090) at
+    *Bell Labs*. Later virus developers used the same technique to develop some viruses.
+  avatar: quotes/v_a_vyssotsky.jpg
+  about:
+    link: https://en.wikipedia.org/wiki/Victor_A._Vyssotsky
+  wikipedia: Victor_A._Vyssotsky
+
 "Philip Wadler":
   name: Philip Lee "Phil" Wadler
   bio: >
