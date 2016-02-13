@@ -2,7 +2,7 @@
 layout: theme/minimal-mistakes/default
 ---
 
-<article class="{{ page.layout }}">
+<article class="{{ page.type }} {{ page.subtype | append: '-' | append: page.type }}">
 
 {% if page.headline != false %}
   <div class="headline-wrap">
