@@ -1,5 +1,6 @@
 ---
 layout: page
+subtype: search
 title: Site Search
 sitemap: false
 permalink: /search/

@@ -1,5 +1,6 @@
 ---
 layout: tag-cloud
+subtype: tag-cloud
 title: Tags
 image:
   feature: gift-tag.jpg

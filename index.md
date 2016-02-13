@@ -1,5 +1,6 @@
 ---
 layout: home
+subtype: home
 image:
   feature: chimp.jpg
   credit: International Fund for Animal Welfare
