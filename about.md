@@ -26,13 +26,13 @@ Oh and I love **Japan**: anime, manga, origami, calligraphy, food... you name it
 
 [Curriculum Vitae](/curriculum/){: .btn}
 
-<figure class="third">
+<figure class="third hidden-sm">
 	<img src="/images/qrcode/blog.svg" alt="Blog">
 	<img src="/images/qrcode/cv.svg" alt="Curriculum Vitae">
 	<img src="/images/qrcode/email.svg" alt="E-mail">
 </figure>
 
-<figure class="third">
+<figure class="third hidden-sm">
 	<img src="/images/qrcode/linkedin.svg" alt="LinkedIn">
 	<img src="/images/qrcode/github.svg" alt="Github">
 	<img src="/images/qrcode/twitter.svg" alt="Twitter">
