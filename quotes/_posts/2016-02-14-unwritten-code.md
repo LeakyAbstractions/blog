@@ -5,9 +5,8 @@ tags:
   - bugs
   - programming
   - source-code
-  - debugging
 quote:
   author: null
 ---
 
-Written code is buggy code, unwritten code might be bug-free code.
+Written code is buggy code, unwritten code *might be* bug-free code.
