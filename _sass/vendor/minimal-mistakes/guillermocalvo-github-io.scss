@@ -297,3 +297,31 @@ ul.dialog {
 		}
 	}
 }
+
+/* Visibility */
+
+/* Extra small devices (Phones): width < 768px) */
+.hidden-xs {
+	@media only screen and (max-width: 767px) {
+		display: none !important;
+	}
+}
+
+/* Small devices (Tablets): 768px <= width < 992px */
+.hidden-sm {
+	@media only screen and (max-width: 991px) {
+		display: none !important;
+	}
+}
+
+/* Medium devices (Desktops): 992px <= width < 1200px */
+.hidden-md {
+	@media only screen and (max-width: 1199px) {
+		display: none !important;
+	}
+}
+
+/* Large devices (Desktops): 1200px <= width */
+.hidden-lg {
+	display: none !important;
+}
