@@ -1726,6 +1726,25 @@
     link: http://www.nobelprize.org/nobel_prizes/literature/laureates/1925/shaw-bio.html
   wikipedia: George_Bernard_Shaw
 
+"Olin Shivers":
+  name: Olin Shivers
+  bio: >
+    American Professor and computer scientist. His principal research interests include
+    **programming languages, compilers, and systems**. Worked at the
+    [*MIT*](http://mit.edu/ "Massachusetts Institute of Technology")
+    [*Artificial Intelligence Laboratory*](https://www.csail.mit.edu/). Author of
+    [**Scsh**](https://en.wikipedia.org/wiki/Scsh "Open-source Unix shell embedded within Scheme"). Founder and CTO of
+    the [Smartleaf Corporation](http://www.smartleaf.com/), and a faculty member at the
+    [Georgia Institute of Technology](http://www.gatech.edu/). Currently teaches *Fundamentals of Computer Science 1*
+    and *Compilers* at [Northeastern University](http://www.ccs.neu.edu/).
+  avatar: quotes/olin_shivers.jpg
+  about:
+    link: http://www.ccs.neu.edu/home/shivers/cv.pdf
+  wikipedia: http://www.ccs.neu.edu/people/faculty/member/shivers/
+  email: shivers@ccs.neu.edu
+  twitter: olinshivers
+  home: http://www.ccs.neu.edu/home/shivers/
+
 "Jeff Sickel":
   name: Jeff Sickel
   bio: >
