@@ -5,6 +5,8 @@ tags:
   - software
   - programmers
   - reliability
+  - morons
+  - quality
 quote:
   author: Bram Cohen
 ---
