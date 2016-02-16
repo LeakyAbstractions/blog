@@ -462,6 +462,26 @@
   twitter: myutmost
   home: http://utmost.org/
 
+"Bram Cohen":
+  name: Bram Cohen
+  bio: >
+    American computer programmer, best known as the author of the
+    [P2P](https://en.wikipedia.org/wiki/Peer-to-peer "peer-to-peer")
+    [**BitTorrent protocol**](https://en.wikipedia.org/wiki/BitTorrent_(protocol)), as well as the first
+    [file sharing](https://en.wikipedia.org/wiki/File_sharing) program to use the protocol, also known as
+    [**BitTorrent**](http://www.bittorrent.com/). Co-founder of [**CodeCon**](https://en.wikipedia.org/wiki/CodeCon),
+    organizer of the *San Francisco Bay Area P2P-hackers meeting* and co-author of
+    [**Codeville**](https://en.wikipedia.org/wiki/Codeville).
+  avatar: quotes/bram_cohen.jpg
+  about:
+    link: https://en.wikipedia.org/wiki/Bram_Cohen
+  wikipedia: Bram_Cohen
+  linkedin: in/cohenbram
+  github: bramcohen
+  email: bram@bittorrent.com
+  twitter: bramcohen
+  home: http://bramcohen.com/
+
 "Alan Cooper":
   name: Alan Cooper
   bio: >
