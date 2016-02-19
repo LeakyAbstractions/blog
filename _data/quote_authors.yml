@@ -1012,6 +1012,25 @@
   bio: No biographical information available.
   avatar: quotes/default.jpg
 
+"Maciej Kaczmarek":
+  name: Maciej Kaczmarek
+  bio: >
+    Polish software engineer, geek and code enthusiast. Expert in the field of: load balancing,
+    web application security, optimization of SQL queries, full-text search techniques, processing large amounts of
+    data, optimization of [PHP](http://php.net "PHP scripting language") and
+    [JS](https://en.wikipedia.org/wiki/JavaScript "JavaScript interpreted programming language") code. Works at
+    [*Autentika*](http://autentika.pl/) as a Backend developer.
+  avatar: quotes/maciej_kaczmarek.jpg
+  about:
+    link: http://maciej-kaczmarek.com/
+  email: maciej@maciej-kaczmarek.pl
+  linkedin: in/maciejkaczmarekpl
+  twitter: mckacz
+  facebook: mckacz
+  google:
+    plus: +MaciejKaczmarek
+  home: http://maciej-kaczmarek.com/
+
 "Brian Kernighan":
   name: Brian Wilson Kernighan
   bio: >
