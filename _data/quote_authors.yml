@@ -1625,6 +1625,25 @@
     link: https://en.wikipedia.org/wiki/Japanese_proverbs
   wikipedia: Japanese_proverbs
 
+"Erik Quanstrom":
+  name: Erik Quanstrom
+  bio: >
+    Software Development Engineer and **operating systems** expert. Author of [**9atom**](http://www.9atom.org/), a fork
+    of [*Plan 9*](http://plan9.bell-labs.com/plan9/ "Plan 9 operating systems") that augments the distribution with the
+    addition of a 386 [PAE](https://en.wikipedia.org/wiki/Physical_Address_Extension "Physical Address Extension")
+    kernel, an [AMD64](https://en.wikipedia.org/wiki/X86-64#AMD64)
+    [cpu](https://en.wikipedia.org/wiki/Central_processing_unit "Central processing unit") and terminal kernel,
+    [nupas](http://www.quanstro.net/plan9/nupas.pdf "Scaling Upas (The Plan 9 email system)"), extra PC hardware
+    support, IL and [Ken's fs](http://www.quanstro.net/plan9/disklessfs.pdf "The diskless fileserver").
+  avatar: quotes/erik_quanstrom.jpg
+  about:
+    link: https://www.linkedin.com/in/erik-quanstrom-32509b88
+  email: quanstro@quanstro.net
+  linkedin: in/erik-quanstrom-32509b88
+  google:
+    plus: +ErikQuanstrom
+  home: http://www.quanstro.net/
+
 "Marcus J. Ranum":
   name: Marcus J. Ranum
   bio: >
