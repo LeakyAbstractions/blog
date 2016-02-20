@@ -4,6 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3253989742
 tags:
   - hardware
   - software
+  - locking
   - errors
 quote:
   author: Erik Quanstrom
