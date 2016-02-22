@@ -3,8 +3,8 @@ title: The hard part
 tumblr: http://guillermonkey.tumblr.com/post/3254039230
 tags:
   - programming
-  - systems-design
-  - simplicity
+  - problem-solving
+  - problems
 quote:
   author: Paul Graham
 ---
