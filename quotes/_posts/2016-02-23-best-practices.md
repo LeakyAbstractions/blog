@@ -2,10 +2,9 @@
 title: Best practices
 tumblr: http://guillermonkey.tumblr.com/post/3283589795
 tags:
-  - success
   - programmers
+  - good-practices
   - assumptions
-  - best-practices
 quote:
   author: null
 ---
