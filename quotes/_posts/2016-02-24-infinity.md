@@ -1,0 +1,12 @@
+---
+title: Infinity
+tumblr: http://guillermonkey.tumblr.com/post/3290488639
+tags:
+  - universe
+  - infinity
+  - stupidity
+  - morons
+author: Albert Einstein
+---
+
+Two things are infinite: the universe and the stupidity of mankind. However, I am not so sure yet with the universe.
