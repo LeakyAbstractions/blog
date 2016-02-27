@@ -340,6 +340,30 @@
   blog: http://peripateticaxiom.blogspot.com/
   home: http://cumulative-hypotheses.org/
 
+"Reg Braithwaite":
+  name: Reginald Scott Braithwaite
+  bio: >
+    Canadian software developer with more than 20 years of hands-on experience creating software products and leading
+    software teams. Applies extremely deep [Ruby](http://www.ruby-lang.org/ "Ruby programming language"),
+    [JavaScript](https://en.wikipedia.org/wiki/JavaScript "JavaScript interpreted programming language"),
+    [CoffeeScript](http://coffeescript.org/ "CoffeeScript Programming Language") to crafting well-factored,
+    maintainable code. Respected [speaker](https://speakerdeck.com/raganwald) and
+    [author](https://leanpub.com/u/raganwald) on subjects ranging from managing development and not-so-big design to
+    and extreme hackery such as dynamic meta-programming. *Open source* accomplishments include programming libraries
+    such as [**Cafe au Life**](http://recursiveuniver.se/), [**Allong.es**](http://allong.es/),
+    [**Method Combinators**](https://github.com/raganwald/method-combinators),
+    [**Katy**](https://github.com/raganwald/Katy),
+    [**JQuery Combinators**](http://github.com/raganwald/JQuery-Combinators),
+    [**YouAreDaChef**](https://github.com/raganwald/YouAreDaChef),
+    [**andand**](http://github.com/raganwald/andand), and [others](https://github.com/raganwald).
+  avatar: quotes/reg_braithwaite.jpg
+  about:
+    link: http://lanyrd.com/profile/raganwald/
+  email: reg@braythwayt.com
+  github: raganwald
+  twitter: raganwald
+  home: http://braythwayt.com/
+
 "Stewart Brand":
   name: Stewart Brand
   bio: >
