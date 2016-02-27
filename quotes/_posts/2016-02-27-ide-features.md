@@ -3,6 +3,7 @@ title: IDE features
 tumblr: http://guillermonkey.tumblr.com/post/3253792566
 tags:
   - programming-languages
+  - smells
   - ide
   - features
 quote:
