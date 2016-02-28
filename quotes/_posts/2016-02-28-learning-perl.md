@@ -8,7 +8,7 @@ tags:
   - bad-ideas
   - programming
 quote:
-  author: egoncasteel
+  author: Egon Casteel
   link: https://www.reddit.com/r/programming/comments/dkew8/why_you_should_know_just_a_little_bit_of_awk/c10vlkq
 ---
 
