@@ -1341,6 +1341,21 @@
   bitbucket: rminnich
   twitter: coreboot
 
+"Alex Mizrahi":
+  name: Alex "Killerstorm" Mizrahi
+  bio: >
+    Ukrainian software developer and cryptocurrency expert, with a strong background in mathematics, computer science,
+    algorithms, object-oriented design and programming language theory. MSc in applied mathematics from
+    [*Donetsk National University*](http://www.donnu.edu.ua/), graduated with honors. Author of several academic papers
+    about [**Bitcoin**](https://es.wikipedia.org/wiki/Bitcoin). Developed the first implementation of **Bitcoin 2.0** in
+    the world. Led the open source [**colored coins**](http://coloredcoins.org/) project from 2012. Co-founded
+    [*ChromaWay*](http://chromaway.com/) in 2013.
+  avatar: quotes/alex_mizrahi.jpg
+  about:
+    link: https://www.linkedin.com/in/alex-mizrahi-a1b2b44
+  twitter: killerstorm
+  linkedin: in/alex-mizrahi-a1b2b44
+
 "Nathan Myhrvold":
   name: Nathan Paul Myhrvold
   bio: >
