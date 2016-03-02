@@ -4,7 +4,10 @@ tumblr: http://guillermonkey.tumblr.com/post/3254129882
 tags:
   - programming
   - beauty
-  - principles
+  - source-code
+  - simplicity
+  - good-code
+  - good-practices
 quote:
   author: Cinap Lenrek
 ---
