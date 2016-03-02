@@ -1140,6 +1140,25 @@
   wikipedia: Leslie_Lamport
   home: http://www.lamport.org/
 
+"Cinap Lenrek":
+  name: Cinap Lenrek
+  bio: >
+    German computer engineer. Developed a great deal of
+    [**Plan 9**](http://plan9.bell-labs.com/plan9/ "Plan 9 operating systems") software, such as:
+    [**linuxemu**](http://plan9.stanleylieber.com/linuxemu/ "Linux Kernel emulator"),
+    [**nbdserver**](http://9hal.ath.cx/usr/cinap_lenrek/nbdserver.tgz "Linux Network Block Device Server"),
+    [**cifsd**](http://man2.aiju.de/8/cifsd "CIFS/SMB network daemon") or
+    [**esdaudio**](http://9hal.ath.cx/usr/cinap_lenrek/esdaudio.tgz "ESD Client"). Author of
+    [9front](http://9front.org/who/cinap_lenrek/), a fork of *Plan 9*. The project was started to remedy a perceived
+    lack of devoted development resources inside [*Bell Labs*](http://bell-labs.com), and has accumulated various
+    [fixes](http://bugs.9front.org/closed/) and [improvements](http://fqa.9front.org/fqa1.html#1.3.1).
+  avatar: quotes/cinap_lenrek.jpg
+  about:
+    link: http://9front.org/who/cinap_lenrek/
+  email: cinap_lenrek@felloff.net
+  linkedin: in/cinap-lenrek-1b319749
+  home: http://9hal.ath.cx/usr/cinap_lenrek/
+
 "Bruce Leverett":
   name: Bruce Wallace Leverett
   bio: >
