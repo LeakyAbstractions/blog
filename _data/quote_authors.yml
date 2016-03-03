@@ -1251,6 +1251,27 @@
   twitter: unclebobmartin
   home: http://cleancoder.com/
 
+"David May":
+  name: Michael David May
+  bio: >
+    British computer scientist. Fellow of the [*Royal Academy of Engineering*](http://www.raeng.org.uk/).
+    Professor in the
+    [*Department of Computer Science*](https://en.wikipedia.org/wiki/Department_of_Computer_Science,_University_of_Bristol)
+    at the [*University of Bristol*](http://bristol.ac.uk/). Founder of [**XMOS Semiconductor**](http://www.xmos.com/),
+    serving until February 2014 as the
+    [CTO](https://en.wikipedia.org/wiki/Chief_Technology_Officer "Chief Technology Officer").
+    [Lead architect](https://en.wikipedia.org/wiki/Computer_architecture) for the
+    [**transputer**](https://en.wikipedia.org/wiki/Transputer).
+    As of 2007, he holds 34 patents, all in [**microprocessors**](https://en.wikipedia.org/wiki/Microprocessor) and
+    [**multi-processing**](https://en.wikipedia.org/wiki/Multi-processing).
+  avatar: quotes/david_may.jpg
+  about:
+    link: https://en.wikipedia.org/wiki/David_May_(computer_scientist)
+  wikipedia: David_May_(computer_scientist)
+  email: dave@cs.bris.ac.uk
+  linkedin: in/davidmay3
+  home: https://www.cs.bris.ac.uk/~dave/
+
 "Jim McCarthy":
   name: Jim McCarthy
   bio: >
