@@ -3,8 +3,9 @@ title: Software efficiency
 tumblr: http://guillermonkey.tumblr.com/post/3254253747
 tags:
   - software
-  - performance
+  - efficiency
   - hardware
+  - performance
 quote:
   author: David May
   caption: May’s Law
