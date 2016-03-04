@@ -2,9 +2,8 @@
 title: The cost of abstraction
 tumblr: http://guillermonkey.tumblr.com/post/3254304553
 tags:
-  - overengineering
+  - abstractions
   - leaky-abstractions
-  - systems-design
   - simplicity
 quote:
   author: John Carmack
