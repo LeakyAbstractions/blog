@@ -3,7 +3,7 @@ title: Another level of indirection
 tumblr: http://guillermonkey.tumblr.com/post/3293395882
 tags:
   - computer-science
-  - abstraction
+  - abstractions
   - programming
   - lasagna-code
 quote:
