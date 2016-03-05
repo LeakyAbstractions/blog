@@ -3,7 +3,7 @@ title: Simplifying
 tumblr: http://guillermonkey.tumblr.com/post/19975118927
 tags:
   - simplicity
-  - abstraction
+  - abstractions
   - systems-design
 quote:
   author: Hans Hofmann
