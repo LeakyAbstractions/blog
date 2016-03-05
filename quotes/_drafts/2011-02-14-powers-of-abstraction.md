@@ -2,7 +2,7 @@
 title: Powers of abstraction
 tumblr: http://guillermonkey.tumblr.com/post/3293195115
 tags:
-  - abstraction
+  - abstractions
   - programmers
   - success
 quote:

@@ -4,7 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/20111705482
 tags:
   - engineering
   - indirection
-  - abstraction
+  - abstractions
   - software
 quote:
   author: Butler Lampson
