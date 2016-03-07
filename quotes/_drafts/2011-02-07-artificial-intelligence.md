@@ -3,6 +3,8 @@ title: Artificial intelligence
 tumblr: http://guillermonkey.tumblr.com/post/3155045537
 tags:
   - artificial-intelligence
+  - stupidity
+  - morons
 quote:
   author: David Parnas
 ---
