@@ -5,6 +5,8 @@ tags:
   - programming
   - bugs
   - software
+  - errors
+  - writing
   - good-programs
 quote:
   author: null
