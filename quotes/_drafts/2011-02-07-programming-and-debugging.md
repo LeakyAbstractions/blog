@@ -3,7 +3,9 @@ title: Programming and debugging
 tumblr: http://guillermonkey.tumblr.com/post/3162176459
 tags:
   - programming
+  - bugs
   - debugging
+  - mistakes
 quote:
   author: Maurice Wilkes
   context: 1949

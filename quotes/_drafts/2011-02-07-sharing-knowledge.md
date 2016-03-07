@@ -2,10 +2,11 @@
 title: Sharing knowledge
 tumblr: http://guillermonkey.tumblr.com/post/3155028368
 tags:
+  - programming
   - fellowship
   - programmers
-  - programming
   - sharing
+  - knowledge
 quote:
   author: John Carmack
 ---
