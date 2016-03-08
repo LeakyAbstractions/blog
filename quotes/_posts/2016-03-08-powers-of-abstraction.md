@@ -6,7 +6,7 @@ tags:
   - programmers
   - success
 quote:
-  author: Edsger W. Dijkstra
+  author: Edsger Dijkstra
 ---
 
 The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
