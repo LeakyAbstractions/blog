@@ -4,6 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3283276524
 tags:
   - programming
   - optimization
+  - good-practices
 quote:
   author: Donald Knuth
 ---
