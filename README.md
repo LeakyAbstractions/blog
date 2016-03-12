@@ -1,7 +1,7 @@
 
 # Simius Ex Machina
 
-This is [my personal blog][BLOG] about **programming**, **technology** and **software engineering** in general. I may write about other interesting topics such as: **video games**, **music**, **books**, **art** or **Japan**.
+:memo: This is [my personal blog][BLOG] about **programming**, **technology** and **software engineering** in general. I may write about other interesting topics such as: **video games**, **music**, **books**, **art** or **Japan**.
 
 ![][CHIMP]
 
