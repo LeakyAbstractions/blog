@@ -1,0 +1,12 @@
+---
+title: Morons
+tumblr: http://guillermonkey.tumblr.com/post/3161892071
+tags:
+  - programmers
+  - code-monkeys
+  - management
+  - morons
+author: Bjarne Stroustrup
+---
+
+An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
