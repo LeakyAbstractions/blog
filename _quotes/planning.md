@@ -1,0 +1,10 @@
+---
+title: Planning
+tumblr: http://guillermonkey.tumblr.com/post/3155089722
+tags:
+  - planning
+  - methodology
+author: Dwight D. Eisenhower
+---
+
+I have always found that plans are useless, but planning is indispensable.
