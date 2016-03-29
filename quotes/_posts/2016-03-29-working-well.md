@@ -8,7 +8,7 @@ tags:
   - errors
   - real-world
 quote:
-  author: Dave Parnas
+  author: David Parnas
 ---
 
 As a rule, software systems do not work well until they have been used, and have failed repeatedly, in real applications.
