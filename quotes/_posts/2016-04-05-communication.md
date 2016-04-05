@@ -2,9 +2,10 @@
 title: Communication
 tumblr: http://guillermonkey.tumblr.com/post/3283343413
 tags:
+  - communication
   - software
   - failure
-  - communication
+  - problems
 quote:
   author: null
 ---
