@@ -3,8 +3,14 @@ title: Worshipping rules
 tumblr: http://guillermonkey.tumblr.com/post/3254161511
 tags:
   - programming
-  - principles
-  - radicalism
+  - purpose
+  - patterns
+  - rules
+  - radicalisms
+  - questions
+  - complexity
+  - writing
+  - source-code
 quote:
   author: Cinap Lenrek
 ---
