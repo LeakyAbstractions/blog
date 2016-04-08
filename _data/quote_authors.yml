@@ -1446,6 +1446,20 @@
   email: erik@naggum.no
   home: http://naggum.no/
 
+"NSA Security Manual":
+  name: National Security Agency
+  bio: >
+    Intelligence organization of the United States government, responsible for global monitoring, collection, and
+    processing of information and data for foreign intelligence and
+    [counterintelligence](https://en.wikipedia.org/wiki/Counterintelligence) purposes. Concurrently charged with
+    protection of U.S. government communications and information systems against penetration and network warfare.
+  avatar: quotes/nsa.jpg
+  about:
+    link: https://www.nsa.gov/about/index.shtml
+  wikipedia: National_Security_Agency
+  twitter: nsagov
+  home: http://www.nsa.gov/
+
 "Christian Neukirchen":
   name: Christian Neukirchen
   bio: >
