@@ -5,6 +5,7 @@ tags:
   - computers
   - errors
   - users
+  - blame
 quote:
   author: null
 ---
