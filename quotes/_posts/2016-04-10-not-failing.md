@@ -2,6 +2,7 @@
 title: Not failing
 tumblr: http://guillermonkey.tumblr.com/post/3290131616
 tags:
+  - learning
   - failure
 quote:
   author: Thomas Edison
