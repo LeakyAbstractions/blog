@@ -680,6 +680,22 @@
   twitter: TomDuff
   home: http://iq0.com/
 
+"Thomas Edison":
+  name: Thomas Alva Edison
+  bio: >
+    American [inventor](https://en.wikipedia.org/wiki/Inventor) and
+    [businessman](https://en.wikipedia.org/wiki/Businessman). **Developed many devices** that greatly influenced life
+    around the world, including the [**phonograph**](https://en.wikipedia.org/wiki/Phonograph), the
+    [**motion picture camera**](https://en.wikipedia.org/wiki/Movie_camera), and the long-lasting, practical
+    [**electric light bulb**](https://en.wikipedia.org/wiki/Incandescent_light_bulb). One of the first inventors to
+    apply the principles of [mass production](https://en.wikipedia.org/wiki/Mass_production) and large-scale teamwork to
+    the process of invention, and because of that, often credited with the creation of the first industrial
+    [**research laboratory**](https://en.wikipedia.org/wiki/Research_laboratory).
+  avatar: quotes/thomas_edison.jpg
+  about:
+    link: http://www.bbc.co.uk/programmes/b00wdjr8
+  wikipedia: Thomas_Edison
+
 "Albert Einstein":
   name: Albert Einstein
   bio: >
