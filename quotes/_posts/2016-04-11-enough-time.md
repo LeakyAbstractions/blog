@@ -2,11 +2,11 @@
 title: Enough time
 tumblr: http://guillermonkey.tumblr.com/post/3292820655
 tags:
-  - programming
+  - time
   - deadlines
-  - software
+  - correctness
   - reliability
-  - bugs
+  - quality
 quote:
   author: null
 ---
