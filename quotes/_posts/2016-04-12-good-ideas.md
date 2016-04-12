@@ -2,9 +2,10 @@
 title: Good ideas
 tumblr: http://guillermonkey.tumblr.com/post/3253826199
 tags:
-  - innovation
   - good-ideas
+  - innovation
   - imitation
+  - originality
 quote:
   author: Bram Cohen
 ---
