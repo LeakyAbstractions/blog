@@ -1978,6 +1978,25 @@
   sourceforge: jsickel
   bitbucket: jas
 
+"Ryan Singer":
+  name: Ryan Singer
+  bio: >
+    American user interface designer and product manager. Frequent speaker at conferences, is a recognised authority on
+    [**UI design**](https://en.wikipedia.org/wiki/User_interface_design) and
+    [product design and management](https://en.wikipedia.org/wiki/Product_design). Writes in
+    [Felt Presence](http://feltpresence.com/) about these topics. Has been working at
+    [*Basecamp*](https://basecamp.com/) since 2003, playing a significant role in the conception and interface design of
+    subsequent products including [**Backpack**](http://backpackit.com/), [**Campfire**](https://campfirenow.com/) and
+    [**Highrise**](https://highrisehq.com/). In 2011 worked closely with the partners to re-imagine the *Basecamp*
+    product from the ground up, managing development from start to finish and defined core interface elements.
+  avatar: quotes/ryan_singer.jpg
+  about:
+    link: https://medium.com/@rjs
+  email: rsinger@gmail.com
+  twitter: rjs
+  linkedin: in/ryan-singer-9941592b
+  home: http://feltpresence.com/
+
 "Sophocles":
   name: Σοφοκλῆς, Sophoklēs
   bio: >
