@@ -3,8 +3,8 @@ title: Too much complexity
 tumblr: http://guillermonkey.tumblr.com/post/3254315413
 tags:
   - software
-  - overengineering
   - complexity
+  - overengineering
 quote:
   author: Ryan Singer
 ---
