@@ -4,9 +4,10 @@ tumblr: http://guillermonkey.tumblr.com/post/3291334009
 badge: smile-o
 tags:
   - programmers
+  - writing
   - source-code
-  - maintainability
   - comments
+  - maintainability
   - joke
 quote:
   author: null
