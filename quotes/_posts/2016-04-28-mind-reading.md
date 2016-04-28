@@ -4,6 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3293284154
 tags:
   - computers
   - programmers
+  - software
   - reliability
 quote:
   author: Donald Knuth
