@@ -747,6 +747,26 @@
     link: https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson
   wikipedia: Ralph_Waldo_Emerson
 
+"Mark Engelberg":
+  name: Mark Engelberg
+  bio: >
+    American puzzle & game designer. Functional programming expert. One of the earliest [Clojure](https://clojure.org/)
+    programmers and the author of several popular [**open-source libraries**](https://libraries.io/github/Engelberg).
+    Early [VR](https://en.wikipedia.org/wiki/Virtual_reality "Virtual Reality") pioneer, began his career as a
+    researcher at [*NASA*](http://www.nasa.gov/ "National Aeronautics and Space Administration"), and then transitioned
+    to computer game development and design at [*Sierra*](http://www.sierra.com/es). Later, worked at
+    [*RTime*](http://www.rtimeinc.com/), developing **lag-tolerant algorithms for multiplayer realtime gaming**, and at
+    [*Rad Game Tools*](http://www.radgametools.com/), developing
+    [**Bink**](http://www.radgametools.com/bnkmain.htm "Bink - The video compression system for games").
+  avatar: quotes/mark_engelberg.jpg
+  about:
+    link: https://twitter.com/mark_engelberg
+  email: mark.engelberg@gmail.com
+  github: Engelberg
+  twitter: mark_engelberg
+  linkedin: in/mark-engelberg-0a09a88a
+  home: http://techcrunch.com/contributor/mark-engelberg/
+
 "Richard Feynman":
   name: Richard Phillips Feynman
   bio: >
