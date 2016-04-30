@@ -4,6 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3292503161
 tags:
   - networks
   - bandwith
+  - speed
   - simplicity
 quote:
   author: Andrew S. Tanenbaum
