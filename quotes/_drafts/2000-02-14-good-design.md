@@ -3,9 +3,11 @@ title: Good design
 tumblr: http://guillermonkey.tumblr.com/post/3282368175
 tags:
   - systems-design
-  - success
+  - good-design
+  - value
+  - cost
 quote:
-  author: Thomas C. Gale
+  author: Tom Gale
 ---
 
 Good design adds value faster than it adds cost.
