@@ -2163,6 +2163,30 @@
   twitter: cstross
   home: http://www.antipope.org/charlie/
 
+"Andrew S. Tanenbaum":
+  name: Andrew Stuart "Andy" Tanenbaum
+  bio: >
+    American computer scientist and professor emeritus of computer science at the
+    [*Vrije Universiteit*](http://www.vu.nl/), Amsterdam in the Netherlands. Best known as the author of
+    [**MINIX**](http://www.minix3.org/), a free Unix-like operating system for teaching purposes, and for his
+    computer science textbooks, regarded as standard texts in the field:
+    [**Computer Networks**](https://www.pearsonhighered.com/program/PGM270019.html),
+    [**Operating Systems: Design and Implementation**](https://www.pearsonhighered.com/program/PGM270019.html),
+    [**Modern Operating Systems**](https://www.pearsonhighered.com/program/PGM80736.html),
+    [**Distributed Operating Systems**](https://www.pearsonhighered.com/program/PGM84396.html),
+    [**Structured Computer Organization**](https://www.pearsonhighered.com/program/PGM200985.html),
+    [**Distributed Systems: Principles and Paradigms**](https://www.pearsonhighered.com/program/PGM104647.html).
+  avatar: quotes/andrew_s_tanenbaum.jpg
+  about:
+    link: xxxxxxxxxxxxxxxxxxxx
+  wikipedia: Andrew_S._Tanenbaum
+  email: ast@cs.vu.nl
+  youtube: UCGE79COc35OCPu7UQJYILQw
+  google:
+    plus: "105311887941558130852"
+  linkedin: in/andrew-tanenbaum-a142b5
+  home: http://www.cs.vu.nl/~ast/
+
 "Audrey Tang":
   name: Audrey Tang
   bio: >
