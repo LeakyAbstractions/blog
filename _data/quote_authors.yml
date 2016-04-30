@@ -405,7 +405,7 @@
     link: http://www.billbryson.co.uk/index.php/about/
   wikipedia: Bill_Bryson
   facebook: BillBrysonAuthor
-  youtube: BillBrysonTV
+  youtube: user/BillBrysonTV
   home: http://www.billbryson.co.uk/
 
 "R. Buckminster Fuller":
@@ -479,7 +479,7 @@
   avatar: quotes/egoncasteel.jpg
   about:
     link: https://plus.google.com/102772017055000562034
-  youtube: egoncasteel
+  youtube: user/egoncasteel
   google:
     plus: "102772017055000562034"
   twitter: egoncasteel
@@ -549,7 +549,7 @@
     link: https://swtch.com/~rsc/
   google:
     plus: +RussCox-rsc
-  youtube: 9rsc
+  youtube: user/9rsc
   email: rsc@swtch.com
   twitter: _rsc
   github: rsc
@@ -918,7 +918,7 @@
   facebook: BillGates
   linkedin: in/williamhgates
   twitter: billgates
-  youtube: thegatesnotes
+  youtube: user/thegatesnotes
   home: http://www.gatesnotes.com/
 
 "Geer et al.":
@@ -2100,7 +2100,7 @@
   about:
     link: https://www.cs.auckland.ac.nz/~mike/
   email: metaweta@gmail.com
-  youtube: metawetayt
+  youtube: user/metawetayt
   twitter: metaweta
   google:
     plus: +MikeStay
@@ -2181,7 +2181,7 @@
     link: xxxxxxxxxxxxxxxxxxxx
   wikipedia: Andrew_S._Tanenbaum
   email: ast@cs.vu.nl
-  youtube: UCGE79COc35OCPu7UQJYILQw
+  youtube: channel/UCGE79COc35OCPu7UQJYILQw
   google:
     plus: "105311887941558130852"
   linkedin: in/andrew-tanenbaum-a142b5
@@ -2256,7 +2256,7 @@
   wikipedia: Linus_Torvalds
   google:
     plus: +LinusTorvalds
-  youtube: 971linus
+  youtube: user/971linus
   github: torvalds
   home: http://torvalds-family.blogspot.com/
 
@@ -2377,7 +2377,7 @@
   twitter: philipwadler
   google:
     plus: "100359591585949676427"
-  youtube: philipwadler
+  youtube: user/philipwadler
   home: http://homepages.inf.ed.ac.uk/wadler/
   blog: http://wadler.blogspot.com.es/
 
@@ -2395,7 +2395,7 @@
   twitter: WenhamToo
   google:
     plus: +ChrisWenham
-  youtube: clwenham
+  youtube: user/clwenham
   home: http://chriswenham.com/
   blog: https://sites.google.com/site/yacoset/
 
@@ -2504,7 +2504,7 @@
   email: jwz@jwz.org
   twitter: jwz
   facebook: yesthatjwz
-  youtube: yesthatjwz
+  youtube: user/yesthatjwz
   google:
     plus: "103802396060899980860"
   kickstarter: jwz
