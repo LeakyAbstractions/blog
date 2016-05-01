@@ -3,9 +3,10 @@ title: Life support
 tumblr: http://guillermonkey.tumblr.com/post/3290466700
 tags:
   - programming
-  - bugs
+  - technical-debt
   - maintainability
   - software
+  - mistakes
 quote:
   author: null
 ---
