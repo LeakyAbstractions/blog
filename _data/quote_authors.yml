@@ -2147,6 +2147,22 @@
   google:
     plus: "111748200812982718595"
 
+"Randy Stross":
+  name: Randall E. Stross
+  bio: >
+    American historian who writes mostly about present-day technology, business, and society. Author of the
+    **DigitalDomain** column for the [*New York Times*](http://www.nytimes.com/). Professor of *Business and Society*
+    and *Strategic Management* at [*San Jose State University*](http://www.sjsu.edu/). Author of several books,
+    including: [**The Microsoft Way**](https://openlibrary.org/works/OL3279507W/),
+    [**Thomas Edison: The Wizard of Menlo Park**](http://www.goodreads.com/book/show/) and
+    [**Planet Google**](https://openlibrary.org/works/OL3279500W/)
+  avatar: quotes/randy_stross.jpg
+  about:
+    link: http://www.randallstross.com/bio/
+  email: rs@randallstross.com
+  reddit: randallstross
+  home: http://www.randallstross.com/
+
 "Bjarne Stroustrup":
   name: Bjarne Stroustrup
   bio: >
