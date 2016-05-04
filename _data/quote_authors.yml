@@ -1142,6 +1142,22 @@
   about:
     link: https://en.wikipedia.org/wiki/The_Elements_of_Programming_Style
 
+"Phil Karlton":
+  name: Philip Karlton
+  bio: >
+    Software developer. Led the [**X11**](https://en.wikipedia.org/wiki/X_Window_System "X Window System") sample server
+    design and implementation. Co-author of [**xrdb**](https://en.wikipedia.org/wiki/Xrdb "X resource database manager")
+    and the protocol [**SSL c3.0**](https://en.wikipedia.org/wiki/Transport_Layer_Security "Secure Sockets Layer").
+    Worked for many years as a principal developer at
+    [*Xerox PARC*](http://www.parc.com/ "Palo Alto Research Center Incorporated"),
+    [*Digital Equipment Corporation*](http://www.dec.com/), [*Silicon Graphics*](http://www.sgi.com/), and
+    [*Netscape*](https://en.wikipedia.org/wiki/Netscape).
+  avatar: quotes/phil_karlton.jpg
+  about:
+    link: http://karlton.hamilton.com/
+  email: karlton@netscape.com
+  home: http://www.meerkat.com/karlton/
+
 "Alan Kay":
   name: Alan Curtis Kay
   bio: >
