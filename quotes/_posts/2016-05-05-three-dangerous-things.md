@@ -1,12 +1,15 @@
 ---
-title: Programmers, hardware engineers and software users
+title: Three dangerous things
 tumblr: http://guillermonkey.tumblr.com/post/3290799734
 badge: smile-o
 tags:
   - joke
   - programmers
-  - users
+  - hardware
   - engineers
+  - software
+  - users
+  - ideas
 quote:
   author: null
 ---
