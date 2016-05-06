@@ -1077,6 +1077,21 @@
   wikipedia: Hans_Hofmann
   home: http://www.hanshofmann.net/
 
+"Blair Houghton":
+  name: Blair P. Houghton
+  bio: >
+    American software guru and **rocket scientist**. Expert in **real-time embedded computing**.
+    Senior Principal Software Engineer at [*Orbital Sciences Corporation*](http://www.orbital.com/), responsible for
+    software architecture, development, maintenance, verification and leading teams and interfacing with customers and
+    government.
+  avatar: quotes/blair_houghton.jpg
+  about:
+    link: http://www.allthepeople.net/blair-houghton
+  twitter: blair_houghton
+  linkedin: in/blair-houghton-059a6b19
+  facebook: blair.houghton
+  sourceforge: userid-924345
+
 "Ron Jeffries":
   name: Ron Jeffries
   bio: >
