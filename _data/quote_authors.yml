@@ -1030,23 +1030,6 @@
     link: http://www-history.mcs.st-andrews.ac.uk/Biographies/Hamming.html
   wikipedia: Richard_Hamming
 
-"Douglas Hofstadter":
-  name: Douglas Richard Hofstadter
-  bio: >
-    American professor of [cognitive science](https://en.wikipedia.org/wiki/Cognitive_science) whose research focuses
-    on **the sense of “I”, consciousness, analogy-making, artistic creation, literary translation, and discovery**
-    in **mathematics** and **physics**.
-    Best known for his book [**Gödel, Escher, Bach: An Eternal Golden Braid**](https://openlibrary.org/works/OL716850W),
-    first published in 1979. Won both the [**Pulitzer Prize**](http://www.pulitzer.org/) for general non-fiction and a
-    [**National Book Award**](http://nationalbook.org/) for Science. His 2007 book
-    [**I Am a Strange Loop**](https://openlibrary.org/works/OL16047625W) won the **Los Angeles Times Book Prize** for
-    Science and Technology.
-  avatar: quotes/douglas_hofstadter.jpg
-  about:
-    link: http://www.resonancepub.com/douglas_hofstadter.htm
-  home: http://prelectur.stanford.edu/lecturers/hofstadter
-  wikipedia: Douglas_Hofstadter
-
 "Tony Hoare":
   name: Sir Charles Antony Richard Hoare
   bio: >
@@ -1076,6 +1059,23 @@
     link: http://www.hanshofmann.org/about/
   wikipedia: Hans_Hofmann
   home: http://www.hanshofmann.net/
+
+"Douglas Hofstadter":
+  name: Douglas Richard Hofstadter
+  bio: >
+    American professor of [cognitive science](https://en.wikipedia.org/wiki/Cognitive_science) whose research focuses
+    on **the sense of “I”, consciousness, analogy-making, artistic creation, literary translation, and discovery**
+    in **mathematics** and **physics**.
+    Best known for his book [**Gödel, Escher, Bach: An Eternal Golden Braid**](https://openlibrary.org/works/OL716850W),
+    first published in 1979. Won both the [**Pulitzer Prize**](http://www.pulitzer.org/) for general non-fiction and a
+    [**National Book Award**](http://nationalbook.org/) for Science. His 2007 book
+    [**I Am a Strange Loop**](https://openlibrary.org/works/OL16047625W) won the **Los Angeles Times Book Prize** for
+    Science and Technology.
+  avatar: quotes/douglas_hofstadter.jpg
+  about:
+    link: http://www.resonancepub.com/douglas_hofstadter.htm
+  home: http://prelectur.stanford.edu/lecturers/hofstadter
+  wikipedia: Douglas_Hofstadter
 
 "Blair Houghton":
   name: Blair P. Houghton
