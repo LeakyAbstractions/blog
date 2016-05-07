@@ -519,6 +519,19 @@
   twitter: bramcohen
   home: http://bramcohen.com/
 
+"Rick Cook":
+  name: James Richard Cook
+  bio: >
+    American light fantasy author, best known for his **Wizardry series of books**. His writing includes many jokes that
+    are hard to appreciate without having a background in systems-level programming, though the books themselves can
+    easily be enjoyed by readers without such a background.
+  avatar: quotes/rick_cook.jpg
+  about:
+    link: https://en.wikipedia.org/wiki/Rick_Cook
+  wikipedia: Rick_Cook
+  email: ironsteed@gmail.com
+  home: http://rickcooks.blogspot.com/
+
 "Alan Cooper":
   name: Alan Cooper
   bio: >
