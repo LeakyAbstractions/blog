@@ -3,10 +3,10 @@ title: Programming today
 tumblr: http://guillermonkey.tumblr.com/post/3281902744
 tags:
   - programming
-  - software
   - programmers
   - users
   - morons
+  - software
 quote:
   author: Rick Cook
 ---
