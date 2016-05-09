@@ -5,6 +5,7 @@ tags:
   - computer-science
   - teamwork
   - art
+  - experts
 quote:
   author: Donald Knuth
 ---
