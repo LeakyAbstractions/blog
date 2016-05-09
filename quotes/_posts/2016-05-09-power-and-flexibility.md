@@ -4,6 +4,8 @@ tumblr: http://guillermonkey.tumblr.com/post/3283517616
 tags:
   - c
   - assembly
+  - power
+  - flexibility
   - programming-languages
 quote:
   author: null
