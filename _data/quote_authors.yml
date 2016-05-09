@@ -1254,6 +1254,20 @@
   linkedin: in/cinap-lenrek-1b319749
   home: http://9hal.ath.cx/usr/cinap_lenrek/
 
+"Gordon Letwin":
+  name: James Gordon Letwin
+  bio: >
+    American software developer and one of the eleven early [*Microsoft*](http://www.microsoft.com) who posed for an
+    iconic staff portrait taken in Albuquerque in 1978. While at **Microsoft**, worked on a number of projects. His
+    first project was writing a [**Basic compiler**](https://en.wikipedia.org/wiki/BASIC). Was the lead architect of the
+    [**OS/2 operating system**](https://en.wikipedia.org/wiki/OS/2) and contributed much of the design and code for
+    several core components, including the
+    [**HPFS file system**](https://en.wikipedia.org/wiki/High_Performance_File_System).
+  avatar: quotes/gordon_letwin.jpg
+  about:
+    link: https://en.wikipedia.org/wiki/Gordon_Letwin
+  wikipedia: Gordon_Letwin
+
 "Bruce Leverett":
   name: Bruce Wallace Leverett
   bio: >
