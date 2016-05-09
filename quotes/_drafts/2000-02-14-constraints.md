@@ -5,10 +5,9 @@ tags:
   - constraints
   - knowledge
   - requirements
-  - knowledge
-  - programming
+  - systems-design
 quote:
-  author: Steven Sanderson
+  author: Steve Sanderson
 ---
 
 Constraints are not *limitations*; they are *insight*.
