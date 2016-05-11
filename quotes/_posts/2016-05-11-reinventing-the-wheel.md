@@ -3,6 +3,10 @@ title: Reinventing the wheel
 tumblr: http://guillermonkey.tumblr.com/post/3283575426
 tags:
   - not-invented-here
+  - systems-design
+  - reusability
+  - perfection
+  - problem-solving
 quote:
   author: Douglas Crockford
   context: JSON inventor, on «reinventing» XML
