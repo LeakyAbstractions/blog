@@ -588,6 +588,27 @@
   github: simoncozens
   home: http://www.simon-cozens.org/
 
+"Douglas Crockford":
+  name: Douglas Crockford
+  bio: >
+    American computer programmer and entrepreneur who is best known for his ongoing involvement in the development of
+    [**the JavaScript language**](https://en.wikipedia.org/wiki/JavaScript), for having popularized
+    [**the data format JSON**](http://www.json.org/ "JavaScript Object Notation"), and for developing various
+    JavaScript related tools such as [**JSLint**](http://www.jslint.com/) and
+    [**JSMin**](http://javascript.crockford.com/jsmin.html "The JavaScript Minifier"). Currently is a senior JavaScript
+    architect at [*PayPal*](https://www.paypal.com/), and is also a writer and speaker on JavaScript, JSON, and related
+    web technologies.
+  avatar: quotes/douglas_crockford.jpg
+  about:
+    link: https://en.wikipedia.org/wiki/Douglas_Crockford
+  wikipedia: Douglas_Crockford
+  email: douglas@crockford.com
+  github: douglascrockford
+  google:
+    plus: +DouglasCrockfordEsq
+  flicker: douglascrockford
+  home: http://crockford.com/
+
 "Dave Cutler":
   name: David Neil "Dave" Cutler, Sr.
   bio: >
