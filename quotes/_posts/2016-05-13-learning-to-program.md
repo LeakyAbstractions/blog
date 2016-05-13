@@ -2,9 +2,12 @@
 title: Learning to program
 tumblr: http://guillermonkey.tumblr.com/post/3282710517
 tags:
+  - learning
   - programming
-  - systems-design
   - software
+  - writing
+  - poetry
+  - systems-design
 quote:
   author: Ted Nelson
 ---
