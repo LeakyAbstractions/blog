@@ -1576,6 +1576,25 @@
   email: erik@naggum.no
   home: http://naggum.no/
 
+"Ted Nelson":
+  name: Theodor Holm "Ted" Nelson
+  bio: >
+    American pioneer of information technology, philosopher, and sociologist. Coined the terms
+    [**hypertext**](https://en.wikipedia.org/wiki/Hypertext) and
+    [**hypermedia**](https://en.wikipedia.org/wiki/Hypermedia) in 1963 and published them in 1965. Also coined the terms
+    [**transclusion**](https://en.wikipedia.org/wiki/Transclusion),
+    [**virtuality**](https://en.wikipedia.org/wiki/Virtuality_(software_design)), and
+    [**intertwingularity**](https://en.wikipedia.org/wiki/Intertwingularity) (in
+    [**Literary Machines**](https://en.wikipedia.org/wiki/Literary_Machines "1980")).
+  avatar: quotes/ted_nelson.jpg
+  about:
+    link: http://www.mprove.de/diplom/referencesNelson.html
+  wikipedia: Ted_Nelson
+  email: ted@xanadu.net
+  twitter: thetednelson
+  linkedin: in/ted-nelson-78901139
+  home: http://ted.hyperland.com/
+
 "NSA Security Manual":
   name: National Security Agency
   bio: >
