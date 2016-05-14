@@ -323,6 +323,28 @@
   twitter: mister_borogove
   home: http://www.estarcion.com/kaleja/
 
+"Keith Bostic":
+  name: Keith Bostic
+  bio: >
+    American software engineer and one of the key people in the history of
+    [**Berkeley Software Distribution**](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
+    [**UNIX**](http://www.unix.org/ "The UNIX Operating System") and
+    [**Open Source**](https://en.wikipedia.org/wiki/Open-source_software) software. In 1986, joined the
+    [*CSRG*](https://en.wikipedia.org/wiki/Computer_Systems_Research_Group "Computer Systems Research Group") at the
+    [*University of California, Berkeley*](http://www.berkeley.edu/). Was one of the principal architects of several
+    Berkeley BSD releases. Among many other tasks, led the effort to create a free software version of
+    [**BSD UNIX**](https://en.wikipedia.org/wiki/BSD_UNIX), which helped allow the creation of
+    [*FreeBSD*](https://www.freebsd.org/), [*NetBSD*](https://netbsd.org/) and [*OpenBSD*](http://openbsd.org/).
+  avatar: quotes/keith_bostic.jpg
+  about:
+    link: https://sites.google.com/a/bostic.com/keithbostic/home
+  wikipedia: Keith_Bostic
+  linkedin: in/keithbostic
+  github: keithbostic
+  email: keith@bostic.com
+  twitter: KeithBosticWT
+  home: http://bostic.com/
+
 "Keith Braithwaite":
   name: Keith Braithwaite
   bio: >
