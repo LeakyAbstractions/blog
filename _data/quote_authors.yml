@@ -2552,6 +2552,21 @@
   home: http://homepages.inf.ed.ac.uk/wadler/
   blog: http://wadler.blogspot.com.es/
 
+"Roberto Waltman":
+  name: Roberto Waltman
+  bio: >
+    American Software Engineer at Crestron Electronics.
+  avatar: quotes/roberto_waltman.jpg
+  about:
+    link: https://twitter.com/robertwaltman
+  linkedin: in/roberto-waltman-29258083
+  twitter: robertwaltman
+  youtube: user/beaninfo
+  google:
+    plus: +RobertWaltman1
+  home: http://robertwaltman.blogspot.com/
+  blog: http://itdoeswhat.blogspot.com/
+
 "Chris Wenham":
   name: Christopher Lawrence Wenham
   bio: >
