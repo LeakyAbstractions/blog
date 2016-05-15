@@ -5,6 +5,8 @@ tags:
   - spaghetti-code
   - lasagna-code
   - object-oriented
+  - abstractions
+  - layers
 quote:
   author: Roberto Waltman
 ---
