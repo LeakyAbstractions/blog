@@ -2183,6 +2183,28 @@
   sourceforge: jsickel
   bitbucket: jas
 
+"Charles Simonyi":
+  name: Simonyi Károly
+  bio: >
+    Hungarian-born American computer programmer, businessman and space tourist. Created
+    **the first [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG "What You See Is What You Get") Word Processor**
+    at [*Xerox PARC*](http://www.parc.com/) which transformed how we create documents. In 1981, joined
+    [*Microsoft*](http://www.microsoft.com) where developed the
+    [**Hungarian notation**](https://en.wikipedia.org/wiki/Hungarian_notation) for naming variables. Oversaw the
+    creation of [**Microsoft's flagship Office suite of applications](https://en.wikipedia.org/wiki/Microsoft_Office).
+    Now heads his own company, [**Intentional Software**](http://www.intentsoft.com/), with the aim of developing and
+    marketing his concept of [**intentional programming**](https://en.wikipedia.org/wiki/Intentional_programming).
+    Became the fifth **space tourist** in April 2007 and made a second trip to the
+    [*International Space Station*](https://en.wikipedia.org/wiki/International_Space_Station) in March 2009.
+  avatar: quotes/charles_simonyi.jpg
+  about:
+    link: http://www.simonyi.ox.ac.uk/dr-charles-simonyi.html
+  wikipedia: Charles_Simonyi
+  twitter: charlessimonyi
+  linkedin: in/charles-simonyi-b89204
+  home: http://www.simonyifund.org/charlessimonyi.asp
+  blog: http://www.charlesinspace.com/
+
 "Ryan Singer":
   name: Ryan Singer
   bio: >
