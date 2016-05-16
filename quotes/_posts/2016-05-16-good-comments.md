@@ -2,10 +2,10 @@
 title: Good comments
 tumblr: http://guillermonkey.tumblr.com/post/3290989086
 tags:
-  - programming-languages
   - comments
   - source-code
   - failure
+  - programming-languages
 quote:
   author: Charles Simonyi
 ---
