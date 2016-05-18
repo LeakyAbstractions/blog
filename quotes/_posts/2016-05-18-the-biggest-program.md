@@ -4,7 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3291026006
 tags:
   - x-windows
   - overengineering
-  - big-programs
+  - useless-programs
 quote:
   author: Ken Thompson
 ---
