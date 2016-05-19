@@ -1510,6 +1510,24 @@
   linkedin: in/bertrandmeyer
   home: https://bertrandmeyer.com/
 
+"Mark Minasi":
+  name: Mark Minasi
+  bio: >
+    American best-selling author, popular technology columnist, commentator, keynote speaker, and IT consultant. Best
+    known as a [*Windows*](https://en.wikipedia.org/wiki/Microsoft_Windows) authority for his
+    [**Mastering Windows Server 2012 R2**](https://books.google.com/books?isbn=1118331729) and
+    [**Complete PC Upgrade and Maintenance Guide**](https://books.google.es/books?isbn=8441519447) books,
+    both of which sold over a million copies. Writes and speaks around the world about
+    [Windows networking](https://en.wikipedia.org/wiki/Windows_Vista_networking_technologies).
+  avatar: quotes/mark_minasi.jpg
+  about:
+    link: https://www.minasi.com/mb2.htm
+  linkedin: in/mark-minasi-4a957b14
+  email: Assistant@Minasi.com
+  twitter: mminasi
+  home: https://www.minasi.com/
+  blog: https://markminasi.wordpress.com/
+
 "Ron Minnich":
   name: Ronald G. Minnich
   bio: >
