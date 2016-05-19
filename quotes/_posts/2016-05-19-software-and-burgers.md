@@ -2,8 +2,9 @@
 title: Software and burgers
 tumblr: http://guillermonkey.tumblr.com/post/3282777525
 tags:
-  - computer-science
   - software
+  - industry
+  - reliability
   - errors
 quote:
   author: Mark Minasi
