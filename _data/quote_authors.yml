@@ -702,6 +702,25 @@
     link: http://www.cs.utexas.edu/users/EWD/
   wikipedia: Edsger_W._Dijkstra
 
+"Cory Dodt":
+  name: Cory Dodt
+  bio: >
+    American software engineer. Has developed application and systems software for over fifteen years, starting at
+    [*PeopleSoft*](https://en.wikipedia.org/wiki/PeopleSoft), designing the web application architecture at the
+    [*Fresno County Office of Education*](https://www.fcoe.org/)
+    ([**PASS Program**](https://www.fcoe.org/locations/california-pass-program)) and building the R&D department at
+    [*Decipher*](https://www.linkedin.com/company/decipher-inc). Currently VP of Engineering at
+    [*Bright.md*](http://bright.md/).
+  avatar: quotes/cory_dodt.jpg
+  about:
+    link: https://www.elance.com/s/corydodt/
+  facebook: cory.dodt
+  github.com: corydodt
+  sourceforge: corydodt
+  email: corydodt@gmail.com
+  twitter: corydodt
+  home: http://www.goonmill.org/cory/
+
 "Peter Drucker":
   name: Peter Ferdinand Drucker
   bio: >
