@@ -3,8 +3,10 @@ title: Writing code
 tumblr: http://guillermonkey.tumblr.com/post/3283448225
 tags:
   - programming
-  - principles
+  - bugs
   - debugging
+  - writing
+  - source-code
 quote:
   author: null
 ---
