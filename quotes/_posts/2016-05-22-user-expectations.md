@@ -4,7 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3292858371
 tags:
   - microsoft
   - software
-  - business
+  - industry
   - users
   - expectations
 quote:
