@@ -5,6 +5,8 @@ tags:
   - programmers
   - software
   - bugs
+  - civilization
+  - reliability
 quote:
   author: null
 ---
