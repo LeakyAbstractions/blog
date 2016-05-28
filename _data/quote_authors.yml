@@ -1365,6 +1365,22 @@
   linkedin: in/bruce-leverett-8704a834
   home: http://www.cs.cmu.edu/~bwl/
 
+"Ada Lovelace":
+  name: Augusta Ada King-Noel, Countess of Lovelace
+  bio: >
+    English mathematician and writer, chiefly known for her work on
+    [*Charles Babbage*](https://en.wikipedia.org/wiki/Charles_Babbage)'s early mechanical general-purpose computer, the
+    [**Analytical Engine**](https://en.wikipedia.org/wiki/Analytical_Engine). Often regarded as
+    **the first computer programmer**, her notes on the engine include what is recognised as
+    **the first algorithm intended to be carried out by a machine**.
+    [**Ada Lovelace Day**](http://findingada.com/about/history-of-ada-lovelace-day/) is an international celebration of
+    the achievements of women in science, technology, engineering and maths.
+  avatar: quotes/ada_lovelace.jpg
+  about:
+    link: http://findingada.com/about/who-was-ada/
+  wikipedia: Ada_Lovelace
+  home: http://findingada.com/
+
 "Katie Lucas":
   name: Katie Lauren Lucas
   bio: >
