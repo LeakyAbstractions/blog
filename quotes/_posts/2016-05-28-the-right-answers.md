@@ -2,9 +2,13 @@
 title: The right answers
 tumblr: http://guillermonkey.tumblr.com/post/3283067341
 tags:
+  - questions
+  - answers
   - computers
-  - users
   - knowledge
+  - confusion
+  - users
+  - morons
 quote:
   author: Charles Babbage
 ---
