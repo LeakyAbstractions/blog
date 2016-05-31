@@ -6,7 +6,7 @@ tags:
   - assumptions
   - problems
 quote:
-  author: Notch
+  author: Markus Persson
 ---
 
 Sometimes, things that should work, don’t. That’s **worrying**. Sometimes things that shouldn’t work, do. That’s ***worringer***.
