@@ -6,6 +6,7 @@ tags:
   - business
   - management
   - programming-languages
+  - problem-solving
 quote:
   author: Paul Graham
 ---
