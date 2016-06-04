@@ -1867,6 +1867,23 @@
     link: https://en.wikipedia.org/wiki/David_Parnas
   wikipedia: David_Parnas
 
+"Alan Perlis":
+  name: Alan Jay Perlis
+  bio: >
+    American computer scientist known for his **pioneering work in programming languages** and the first recipient of
+    the [**Turing Award**](http://amturing.acm.org/), for his influence in the area of
+    **advanced programming techniques** and **compiler construction**. This is a reference to the work he had done as a
+    member of the team that developed
+    [ALGOL](https://en.wikipedia.org/wiki/ALGOL_programming_language "The ALGOL programming language"). His article for
+    [ACM](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery "Association for Computing Machinery")'s
+    [SIGPLAN](https://en.wikipedia.org/wiki/SIGPLAN "Special Interest Group on Programming Languages") journal
+    [**Epigrams on Programming**](https://en.wikipedia.org/wiki/Epigrams_on_Programming), described in one-sentence
+    distillations many of the things learned about programming over his career. The epigrams have been widely quoted.
+  avatar: quotes/alan_perlis.jpg
+  about:
+    link: http://amturing.acm.org/award_winners/perlis_0132439.cfm
+  wikipedia: Alan_Perlis
+
 "Markus Persson":
   name: Markus Alexej Persson
   bio: >
