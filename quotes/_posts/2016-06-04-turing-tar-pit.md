@@ -3,7 +3,6 @@ title: Turing tar-pit
 tumblr: http://guillermonkey.tumblr.com/post/9128437807
 tags:
   - programming
-  - principles
   - computer-science
   - programming-languages
   - turing-complete
