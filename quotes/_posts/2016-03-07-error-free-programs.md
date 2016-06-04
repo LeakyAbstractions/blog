@@ -9,7 +9,7 @@ tags:
   - writing
   - good-programs
 quote:
-  author: null
+  author: Alan Perlis
 ---
 
 There are two ways to write error-free programs; only the third one works.
