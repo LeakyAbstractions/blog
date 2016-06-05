@@ -5,7 +5,7 @@ tags:
   - committees
   - bad-design
 quote:
-  author: Sir Alec Issigonis
+  author: Alec Issigonis
 ---
 
 A camel is a horse designed by committee.
