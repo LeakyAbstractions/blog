@@ -3,10 +3,9 @@ title: No evidence
 tumblr: http://guillermonkey.tumblr.com/post/15158354518
 tags:
   - assumptions
-  - religion
-  - atheism
+  - proofs
 quote:
-  author: Hitchens
+  author: Christopher Hitchens
   caption: Hitchens’ Razor
 ---
 
