@@ -1120,6 +1120,23 @@
     link: http://www-history.mcs.st-andrews.ac.uk/Biographies/Hamming.html
   wikipedia: Richard_Hamming
 
+"Christopher Hitchens":
+  name: Christopher Eric Hitchens
+  bio: >
+    English American author, columnist, essayist, orator, religious and literary critic, social critic and journalist.
+    Contributed to [*New Statesman*](http://www.newstatesman.com/), [*The Nation*](http://www.thenation.com/),
+    [*The Atlantic*](http://www.theatlantic.com/), [*London Review of Books*](http://www.lrb.co.uk/),
+    [*The Times Literary Supplement*](http://www.the-tls.co.uk/), [*Slate*](http://www.slate.com/), and
+    [*Vanity Fair*](http://www.vanityfair.com/). **Author, co-author, editor or co-editor of over 30 books**, including
+    5 collections of essays, on a range of subjects, including politics, literature, and religion. A staple of talk
+    shows and lecture circuits, his confrontational style of debate made him both a lauded and controversial figure and
+    public intellectual.
+  avatar: quotes/christopher_hitchens.jpg
+  about:
+    link: https://en.wikipedia.org/wiki/Christopher_Hitchens
+  wikipedia: Christopher_Hitchens
+  home: https://web.archive.org/web/20101212083433/http://hitchensweb.com/
+
 "Tony Hoare":
   name: Sir Charles Antony Richard Hoare
   bio: >
