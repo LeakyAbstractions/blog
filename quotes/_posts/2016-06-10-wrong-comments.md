@@ -2,11 +2,11 @@
 title: Wrong comments
 tumblr: http://guillermonkey.tumblr.com/post/3290327919
 tags:
-  - documentation
-  - source-code
-  - comments
-  - obsolescence
   - programming
+  - obsolescence
+  - comments
+  - source-code
+  - documentation
 quote:
   author: null
 ---
