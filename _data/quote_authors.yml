@@ -8,11 +8,11 @@
   name: Douglas Noel Adams
   bio: >
     English writer, humorist, and dramatist. Best known as the author of
-    [**The Hitchhiker's Guide to the Galaxy**](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy),
+    [**The Hitchhiker’s Guide to the Galaxy**](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy),
     which originated in 1978 as a [*BBC*](http://www.bbc.com/) radio comedy before developing into a "trilogy" of
     five books that sold more than 15 million copies in his lifetime and generated a television series, several in
-    stage plays, comics, a computer game, and in 2005 a feature film. Adams's contribution to UK radio is commemorated
-    [*The Radio Academy*](http://www.radioacademy.org/)'s *Hall of Fame*.
+    stage plays, comics, a computer game, and in 2005 a feature film. Adams’s contribution to UK radio is commemorated
+    [*The Radio Academy*](http://www.radioacademy.org/)’s *Hall of Fame*.
   avatar: quotes/douglas_adams.jpg
   about:
     link: https://en.wikipedia.org/wiki/Douglas_Adams
@@ -148,7 +148,7 @@
   name: Pete Becker
   bio: >
     Consultant and computer programmer, specializing in library design and implementation.
-    Recognized as **one of the world's foremost experts in [C++](https://isocpp.org/ "The C++ Programming Language")**.
+    Recognized as **one of the world’s foremost experts in [C++](https://isocpp.org/ "The C++ Programming Language")**.
     Has been contributing to the **C++ standardization** process since its inception and has authored several
     publications, including magazine articles and columns, and a book on
     [**the first C++ Library Technical Report**](http://www.petebecker.com/tr1book/tr1book.html "Also known as TR1").
@@ -222,7 +222,7 @@
     [**Programming Pearls**](http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880/?tag=drdos-20) and
     [**More Programming Pearls**](http://www.amazon.com/More-Programming-Pearls-Confessions-Coder/dp/0201118890/).
     Received the
-    [*Dr. Dobb's*](http://www.drdobbs.com/)[**Excellence in Programming Award**](http://www.drdobbs.com/architecture-and-design/dr-dobbs-excellence-in-programming-award/184404057)
+    [*Dr. Dobb’s*](http://www.drdobbs.com/)[**Excellence in Programming Award**](http://www.drdobbs.com/architecture-and-design/dr-dobbs-excellence-in-programming-award/184404057)
     in 2000.
   avatar: quotes/jon_bentley.jpg
   about:
@@ -248,7 +248,7 @@
     several of their [**PDP**](https://en.wikipedia.org/wiki/Programmed_Data_Processor "Programmed Data Processor")
     machines and later became Vice President of Engineering, overseeing the development of the
     [**VAX**](https://en.wikipedia.org/wiki/VAX). His later career includes entrepreneur, investor, founding
-    Assistant Director of [*NSF*](http://www.nsf.gov/ "National Science Foundation")'s Computing and Information Science
+    Assistant Director of [*NSF*](http://www.nsf.gov/ "National Science Foundation")’s Computing and Information Science
     and Engineering Directorate, and researcher emeritus at *Microsoft Research*.
   avatar: quotes/gordon_bell.jpg
   about:
@@ -363,7 +363,7 @@
 "Keith Braithwaite":
   name: Keith Braithwaite
   bio: >
-    Experienced Agile coach. Leader of [*Zuhlke Engineering*](http://www.zuehlke.com/)'s *Centre of Agile practice* in
+    Experienced Agile coach. Leader of [*Zuhlke Engineering*](http://www.zuehlke.com/)’s *Centre of Agile practice* in
     London. Provides **Agile training**, **consultancy** and **mentoring** to development teams in the wholesale
     finance and mobile telecoms industries. Frequent speaker at Agile conferences around the world. Co-authored the
     first published descriptions of successful **distributed Agile** based on his experience.
@@ -424,7 +424,7 @@
     [*Princeton University*](http://www.princeton.edu/) in 1961. Joined the [*Bell Labs*](http://bell-labs.com) Research
     Department and was a **pioneer** in the emerging fields of **computer science** and **information systems**.
     Developed [**ALTRAN**](https://en.wikipedia.org/wiki/ALTRAN), a [FORTRAN](https://en.wikipedia.org/wiki/FORTRAN)
-    extension providing rational algebra, around 1968. Continued to contribute to *Bell Labs*' international planning
+    extension providing rational algebra, around 1968. Continued to contribute to *Bell Labs*’ international planning
     program and its global information sharing community until his retirement in 1996.
   avatar: quotes/w_stan_brown.jpg
   about:
@@ -501,7 +501,7 @@
     [*Doom*](https://en.wikipedia.org/wiki/Doom_(series)), [*Quake*](https://en.wikipedia.org/wiki/Quake_(video_game)),
     [*Rage*](https://en.wikipedia.org/wiki/Rage_(video_game)) and their sequels. Best known for his
     **innovations in 3D graphics**, such as his famous
-    [**Carmack's Reverse algorithm for shadow volumes**](https://en.wikipedia.org/wiki/Shadow_volume), and is also a
+    [**Carmack’s Reverse algorithm for shadow volumes**](https://en.wikipedia.org/wiki/Shadow_volume), and is also a
     rocketry enthusiast and the founder and lead engineer of [*Armadillo Aerospace*](http://www.armadilloaerospace.com/).
     In August 2013, took the position of CTO at [*Oculus VR*](http://oculusvr.com/).
   avatar: quotes/john_carmack.jpg
@@ -756,9 +756,9 @@
     Canadian computer programmer and computer graphics expert. In 1974 graduated from the
     [*University of Waterloo*](https://uwaterloo.ca/) with a *Bachelor of Mathematics* and,
     two years later, got a *Master of Science from* the [*University of Toronto*](http://www.utoronto.ca/).
-    Created [**Duff's device**](https://en.wikipedia.org/wiki/Duff%27s_device), a loop unrolling mechanism in C.
+    Created [**Duff’s device**](https://en.wikipedia.org/wiki/Duff%27s_device), a loop unrolling mechanism in C.
     Has worked at the [*NYIT*](http://www.nyit.edu/ "New York Institute of Technology") Computer Graphics Lab,
-    [*Lucasfilm*](http://lucasfilm.com/)'s Computer Research and Development Division,
+    [*Lucasfilm*](http://lucasfilm.com/)’s Computer Research and Development Division,
     [*Bell Labs*](http://bell-labs.com) Computing Science Research Center and
     [*Pixar Animation Studios*](http://www.pixar.com/).
   avatar: quotes/tom_duff.jpg
@@ -903,7 +903,7 @@
     computing experience, specialising in the **design and implementation of systems software**. Early user of Unix
     outside *Bell Labs*, developing **low-level drivers**, **protocol stacks**, **compilers**, and
     **system and application software**. Founding director of [**Vita Nuova**](http://www.vitanuova.com/), began
-    extending the reach of Inferno to new platforms, and has since been instrumental in deciding Inferno's future.
+    extending the reach of Inferno to new platforms, and has since been instrumental in deciding Inferno’s future.
   avatar: quotes/charles_forsyth.jpg
   about:
     link: http://www.researchgate.net/profile/Charles_Forsyth3
@@ -1397,7 +1397,7 @@
   name: Augusta Ada King-Noel, Countess of Lovelace
   bio: >
     English mathematician and writer, chiefly known for her work on
-    [*Charles Babbage*](https://en.wikipedia.org/wiki/Charles_Babbage)'s early mechanical general-purpose computer, the
+    [*Charles Babbage*](https://en.wikipedia.org/wiki/Charles_Babbage)’s early mechanical general-purpose computer, the
     [**Analytical Engine**](https://en.wikipedia.org/wiki/Analytical_Engine). Often regarded as
     **the first computer programmer**, her notes on the engine include what is recognised as
     **the first algorithm intended to be carried out by a machine**.
@@ -1796,7 +1796,7 @@
     [*Surrey*](https://en.wikipedia.org/wiki/Surrey). Considered to be one of the major figures of
     [**medieval thought**](https://en.wikipedia.org/wiki/Medieval_philosophy) and was at the centre of the
     **major intellectual and political controversies of the fourteenth century**. Commonly known for the methodological
-    principle that bears his name, [**Occam's razor**](https://en.wikipedia.org/wiki/Occam%27s_razor).
+    principle that bears his name, [**Occam’s razor**](https://en.wikipedia.org/wiki/Occam%27s_razor).
     Produced significant works on logic, physics, and theology.
   avatar: quotes/william_of_ockham.jpg
   about:
@@ -1808,7 +1808,7 @@
   bio: >
     English Advertising executive who was widely hailed as **The Father of Advertising**. In 1962,
     [*Time*](https://en.wikipedia.org/wiki/Time_(magazine)) called him
-    *"the most sought-after wizard in today's advertising industry"*.
+    *"the most sought-after wizard in today’s advertising industry"*.
   avatar: quotes/david_ogilvy.jpg
   about:
     link: http://www.ogilvy.com/About/Our-History/David-Ogilvy-Bio.aspx
@@ -1873,7 +1873,7 @@
   name: Cyril Northcote Parkinson
   bio: >
     British naval historian and author of some 60 books, the most famous of which was his best-seller
-    [**Parkinson's Law**](https://en.wikipedia.org/wiki/Parkinson%27s_Law), which led him to be also considered as an
+    [**Parkinson’s Law**](https://en.wikipedia.org/wiki/Parkinson%27s_Law), which led him to be also considered as an
     important scholar in public administration and management.
   avatar: quotes/parkinson.jpg
   about:
@@ -1903,7 +1903,7 @@
     **advanced programming techniques** and **compiler construction**. This is a reference to the work he had done as a
     member of the team that developed
     [ALGOL](https://en.wikipedia.org/wiki/ALGOL_programming_language "The ALGOL programming language"). His article for
-    [ACM](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery "Association for Computing Machinery")'s
+    [ACM](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery "Association for Computing Machinery")’s
     [SIGPLAN](https://en.wikipedia.org/wiki/SIGPLAN "Special Interest Group on Programming Languages") journal
     [**Epigrams on Programming**](https://en.wikipedia.org/wiki/Epigrams_on_Programming), described in one-sentence
     distillations many of the things learned about programming over his career. The epigrams have been widely quoted.
@@ -1920,7 +1920,7 @@
     [*Jakob Porser*](https://en.wikipedia.org/wiki/Jakob_Porser) in late 2010. His principal venture for founding
     *Mojang* was [**Minecraft**](https://en.wikipedia.org/wiki/Minecraft), a popular first-person sandbox video game.
     Has gained significant notability within the video game industry since the release of Minecraft and won multiple
-    awards. Retained his position as the lead designer of *Minecraft* until the game's official launch in 2011, after
+    awards. Retained his position as the lead designer of *Minecraft* until the game’s official launch in 2011, after
     which transferred creative authority to [Jens Bergensten](https://en.wikipedia.org/wiki/Jens_Bergensten). Left
     *Mojang* after its acquisition by [*Microsoft*](http://www.microsoft.com), in 2014.
   avatar: quotes/markus_persson.jpg
@@ -1979,7 +1979,7 @@
     [**constructed sculpture**](https://en.wikipedia.org/wiki/Assemblage_(art)), the co-invention of
     [**collage**](https://en.wikipedia.org/wiki/Collage), and for the wide variety of styles that helped develop and
     explore. Among his most famous works are the [proto-Cubist](https://en.wikipedia.org/wiki/Proto-Cubism)
-    [**Les Demoiselles d'Avignon**](https://en.wikipedia.org/wiki/Les_Demoiselles_d%27Avignon "1907"), and
+    [**Les Demoiselles d’Avignon**](https://en.wikipedia.org/wiki/Les_Demoiselles_d%27Avignon "1907"), and
     [**Guernica**](https://en.wikipedia.org/wiki/Guernica_(painting) "1937"), a portrayal of the
     [Bombing of Guernica](https://en.wikipedia.org/wiki/Bombing_of_Guernica) by the German and Italian airforces at the
     behest of the [Spanish nationalist government](https://en.wikipedia.org/wiki/Nationalist_faction_(Spanish_Civil_War))
@@ -2064,7 +2064,7 @@
     kernel, an [AMD64](https://en.wikipedia.org/wiki/X86-64#AMD64)
     [cpu](https://en.wikipedia.org/wiki/Central_processing_unit "Central processing unit") and terminal kernel,
     [nupas](http://www.quanstro.net/plan9/nupas.pdf "Scaling Upas (The Plan 9 email system)"), extra PC hardware
-    support, IL and [Ken's fs](http://www.quanstro.net/plan9/disklessfs.pdf "The diskless fileserver").
+    support, IL and [Ken’s fs](http://www.quanstro.net/plan9/disklessfs.pdf "The diskless fileserver").
   avatar: quotes/erik_quanstrom.jpg
   about:
     link: https://www.linkedin.com/in/erik-quanstrom-32509b88
@@ -2131,7 +2131,7 @@
     **open-source software advocate**. Wrote a guidebook for the [Roguelike](https://en.wikipedia.org/wiki/Roguelike)
     game [NetHack](https://en.wikipedia.org/wiki/NetHack). In the 1990s, he edited and updated the
     [**Jargon File**](http://www.catb.org/~esr/jargon/), currently in print as the
-    [**The New Hacker's Dictionary**](http://www.amazon.com/TNHD/dp/0262680920).
+    [**The New Hacker’s Dictionary**](http://www.amazon.com/TNHD/dp/0262680920).
   avatar: quotes/eric_s_raymond.jpg
   about:
     link: http://www.catb.org/~esr/who-is-ESR.html
@@ -2224,7 +2224,7 @@
   name: Antoine Marie Jean-Baptiste Roger, comte de Saint-Exupéry
   bio: >
     French writer, poet, aristocrat, journalist, and pioneering aviator. Became a laureate of
-    **several of France's highest literary awards** and also won the
+    **several of France’s highest literary awards** and also won the
     [*U.S. National Book Award*](https://en.wikipedia.org/wiki/List_of_National_Book_Award_winners#1935_to_1941).
     Best remembered for his novella
     [**The Little Prince**](https://en.wikipedia.org/wiki/The_Little_Prince "Le Petit Prince") and for his lyrical
@@ -2294,7 +2294,7 @@
   bio: >
     Nobel Prize and Oscar-winning Irish [playwright](https://en.wikipedia.org/wiki/Playwright), critic and socialist
     whose influence on Western theatre, culture and politics stretched from the 1880s to his death in 1950. Originally
-    earning his way as an influential London music and theatre critic, Shaw's greatest gift was for the modern drama.
+    earning his way as an influential London music and theatre critic, Shaw’s greatest gift was for the modern drama.
     Strongly influenced by [Henrik Ibsen](https://en.wikipedia.org/wiki/Henrik_Ibsen), successfully introduced a new
     realism into English-language drama. Wrote more than 60 plays. With his range from biting contemporary satire to
     historical allegory, became the **leading comedy dramatist of his generation** and one of the most important
@@ -2348,7 +2348,7 @@
     at [*Xerox PARC*](http://www.parc.com/) which transformed how we create documents. In 1981, joined
     [*Microsoft*](http://www.microsoft.com) where developed the
     [**Hungarian notation**](https://en.wikipedia.org/wiki/Hungarian_notation) for naming variables. Oversaw the
-    creation of [**Microsoft's flagship Office suite of applications**](https://en.wikipedia.org/wiki/Microsoft_Office).
+    creation of [**Microsoft’s flagship Office suite of applications**](https://en.wikipedia.org/wiki/Microsoft_Office).
     Now heads his own company, [**Intentional Software**](http://www.intentsoft.com/), with the aim of developing and
     marketing his concept of [**intentional programming**](https://en.wikipedia.org/wiki/Intentional_programming).
     Became the fifth **space tourist** in April 2007 and made a second trip to the
@@ -2419,7 +2419,7 @@
   name: Michael Stay
   bio: >
     American cryptanalyst and [reverse engineer](https://en.wikipedia.org/wiki/Reverse_engineering). For five years was
-    one of the principal developers on [**Google's Caja**](https://developers.google.com/caja/) project, a
+    one of the principal developers on [**Google’s Caja**](https://developers.google.com/caja/) project, a
     virtualization layer for web browsers. Co-designed the **security model** which was later adopted by
     [ECMAScript 5](http://www.ecma-international.org/publications/standards/Ecma-262.htm) --- every modern web browser
     uses it. Also wrote the rules for an
@@ -2592,7 +2592,7 @@
     [**Linux kernel**](https://en.wikipedia.org/wiki/Linux_kernel) that became
     **the most popular kernel for operating systems**, like [*GNU*](https://en.wikipedia.org/wiki/GNU) and
     [*Android*](https://en.wikipedia.org/wiki/Android_(operating_system)). Later became the chief architect of the Linux
-    kernel and now acts as the project's coordinator. Also created
+    kernel and now acts as the project’s coordinator. Also created
     [**Git**](https://git-scm.com/ "Git, the distributed revision control system"). Was honored, along with
     [*Shinya Yamanaka*](https://en.wikipedia.org/wiki/Shinya_Yamanaka), with the 2012
     [**Millennium Technology Prize**](http://taf.fi/en/millennium-technology-prize/) by the
@@ -2617,7 +2617,7 @@
     **humorous and satirical articles about information technology**, particularly software development.
     Has written articles and columns for various magazines, newspapers, and websites, including
     [*.EXE magazine*](http://gizmonaut.net/exe/),
-    [*Dr. Dobb's Journal*](http://www.drdobbs.com/jvm/verity-stob/228700850) and
+    [*Dr. Dobb’s Journal*](http://www.drdobbs.com/jvm/verity-stob/228700850) and
     [*The Register*](http://www.theregister.co.uk/software/stob/) for over 20 years.
   avatar: quotes/verity_stob.jpg
   about:
