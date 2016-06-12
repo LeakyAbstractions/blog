@@ -6,7 +6,7 @@ tags:
   - performance
 quote:
   author: Tom Duff
-  context: Discussion about Duff's Device
+  context: Discussion about Duff’s Device
   link: https://www.lysator.liu.se/c/duffs-device.html
 ---
 
