@@ -3,9 +3,11 @@ title: The art of programming
 tumblr: http://guillermonkey.tumblr.com/post/3290687580
 tags:
   - programming
+  - science
+  - ingenuity
+  - getting-things-done
   - computer-science
   - art
-  - ingenuity
 quote:
   author: null
 ---
