@@ -3,10 +3,10 @@ title: Good examples
 tumblr: http://guillermonkey.tumblr.com/post/3427998882
 tags:
   - teaching
+  - learning
   - good-practices
 quote:
-  author: null
-  caption: Latin proverb
+  author: Latin proverb
 ---
 
 Verba movent, exempla trahunt.
