@@ -2043,6 +2043,20 @@
     link: https://en.wikipedia.org/wiki/Pliny_the_Elder
   wikipedia: Pliny_the_Elder
 
+"Latin proverb":
+  name: Latin Proverbs
+  bio: >
+    Proverbs are simple and concrete *sayings* popularly known and repeated, which express truths, based on common sense
+    or the practical experience of humanity. They are often metaphorical. A proverb that describes a basic rule of
+    conduct may also be known as a [*maxim*](https://en.wikipedia.org/wiki/Maxim_(saying)). If a proverb is
+    distinguished by particularly good phrasing, it may be known as an
+    [*aphorism*](https://en.wikipedia.org/wiki/Aphorism). Medieval Latin has played a considerable role in distributing
+    proverbs across Europe, although almost every culture has examples of its own.
+  avatar: quotes/latin_proverb.jpg
+  about:
+    link: https://en.wikipedia.org/wiki/List_of_Latin_phrases
+  wikipedia: List_of_Latin_phrases
+
 "Japanese proverb":
   name: Japanese Proverbs
   bio: >
