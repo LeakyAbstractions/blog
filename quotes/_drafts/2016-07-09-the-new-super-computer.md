@@ -2,7 +2,8 @@
 title: The new super computer
 tumblr: http://guillermonkey.tumblr.com/post/3290772088
 tags:
-  - infinite-loop
+  - infinite-loops
+  - computers
   - performance
   - joke
 quote:
