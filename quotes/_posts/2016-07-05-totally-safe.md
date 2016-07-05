@@ -1,0 +1,12 @@
+---
+title: Totally safe
+tags:
+  - programming-languages
+  - c
+  - c-plus-plus
+  - problems
+quote:
+  author: Bjarne Stroustrup
+---
+
+C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows away your whole leg.
