@@ -1,0 +1,10 @@
+---
+title: Low level
+tumblr: http://guillermonkey.tumblr.com/post/3281961364
+tags:
+  - low-level
+  - programming-languages
+author: Alan Perlis
+---
+
+A programming language is *low level* when its programs require attention to the irrelevant.
