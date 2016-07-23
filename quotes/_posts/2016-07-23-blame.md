@@ -1,0 +1,12 @@
+---
+title: Blame
+tumblr: http://guillermonkey.tumblr.com/post/9094961586
+tags:
+  - blame
+  - failure
+  - teamwork
+  - joke
+author: Matt Wedel
+---
+
+I have an ugly tendency to blame all my failings on others. It’s something I picked up from my parents.
