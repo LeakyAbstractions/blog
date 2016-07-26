@@ -1184,6 +1184,21 @@
   home: http://prelectur.stanford.edu/lecturers/hofstadter
   wikipedia: Douglas_Hofstadter
 
+"Grace Hopper":
+  name: Grace Brewster Murray Hopper
+  bio: >
+    American computer scientist and [United States Navy](https://en.wikipedia.org/wiki/United_States_Navy)
+    [Rear Admiral](https://en.wikipedia.org/wiki/Rear_admiral_(United_States)). **One of the first programmers** of the
+    [Harvard Mark I](https://en.wikipedia.org/wiki/Harvard_Mark_I) computer in 1944, invented
+    **the first compiler for a computer programming language**, and was one of those who popularized the idea of
+    **machine-independent programming languages** which led to the development of
+    [COBOL](https://en.wikipedia.org/wiki/COBOL), one of the first high-level programming languages.
+  avatar: quotes/grace_hopper.jpg
+  about:
+    link: http://fivethirtyeight.com/features/the-queen-of-code/
+  wikipedia: Grace_Hopper
+  home: https://web.archive.org/web/20100224101438/http://www.chips.navy.mil/links/grace_hopper/womn.htm
+
 "Blair Houghton":
   name: Blair P. Houghton
   bio: >
