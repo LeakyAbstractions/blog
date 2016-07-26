@@ -2,10 +2,10 @@
 title: Knowledge
 tumblr: http://guillermonkey.tumblr.com/post/3293248764
 tags:
-  - computer-science
   - programming
-  - knowledge
   - art
+  - science
+  - knowledge
 quote:
   author: Grace Hopper
 ---
