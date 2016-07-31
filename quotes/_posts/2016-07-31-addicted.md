@@ -1,0 +1,10 @@
+---
+title: Addicted
+tags:
+  - kids
+  - computers
+  - tv
+author: Bill Gates
+---
+
+If a kid is addicted to a computer, I think that’s far better than watching TV, because at least his mind is making choices.
