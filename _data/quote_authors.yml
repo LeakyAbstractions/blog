@@ -2221,6 +2221,22 @@
   twitter: esrtweet
   home: http://www.catb.org/~esr/
 
+"R6RS":
+  name: The Revised[6] Report on the Algorithmic Language Scheme
+  bio: >
+    The [Scheme language](https://en.wikipedia.org/wiki/Scheme_(programming_language)) is standardized in the official
+    [*IEEE*](https://www.ieee.org/ "Institute of Electrical and Electronics Engineers") standard and a *de facto*
+    standard called the **Revised Report on the Algorithmic Language Scheme**. The most widely implemented standard is
+    R5RS (1998); a new standard, [R6RS](http://www.r6rs.org/), was ratified in 2007. Scheme has a diverse user base due
+    to its compactness and elegance, but its minimalist philosophy has also caused wide divergence between practical
+    implementations, so much that the *Scheme Steering Committee* calls it
+    *the world's most unportable programming language* and *a family of dialects* rather than a single language.
+  avatar: quotes/r6rs.jpg
+  about:
+    link: http://www.r6rs.org/
+  wikipedia: https://en.wikipedia.org/wiki/Scheme_(programming_language)
+  home: http://www.scheme-reports.org/
+
 "Jon Ribbens":
   name: Jonathan Ribbens
   bio: >
