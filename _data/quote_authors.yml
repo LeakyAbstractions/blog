@@ -1225,6 +1225,21 @@
     link: http://global.britannica.com/biography/Alec-Issigonis
   wikipedia: Alec_Issigonis
 
+"David Jameson":
+  name: David Jameson
+  bio: >
+    Irish musician, software developer and Professor of Computer Science at
+    [SUNY Purchase "State University of New York at Purchase"](https://www.purchase.edu/). Earned his Ph.D. in Computer
+    Science from [*Trinity College*](http://www.trin.cam.ac.uk/), Dublin. Co-founded
+    [**Deskew Technologies, LLC**](http://www.deskew.com/). Plays keyboards and
+    [Eigenharp](https://en.wikipedia.org/wiki/Eigenharp), currently touring with
+    [*The Security Project*](http://securityprojectband.com/) and [*Beyond The Wall*](http://beyondthewall.net/).
+  avatar: quotes/david_jameson.jpg
+  about:
+    link: https://www.linkedin.com/in/david-jameson-5693b2a
+  twitter: DavidJamesonPhD
+  home: http://www.deskew.com/
+
 "Ron Jeffries":
   name: Ron Jeffries
   bio: >
