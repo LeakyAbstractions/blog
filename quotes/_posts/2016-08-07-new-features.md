@@ -4,7 +4,7 @@ tumblr: http://guillermonkey.tumblr.com/post/3283203910
 tags:
   - c-plus-plus
   - features
-  - feature-bloat
+  - feature-creep
   - overengineering
   - complexity
 quote:
