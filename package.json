@@ -1,0 +1,49 @@
+{
+  "name": "Simius Ex Machina",
+  "version": "1.0.0",
+  "private": true,
+  "repo": "https://bitbucket.org/guillermocalvo/simius-ex-machina.git",
+  "_aerobatic": {
+    "omitClientConfigVar": true,
+    "build": {
+      "engine": "jekyll"
+    },
+    "router": [
+      {
+        "module": "webpage",
+        "options": {
+          "noVersionAssetPatterns": ["/images/**/*"]
+        }
+      },
+      {
+        "module": "http-headers",
+        "path": "/images/**/*",
+        "options": {
+          "Cache-Control": "public, max-age=31557600"
+        }
+      },
+      {
+        "module": "custom-errors",
+        "options": {
+          "errors": {
+            "404": "/404.html"
+          }
+        }
+      },
+      {
+        "module": "redirect",
+        "options": {
+          "/bitbucket/": "http://bitbucket.org/guillermocalvo/",
+          "/github/": "https://github.com/guillermocalvo",
+          "/instagram/": "http://www.instagram.com/guillermocalvo/",
+          "/linkedin/": "https://linkedin.com/in/guillermocalvo",
+          "/reddit/": "http://www.reddit.com/user/guillermocalvo",
+          "/stackoverflow/": "http://stackoverflow.com/users/534374/guillermo?tab=profile",
+          "/taiga/": "http://tree.taiga.io/profile/guillermocalvo",
+          "/telegram/": "http://telegram.me/guillermocalvo",
+          "/twitter/": "https://twitter.com/guillermonkey"
+        }
+      }
+    ]
+  }
+}
