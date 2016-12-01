@@ -49,7 +49,7 @@ cv:
     title: About Me
     name: Guillermo Calvo
     desc: Software Developer
-    location: Zaragoza, Spain
+    location: Tokyo, Japan
     email: cv@guillermo.in
     website: http://guillermo.in/
     image: /assets/curriculum/guillermo.png
