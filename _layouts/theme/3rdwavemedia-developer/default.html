@@ -294,7 +294,7 @@ layout: compress
                               {% for language in page.cv.languages.featured %}
                                 <li class="item">
                                     <span class="title"><strong>{{ language.title }}:</strong></span>
-                                    <span class="level" title="{{ language.tooltip }}">{{ language.level }} <br class="visible-xs"/>{% for i in (1..10) | limit: language.stars %}<i class="fa fa-star"></i> {% endfor %}</span
+                                    <span class="level" title="{{ language.tooltip }}">{{ language.level }} <br class="visible-xs"/>{% for i in (1..10) limit: language.stars %}<i class="fa fa-star"></i> {% endfor %}</span
                                 </li>
                               {% endfor %}
                             </ul>
