@@ -1,1 +1,1 @@
-{{ site.baseurl }}{% assign initial = include.tag | downcase | split: '' %}/tags/{{ initial[0] }}/#{{ include.tag | slugify }}{% assign initial = nil %}
+{% unless site.baseurl == '/' %}{{ site.baseurl }}{% endunless %}{% assign initial = include.tag | downcase | split: '' %}/tags/{{ initial[0] }}/#{{ include.tag | slugify }}{% assign initial = nil %}
