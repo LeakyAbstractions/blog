@@ -27,6 +27,7 @@ jQuery(document).ready(function($) {
     rss_feeds.rss(
 		rss_feeds.attr('feed-url'),
         {
+			ssl: true,
 			limit: rss_feeds.attr('feed-limit'),
 			effect: rss_feeds.attr('feed-effect'), /* show, slide, slideFast, slideSynced, slideFastSynced */
 			layoutTemplate: "<div class='item'>{entries}</div>",
