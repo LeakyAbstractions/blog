@@ -333,6 +333,7 @@ cv:
     other:
       - position: Hardware Technician
         company: Computer Zaragoza
+        link: http://www.ecomputer.es/
         from: Mar 2002
         to: Jul 2002
         content: Working as internship Hardware Technician for *Computer Zaragoza* at the post-sales technical support.
