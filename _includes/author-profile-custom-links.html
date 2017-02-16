@@ -1,7 +1,7 @@
-<!--
-  <li>
-    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs">
-      <i class="fa fa-fw" aria-hidden="true"></i> Custom Social Profile Link
-    </a>
-  </li>
--->
+      {% if author.telegram %}
+        <li>
+          <a href="https://telegram.me/{{ author.telegram }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-paper-plane" aria-hidden="true"></i> Telegram
+          </a>
+        </li>
+      {% endif %}
