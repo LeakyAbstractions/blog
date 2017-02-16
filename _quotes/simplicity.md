@@ -1,0 +1,12 @@
+---
+title: Simplicity
+tumblr: http://guillermonkey.tumblr.com/post/3162211183
+tags:
+  - simplicity
+author: Agile Manifesto
+quote:
+  caption: Agile Manifesto
+  link: http://agilemanifesto.org/principles.html
+---
+
+Simplicity — the art of maximizing the amount of work not done — is essential.

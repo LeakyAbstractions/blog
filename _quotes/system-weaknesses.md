@@ -1,0 +1,15 @@
+---
+title: System weaknesses
+tumblr: http://guillermonkey.tumblr.com/post/3161432372
+tags:
+  - programming
+  - software
+  - weaknesses
+  - refactoring
+  - bugs
+author: Bruce Leverett
+quote:
+  context: Register Allocation in Optimizing Compilers
+---
+
+But in our enthusiasm, we could not resist a radical overhaul of the system, in which all of its major weaknesses have been exposed, analyzed, and replaced with new weaknesses.

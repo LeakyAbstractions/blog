@@ -1,0 +1,13 @@
+---
+title: Berkeley
+tumblr: http://guillermonkey.tumblr.com/post/3142676698
+tags:
+  - berkeley
+  - unix
+author: Jeremy S. Anderson
+quote:
+  link: https://groups.google.com/forum/#!topic/alt.drugs/jld7TxD6xfg
+  context: Both parts of this quotation are incorrect, but it was made purely in jest
+---
+
+There are two major products that come out of Berkeley: LSD and UNIX. We don’t belive this to be strictly by coincidence.

@@ -1,0 +1,10 @@
+---
+title: Can’t do
+tumblr: http://guillermonkey.tumblr.com/post/3243766527
+tags:
+  - learning
+  - knowledge
+author: Pablo Picasso
+---
+
+I am always doing that which I cannot do, in order that I may learn how to do it.

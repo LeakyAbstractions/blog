@@ -1,0 +1,11 @@
+---
+title: Simplicity and reliability
+tumblr: http://guillermonkey.tumblr.com/post/3155394088
+tags:
+  - software
+  - reliability
+  - simplicity
+author: Tony Hoare
+---
+
+The unavoidable price of reliability is simplicity.

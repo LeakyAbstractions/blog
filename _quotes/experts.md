@@ -1,0 +1,10 @@
+---
+title: Experts
+tumblr: http://guillermonkey.tumblr.com/post/3144832966
+tags:
+  - experts
+  - knowledge
+author: P. J. Plauger
+---
+
+My definition of an expert in any field is a person who knows enough about what’s really going on to be scared.

@@ -1,0 +1,13 @@
+---
+title: Bad programs
+tumblr: http://guillermonkey.tumblr.com/post/3290313030
+tags:
+  - c
+  - programming-languages
+  - programming
+  - writing
+  - bad-code
+author: Anonymous
+---
+
+While it is possible to write bad programs in any language, in C it is absolutely required.

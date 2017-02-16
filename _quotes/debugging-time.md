@@ -1,0 +1,11 @@
+---
+title: Debugging time
+tumblr: http://guillermonkey.tumblr.com/post/3144789892
+tags:
+  - programming
+  - debugging
+  - source-code
+author: Chris Wenham
+---
+
+Debugging time increases as a square of the program’s size.

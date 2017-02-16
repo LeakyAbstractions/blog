@@ -1,0 +1,18 @@
+---
+title: Testing
+tumblr: http://guillermonkey.tumblr.com/post/3291374986
+tags:
+  - joke
+  - testing
+  - linux
+  - compiling
+  - shipping
+  - booting
+  - perfection
+  - operating-systems
+author: Linus Torvalds
+quote:
+  context: joke about developing Kernel
+---
+
+Testing? What’s that? If it compiles, it is good. If it boots up, it is perfect.

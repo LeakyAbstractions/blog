@@ -1,0 +1,13 @@
+---
+title: Plan 9
+tumblr: http://guillermonkey.tumblr.com/post/3143406839
+tags:
+  - linux
+  - operating-systems
+  - plan9
+author: Anonymous
+quote:
+  context: Random Professor of Computer Science
+---
+
+Plan 9 looks like it was written by experts; Linux looks like something my students could aspire to write.

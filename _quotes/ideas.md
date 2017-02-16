@@ -1,0 +1,10 @@
+---
+title: Ideas
+tumblr: http://guillermonkey.tumblr.com/post/3293257116
+tags:
+  - programming
+  - ideas
+author: Maciej Kaczmarek
+---
+
+Programming: when the ideas turn into the real things.

@@ -1,0 +1,12 @@
+---
+title: Perl
+tumblr: http://guillermonkey.tumblr.com/post/3143018259
+tags:
+  - programming-languages
+  - perl
+  - programmers
+  - morons
+author: Erik Naggum
+---
+
+It’s not that Perl programmers are idiots, it’s that the language rewards idiotic behavior in a way that no other language or tool has ever done.
