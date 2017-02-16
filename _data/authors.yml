@@ -1,0 +1,2892 @@
+
+"Anonymous":
+  name: Anonymous
+  bio: The author of this quote is unknown.
+  avatar: /assets/images/author/quotes/default.jpg
+
+"Douglas Adams":
+  name: Douglas Noel Adams
+  bio: >
+    English writer, humorist, and dramatist. Best known as the author of
+    <a href="https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy"><b>The Hitchhiker’s Guide to the Galaxy</b></a>,
+    which originated in 1978 as a <a href="http://www.bbc.com/"><i>BBC</i></a> radio comedy before developing into a "trilogy" of
+    five books that sold more than 15 million copies in his lifetime and generated a television series, several in
+    stage plays, comics, a computer game, and in 2005 a feature film. Adams’s contribution to UK radio is commemorated
+    <a href="http://www.radioacademy.org/"><i>The Radio Academy</i></a>’s <i>Hall of Fame</i>.
+  avatar: /assets/images/author/quotes/douglas_adams.jpg
+  uri: https://en.wikipedia.org/wiki/Douglas_Adams
+  wikipedia: Douglas_Adams
+  home: http://www.douglasadams.com/
+
+"Agile Manifesto":
+  name: "Manifesto for Agile Software Development"
+  bio: |
+    <ul>
+    <li><a href="https://en.wikipedia.org/wiki/Kent_Beck">Kent Beck</a></li>
+    <li><a href="https://www.linkedin.com/in/mikebeedle">Mike Beedle</a></li>
+    <li><a href="https://www.linkedin.com/in/ariev3">Arie van Bennekum</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Alistair_Cockburn">Alistair Cockburn</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Ward_Cunningham">Ward Cunningham</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Martin_Fowler">Martin Fowler</a></li>
+    <li><a href="https://www.linkedin.com/in/jwgrenning">James Grenning</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Jim_Highsmith">Jim Highsmith</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Andy_Hunt_(author)">Andrew Hunt</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Ron_Jeffries">Ron Jeffries</a></li>
+    <li><a href="https://www.linkedin.com/in/jonkern">Jon Kern</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Brian_Marick">Brian Marick</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Robert_Cecil_Martin">Robert C. Martin</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Stephen_J._Mellor">Steve Mellor</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Ken_Schwaber">Ken Schwaber</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Jeff_Sutherland">Jeff Sutherland</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/David_A._Thomas_(software_developer)">Dave Thomas</a></li>
+    </ul>
+  avatar: /assets/images/author/quotes/agile_manifesto.jpg
+  uri: http://www.agilemanifesto.org/
+
+"Jeremy S. Anderson":
+  name: Jeremy S. Anderson
+  bio: >
+    American IT Manager and hands-on senior <b>UNIX systems and network administrator</b> with extensive experience with
+    software development and scripting. Mainly interested in the study of Mandarin Chinese, cooking, hiking, and
+    <b>programming for fun and profit</b>.
+  avatar: /assets/images/author/quotes/jeremy_s_anderson.jpg
+  uri: http://www.2monkeys.org/resume.doc
+  email: jeremy@2monkeys.org
+  home: http://www.2monkeys.org/
+
+"Mark Ardis":
+  name: Mark A. Ardis
+  bio: >
+    American serial software engineering educator. Distinguished Service Professor at the
+    <a href="http://www.stevens.edu/sse/"><i>School of Systems and Enterprises</i></a>. Several years of industrial experience in
+    software product line engineering. Has been helping to <b>establish software engineering programs</b> at
+    <a href="https://en.wikipedia.org/wiki/Wang_Institute_of_Graduate_Studies"><i>Wang Institute</i></a>,
+    <a href="http://www.cmu.edu/"><i>Carnegie-Mellon University</i></a>,
+    <a href="http://www.rose-hulman.edu/"><i>Rose-Hulman Institute of Technology</i></a>,
+    <a href="http://www.rit.edu/"><i>Rochester Institute of Technology</i></a> and
+    <a href="http://www.stevens.edu/">Stevens Institute of Technology</a>.
+  avatar: /assets/images/author/quotes/mark_ardis.jpg
+  uri: http://personal.stevens.edu/~mardis/personal.html
+  facebook: mark.ardis
+  email: mark.ardis@stevens.edu
+  linkedin: markardis
+  home: http://personal.stevens.edu/~mardis/
+
+"Joe Armstrong":
+  name: Joe Armstrong
+  bio: >
+    Swedish computer scientist who is best known as the creator of
+    <a href="https://en.wikipedia.org/wiki/Erlang_(programming_language)" title="Erlang (programming language)"><b>Erlang</b></a>. Expert in
+    the construction of <a href="https://en.wikipedia.org/wiki/Fault-tolerant_computer_system"><b>fault tolerant systems</b></a>.
+    Has worked for 30 years in industry and research. Author of several books. Coined the term
+    <i>"Concurrency Oriented Programming"</i>. Developed Erlang at <a href="http://www.ericsson.com/"><i>Ericsson</i></a> as the chief
+    software architect of the project which produced
+    <a href="https://en.wikipedia.org/wiki/Open_Telecom_Platform" title="Open Telecom Platform"><b>OTP</b></a>, a framework for building
+    Erlang applications.
+  avatar: /assets/images/author/quotes/joe_armstrong.jpg
+  uri: http://www.codersatwork.com/joe-armstrong.html
+  wikipedia: Joe_Armstrong_(programming)
+  email: joearms@gmail.com
+  github: joearms
+  twitter: joeerl
+  linkedin: joe-armstrong-b9233b106
+  home: http://joearms.github.io/
+
+"Jeff Atwood":
+  name: Jeff Atwood
+  bio: >
+    American software developer, author, blogger, and entrepreneur. Known for the programming blog
+    <a href="http://blog.codinghorror.com/"><b>Coding Horror</b></a>. Co-founder of the question-and-answer website
+    <a href="https://stackoverflow.com/"><b>Stack Overflow</b></a>, with <a href="https://en.wikipedia.org/wiki/Joel_Spolsky"><i>Joel Spolsky</i></a>,
+    and the <a href="http://stackexchange.com/"><b>Stack Exchange Network</b></a>. In 2013,
+    <a href="http://blog.codinghorror.com/civilized-discourse-construction-kit/" title="Civilized Discourse Construction Kit, Inc.">his new company</a>
+    announced its flagship product, <a href="http://www.discourse.org/" title="A new discussion platform"><b>Discourse</b></a>.
+  avatar: /assets/images/author/quotes/jeff_atwood.jpg
+  uri: http://blog.codinghorror.com/about-me/
+  wikipedia: Jeff_Atwood
+  email: jatwood@codinghorror.com
+  twitter: codinghorror
+  home: http://blog.codinghorror.com/
+
+"Charles Babbage":
+  name: Charles Babbage
+  bio: >
+    English mathematician, philosopher, inventor and mechanical engineer. Best remembered for originating the concept of
+    a <b>programmable computer</b>, along with <a href="https://en.wikipedia.org/wiki/Ada_Lovelace"><i>Ada Lovelace</i></a>. Considered by
+    some to be a <a href="https://en.wikipedia.org/wiki/Computer_pioneer"><b>father of the computer</b></a>. Along with <i>Lovelace</i>, is
+    credited with inventing <a href="https://en.wikipedia.org/wiki/Mechanical_computer"><b>the first mechanical computer</b></a> that
+    eventually led to more complex designs. His varied work in other fields has led him to be described as
+    <b>pre-eminent among the many polymaths</b> of his century.
+  avatar: /assets/images/author/quotes/charles_babbage.jpg
+  uri: http://www.cbi.umn.edu/about/babbage.html
+  wikipedia: Charles_Babbage
+  home: http://www.charlesbabbage.net/
+
+"Anthony Baxter":
+  name: Anthony Baxter
+  bio: >
+    Australian software engineer. Involved in the open source community for years, largely working in and on
+    <a href="https://www.python.org/" title="Python Programming Language"><b>Python</b></a>. Contributed to many open source projects,
+    mostly related to <b>networking</b> and <b>protocol implementations</b>. Currently works with
+    <a href="https://www.google.org/crisisresponse/">Google.org’s Crisis Response Team</a> building tools to collect and share
+    emergency information during natural disasters.
+  avatar: /assets/images/author/quotes/anthony_baxter.jpg
+  uri: https://plus.google.com/113677459543143443951
+  email: anthonybaxter@gmail.com
+  google_plus: /../113677459543143443951
+  twitter: anthonybaxter
+  home: http://anthonybaxter.livejournal.com/profile
+
+"Pete Becker":
+  name: Pete Becker
+  bio: >
+    Consultant and computer programmer, specializing in library design and implementation.
+    Recognized as <b>one of the world’s foremost experts in <a href="https://isocpp.org/" title="The C++ Programming Language">C++</a></b>.
+    Has been contributing to the <b>C++ standardization</b> process since its inception and has authored several
+    publications, including magazine articles and columns, and a book on
+    <a href="http://www.petebecker.com/tr1book/tr1book.html" title="Also known as TR1"><b>the first C++ Library Technical Report</b></a>.
+  avatar: /assets/images/author/quotes/pete_becker.jpg
+  uri: http://www.petebecker.com/
+  wikipedia: Pete_Becker
+  email: petebecker@acm.org
+  stackoverflow: 1593860/pete-becker
+  linkedin: ../pub/pete-becker/5/75b/a6
+  home: http://www.petebecker.com/
+
+"Scott Bellware":
+  name: Scott Bellware
+  bio: >
+    Canadian software product designer and developer. Certified
+    <a href="https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm" title="CSM"><b>ScrumMaster</b></a>
+    and <a href="https://mvp.microsoft.com/" title="Most Valuable Professional"><b>Microsoft MVP</b></a> for
+    <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#</a>. Teaches
+    <a href="https://en.wikipedia.org/wiki/Agile_software_development" title="Agile software development">agile engineering practices</a>
+    through workshops held in conjunction with <a href="https://en.wikipedia.org/wiki/.NET_Framework">.NET</a> user groups in the
+    US and Canada.
+  avatar: /assets/images/author/quotes/scott_bellware.jpg
+  uri: https://about.me/sbellware
+  google_plus: ScottBellware
+  linkedin: scottbellware
+  github: sbellware
+  twitter: sbellware
+  home: http://blog.scottbellware.com/
+
+"Federico Benavento":
+  name: Federico G. Benavento
+  bio: >
+    Argentinean Law/Arts student and software developer. Author of <a href="http://lab-fgb.com/abaco/"><b>Abaco</b></a>, a multi-page
+    graphical <b>Web Browser</b> for <a href="http://plan9.bell-labs.com/plan9/" title="Plan 9 operating systems"><i>Plan 9</i></a> and
+    <a href="https://github.com/benavento/mac9p"><b>Mac9P</b></a>, a <i>Mac OS X</i> <b>kernel extension</b> that allows mounting
+    <a href="http://en.wikipedia.org/wiki/9P"><b>9P</b></a> file systems.
+  avatar: /assets/images/author/quotes/federico_benavento.jpg
+  uri: https://www.linkedin.com/in/federicobenavento
+  email: benavento@gmail.com
+  google_plus: /../105061949126000164400
+  github: benavento
+  linkedin: federicobenavento
+  twitter: fgb__
+  home: http://lab-fgb.com/
+
+"Warren Bennis":
+  name: Warren Gamaliel Bennis
+  bio: >
+    American scholar, organizational consultant and author, widely regarded as a pioneer of the contemporary field of
+    <a href="https://en.wikipedia.org/wiki/Leadership_studies"><b>Leadership studies</b></a>. Was <b>University Professor</b> and
+    <b>Distinguished Professor</b> of <i>Business Administration</i> and <i>Founding Chairman</i> of The Leadership Institute at
+    the <a href="http://www.usc.edu/"><i>University of Southern California</i></a>.
+  avatar: /assets/images/author/quotes/warren_bennis.jpg
+  uri: https://en.wikipedia.org/wiki/Warren_Bennis
+  wikipedia: Warren_Bennis
+
+"Jon Bentley":
+  name: Jon Louis Bentley
+  bio: >
+    American computer scientist and researcher, credited with the heuristic-based partitioning algorithm
+    <a href="https://en.wikipedia.org/wiki/K-d_tree" title="k-dimensional tree">k-d tree</a>. Distinguished Member of the
+    <i>Technical Staff</i> in the <i>Computing Sciences Research Center</i> at
+    <a href="http://bell-labs.com"><i>Bell Labs</i></a>, the research and development arm of
+    <a href="https://en.wikipedia.org/wiki/Lucent"><i>Lucent Technologies</i></a>. Author of the books
+    <a href="http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880/?tag=drdos-20"><b>Programming Pearls</b></a> and
+    <a href="http://www.amazon.com/More-Programming-Pearls-Confessions-Coder/dp/0201118890/"><b>More Programming Pearls</b></a>.
+    Received the
+    <a href="http://www.drdobbs.com/"><i>Dr. Dobb’s</i></a><a href="http://www.drdobbs.com/architecture-and-design/dr-dobbs-excellence-in-programming-award/184404057"><b>Excellence in Programming Award</b></a>
+    in 2000.
+  avatar: /assets/images/author/quotes/jon_bentley.jpg
+  uri: https://en.wikipedia.org/wiki/Jon_Bentley
+  wikipedia: Jon_Bentley
+  email: jlb@research.bell-labs.com
+  linkedin: jon-bentley-33565561
+
+"Jon Bentley and Doug McIlroy":
+  name: "Engineering a Sort Function"
+  bio: |
+    <ul>
+    <li><a href="https://en.wikipedia.org/wiki/Jon_Bentley">Jon L. Bentley</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Douglas_McIlroy">M. Douglas McIlroy</a></li>
+    </ul>
+  avatar: /assets/images/author/quotes/engineering_a_sort_function.jpg
+  uri: http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.14.8162
+
+"Gordon Bell":
+  name: Chester Gordon Bell
+  bio: >
+    American electrical engineer and manager. An early employee of
+    <a href="https://en.wikipedia.org/wiki/Digital_Equipment_Corporation" title="Digital Equipment Corporation"><i>DEC</i></a>, designed
+    several of their <a href="https://en.wikipedia.org/wiki/Programmed_Data_Processor" title="Programmed Data Processor"><b>PDP</b></a>
+    machines and later became Vice President of Engineering, overseeing the development of the
+    <a href="https://en.wikipedia.org/wiki/VAX"><b>VAX</b></a>. His later career includes entrepreneur, investor, founding
+    Assistant Director of <a href="http://www.nsf.gov/" title="National Science Foundation"><i>NSF</i></a>’s Computing and Information Science
+    and Engineering Directorate, and researcher emeritus at <i>Microsoft Research</i>.
+  avatar: /assets/images/author/quotes/gordon_bell.jpg
+  uri: http://research.microsoft.com/en-us/people/gbell/
+  wikipedia: Gordon_Bell
+  email: gbell@outlook.com
+  home: http://research.microsoft.com/~gbell/
+
+"Joshua Bloch":
+  name: Joshua J. Bloch
+  bio: >
+    American software engineer and technology author. Led the design and implementation of numerous
+    <a href="https://www.java.com/" title="Java Programming Language"><i>Java</i></a> features as an architect in the
+    <i>Core Java Platform Group</i> at <a href="http://www.oracle.com/us/sun/index.htm"><i>Sun Microsystems</i></a>, including the
+    <a href="https://en.wikipedia.org/wiki/Java_collections_framework"><b>Java Collections Framework</b></a>, the `java. math` package
+    and the <a href="https://en.wikipedia.org/wiki/Assertion_(software_development)">assert mechanism</a>.
+    Author of numerous articles and papers. His
+    <a href="http://reports-archive.adm.cs.cmu.edu/anon/1990/abstracts/90-133.html" title="A Practical Approach to Replication of Abstract Data Objects">Ph.D. thesis</a>
+    was nominated for the <a href="http://www.acm.org/" title="Association for Computing Machinery"><i>ACM</i></a> Distinguished
+    <a href="http://awards.acm.org/doctoral_dissertation/">Doctoral Dissertation</a> Award. Author of the programming guide
+    <a href="http://www.oracle.com/technetwork/java/effectivejava-136174.html" title="2001"><b>Effective Java</b></a> and co-author of other
+    Java books, <a href="http://www.javapuzzlers.com/" title="2005"><b>Java Puzzlers</b></a> and
+    <a href="http://jcip.net/" title="2006"><b>Java Concurrency In Practice</b></a>.
+  avatar: /assets/images/author/quotes/joshua_bloch.jpg
+  uri: http://www.codersatwork.com/joshua-bloch.html
+  wikipedia: Joshua_Bloch
+  linkedin: joshua-bloch-37038
+  google_plus: /../113200173329286634669
+  twitter: joshbloch
+
+"Niels Bohr":
+  name: Niels Henrik David Bohr
+  bio: >
+    Danish physicist who made foundational contributions to understanding
+    <a href="https://en.wikipedia.org/wiki/Atomic_structure"><b>atomic structure</b></a> and quantum theory, for which received the
+    <a href="https://en.wikipedia.org/wiki/Nobel_Prize_in_Physics"><b>Nobel Prize in Physics</b></a> in 1922.
+    Was also a philosopher and a promoter of <b>scientific research</b>.
+  avatar: /assets/images/author/quotes/niels_bohr.jpg
+  uri: http://academictree.org/physics/peopleinfo.php?pid=1943
+  wikipedia: Niels_Bohr
+  home: http://www.nba.nbi.dk/
+
+"Stan Kelly-Bootle":
+  name: Stanley Bootle
+  bio: >
+    British author, singer-songwriter and computer scientist. His best-known song is the "Liverpool Lullaby", which
+    <a href="https://en.wikipedia.org/wiki/Judy_Collins">Judy Collins</a> recorded in 1966 for her album,
+    <a href="https://en.wikipedia.org/wiki/In_My_Life_(Judy_Collins_album)">In My Life</a>.
+    Achieved <b>the first postgraduate degree in computer science</b> in 1954.
+  avatar: /assets/images/author/quotes/stan_kelly_bootle.jpg
+  uri: http://www.feniks.com/skb/about/about.html
+  wikipedia: Stan_Kelly-Bootle
+  home: http://www.feniks.com/skb/
+
+"Larry Bossidy":
+  name: Lawrence A. "Larry" Bossidy
+  bio: >
+    American businessman and author. Was the CEO of <a href="https://en.wikipedia.org/wiki/AlliedSignal"><i>AlliedSignal</i></a> (later
+    <a href="http://honeywell.com/Pages/Home.aspx"><i>Honeywell</i></a>), and has also spent more than 30 years rising into executive
+    power at <a href="http://www.ge.com/"><i>General Electric</i></a>.
+  avatar: /assets/images/author/quotes/lawrence_bossidy.jpg
+  uri: http://www.leighbureaultd.com/speakers/LBossidy/
+  wikipedia: Lawrence_Bossidy
+
+"Russell Borogove":
+  name: Russell Borogove
+  bio: >
+    American Software Engineer with extensive experience in the game industry. Has worked at several game companies,
+    such as <a href="https://en.wikipedia.org/wiki/Shaba_Games"><i>Shaba Games</i></a>, <a href="http://www.sega.com/"><i>SEGA</i></a> or
+    <a href="https://en.wikipedia.org/wiki/Accolade_(game_company)"><i>Accolade</i></a>.
+    Also, developed audio software (plug-in components for VST hosts and stand-alone programs) and published it at
+    <a href="http://www.tinygod.com/"><b>Tiny God</b></a>.
+    Currently Chief Architect at <a href="http://www.backbeat.net/"><i>Backbeat Networks</i></a>
+  avatar: /assets/images/author/quotes/russell_borogove.jpg
+  uri: http://mister-borogove.livejournal.com/profile
+  linkedin: russell-borogove-1a23022
+  stackoverflow: 374746/russell-borogove
+  github: borogove
+  disqus: russellborogove
+  email: kaleja@estarcion.com
+  twitter: mister_borogove
+  home: http://www.estarcion.com/kaleja/
+
+"Keith Bostic":
+  name: Keith Bostic
+  bio: >
+    American software engineer and one of the key people in the history of
+    <a href="https://en.wikipedia.org/wiki/Berkeley_Software_Distribution"><b>Berkeley Software Distribution</b></a>
+    <a href="http://www.unix.org/" title="The UNIX Operating System"><b>UNIX</b></a> and
+    <a href="https://en.wikipedia.org/wiki/Open-source_software"><b>Open Source</b></a> software. In 1986, joined the
+    <a href="https://en.wikipedia.org/wiki/Computer_Systems_Research_Group" title="Computer Systems Research Group"><i>CSRG</i></a> at the
+    <a href="http://www.berkeley.edu/"><i>University of California, Berkeley</i></a>. Was one of the principal architects of several
+    Berkeley BSD releases. Among many other tasks, led the effort to create a free software version of
+    <a href="https://en.wikipedia.org/wiki/BSD_UNIX"><b>BSD UNIX</b></a>, which helped allow the creation of
+    <a href="https://www.freebsd.org/"><i>FreeBSD</i></a>, <a href="https://netbsd.org/"><i>NetBSD</i></a> and <a href="http://openbsd.org/"><i>OpenBSD</i></a>.
+  avatar: /assets/images/author/quotes/keith_bostic.jpg
+  uri: https://sites.google.com/a/bostic.com/keithbostic/home
+  wikipedia: Keith_Bostic
+  linkedin: keithbostic
+  github: keithbostic
+  email: keith@bostic.com
+  twitter: KeithBosticWT
+  home: http://bostic.com/
+
+"Keith Braithwaite":
+  name: Keith Braithwaite
+  bio: >
+    Experienced Agile coach. Leader of <a href="http://www.zuehlke.com/"><i>Zuhlke Engineering</i></a>’s <i>Centre of Agile practice</i> in
+    London. Provides <b>Agile training</b>, <b>consultancy</b> and <b>mentoring</b> to development teams in the wholesale
+    finance and mobile telecoms industries. Frequent speaker at Agile conferences around the world. Co-authored the
+    first published descriptions of successful <b>distributed Agile</b> based on his experience.
+  avatar: /assets/images/author/quotes/keith_braithwaite.jpg
+  uri: http://gotocon.com/aarhus-2010/speaker/Keith+Braithwaite
+  linkedin: keithbraithwaite
+  twitter: keithb_b
+  flicker: keithbraithwaite
+  soundcloud: keithb_b
+  blog: http://peripateticaxiom.blogspot.com/
+  home: http://cumulative-hypotheses.org/
+
+"Reg Braithwaite":
+  name: Reginald Scott Braithwaite
+  bio: >
+    Canadian software developer with more than 20 years of hands-on experience creating software products and leading
+    software teams. Applies extremely deep <a href="http://www.ruby-lang.org/" title="Ruby programming language">Ruby</a>,
+    <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript interpreted programming language">JavaScript</a>,
+    <a href="http://coffeescript.org/" title="CoffeeScript Programming Language">CoffeeScript</a> to crafting well-factored,
+    maintainable code. Respected <a href="https://speakerdeck.com/raganwald">speaker</a> and
+    <a href="https://leanpub.com/u/raganwald">author</a> on subjects ranging from managing development and not-so-big design to
+    and extreme hackery such as dynamic meta-programming. <i>Open source</i> accomplishments include programming libraries
+    such as <a href="http://recursiveuniver.se/"><b>Cafe au Life</b></a>, <a href="http://allong.es/"><b>Allong.es</b></a>,
+    <a href="https://github.com/raganwald/method-combinators"><b>Method Combinators</b></a>,
+    <a href="https://github.com/raganwald/Katy"><b>Katy</b></a>,
+    <a href="http://github.com/raganwald/JQuery-Combinators"><b>JQuery Combinators</b></a>,
+    <a href="https://github.com/raganwald/YouAreDaChef"><b>YouAreDaChef</b></a>,
+    <a href="http://github.com/raganwald/andand"><b>andand</b></a>, and <a href="https://github.com/raganwald">others</a>.
+  avatar: /assets/images/author/quotes/reg_braithwaite.jpg
+  uri: http://lanyrd.com/profile/raganwald/
+  email: reg@braythwayt.com
+  github: raganwald
+  twitter: raganwald
+  home: http://braythwayt.com/
+
+"Stewart Brand":
+  name: Stewart Brand
+  bio: >
+    American writer, best known as editor of the <a href="http://www.wholeearth.com/"><i>Whole Earth Catalog</i></a>. Founded a number
+    of organizations, including <a href="http://www.well.com/"><b>The WELL</b></a>, the
+    <a href="http://www.gbn.com/"><b>Global Business Network</b></a>, and the <a href="http://www.longnow.org/"><b>Long Now Foundation</b></a>.
+    Author of several books, most recently
+    <a href="https://openlibrary.org/works/OL823141W"><b>Whole Earth Discipline: An Ecopragmatist Manifesto</b></a>.
+  avatar: /assets/images/author/quotes/stewart_brand.jpg
+  uri: http://sb.longnow.org/SB_homepage/Bio.html
+  wikipedia: Stewart_Brand
+  email: sb@longnow.org
+  twitter: stewartbbrand
+  home: http://sb.longnow.org/SB_homepage/
+
+"W. Stan Brown":
+  name: William Stanley Brown
+  bio: >
+    American gifted mathematician and physicist. Earned his Ph.D. from
+    <a href="http://www.princeton.edu/"><i>Princeton University</i></a> in 1961. Joined the <a href="http://bell-labs.com"><i>Bell Labs</i></a> Research
+    Department and was a <b>pioneer</b> in the emerging fields of <b>computer science</b> and <b>information systems</b>.
+    Developed <a href="https://en.wikipedia.org/wiki/ALTRAN"><b>ALTRAN</b></a>, a <a href="https://en.wikipedia.org/wiki/FORTRAN">FORTRAN</a>
+    extension providing rational algebra, around 1968. Continued to contribute to <i>Bell Labs</i>’ international planning
+    program and its global information sharing community until his retirement in 1996.
+  avatar: /assets/images/author/quotes/w_stan_brown.jpg
+  uri: http://obits.nj.com/obituaries/starledger/obituary.aspx?pid=162589293
+
+"Bill Bryson":
+  name: William McGuire "Bill" Bryson
+  bio: >
+    Best-selling American author of humorous books on <b>travel</b>, as well as books on the <b>English language</b> and
+    <b>science</b>. Born in the United States, resided in Britain for most of his adult life
+    before returning to America in 1995. In 2003 moved back to Britain with his family.
+    Served as chancellor of <a href="http://www.dur.ac.uk/"><i>Durham University</i></a> from 2005 through 2011.
+  avatar: /assets/images/author/quotes/bill_bryson.jpg
+  uri: http://www.billbryson.co.uk/index.php/about/
+  wikipedia: Bill_Bryson
+  facebook: BillBrysonAuthor
+  youtube: user/BillBrysonTV
+  home: http://www.billbryson.co.uk/
+
+"R. Buckminster Fuller":
+  name: Richard Buckminster "Bucky" Fuller
+  bio: >
+    American architect, systems theorist, author, designer and inventor. Published
+    <a href="https://openlibrary.org/authors/OL770663A/R._Buckminster_Fuller">more than 30 books</a>,
+    <b>coining or popularizing terms</b> such as <a href="https://en.wikipedia.org/wiki/Spaceship_Earth"><b>Spaceship Earth</b></a>,
+    <a href="https://en.wikipedia.org/wiki/Ephemeralization"><b>ephemeralization</b></a>, and
+    <a href="https://en.wikipedia.org/wiki/Synergetics_(Fuller)"><b>synergetic</b></a>. Also developed numerous inventions,
+    mainly architectural designs, and popularized the widely known
+    <a href="https://en.wikipedia.org/wiki/Geodesic_dome"><i>geodesic dome</i></a>.
+  avatar: /assets/images/author/quotes/r_buckminster_fuller.jpg
+  uri: http://buckminsterfuller.net/aboutus.html
+  wikipedia: Buckminster_Fuller
+
+"Ross Callon":
+  name: Ross Callon
+  bio: >
+    American engineer who has been participating in <a href="https://www.ietf.org/" title="The Internet Engineering Task Force">IETF</a>
+    meetings and has worked on a variety of <b>routing and standards issues</b>. Distinguished engineer in the
+    <i>routing software group</i> at <a href="http://www.juniper.net/"><i>Juniper Networks</i></a> and <b>routing area director</b> of the
+    <a href="https://www.ietf.org/" title="The Internet Engineering Task Force"><i>IETF</i></a>. Former co-chair of the
+    <a href="https://tools.ietf.org/wg/opsec/" title="Operational Security Capabilities"><b>OPSEC</b></a> and
+    <a href="http://www.muonics.com/rfc/int/l3vpn/" title="Layer 3 Virtual Private Network"><b>L3VPN</b></a> working groups. Athor and co-author of several <a href="https://en.wikipedia.org/wiki/Request_for_Comments" title="Request for Comments">RFCs</a>, such as:
+    <a href="http://www.muonics.com/rfc/rfc4110.php" title="RFC4110"><b>L3VPN Framework document</b></a> and <a href="RFC4111"><b>PPVPN Security Framework</b></a>.
+  avatar: /assets/images/author/quotes/ross_callon.jpg
+  uri: http://www.networksorcery.com/enp/authors/CallonRoss.htm
+  email: rcallon@juniper.net
+  linkedin: ross-callon-b8383695
+
+"Tom Cargill":
+  name: Tom Cargill
+  bio: >
+    Early-adopter of C++ in 1983; influenced the language design. Recognized authority in the field of
+    <a href="https://en.wikipedia.org/wiki/Object-oriented_programming"><b>object-oriented programming</b></a>.
+    His work at <a href="http://bell-labs.com"><i>Bell Labs</i></a> resulted in the creation of the first major system programmed in C++
+    --- a family of <b>portable distributed debuggers</b> which remain in production use and continue to evolve within
+    <a href="http://www.att.com/"><i>AT&T</i></a> today. Author of
+    <strong><span title="Addison-Wesley, 1992">C++ Programming Style</span></strong>. An independent consultant since
+    1989, works with <a href="http://loneagle.com/"><i>Lone Eagle Systems</i></a> on
+    <a href="https://www.java.com/" title="Java Programming Language"><i>Java</i></a> and object-oriented design issues.
+  avatar: /assets/images/author/quotes/tom_cargill.jpg
+  uri: http://www.profcon.com/profcon/tac.htm
+  home: http://loneagle.com/staff/index.html
+
+"John Carmack":
+  name: John D. Carmack
+  bio: >
+    American game programmer and the co-founder of <a href="http://www.idsoftware.com/"><b>Id Software</b></a>. Was the
+    <b>lead programmer</b> of the Id <b>video games</b> <a href="https://en.wikipedia.org/wiki/Commander_Keen"><i>Commander Keen</i></a>,
+    <a href="https://en.wikipedia.org/wiki/Wolfenstein_3D"><i>Wolfenstein 3D</i></a>,
+    <a href="https://en.wikipedia.org/wiki/Doom_(series)"><i>Doom</i></a>, <a href="https://en.wikipedia.org/wiki/Quake_(video_game)"><i>Quake</i></a>,
+    <a href="https://en.wikipedia.org/wiki/Rage_(video_game)"><i>Rage</i></a> and their sequels. Best known for his
+    <b>innovations in 3D graphics</b>, such as his famous
+    <a href="https://en.wikipedia.org/wiki/Shadow_volume"><b>Carmack’s Reverse algorithm for shadow volumes</b></a>, and is also a
+    rocketry enthusiast and the founder and lead engineer of <a href="http://www.armadilloaerospace.com/"><i>Armadillo Aerospace</i></a>.
+    In August 2013, took the position of CTO at <a href="http://oculusvr.com/"><i>Oculus VR</i></a>.
+  avatar: /assets/images/author/quotes/john_carmack.jpg
+  uri: https://www.mobygames.com/developer/sheet/view/developerId,682/
+  wikipedia: John_Carmack
+  twitter: id_aa_carmack
+
+"Egon Casteel":
+  name: Egon Casteel
+  bio: No biographical information available.
+  avatar: /assets/images/author/quotes/egoncasteel.jpg
+  uri: https://plus.google.com/102772017055000562034
+  youtube: user/egoncasteel
+  google_plus: /../102772017055000562034
+  twitter: egoncasteel
+  reddit: egoncasteel
+  home: https://egoncasteel.wordpress.com/
+
+"Oswald Chambers":
+  name: Oswald Chambers
+  bio: >
+    Scottish <a href="https://en.wikipedia.org/wiki/Baptist">Baptist</a> and
+    <a href="https://en.wikipedia.org/wiki/Holiness_Movement">Holiness Movement</a> evangelist and teacher, best known for the
+    devotional <a href="https://en.wikipedia.org/wiki/My_Utmost_for_His_Highest"><b>My Utmost for His Highest</b></a>.
+  avatar: /assets/images/author/quotes/oswald_chambers.jpg
+  uri: http://www.oswaldchambers.co.uk/bio/
+  wikipedia: Oswald_Chambers
+  twitter: myutmost
+  home: http://utmost.org/
+
+"Bram Cohen":
+  name: Bram Cohen
+  bio: >
+    American computer programmer, best known as the author of the
+    <a href="https://en.wikipedia.org/wiki/Peer-to-peer" title="peer-to-peer">P2P</a>
+    <a href="https://en.wikipedia.org/wiki/BitTorrent_(protocol)"><b>BitTorrent protocol</b></a>, as well as the first
+    <a href="https://en.wikipedia.org/wiki/File_sharing">file sharing</a> program to use the protocol, also known as
+    <a href="http://www.bittorrent.com/"><b>BitTorrent</b></a>. Co-founder of <a href="https://en.wikipedia.org/wiki/CodeCon"><b>CodeCon</b></a>,
+    organizer of the <i>San Francisco Bay Area P2P-hackers meeting</i> and co-author of
+    <a href="https://en.wikipedia.org/wiki/Codeville"><b>Codeville</b></a>.
+  avatar: /assets/images/author/quotes/bram_cohen.jpg
+  uri: https://en.wikipedia.org/wiki/Bram_Cohen
+  wikipedia: Bram_Cohen
+  linkedin: cohenbram
+  github: bramcohen
+  email: bram@bittorrent.com
+  twitter: bramcohen
+  home: http://bramcohen.com/
+
+"Rick Cook":
+  name: James Richard Cook
+  bio: >
+    American light fantasy author, best known for his <b>Wizardry series of books</b>. His writing includes many jokes that
+    are hard to appreciate without having a background in systems-level programming, though the books themselves can
+    easily be enjoyed by readers without such a background.
+  avatar: /assets/images/author/quotes/rick_cook.jpg
+  uri: https://en.wikipedia.org/wiki/Rick_Cook
+  wikipedia: Rick_Cook
+  email: ironsteed@gmail.com
+  home: http://rickcooks.blogspot.com/
+
+"Alan Cooper":
+  name: Alan Cooper
+  bio: >
+    American software designer and programmer. Widely recognized as the <b>“Father of Visual Basic”</b>, is also known for
+    his books <a href="https://openlibrary.org/books/OL7595751M"><b>About Face 3: The Essentials of Interaction Design</b></a> and
+    <a href="https://openlibrary.org/works/OL58154W"><b>The Inmates Are Running the Asylum: Why High-Tech Products Drive Us Crazy and How to Restore the Sanity</b></a>.
+    As founder of <a href="http://www.cooper.com/"><b>Cooper</b></a>, a leading interaction design consultancy, created the
+    <a href="http://www.cooper.com/journal/2014/04/inside-goal-directed-design-a-two-part-conversation-with-alan-cooper"><b>Goal-Directed design methodology</b></a> and
+    pioneered the use of <a href="http://www.cooper.com/journal/2008/5/the_origin_of_personas"><b>personas</b></a> as practical
+    <a href="https://en.wikipedia.org/wiki/Interaction_design"><b>interaction design</b></a> tools to create high-tech products.
+  avatar: /assets/images/author/quotes/alan_cooper.jpg
+  uri: http://www.cooper.com/people/alan_cooperhttp://www.cooper.com/journal/alan_cooper/
+  wikipedia: Alan_Cooper
+  blog: http://www.cooper.com/author/alan_cooper
+  twitter: mralancooper
+
+"Russ Cox":
+  name: Russ Cox
+  bio: >
+    American software engineer and author. Best known for his work at <a href="http://bell-labs.com"><i>Bell Labs</i></a>, where wrote
+    <b>kernel code</b>, <b>networked servers</b>, <b>file systems</b>, and a bit of <b>graphics code</b> for
+    <a href="http://plan9.bell-labs.com/plan9/" title="Plan 9 operating systems"><b>Plan 9</b></a>. Currently works at
+    <a href="http://www.google.com"><i>Google</i></a> as one of the lead developers of the
+    <a href="https://golang.org/"><b>Go programming language</b></a>.
+  avatar: /assets/images/author/quotes/russ_cox.jpg
+  uri: https://swtch.com/~rsc/
+  google_plus: RussCox-rsc
+  youtube: user/9rsc
+  email: rsc@swtch.com
+  twitter: _rsc
+  github: rsc
+  home: http://research.swtch.com/
+
+"Simon Cozens":
+  name: Simon Cozens
+  bio: >
+    British Perl programmer and author. Has released <a href="http://search.cpan.org/~simon/"><b>more than 100 Perl modules</b></a>.
+    His <a href="http://www.isbnplus.com/author/Simon_Cozens">books</a> include
+    <a href="https://www.perl.org/books/beginning-perl/"><b>Beginning Perl</b></a>,
+    <a href="http://www.isbnplus.com/9781930110823"><b>Extending and Embedding Perl</b></a>, and the second edition of
+    <a href="http://www.oreilly.com/catalog/advperl/"><b>Advanced Perl Programming</b></a>. Also maintained the
+    <a href="http://www.perl.com/">www.perl.com</a> site for <a href="http://www.oreilly.com/"><i>O’Reilly</i></a> for several years and was a
+    columnist for <a href="http://c2.com/cgi/wiki?ThePerlJournal"><i>the Perl Journal</i></a>. His academic training is in Japanese, and
+    latterly in missiology; he aims to work for the church in Japan in the future.
+  avatar: /assets/images/author/quotes/simon_cozens.jpg
+  uri: http://www.simon-cozens.org/content/programming#Bio
+  email: simon@simon-cozens.org
+  facebook: lathos
+  twitter: simoncozens
+  github: simoncozens
+  home: http://www.simon-cozens.org/
+
+"Douglas Crockford":
+  name: Douglas Crockford
+  bio: >
+    American computer programmer and entrepreneur who is best known for his ongoing involvement in the development of
+    <a href="https://en.wikipedia.org/wiki/JavaScript"><b>the JavaScript language</b></a>, for having popularized
+    <a href="http://www.json.org/" title="JavaScript Object Notation"><b>the data format JSON</b></a>, and for developing various
+    JavaScript related tools such as <a href="http://www.jslint.com/"><b>JSLint</b></a> and
+    <a href="http://javascript.crockford.com/jsmin.html" title="The JavaScript Minifier"><b>JSMin</b></a>. Currently is a senior JavaScript
+    architect at <a href="https://www.paypal.com/"><i>PayPal</i></a>, and is also a writer and speaker on JavaScript, JSON, and related
+    web technologies.
+  avatar: /assets/images/author/quotes/douglas_crockford.jpg
+  uri: https://en.wikipedia.org/wiki/Douglas_Crockford
+  wikipedia: Douglas_Crockford
+  email: douglas@crockford.com
+  github: douglascrockford
+  google_plus: DouglasCrockfordEsq
+  flicker: douglascrockford
+  home: http://crockford.com/
+
+"Dave Cutler":
+  name: David Neil "Dave" Cutler, Sr.
+  bio: >
+    American software engineer, designer and developer of several operating systems including
+    <a href="https://en.wikipedia.org/wiki/Microsoft_Windows_NT"><b>Windows NT</b></a> at <a href="http://www.microsoft.com"><i>Microsoft</i></a> and
+    <a href="https://en.wikipedia.org/wiki/RSX-11M"><b>RSX-11M</b></a>, <a href="http://www.hp.com/go/openvms"><b>VMS</b></a> and
+    <a href="https://en.wikipedia.org/wiki/VAXELN"><b>VAXELN</b></a> at
+    <a href="https://en.wikipedia.org/wiki/Digital_Equipment_Corporation"><i>Digital Equipment Corporation</i></a>.
+  avatar: /assets/images/author/quotes/dave_cutler.jpg
+  uri: http://www.microsoft.com/about/technicalrecognition/david-cutler.aspx
+  wikipedia: Dave_Cutler
+
+"L Peter Deutsch":
+  name: L Peter Deutsch
+  bio: >
+    American software developer and composer. Founder of <a href="http://www.major2nd.com/ae/"><b>Aladdin Enterprises</b></a> and creator
+    of <a href="http://www.ghostscript.com/"><b>Ghostscript</b></a>, a <a href="https://www.gnu.org/philosophy/free-sw.html"><i>free software</i></a>
+    <a href="https://en.wikipedia.org/wiki/PostScript"><i>PostScript</i></a> and <a href="https://en.wikipedia.org/wiki/PDF"><i>PDF</i></a> interpreter.
+    Developed the <b>definitive <a href="https://en.wikipedia.org/wiki/Smalltalk">Smalltalk</a> implementation</b> that inspired Java
+    <a href="https://en.wikipedia.org/wiki/Just-in-time_compilation">just-in-time technology</a> 15 or-so years later.
+    At 17, wrote <a href="http://www.computerhistory.org/pdp-1/media/document/DEC.pdp_1.1964.102650371.pdf"><b>Basic PDP-1 LISP</b></a>,
+    <b>the <a href="https://en.wikipedia.org/wiki/PDP-1">PDP-1</a> <a href="https://en.wikipedia.org/wiki/Lisp_programming_language">Lisp 1.5</a> implementation</b>.
+    Received a Ph.D. in <i>Computer Science</i> from the
+    <a href="http://www.berkeley.edu/"><i>University of California, Berkeley</i></a> in 1973, and has previously worked at
+    <a href="http://www.parc.com/"><i>Xerox PARC</i></a> and <a href="http://www.oracle.com/us/sun/index.htm"><i>Sun Microsystems</i></a>.
+    Inducted as a Fellow of the <a href="http://www.acm.org/" title="Association for Computing Machinery"><i>ACM</i></a> in 1994.
+  avatar: /assets/images/author/quotes/l_peter_deutsch.jpg
+  uri: http://www.codersatwork.com/l-peter-deutsch.html
+  wikipedia: L_Peter_Deutsch
+  home: http://www.major2nd.com/users/lpd/
+
+"devizen.com":
+  name: devizen.com
+  bio: >
+    `devizen.com` was a web site about programming and software development.
+  avatar: /assets/images/author/quotes/default.jpg
+  reddit: devizen
+  email: info@devizen.com
+  uri: http://web.archive.org/web/20090424210536/http://devizen.com/blog/about
+  home: http://web.archive.org/web/20100111043752/http://devizen.com/
+
+"Norman Diamond":
+  name: Norman Diamond
+  bio: >
+    Former executive Director of the
+    <a href="http://depts.washington.edu/labhist/cpproject/labor_college.shtml"><i>Pacific Northwest Labor College</i></a>. Worked in a
+    steel mill, saw mill and as a college professor. His writing on <b>cultural criticism</b>, <b>social movements</b> and
+    <b>science and technology</b> focuses on how values and understandings change. Co-author of
+    <a href="http://www.alibris.com/Power-in-Our-Hands-Norman-Diamond/book/11363453"><b>The Power in Our Hands: A Curriculum on the History of Work and Workers in the United States</b></a>.
+  avatar: /assets/images/author/quotes/default.jpg
+  uri: "#"
+
+"Edsger Dijkstra":
+  name: Edsger Wybe Dijkstra
+  bio: >
+    Dutch computer scientist. One of the most influential members of
+    <b>computing science’s <a href="https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science">founding generation</a></b>.
+    Helped shape the field of computer science through his fundamental contributions to: <i>algorithm design</i>,
+    <i>programming languages</i>, <i>program design</i>, <i>operating systems</i>, <i>distributed processing</i>,
+    <i>formal specification and verification</i> and <i>design of mathematical arguments</i>. Received the
+    <a href="http://amturing.acm.org/"><b>1972 Turing Award</b></a> and was the <i>Schlumberger Centennial Chair of Computer Sciences</i>
+    at <a href="http://www.utexas.edu/"><i>The University of Texas</i></a> from 1984 until 2000.
+  avatar: /assets/images/author/quotes/edsger_dijkstra.jpg
+  uri: http://www.cs.utexas.edu/users/EWD/
+  wikipedia: Edsger_W._Dijkstra
+
+"Cory Dodt":
+  name: Cory Dodt
+  bio: >
+    American software engineer. Has developed application and systems software for over fifteen years, starting at
+    <a href="https://en.wikipedia.org/wiki/PeopleSoft"><i>PeopleSoft</i></a>, designing the web application architecture at the
+    <a href="https://www.fcoe.org/"><i>Fresno County Office of Education</i></a>
+    (<a href="https://www.fcoe.org/locations/california-pass-program"><b>PASS Program</b></a>) and building the R&D department at
+    <a href="https://www.linkedin.com/company/decipher-inc"><i>Decipher</i></a>. Currently VP of Engineering at
+    <a href="http://bright.md/"><i>Bright.md</i></a>.
+  avatar: /assets/images/author/quotes/cory_dodt.jpg
+  uri: https://www.elance.com/s/corydodt/
+  facebook: cory.dodt
+  github.com: corydodt
+  sourceforge: corydodt
+  email: corydodt@gmail.com
+  twitter: corydodt
+  home: http://www.goonmill.org/cory/
+
+"Peter Drucker":
+  name: Peter Ferdinand Drucker
+  bio: >
+    Austrian-born American <b>management consultant</b>, <b>educator</b>, and <b>author</b>, whose writings contributed to the
+    philosophical and practical foundations of the modern business corporation. He was also a leader in the development
+    of <b>management education</b>, he invented the concept known as
+    <a href="https://en.wikipedia.org/wiki/Management_by_objectives"><b>management by objectives</b></a> and
+    <a href="https://en.wikipedia.org/wiki/Self-control"><b>self-control</b></a>, and he has been described as
+    <b>"the founder of modern management"</b>.
+  avatar: /assets/images/author/quotes/peter_drucker.jpg
+  uri: http://www.druckerinstitute.com/peter-druckers-life-and-legacy/
+  wikipedia: Peter_Drucker
+
+"Tom Duff":
+  name: Thomas Douglas Selkirk Duff
+  bio: >
+    Canadian computer programmer and computer graphics expert. In 1974 graduated from the
+    <a href="https://uwaterloo.ca/"><i>University of Waterloo</i></a> with a <i>Bachelor of Mathematics</i> and,
+    two years later, got a <i>Master of Science from</i> the <a href="http://www.utoronto.ca/"><i>University of Toronto</i></a>.
+    Created <a href="https://en.wikipedia.org/wiki/Duff%27s_device"><b>Duff’s device</b></a>, a loop unrolling mechanism in C.
+    Has worked at the <a href="http://www.nyit.edu/" title="New York Institute of Technology"><i>NYIT</i></a> Computer Graphics Lab,
+    <a href="http://lucasfilm.com/"><i>Lucasfilm</i></a>’s Computer Research and Development Division,
+    <a href="http://bell-labs.com"><i>Bell Labs</i></a> Computing Science Research Center and
+    <a href="http://www.pixar.com/"><i>Pixar Animation Studios</i></a>.
+  avatar: /assets/images/author/quotes/tom_duff.jpg
+  uri: http://www.tomduff.com/about.html
+  wikipedia: Tom_Duff
+  email: td@iq0.com
+  linkedin: toduff
+  twitter: TomDuff
+  home: http://iq0.com/
+
+"Thomas Edison":
+  name: Thomas Alva Edison
+  bio: >
+    American <a href="https://en.wikipedia.org/wiki/Inventor">inventor</a> and
+    <a href="https://en.wikipedia.org/wiki/Businessman">businessman</a>. <b>Developed many devices</b> that greatly influenced life
+    around the world, including the <a href="https://en.wikipedia.org/wiki/Phonograph"><b>phonograph</b></a>, the
+    <a href="https://en.wikipedia.org/wiki/Movie_camera"><b>motion picture camera</b></a>, and the long-lasting, practical
+    <a href="https://en.wikipedia.org/wiki/Incandescent_light_bulb"><b>electric light bulb</b></a>. One of the first inventors to
+    apply the principles of <a href="https://en.wikipedia.org/wiki/Mass_production">mass production</a> and large-scale teamwork to
+    the process of invention, and because of that, often credited with the creation of the first industrial
+    <a href="https://en.wikipedia.org/wiki/Research_laboratory"><b>research laboratory</b></a>.
+  avatar: /assets/images/author/quotes/thomas_edison.jpg
+  uri: http://www.bbc.co.uk/programmes/b00wdjr8
+  wikipedia: Thomas_Edison
+
+"Albert Einstein":
+  name: Albert Einstein
+  bio: >
+    German-born theoretical physicist. Developed the
+    <a href="https://en.wikipedia.org/wiki/General_relativity"><b>general theory of relativity</b></a>, one of the two pillars of
+    modern physics (alongside <a href="https://en.wikipedia.org/wiki/Quantum_mechanics"><i>quantum mechanics</i></a>).
+    Was a big influence in the <a href="https://en.wikipedia.org/wiki/Philosophy_of_science"><b>philosophy of science</b></a>.
+    Best known in popular culture for his
+    <a href="https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence"><b>mass–energy equivalence formula</b></a>
+    <code>E = mc<sup>2</sup></code>.
+    Received the 1921 <a href="https://en.wikipedia.org/wiki/Nobel_Prize_in_Physics"><b>Nobel Prize in Physics</b></a> for his
+    discovery of the law of the <a href="https://en.wikipedia.org/wiki/Photoelectric_effect"><b>photoelectric effect</b></a>, a
+    pivotal step in the evolution of <a href="https://en.wikipedia.org/wiki/Introduction_to_quantum_mechanics">quantum theory</a>.
+  avatar: /assets/images/author/quotes/albert_einstein.jpg
+  uri: http://einstein.biz/biography.php
+  wikipedia: Albert_Einstein
+  home: http://einstein.biz/
+
+"Dwight D. Eisenhower":
+  name: Dwight David "Ike" Eisenhower
+  bio: >
+    The 34th <b>President of the United States</b> from 1953 until 1961, and the last U.S. President to have been born in
+    the 19th century. Was a <a href="https://en.wikipedia.org/wiki/General_of_the_Army_(United_States)">five-star general</a> in
+    the <a href="https://en.wikipedia.org/wiki/United_States_Army"><i>United States Army</i></a> during
+    <a href="https://en.wikipedia.org/wiki/World_War_II"><i>World War II</i></a>, served as
+    <a href="https://en.wikipedia.org/wiki/Supreme_Commander_of_the_Allied_Expeditionary_Force"><i>Supreme Commander</i></a> of the
+    <a href="https://en.wikipedia.org/wiki/Allies_of_World_War_II"><i>Allied Forces</i></a> in Europe and was responsible for planning
+    and supervising the invasion of North Africa in <a href="https://en.wikipedia.org/wiki/Operation_Torch"><b>Operation Torch</b></a>
+    in 1942–43 and the successful <a href="https://en.wikipedia.org/wiki/Invasion_of_Normandy"><i>invasion of France</i></a> and
+    <a href="https://en.wikipedia.org/wiki/Allied_advance_from_Paris_to_the_Rhine">Germany</a> in 1944–45 from the
+    <a href="https://en.wikipedia.org/wiki/Western_Front_(World_War_II)"><i>Western Front</i></a>. In 1951, became the first
+    <a href="https://en.wikipedia.org/wiki/Supreme_Allied_Commander_Europe"><i>Supreme Commander</i> of NATO</a>.
+  avatar: /assets/images/author/quotes/dwight_d_eisenhower.jpg
+  uri: https://www.whitehouse.gov/1600/presidents/dwightdeisenhower
+  wikipedia: Dwight_D._Eisenhower
+
+"Ralph Waldo Emerson":
+  name: Ralph Waldo Emerson
+  bio: >
+    American essayist, lecturer, and poet who led the
+    <a href="https://en.wikipedia.org/wiki/Transcendentalism"><b>Transcendentalist</b></a> movement of the mid-19th century. Was seen
+    as a champion of <b>individualism</b> and a prescient <b>critic of the countervailing pressures of society</b>.
+    Disseminated his thoughts through dozens of published essays and more than 1,500 public lectures across the United
+    States.
+  avatar: /assets/images/author/quotes/ralph_waldo_emerson.jpg
+  uri: https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson
+  wikipedia: Ralph_Waldo_Emerson
+
+"Mark Engelberg":
+  name: Mark Engelberg
+  bio: >
+    American puzzle & game designer. Functional programming expert. One of the earliest <a href="https://clojure.org/">Clojure</a>
+    programmers and the author of several popular <a href="https://libraries.io/github/Engelberg"><b>open-source libraries</b></a>.
+    Early <a href="https://en.wikipedia.org/wiki/Virtual_reality" title="Virtual Reality">VR</a> pioneer, began his career as a
+    researcher at <a href="http://www.nasa.gov/" title="National Aeronautics and Space Administration"><i>NASA</i></a>, and then transitioned
+    to computer game development and design at <a href="http://www.sierra.com/es"><i>Sierra</i></a>. Later, worked at
+    <a href="http://www.rtimeinc.com/"><i>RTime</i></a>, developing <b>lag-tolerant algorithms for multiplayer realtime gaming</b>, and at
+    <a href="http://www.radgametools.com/"><i>Rad Game Tools</i></a>, developing
+    <a href="http://www.radgametools.com/bnkmain.htm" title="Bink - The video compression system for games"><b>Bink</b></a>.
+  avatar: /assets/images/author/quotes/mark_engelberg.jpg
+  uri: https://twitter.com/mark_engelberg
+  email: mark.engelberg@gmail.com
+  github: Engelberg
+  twitter: mark_engelberg
+  linkedin: mark-engelberg-0a09a88a
+  home: http://techcrunch.com/contributor/mark-engelberg/
+
+"Richard Feynman":
+  name: Richard Phillips Feynman
+  bio: >
+    American theoretical physicist known for his work in the
+    <a href="https://en.wikipedia.org/wiki/Path_integral_formulation"><b>path integral formulation</b></a> of
+    <a href="https://en.wikipedia.org/wiki/Quantum_mechanics"><b>quantum mechanics</b></a>, the theory of
+    <a href="https://en.wikipedia.org/wiki/Quantum_electrodynamics"><b>quantum electrodynamics</b></a>, and the physics of the
+    <a href="https://en.wikipedia.org/wiki/Superfluidity"><b>superfluidity</b></a> of supercooled
+    <a href="https://en.wikipedia.org/wiki/Liquid_helium"><b>liquid helium</b></a>, as well as in
+    <a href="https://en.wikipedia.org/wiki/Particle_physics"><b>particle physics</b></a> for which proposed the
+    <a href="https://en.wikipedia.org/wiki/Parton_(particle_physics)"><b>parton model</b></a>. Jointly with
+    <a href="https://en.wikipedia.org/wiki/Julian_Schwinger"><i>Julian Schwinger</i></a> and
+    <a href="https://en.wikipedia.org/wiki/Sin-Itiro_Tomonaga"><i>Sin-Itiro Tomonaga</i></a>, received the
+    <a href="https://en.wikipedia.org/wiki/Nobel_Prize_in_Physics"><b>Nobel Prize in Physics</b></a> in 1965. Developed a widely used
+    pictorial representation scheme for the mathematical expressions governing the behavior of subatomic particles,
+    which later became known as <a href="https://en.wikipedia.org/wiki/Feynman_diagram"><b>Feynman diagrams</b></a>.
+  avatar: /assets/images/author/quotes/richard_feynman.jpg
+  uri: http://www.nobelprize.org/nobel_prizes/physics/laureates/1965/feynman-bio.html
+  wikipedia: Richard_Feynman
+  home: http://www.richardfeynman.com/
+
+"Henry Ford":
+  name: Henry Ford
+  bio: >
+    American industrialist, the founder of the <a href="https://en.wikipedia.org/wiki/Ford_Motor_Company"><b>Ford Motor Company</b></a>,
+    and the sponsor of the development of the <a href="https://en.wikipedia.org/wiki/Assembly_line"><b>assembly line</b></a> technique
+    of <a href="https://en.wikipedia.org/wiki/Mass_production"><b>mass production</b></a>. Although did not invent the automobile or
+    the assembly line, converted the automobile from an expensive curiosity into a practical conveyance, that would
+    profoundly impact the landscape of the twentieth century. Credited with
+    <a href="https://en.wikipedia.org/wiki/Fordism"><b>"Fordism"</b></a>: mass production of inexpensive goods coupled with high wages
+    for workers.
+  avatar: /assets/images/author/quotes/henry_ford.jpg
+  uri: http://hfha.org/
+  wikipedia: Henry_Ford
+
+"Charles Forsyth":
+  name: Charles H. Forsyth
+  bio: >
+    British computer scientist and recognised authority on <a href="http://www.unix.org/" title="The UNIX Operating System"><b>UNIX</b></a>,
+    its successor <a href="http://plan9.bell-labs.com/plan9/" title="Plan 9 operating systems"><b>Plan 9</b></a>, and its new cousin
+    <a href="http://www.vitanuova.com/inferno/" title="Inferno Operating Systems"><b>Inferno</b></a>. Has more than 30 years of wide
+    computing experience, specialising in the <b>design and implementation of systems software</b>. Early user of Unix
+    outside <i>Bell Labs</i>, developing <b>low-level drivers</b>, <b>protocol stacks</b>, <b>compilers</b>, and
+    <b>system and application software</b>. Founding director of <a href="http://www.vitanuova.com/"><b>Vita Nuova</b></a>, began
+    extending the reach of Inferno to new platforms, and has since been instrumental in deciding Inferno’s future.
+  avatar: /assets/images/author/quotes/charles_forsyth.jpg
+  uri: http://www.researchgate.net/profile/Charles_Forsyth3
+  linkedin: ../pub/charles-forsyth/1/8b/862
+  email: charles.forsyth@gmail.com
+  twitter: charles_forsyth
+  home: http://www.terzarima.net/
+  blog: http://softwaremagpie.blogspot.com/
+
+"Martin Fowler":
+  name: Martin Fowler
+  bio: >
+    British software engineer, author and international public speaker on software development, specializing in
+    <b><a href="https://en.wikipedia.org/wiki/Object-oriented_programming">object-oriented programming</a> analysis and design</b>,
+    <a href="https://en.wikipedia.org/wiki/Unified_Modeling_Language"><b>UML</b></a>,
+    <a href="https://en.wikipedia.org/wiki/Design_pattern_(computer_science)" title="Design patterns"><b>patterns</b></a>, and
+    <a href="https://en.wikipedia.org/wiki/Agile_software_development" title="Agile software development"><b>agile</b></a> methodologies,
+    including <a href="http://www.extremeprogramming.org/"><b>extreme programming</b></a>. Popularized the practice of
+    <a href="https://en.wikipedia.org/wiki/Code_refactoring">code refactoring</a> with his 1999 book
+    <a href="https://openlibrary.org/books/OL7407595M"><b>Refactoring</b></a>. In 2004 introduced an architectural pattern called
+    <a href="http://martinfowler.com/eaaDev/PresentationModel.html"><b>Presentation Model</b></a>.
+  avatar: /assets/images/author/quotes/martin_fowler.jpg
+  uri: http://martinfowler.com/aboutMe.html
+  wikipedia: Martin_Fowler
+  google_plus: /../107610341080687821846
+  email: fowler@acm.org
+  twitter: martinfowler
+  home: http://martinfowler.com/
+
+"Jon Franklin":
+  name: Jon Daniel Franklin
+  bio: >
+    American writer. won the inaugural <a href="http://www.pulitzer.org/"><b>Pulitzer PrizeS</b></a> in two journalism categories both
+    for his work as a <b>science writer</b> with the <a href="http://baltimoresun.com/"><i>Baltimore Evening Sun</i></a>. Taught creative
+    writing at the <a href="http://www.uoregon.edu/"><i>University of Oregon</i></a>, was the head of the technical journalism
+    department at <a href="http://www.oregonstate.edu/"><i>Oregon State University</i></a>, and a Journalism professor at his alma
+    mater, the <a href="http://www.umd.edu/"><i>University of Maryland</i></a>.
+  avatar: /assets/images/author/quotes/jon_franklin.jpg
+  uri: http://everything.explained.today/Jon_Franklin/
+  wikipedia: Jon_Franklin
+
+"Dick Gabriel":
+  name: Richard P. Gabriel
+  bio: >
+    American computer scientist who is known for his work related to
+    <a href="https://en.wikipedia.org/wiki/Lisp_programming_language" title="Lisp Programming Language"><b>Lisp</b></a> (and especially
+    <a href="https://common-lisp.net/" title="A dialect of the Lisp programming language"><b>Common Lisp</b></a>) in computing. His best
+    known work was a 1990 essay <a href="https://www.dreamsongs.com/WIB.html"><b>“Lisp; Good News, Bad News, How to Win Big”</b></a>,
+    which incorporated the phrase <a href="http://dreamsongs.com/WorseIsBetter.html"><b>Worse is Better</b></a>, and his set of
+    Lisp benchmarks (the "Gabriel Benchmarks"), published in 1985 as <b>Performance and evaluation of Lisp systems</b>.
+  avatar: /assets/images/author/quotes/dick_gabriel.jpg
+  uri: http://dreamsongs.com/RPG.html
+  wikipedia: Richard_P._Gabriel
+  home: http://dreamsongs.com/
+
+"Tom Gale":
+  name: Thomas C. Gale
+  bio: >
+    American automobile designer widely known for his work with the <i>Chrysler, Dodge and Plymouth marques</i>, including
+    the <a href="https://en.wikipedia.org/wiki/Chrysler_LH_platform"><b>Chrylser LH series</b></a> as well as the three sports cars,
+    the 1991 <a href="https://en.wikipedia.org/wiki/Dodge_Stealth"><b>Dodge Stealth</b></a>, the 1992
+    <a href="https://en.wikipedia.org/wiki/Dodge_Viper"><b>Dodge Viper</b></a>, and the 2001
+    <a href="https://en.wikipedia.org/wiki/Plymouth_Prowler"><b>Plymouth Prowler</b></a>. Along with his design partners
+    <i>Trevor Creed</i> and <a href="https://en.wikipedia.org/wiki/John_Herlitz"><i>John Herlitz</i></a> was instrumental with breakthrough
+    designs that rescued <a href="http://www.chrysler.com/"><i>Chrylser</i></a> twice from the brink of bankruptcy.
+  avatar: /assets/images/author/quotes/tom_gale.jpg
+  uri: http://www.automotivehalloffame.org/inductee/thomas-gale/331/
+  wikipedia: Tom_Gale
+
+"Bdale Garbee":
+  name: Alfred Dickinson Barksdale Garbee II
+  bio: >
+    American computer specialist who works with Linux, particularly <a href="https://www.debian.org/"><i>Debian</i></a>. Contributor to
+    the <a href="https://www.gnu.org/philosophy/free-sw.html"><b>free software</b></a> community since 1979, his background includes
+    many years of <b>hardware design</b>, <b><a href="http://www.unix.org/" title="The UNIX Operating System">UNIX</a> internals</b>, and
+    <b>embedded  systems</b> work. Also an amateur <b>radio hobbyist</b> (<i>KB0G</i>), a member of
+    <a href="http://amsat.org/" title="Amateur Radio in Space"><i>AMSAT</i></a>, <a href="http://tapr.org/" title="Tucson Amateur Packet Radio"><i>TAPR</i></a>
+    (former vice-president) and the <a href="http://www.arrl.org/" title="American Radio Relay League"><i>ARRL</i></a>.
+  avatar: /assets/images/author/quotes/bdale_garbee.jpg
+  uri: http://gag.com/bdale/bio/
+  wikipedia: Bdale_Garbee
+  home: http://gag.com/bdale/
+
+"Bill Gates":
+  name: William Henry "Bill" Gates III
+  bio: >
+    American business magnate, philanthropist, investor, computer programmer, and inventor. In 1975, co-founded
+    <a href="http://www.microsoft.com"><i>Microsoft</i></a>, the world’s largest PC software company, with
+    <a href="https://en.wikipedia.org/wiki/Paul_Allen"><i>Paul Allen</i></a>. During his career at <i>Microsoft</i>, Gates held the positions
+    of chairman, CEO and chief software architect, and was the largest individual shareholder until May 2014.
+    Gates has authored and co-authored several books.
+  avatar: /assets/images/author/quotes/bill_gates.jpg
+  uri: http://www.gatesnotes.com/globalpages/bio
+  wikipedia: Bill_Gates
+  facebook: BillGates
+  linkedin: williamhgates
+  twitter: billgates
+  youtube: user/thegatesnotes
+  home: http://www.gatesnotes.com/
+
+"Geer et al.":
+  name: "CyberInsecurity: The Cost of Monopoly"
+  bio: |
+    <ul>
+    <li><a href="https://en.wikipedia.org/wiki/Dan_Geer" title="Chief Technical Officer, @Stake">Daniel Geer</a></li>
+    <li><a href="http://www.informit.com/authors/bio/47ABD7B3-BFA5-4CAC-B115-3ABBE5B959CA" title="Master Security Architect, Exodus Communications, Inc.">Charles P. Pfleeger</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Bruce_Schneier" title="Founder, Chief Technical Officer, Counterpane Internet Security">Bruce Schneier</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/John_Quarterman" title="Founder, InternetPerils, Matrix NetSystems, Inc.">John S. Quarterman</a></li>
+    <li><a href="http://en.citizendium.org/wiki/Perry_Metzger" title="Independent Consultant">Perry Metzger</a></li>
+    <li><a href="http://www.infidel.net/bios/bacebio.php" title="CEO, Infidel">Rebecca Bace</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Peter_Gutmann_(computer_scientist)" title="Researcher, Department of Computer Science, University of Auckland">Peter Gutmann</a></li>
+    </ul>
+  avatar: /assets/images/author/quotes/cyberinsecurity.jpg
+  uri: http://cryptome.org/cyberinsecurity.htm
+
+"David Gelernter":
+  name: David Hillel Gelernter
+  bio: >
+    American artist, writer, and professor of computer science at <a href="http://www.yale.edu/"><i>Yale University</i></a>.
+    Former national fellow at the <a href="http://www.aei.org/"><i>American Enterprise Institute</i></a> and senior fellow in
+    Jewish thought at the Shalem Center, and sat on the National Endowment for the Arts. Known for contributions to
+    <a href="https://en.wikipedia.org/wiki/Parallel_computation"><b>parallel computation</b></a> and for his widely published books.
+  avatar: /assets/images/author/quotes/david_gelernter.jpg
+  uri: http://cpsc.yale.edu/people/david-gelernter
+  wikipedia: David_Gelernter
+  email: david.gelernter@yale.edu
+  home: http://cpsc.yale.edu/people/david-gelernter
+
+"Larry Gleason":
+  name: John Johnson
+  bio: No biographical information available.
+  avatar: /assets/images/author/quotes/default.jpg
+
+"Bill Gosper":
+  name: Ralph William "Bill" Gosper, Jr
+  bio: >
+    American mathematician and programmer from Pennsauken Township, New Jersey. Along with
+    <a href="https://en.wikipedia.org/wiki/Richard_Greenblatt_(programmer)">Richard Greenblatt</a>, may be considered to have
+    <b>founded the <a href="https://en.wikipedia.org/wiki/Hacker_(programmer_subculture)">hacker</a> community</b>. Holds a place of
+    pride in the <a href="https://en.wikipedia.org/wiki/Lisp_programming_language" title="Lisp Programming Language"><b>Lisp</b></a>
+    community.
+  avatar: /assets/images/author/quotes/bill_gosper.jpg
+  uri: http://gosper.org/bill.html
+  wikipedia: Bill_Gosper
+  home: http://gosper.org/
+
+"Paul Graham":
+  name: Paul Graham
+  bio: >
+    English programmer, essayist and <a href="https://en.wikipedia.org/wiki/Venture_capital">venture capitalist</a>. Known for his
+    work on <a href="https://en.wikipedia.org/wiki/Lisp_programming_language" title="Lisp Programming Language"><b>Lisp</b></a>.
+    Co-founded <a href="https://en.wikipedia.org/wiki/Viaweb"><b>Viaweb</b></a>
+    (which eventually became <a href="https://smallbusiness.yahoo.com/ecommerce"><b>Yahoo! Store</b></a>) and
+    the <a href="http://www.ycombinator.com/"><b>Y Combinator</b></a> seed capital firm. Publishes essays on
+    <a href="http://www.paulgraham.com/"><b>paulgraham.com</b></a> and is author of some programming books, such as:
+    <a href="https://openlibrary.org/works/OL7944707W"><b>On Lisp</b></a>,
+    <a href="https://openlibrary.org/works/OL7944696W"><b>ANSI Common Lisp</b></a>, and
+    <a href="https://openlibrary.org/works/OL2973119W"><b>Hackers & Painters</b></a>.
+  avatar: /assets/images/author/quotes/paul_graham.jpg
+  uri: http://www.paulgraham.com/bio.html
+  wikipedia: Paul_Graham_(computer_programmer)
+  twitter: paulg
+  home: http://www.paulgraham.com/
+
+"Gerald W. Grumet":
+  name: Gerald W. Grumet
+  bio: >
+    American psychiatrist. Author of the book <b>Taming the Bureaucrat</b>, a research into the increasing
+    <i>bureaucratization</i> of medicine. Concluded that the central problem of bureaucracy is the
+    <b>rigid or obsessional personalities</b> that form the functional core of advanced societies.
+  avatar: /assets/images/author/quotes/gerald_w_grumet.jpg
+  uri: https://www.smashwords.com/profile/view/geraldgrumet
+
+"Doug Gwyn":
+  name: Douglas Gwyn
+  bio: >
+    American computer scientist and Unix expert.
+    Worked at <a href="https://en.wikipedia.org/wiki/Ballistic_Research_Laboratory"><i>Ballistic Research Lab</i></a> in Maryland,
+    where contributed greatly to
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="The C Programming Language"><b>the ANSI version of C</b></a>.
+    Helped turning C (which <a href="http://www.unix.org/" title="The UNIX Operating System"><b>UNIX</b></a> is based on) into a
+    standardized computing language, which is used now all around the world. Was a frequent poster back in the heyday of
+    <a href="https://en.wikipedia.org/wiki/Usenet">Usenet</a>.
+    Currently Emeritus at <a href="http://www.arl.army.mil/"><i>US Army Research Laboratory</i></a>.
+  avatar: /assets/images/author/quotes/default.jpg
+  uri: http://ftp.arl.mil/mike/comphist/hist.html
+  linkedin: ../pub/douglas-gwyn/63/807/212
+  email: gwyn@arl.mil
+
+"Richard Hamming":
+  name: Richard Wesley Hamming
+  bio: >
+    American mathematician whose work had many implications for <b>computer science</b> and <b>telecommunications</b>.
+    His contributions include the <a href="https://en.wikipedia.org/wiki/Hamming_code"><i>Hamming code</i></a> (which makes use of a
+    <a href="https://en.wikipedia.org/wiki/Hamming_matrix"><i>Hamming matrix</i></a>),
+    the <a href="https://en.wikipedia.org/wiki/Window_function#Hamming_window"><i>Hamming window</i></a>,
+    <a href="https://en.wikipedia.org/wiki/Hamming_numbers"><i>Hamming numbers</i></a>,
+    <a href="https://en.wikipedia.org/wiki/Sphere-packing"><i>sphere-packing</i></a>
+    (or <a href="https://en.wikipedia.org/wiki/Hamming_bound"><i>Hamming bound</i></a>)
+    and the <a href="https://en.wikipedia.org/wiki/Hamming_distance"><i>Hamming distance</i></a>.
+  avatar: /assets/images/author/quotes/richard_hamming.jpg
+  uri: http://www-history.mcs.st-andrews.ac.uk/Biographies/Hamming.html
+  wikipedia: Richard_Hamming
+
+"Christopher Hitchens":
+  name: Christopher Eric Hitchens
+  bio: >
+    English American author, columnist, essayist, orator, religious and literary critic, social critic and journalist.
+    Contributed to <a href="http://www.newstatesman.com/"><i>New Statesman</i></a>, <a href="http://www.thenation.com/"><i>The Nation</i></a>,
+    <a href="http://www.theatlantic.com/"><i>The Atlantic</i></a>, <a href="http://www.lrb.co.uk/"><i>London Review of Books</i></a>,
+    <a href="http://www.the-tls.co.uk/"><i>The Times Literary Supplement</i></a>, <a href="http://www.slate.com/"><i>Slate</i></a>, and
+    <a href="http://www.vanityfair.com/"><i>Vanity Fair</i></a>. <b>Author, co-author, editor or co-editor of over 30 books</b>, including
+    5 collections of essays, on a range of subjects, including politics, literature, and religion. A staple of talk
+    shows and lecture circuits, his confrontational style of debate made him both a lauded and controversial figure and
+    public intellectual.
+  avatar: /assets/images/author/quotes/christopher_hitchens.jpg
+  uri: https://en.wikipedia.org/wiki/Christopher_Hitchens
+  wikipedia: Christopher_Hitchens
+  home: https://web.archive.org/web/20101212083433/http://hitchensweb.com/
+
+"Tony Hoare":
+  name: Sir Charles Antony Richard Hoare
+  bio: >
+    British computer scientist. Fellow of the <a href="http://www.raeng.org.uk/"><i>Royal Academy of Engineering</i></a>.
+    Developed the sorting algorithm <a href="https://en.wikipedia.org/wiki/Quicksort"><b>quicksort</b></a> in 1959/1960.
+    Developed <a href="https://en.wikipedia.org/wiki/Hoare_logic"><b>Hoare logic</b></a>
+    for verifying program correctness, and the formal language
+    <a href="https://en.wikipedia.org/wiki/Communicating_Sequential_Processes" title="Communicating Sequential Processes"><b>CSP</b></a> to
+    specify the <b>interactions of <a href="https://en.wikipedia.org/wiki/Concurrency_(computer_science)">concurrent processes</a></b>
+    (including the <a href="https://en.wikipedia.org/wiki/Dining_philosophers_problem">dining philosophers problem</a>) and the
+    inspiration for the <a href="https://en.wikipedia.org/wiki/Occam_(programming_language)"><b>occam programming language</b></a>.
+  avatar: /assets/images/author/quotes/tony_hoare.jpg
+  uri: http://www.computerhistory.org/fellowawards/hall/bios/Antony,Hoare/
+  wikipedia: Tony_Hoare
+  home: http://www.cs.ox.ac.uk/people/tony.hoare/
+
+"Hans Hoffmann":
+  name: Hans Hoffmann
+  bio: >
+    German-born American <b>abstract expressionist</b> painter. One of the most important figures of postwar American art.
+    Celebrated for his exuberant, color-filled canvases, and renowned as an influential teacher for generations of
+    artists—first in his native Germany, then in New York and Provincetown—Hofmann played a pivotal role in the
+    development of <a href="https://en.wikipedia.org/wiki/Abstract_expressionism">Abstract Expressionism</a>.
+  avatar: /assets/images/author/quotes/hans_hoffmann.jpg
+  uri: http://www.hanshofmann.org/about/
+  wikipedia: Hans_Hofmann
+  home: http://www.hanshofmann.net/
+
+"Douglas Hofstadter":
+  name: Douglas Richard Hofstadter
+  bio: >
+    American professor of <a href="https://en.wikipedia.org/wiki/Cognitive_science">cognitive science</a> whose research focuses
+    on <b>the sense of “I”, consciousness, analogy-making, artistic creation, literary translation, and discovery</b>
+    in <b>mathematics</b> and <b>physics</b>.
+    Best known for his book <a href="https://openlibrary.org/works/OL716850W"><b>Gödel, Escher, Bach: An Eternal Golden Braid</b></a>,
+    first published in 1979. Won both the <a href="http://www.pulitzer.org/"><b>Pulitzer Prize</b></a> for general non-fiction and a
+    <a href="http://nationalbook.org/"><b>National Book Award</b></a> for Science. His 2007 book
+    <a href="https://openlibrary.org/works/OL16047625W"><b>I Am a Strange Loop</b></a> won the <b>Los Angeles Times Book Prize</b> for
+    Science and Technology.
+  avatar: /assets/images/author/quotes/douglas_hofstadter.jpg
+  uri: http://www.resonancepub.com/douglas_hofstadter.htm
+  home: http://prelectur.stanford.edu/lecturers/hofstadter
+  wikipedia: Douglas_Hofstadter
+
+"Grace Hopper":
+  name: Grace Brewster Murray Hopper
+  bio: >
+    American computer scientist and <a href="https://en.wikipedia.org/wiki/United_States_Navy">United States Navy</a>
+    <a href="https://en.wikipedia.org/wiki/Rear_admiral_(United_States)">Rear Admiral</a>. <b>One of the first programmers</b> of the
+    <a href="https://en.wikipedia.org/wiki/Harvard_Mark_I">Harvard Mark I</a> computer in 1944, invented
+    <b>the first compiler for a computer programming language</b>, and was one of those who popularized the idea of
+    <b>machine-independent programming languages</b> which led to the development of
+    <a href="https://en.wikipedia.org/wiki/COBOL">COBOL</a>, one of the first high-level programming languages.
+  avatar: /assets/images/author/quotes/grace_hopper.jpg
+  uri: http://fivethirtyeight.com/features/the-queen-of-code/
+  wikipedia: Grace_Hopper
+  home: https://web.archive.org/web/20100224101438/http://www.chips.navy.mil/links/grace_hopper/womn.htm
+
+"Blair Houghton":
+  name: Blair P. Houghton
+  bio: >
+    American software guru and <b>rocket scientist</b>. Expert in <b>real-time embedded computing</b>.
+    Senior Principal Software Engineer at <a href="http://www.orbital.com/"><i>Orbital Sciences Corporation</i></a>, responsible for
+    software architecture, development, maintenance, verification and leading teams and interfacing with customers and
+    government.
+  avatar: /assets/images/author/quotes/blair_houghton.jpg
+  uri: http://www.allthepeople.net/blair-houghton
+  twitter: blair_houghton
+  linkedin: blair-houghton-059a6b19
+  facebook: blair.houghton
+  sourceforge: userid-924345
+
+"Alec Issigonis":
+  name: Sir Alexander Arnold Constantine Issigonis
+  bio: >
+    British designer of cars, widely noted for the groundbreaking and influential development of the
+    <a href="https://en.wikipedia.org/wiki/Mini"><b>Mini</b></a>, launched by
+    <a href="https://en.wikipedia.org/wiki/British_Motor_Corporation" title="The British Motor Corporation"><i>BMC</i></a> in 1959.
+  avatar: /assets/images/author/quotes/alec_issigonis.jpg
+  uri: http://global.britannica.com/biography/Alec-Issigonis
+  wikipedia: Alec_Issigonis
+
+"David Jameson":
+  name: David Jameson
+  bio: >
+    Irish musician, software developer and Professor of Computer Science at
+    <a href="https://www.purchase.edu/">SUNY Purchase "State University of New York at Purchase"</a>. Earned his Ph.D. in Computer
+    Science from <a href="http://www.trin.cam.ac.uk/"><i>Trinity College</i></a>, Dublin. Co-founded
+    <a href="http://www.deskew.com/"><b>Deskew Technologies, LLC</b></a>. Plays keyboards and
+    <a href="https://en.wikipedia.org/wiki/Eigenharp">Eigenharp</a>, currently touring with
+    <a href="http://securityprojectband.com/"><i>The Security Project</i></a> and <a href="http://beyondthewall.net/"><i>Beyond The Wall</i></a>.
+  avatar: /assets/images/author/quotes/david_jameson.jpg
+  uri: https://www.linkedin.com/in/david-jameson-5693b2a
+  twitter: DavidJamesonPhD
+  home: http://www.deskew.com/
+
+"Ron Jeffries":
+  name: Ron Jeffries
+  bio: >
+    One of the founders of the
+    <a href="http://www.extremeprogramming.org/" title="Extreme Programming"><b>XP software development methodology</b></a> circa 1996,
+    along with <a href="https://en.wikipedia.org/wiki/Kent_Beck"><i>Kent Beck</i></a> and
+    <a href="https://en.wikipedia.org/wiki/Ward_Cunningham"><i>Ward Cunningham</i></a>. Author of <b>Extreme Programming Installed</b> (the
+    second book published about XP) and <b>Extreme Programming Adventures in C#</b>. One of the 17 original signatories of
+    the <a href="http://agilemanifesto.org/" title="Manifesto for Agile Software Development"><b>Agile Manifesto</b></a>.
+  avatar: /assets/images/author/quotes/ron_jeffries.jpg
+  uri: http://ronjeffries.com/xprog/articles/bio/
+  wikipedia: Ron_Jeffries
+  email: ronjeffries@acm.org
+  twitter: RonJeffries
+  github: RonJeffries
+  home: http://ronjeffries.com/
+
+"John Johnson":
+  name: John Johnson
+  bio: No biographical information available.
+  avatar: /assets/images/author/quotes/default.jpg
+
+"Maciej Kaczmarek":
+  name: Maciej Kaczmarek
+  bio: >
+    Polish software engineer, geek and code enthusiast. Expert in the field of: load balancing,
+    web application security, optimization of SQL queries, full-text search techniques, processing large amounts of
+    data, optimization of <a href="http://php.net" title="PHP scripting language">PHP</a> and
+    <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript interpreted programming language">JS</a> code. Works at
+    <a href="http://autentika.pl/"><i>Autentika</i></a> as a Backend developer.
+  avatar: /assets/images/author/quotes/maciej_kaczmarek.jpg
+  uri: http://maciej-kaczmarek.com/
+  email: maciej@maciej-kaczmarek.pl
+  linkedin: maciejkaczmarekpl
+  twitter: mckacz
+  facebook: mckacz
+  google_plus: MaciejKaczmarek
+  home: http://maciej-kaczmarek.com/
+
+"Brian Kernighan":
+  name: Brian Wilson Kernighan
+  bio: >
+    Canadian computer scientist. Contributed to the development of
+    <a href="http://www.unix.org/" title="The UNIX Operating System"><b>UNIX</b></a> at <a href="http://bell-labs.com"><i>Bell Labs</i></a> alongside
+    Unix creators <a href="https://en.wikipedia.org/wiki/Ken_Thompson"><i>Ken Thompson</i></a> and
+    <a href="https://en.wikipedia.org/wiki/Dennis_Ritchie"><i>Dennis Ritchie</i></a>.
+    Co-author of <a href="https://en.wikipedia.org/wiki/AWK" title="AWK Programming Language"><b>AWK</b></a>
+    and <a href="https://en.wikipedia.org/wiki/AMPL" title="A Mathematical Programming Language"><b>AMPL</b></a>.
+  avatar: /assets/images/author/quotes/brian_kernighan.jpg
+  uri: http://genius.cat-v.org/brian-kernighan/
+  wikipedia: Brian_Kernighan
+
+"Kernighan and Plauger":
+  name: "The Elements of Programming Style"
+  bio: |
+    <ul>
+    <li><a href="https://en.wikipedia.org/wiki/Brian_Kernighan">Brian Kernighan</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/P._J._Plauger">P. J. Plauger</a></li>
+    </ul>
+  avatar: /assets/images/author/quotes/the_elements_of_programming_style.jpg
+  uri: https://en.wikipedia.org/wiki/The_Elements_of_Programming_Style
+
+"Phil Karlton":
+  name: Philip Karlton
+  bio: >
+    Software developer. Led the <a href="https://en.wikipedia.org/wiki/X_Window_System" title="X Window System"><b>X11</b></a> sample server
+    design and implementation. Co-author of <a href="https://en.wikipedia.org/wiki/Xrdb" title="X resource database manager"><b>xrdb</b></a>
+    and the protocol <a href="https://en.wikipedia.org/wiki/Transport_Layer_Security" title="Secure Sockets Layer"><b>SSL 3.0</b></a>.
+    Worked for many years as a principal developer at
+    <a href="http://www.parc.com/" title="Palo Alto Research Center Incorporated"><i>Xerox PARC</i></a>,
+    <a href="http://www.dec.com/"><i>Digital Equipment Corporation</i></a>, <a href="http://www.sgi.com/"><i>Silicon Graphics</i></a>, and
+    <a href="https://en.wikipedia.org/wiki/Netscape"><i>Netscape</i></a>.
+  avatar: /assets/images/author/quotes/phil_karlton.jpg
+  uri: http://karlton.hamilton.com/
+  email: karlton@netscape.com
+  home: http://www.meerkat.com/karlton/
+
+"Alan Kay":
+  name: Alan Curtis Kay
+  bio: >
+    American computer scientist. Fellow of the <a href="https://www.amacad.org/"><i>American Academy of Arts and Sciences</i></a>, the
+    <a href="http://www.nae.edu/"><i>National Academy of Engineering</i></a> and the <a href="https://www.thersa.org/"><i>Royal Society of Arts</i></a>.
+    Best known for his pioneering work on
+    <a href="https://en.wikipedia.org/wiki/Object-oriented_programming"><b>object-oriented programming</b></a> and
+    <b>windowing <a href="https://en.wikipedia.org/wiki/Graphical_user_interface" title="Graphical User Interface">GUI</a></b> design.
+    President of the <a href="http://www.vpri.org/"><i>Viewpoints Research Institute</i></a>,
+    and an Adjunct Professor of Computer Science at the <a href="http://www.ucla.edu/"><i>University of California, Los Angeles</i></a>.
+  avatar: /assets/images/author/quotes/alan_kay.jpg
+  uri: http://www.ted.com/speakers/alan_kay
+  wikipedia: Alan_Kay
+  home: http://www.vpri.org/html/people/founders.htm
+
+"Donald Knuth":
+  name: Donald Ervin Knuth
+  bio: >
+    American computer scientist, mathematician, and professor emeritus at
+    <a href="https://www.stanford.edu/"><i>Stanford University</i></a>. Author of the multi-volume work
+    <a href="http://www-cs-faculty.stanford.edu/~uno/taocp.html"><b>The Art of Computer Programming</b></a>. Worked on several
+    branches of theoretical computer science. <b>Father of the analysis of algorithms</b>, systematized formal mathematical
+    techniques for the analysis of the computational complexity of algorithms.
+    Creator of <a href="http://tug.org/begin.html" title="TeX; The Computer Typesetting System"><b>TeX</b></a>,
+    <a href="https://en.wikipedia.org/wiki/Metafont" title="font definition language and rendering system"><b>METAFONT</b></a> and the
+    <a href="https://en.wikipedia.org/wiki/Computer_Modern"><b>Computer Modern</b></a> family of typefaces.
+  avatar: /assets/images/author/quotes/donald_knuth.jpg
+  uri: http://cs.stanford.edu/~uno/vita.pdf
+  wikipedia: Donald_Knuth
+  home: http://cs.stanford.edu/~uno/
+
+"Leslie Lamport":
+  name: Leslie B. Lamport
+  bio: >
+    American computer scientist. Best known for being the initial developer of
+    <a href="http://latex-project.org/" title="LaTeX – A document preparation system"><b>LaTeX</b></a> and his seminal work in
+    <a href="https://en.wikipedia.org/wiki/Distributed_computing"><b>distributed systems</b></a>. Winner of the
+    <a href="http://amturing.acm.org/"><b>2013 Turing Award</b></a> for imposing clear, well-defined coherence on the seemingly
+    chaotic behavior of distributed computing systems, in which several autonomous computers communicate with each other
+    by passing messages. Devised <b>important algorithms</b> and developed formal modeling and verification protocols that
+    have resulted in improved correctness, performance, and reliability of computer systems.
+  avatar: /assets/images/author/quotes/leslie_lamport.jpg
+  uri: http://research.microsoft.com/en-us/um/people/lamport/index.html
+  wikipedia: Leslie_Lamport
+  home: http://www.lamport.org/
+
+"Butler Lampson":
+  name: Butler W. Lampson
+  bio: >
+    American computer scientist contributing to the development and implementation of distributed, personal computing.
+    <a href="https://en.wikipedia.org/wiki/Fellow#Industry_and_corporate"><i>Technical Fellow</i></a> at
+    <a href="http://www.microsoft.com"><i>Microsoft</i></a> and an Adjunct Professor at
+    <a href="http://www.mit.edu/" title="Massachusetts Institute of Technology"><i>MIT</i></a>. Has worked on computer architecture,
+    local area networks, page description languages, operating systems, remote procedure call, programming languages and
+    their semantics, fault-tolerant computing, transaction processing and
+    <a href="https://en.wikipedia.org/wiki/WYSIWYG">WYSIWYG editors</a>. Was one of the designers of the
+    <a href="https://en.wikipedia.org/wiki/SDS_940" title="Scientific Data Systems’ time-sharing system"><b>SDS 940</b></a>, the
+    <b>Alto personal distributed computing system</b>, the
+    <a href="https://en.wikipedia.org/wiki/Xerox_9700" title="Xerox 9700 laser printer"><b>Xerox 9700</b></a>,
+    <a href="https://en.wikipedia.org/wiki/Two-phase_commit_protocol" title="Two-phase commit protocol"><b>2PC</b></a>, the
+    <a href="https://en.wikipedia.org/wiki/Simple_public-key_infrastructure" title="Simple public-key infrastructure"><b>SPKI</b></a> system
+    for network security and several programming languages. Received the
+    <a href="http://www.acm.org/" title="Association for Computing Machinery"><i>ACM</i></a> <b>Software System Award</b> in 1984 for his work on
+    the <b>Alto</b>, the <a href="https://en.wikipedia.org/wiki/IEEE_Computer_Society" title="IEEE Computer Society"><i>IEEE</i></a>
+    <a href="https://en.wikipedia.org/wiki/Computer_Pioneer_Award"><b>Computer Pioneer award</b></a> in 1996 and
+    <a href="https://en.wikipedia.org/wiki/IEEE_John_von_Neumann_Medal"><b>von Neumann Medal</b></a> in 2001, the
+    <a href="http://amturing.acm.org/"><b>Turing Award</b></a> in 1992, and the
+    <a href="https://en.wikipedia.org/wiki/National_Academy_of_Engineering" title="National Academy of Engineering"><b>NAE</b></a>’s
+    <a href="https://en.wikipedia.org/wiki/Charles_Stark_Draper_Prize"><b>Draper Prize</b></a> in 2004.
+  avatar: /assets/images/author/quotes/butler_lampson.jpg
+  uri: http://conservancy.umn.edu/handle/11299/169983
+  wikipedia: Butler_Lampson
+  email: blampson@microsoft.com
+  home: http://research.microsoft.com/en-us/um/people/blampson/
+
+"Cinap Lenrek":
+  name: Cinap Lenrek
+  bio: >
+    German computer engineer. Developed a great deal of
+    <a href="http://plan9.bell-labs.com/plan9/" title="Plan 9 operating systems"><b>Plan 9</b></a> software, such as:
+    <a href="http://plan9.stanleylieber.com/linuxemu/" title="Linux Kernel emulator"><b>linuxemu</b></a>,
+    <a href="http://9hal.ath.cx/usr/cinap_lenrek/nbdserver.tgz" title="Linux Network Block Device Server"><b>nbdserver</b></a>,
+    <a href="http://man2.aiju.de/8/cifsd" title="CIFS/SMB network daemon"><b>cifsd</b></a> or
+    <a href="http://9hal.ath.cx/usr/cinap_lenrek/esdaudio.tgz" title="ESD Client"><b>esdaudio</b></a>. Author of
+    <a href="http://9front.org/who/cinap_lenrek/">9front</a>, a fork of <i>Plan 9</i>. The project was started to remedy a perceived
+    lack of devoted development resources inside <a href="http://bell-labs.com"><i>Bell Labs</i></a>, and has accumulated various
+    <a href="http://bugs.9front.org/closed/">fixes</a> and <a href="http://fqa.9front.org/fqa1.html#1.3.1">improvements</a>.
+  avatar: /assets/images/author/quotes/cinap_lenrek.jpg
+  uri: http://9front.org/who/cinap_lenrek/
+  email: cinap_lenrek@felloff.net
+  linkedin: cinap-lenrek-1b319749
+  home: http://9hal.ath.cx/usr/cinap_lenrek/
+
+"Gordon Letwin":
+  name: James Gordon Letwin
+  bio: >
+    American software developer and one of the eleven early <a href="http://www.microsoft.com"><i>Microsoft</i></a> who posed for an
+    iconic staff portrait taken in Albuquerque in 1978. While at <b>Microsoft</b>, worked on a number of projects. His
+    first project was writing a <a href="https://en.wikipedia.org/wiki/BASIC"><b>Basic compiler</b></a>. Was the lead architect of the
+    <a href="https://en.wikipedia.org/wiki/OS/2"><b>OS/2 operating system</b></a> and contributed much of the design and code for
+    several core components, including the
+    <a href="https://en.wikipedia.org/wiki/High_Performance_File_System"><b>HPFS file system</b></a>.
+  avatar: /assets/images/author/quotes/gordon_letwin.jpg
+  uri: https://en.wikipedia.org/wiki/Gordon_Letwin
+  wikipedia: Gordon_Letwin
+
+"Bruce Leverett":
+  name: Bruce Wallace Leverett
+  bio: >
+    American computer scientist, software engineer at Panasas, a provider of high performance parallel storage
+    solutions. Ph.D. in CS from <a href="http://www.cmu.edu/"><i>Carnegie-Mellon University</i></a> in 1981 on
+    <a href="http://en.wikipedia.org/wiki/Register_allocation"><b>register allocation in optimizing compilers</b></a>, and as
+    <a href="http://en.wikipedia.org/wiki/Chess_master" title="United States Chess Federation"><b>USCF Life Master in chess</b></a>.
+    His research interests in academics and industry, beside
+    <a href="https://chessprogramming.wikispaces.com/Optimization"><b>compiler optimization</b></a> and
+    <a href="http://en.wikipedia.org/wiki/Code_generation_%28compiler%29"><b>code generation</b></a>, include
+    <a href="http://en.wikipedia.org/wiki/Memory_management"><b>memory management</b></a> and
+    <a href="http://en.wikipedia.org/wiki/File_system"><b>file systems</b></a>, where he contributed to the
+    <a href="http://en.wikipedia.org/wiki/POSIX"><i>POSIX</i></a> compliant
+    <a href="http://en.wikipedia.org/wiki/Episode_filesystem"><i>Episode filesystem</i></a>.
+  avatar: /assets/images/author/quotes/bruce_leverett.jpg
+  uri: https://chessprogramming.wikispaces.com/Bruce+W.+Leverett
+  linkedin: bruce-leverett-8704a834
+  home: http://www.cs.cmu.edu/~bwl/
+
+"Ada Lovelace":
+  name: Augusta Ada King-Noel, Countess of Lovelace
+  bio: >
+    English mathematician and writer, chiefly known for her work on
+    <a href="https://en.wikipedia.org/wiki/Charles_Babbage"><i>Charles Babbage</i></a>’s early mechanical general-purpose computer, the
+    <a href="https://en.wikipedia.org/wiki/Analytical_Engine"><b>Analytical Engine</b></a>. Often regarded as
+    <b>the first computer programmer</b>, her notes on the engine include what is recognised as
+    <b>the first algorithm intended to be carried out by a machine</b>.
+    <a href="http://findingada.com/about/history-of-ada-lovelace-day/"><b>Ada Lovelace Day</b></a> is an international celebration of
+    the achievements of women in science, technology, engineering and maths.
+  avatar: /assets/images/author/quotes/ada_lovelace.jpg
+  uri: http://findingada.com/about/who-was-ada/
+  wikipedia: Ada_Lovelace
+  home: http://findingada.com/
+
+"Katie Lucas":
+  name: Katie Lauren Lucas
+  bio: >
+    British software engineer. Specialized in <b>high-performance and large-scale</b>
+    <a href="https://en.wikipedia.org/wiki/Big_data">Big data</a> systems. Her strongest background is in the
+    <b>design and implementation of <a href="https://en.wikipedia.org/wiki/Object-oriented_programming">object-oriented</a> software</b>
+    in <i>C++</i> with some work in <i>Java</i>. Has also developed in <i>Python</i>, <i>Perl</i> and <i>Shell</i>. Currently works at
+    <a href="http://www.google.com"><i>Google</i></a>, where has also worked on <b>UI development</b>, creating
+    <b>visualisations into complex data</b> using <i>JS</i> / <i>Closure</i> / <i>HTML</i> / <i>CSS</i>.
+  avatar: /assets/images/author/quotes/default.jpg
+  uri: http://www.fysh.org/~katie/cv/
+  linkedin: ../pub/katie-lucas/2/38/ab8
+  email: katie@fysh.org
+  home: http://www.fysh.org/~katie/
+
+"Chris Maden":
+  name: Christopher R. Maden
+  bio: >
+    American data analyst and software developer, detail-oriented and with excellent communication skills; fascinated by
+    <b>human interaction with data</b> in all its manifestations, with particular focus on and experience in electronic and
+    print publishing, data conversion, <a href="https://en.wikipedia.org/wiki/Business-to-business">business-to-business</a>
+    integration, and <a href="https://en.wikipedia.org/wiki/Big_data">Big data</a>.
+  avatar: /assets/images/author/quotes/cris_maden.jpg
+  uri: https://www.freebase.com/view/en/chris_maden
+  email: crism@maden.org
+  linkedin: crismxml
+  facebook: pages/Chris-Maden/435252463183653
+  github: crism
+  home: http://crism.maden.org/
+
+"Richard Mansfield":
+  name: Richard Mansfield
+  bio: >
+    American programmer and the <b>author of several bestselling books</b>. Widely recognized expert on computer
+    programming. Has written
+    <a href="http://www.atarimagazines.com/compute/index/index.php?author=Richard+Mansfield">numerous articles and columns</a> on
+    computer topics, and was the editor of <a href="https://en.wikipedia.org/wiki/Compute!" title="Compute! Magazine"><i>Compute!</i></a>.
+    Writes occasionally for <a href="http://assets.devx.com/devx/7819.gif"><i>DevX.com</i></a> and created much controversy with his
+    article <a href="http://www.devx.com/opinion/Article/26776"><b>OOP is Much Better in Theory Than in Practice</b></a>.
+    Has authored or co-authored <a href="https://www.goodreads.com/author/list/39875.Richard_Mansfield">more than 44 books</a>.
+    Overall, his books have sold more than 500,000 copies worldwide and have been translated into 12 languages.
+  avatar: /assets/images/author/quotes/richard_mansfield.jpg
+  uri: https://www.overdrive.com/creators/254251/richard-mansfield
+
+"Robert C. Martin":
+  name: Robert Cecil "Uncle Bob" Martin
+  bio: >
+    American software professional, international software consultant and author. Colloquially known as <i>Uncle Bob</i>.
+    Regular speaker at conferences and trade shows. Co-author of the
+    <a href="http://agilemanifesto.org/"><b>Agile Manifesto</b></a>, served as the first chairman of the
+    <a href="https://www.agilealliance.org/"><i>Agile Alliance</i></a>. Leading member of the
+    <a href="http://scna.softwarecraftsmanship.org/schedule/#uncle-bob">Worldwide Software Craftsmanship Movement - Clean Code</a>.
+    Author of "landmark" books on
+    <a href="http://cleancoder.com/books/agile-software-development-principles-patterns-and-practices"><b>Agile Programming</b></a>,
+    <b>Extreme Programming</b>, <a href="http://cleancoder.com/books/uml-for-java-programmers" title="UML for Java Programmers"><b>UML</b></a>,
+    <b>Object-Oriented Programming</b>, <b>C++ Programming</b> and most recently
+    <a href="http://cleancoder.com/books/clean-code-a-handbook-of-agile-software-craftsmanship"><b>Clean Code</b></a> and
+    <a href="http://cleancoder.com/books/"><b>Clean Coder</b></a>.
+  avatar: /assets/images/author/quotes/robert_c_martin.jpg
+  uri: http://cleancoder.com/
+  wikipedia: Robert_Cecil_Martin
+  facebook: pages/Clean-Code-Project-w-Uncle-Bob-Consulting-LLC/167819613257225
+  linkedin: robert-martin-7395b0
+  github: unclebob
+  email: unclebob@cleancoder.com
+  twitter: unclebobmartin
+  home: http://cleancoder.com/
+
+"David May":
+  name: Michael David May
+  bio: >
+    British computer scientist. Fellow of the <a href="http://www.raeng.org.uk/"><i>Royal Academy of Engineering</i></a>.
+    Professor in the
+    <a href="https://en.wikipedia.org/wiki/Department_of_Computer_Science,_University_of_Bristol"><i>Department of Computer Science</i></a>
+    at the <a href="http://bristol.ac.uk/"><i>University of Bristol</i></a>. Founder of <a href="http://www.xmos.com/"><b>XMOS Semiconductor</b></a>,
+    serving until February 2014 as the
+    <a href="https://en.wikipedia.org/wiki/Chief_Technology_Officer" title="Chief Technology Officer">CTO</a>.
+    <a href="https://en.wikipedia.org/wiki/Computer_architecture">Lead architect</a> for the
+    <a href="https://en.wikipedia.org/wiki/Transputer"><b>transputer</b></a>.
+    Holds several patents in <a href="https://en.wikipedia.org/wiki/Microprocessor"><b>microprocessors</b></a> and
+    <a href="https://en.wikipedia.org/wiki/Multi-processing"><b>multi-processing</b></a>.
+  avatar: /assets/images/author/quotes/david_may.jpg
+  uri: https://en.wikipedia.org/wiki/David_May_(computer_scientist)
+  wikipedia: David_May_(computer_scientist)
+  email: dave@cs.bris.ac.uk
+  linkedin: davidmay3
+  home: https://www.cs.bris.ac.uk/~dave/
+
+"Jim McCarthy":
+  name: Jim McCarthy
+  bio: >
+    American software developer, author, and entrepreneur. Led large software development, business and marketing
+    efforts at <a href="http://bell-labs.com"><i>Bell Labs</i></a>, <a href="http://www.whitewatergroup.com/">The Whitewater Group</a>, and
+    <a href="http://www.microsoft.com"><i>Microsoft</i></a>. In 1996, co-founded
+    <a href="http://www.mccarthyshow.com/"><b>McCarthy Technologies</b></a> with his wife. Together, authored
+    <a href="https://openlibrary.org/books/OL7408046M"><b>Software for Your Head</b></a> and
+    <a href="https://openlibrary.org/works/OL15184849W/"><b>Dynamics of Software Development</b></a>. They now host a
+    <a href="http://www.mccarthyshow.com/episodes/"><b>podcast show</b></a> on team dynamics and other business issues.
+  avatar: /assets/images/author/quotes/jim_mccarthy.jpg
+  uri: http://www.mccarthyshow.com/aboutus/
+  email: jim@mccarthy.net
+  linkedin: jimmccarthy2
+  twitter: mccarthyjim1
+  home: http://www.mccarthyshow.com/
+
+"Jim McCarthy and Michele McCarthy":
+  name: "Software for Your Head"
+  bio: |
+    <ul>
+    <li><a href="https://twitter.com/mccarthyjim1">Jim McCarthy</a></li>
+    <li><a href="https://twitter.com/michmccarthy">Michele McCarthy</a></li>
+    </ul>
+  avatar: /assets/images/author/quotes/software_for_your_head.jpg
+  uri: https://openlibrary.org/books/OL7408046M/Software_for_Your_Head
+
+"Doug McIlroy":
+  name: Malcolm Douglas McIlroy
+  bio: >
+    American mathematician, engineer, and programmer. As of 2007 he is an <i>Adjunct Professor</i> of Computer Science at
+    <a href="http://dartmouth.edu/"><i>Dartmouth College</i></a>. Best known for having originally developed
+    <a href="https://en.wikipedia.org/wiki/Pipeline_(Unix)"><b>UNIX pipelines</b></a>,
+    <a href="https://en.wikipedia.org/wiki/Software_componentry"><b>software componentry</b></a> and several
+    <a href="http://www.unix.org/" title="The UNIX Operating System"><b>UNIX</b></a> tools, such as <tt>spell</tt>, <tt>diff</tt>,
+    <tt>sort</tt>, <tt>join</tt>, <tt>graph</tt>, <tt>speak</tt>, and <tt>tr</tt>.
+    His <a href="http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1968.PDF">seminal work on <b>software componentization</b></a>
+    makes him a pioneer of
+    <a href="https://en.wikipedia.org/wiki/Component-based_software_engineering"><b>component-based software engineering</b></a> and
+    <a href="https://en.wikipedia.org/wiki/Software_product_line_engineering">software product line engineering</a>.
+  avatar: /assets/images/author/quotes/doug_mcilroy.jpg
+  uri: http://www.cs.dartmouth.edu/~doug/biography
+  wikipedia: Douglas_McIlroy
+  email: doug@cs.dartmouth.edu
+  home: http://www.cs.dartmouth.edu/~doug/
+
+"Steve McConnell":
+  name: Steven C. McConnell
+  bio: >
+    American software engineer and author of software engineering textbooks. Worked in the desktop software industry
+    since 1984 and has expertise in <b>rapid development methodologies</b>, <b>project estimation</b>,
+    <b>software construction practices</b>, performance tuning, system integration, and third-party contract management.
+    Writes books and articles, teaches classes, and oversees software engineering practices at
+    <a href="http://www.construx.com/"><i>Construx Software</i></a> as CEO and Chief Software Engineer. Author of
+    <a href="http://www.stevemcconnell.com/cc.htm"><b>Code Complete</b></a>,
+    <a href="http://www.stevemcconnell.com/rd.htm"><b>Rapid Development</b></a>, and
+    <a href="http://www.stevemcconnell.com/est.htm"><b>Software Estimation</b></a>.
+  avatar: /assets/images/author/quotes/steve_mcconnell.jpg
+  uri: http://www.stevemcconnell.com/aboutme.htm
+  wikipedia: Steve_McConnell
+  linkedin: stevemcc/es
+  email: stevemcc@construx.com
+  twitter: stevemconstrux
+  home: http://www.stevemcconnell.com/
+  blog: http://www.construx.com/Blogs/10x_Software_Development/?id=15082
+
+"Bertrand Meyer":
+  name: Bertrand Meyer
+  bio: >
+    French academic, author, and consultant in the field of <b>computer languages</b>.
+    Created <a href="https://en.wikipedia.org/wiki/Eiffel_(programming_language)" title="The Eiffel Programming Language"><b>Eiffel</b></a>
+    and the idea of <a href="https://en.wikipedia.org/wiki/Design_by_contract"><b>design by contract</b></a>.
+    Also defined the <a href="https://en.wikipedia.org/wiki/Uniform_access_principle"><b>Uniform Access Principle</b></a>.
+    Received the <b>Software System Award</b> of the <a href="http://www.acm.org/" title="Association for Computing Machinery"><i>ACM</i></a>
+    for <i>"impact on software quality"</i> in recognition of the design of <b>Eiffel</b>. Fellow of the <i>ACM</i> since 2008.
+  avatar: /assets/images/author/quotes/bertrand_meyer.jpg
+  uri: http://se.ethz.ch/~meyer/
+  wikipedia: Bertrand_Meyer
+  twitter: Bertrand_Meyer
+  facebook: bertrand.meyer.12
+  linkedin: bertrandmeyer
+  home: https://bertrandmeyer.com/
+
+"Mark Minasi":
+  name: Mark Minasi
+  bio: >
+    American best-selling author, popular technology columnist, commentator, keynote speaker, and IT consultant. Best
+    known as a <a href="https://en.wikipedia.org/wiki/Microsoft_Windows"><i>Windows</i></a> authority for his
+    <a href="https://books.google.com/books?isbn=1118331729"><b>Mastering Windows Server 2012 R2</b></a> and
+    <a href="https://books.google.es/books?isbn=8441519447"><b>Complete PC Upgrade and Maintenance Guide</b></a> books,
+    both of which sold over a million copies. Writes and speaks around the world about
+    <a href="https://en.wikipedia.org/wiki/Windows_Vista_networking_technologies">Windows networking</a>.
+  avatar: /assets/images/author/quotes/mark_minasi.jpg
+  uri: https://www.minasi.com/mb2.htm
+  linkedin: mark-minasi-4a957b14
+  email: Assistant@Minasi.com
+  twitter: mminasi
+  home: https://www.minasi.com/
+  blog: https://markminasi.wordpress.com/
+
+"Ron Minnich":
+  name: Ronald G. Minnich
+  bio: >
+    American software engineer and old-time Unix hacker. Has long been associated with <b>Open Source firmware</b>. Founded
+    the <b>LinuxBIOS project</b> in 1999 (renamed <a href="http://www.coreboot.org/"><b>coreboot</b></a> in 2008) to provide fast and
+    flexible Open Source <a href="http://www.uefi.org/" title="Unified Extensible Firmware Interface">EFI</a> firmware for multiple
+    platforms. Worked for the <i>Cluster Research Lab</i> in the <i>Advanced Computing Laboratory</i> at
+    <a href="http://lanl.gov/"><i>Los Alamos National Laboratory</i></a>, doing research in the areas of
+    <b>distributed and <a href="https://en.wikipedia.org/wiki/Computer_cluster">cluster computing</a></b> and <b>high performance networks</b>.
+    Also contributed to <a href="http://plan9.bell-labs.com/plan9/" title="Plan 9 operating systems"><b>Plan 9</b></a>
+    and has been involved in many open source projects, such as
+    <a href="http://akaros.cs.berkeley.edu/akaros-web/news.php" title="A free operating system for manycore architectures"><b>Akaros</b></a>.
+    Currently works at <a href="https://www.google.com/"><i>Google</i></a>
+  avatar: /assets/images/author/quotes/ron_minnich.jpg
+  uri: https://www.linkedin.com/pub/ron-minnich/3/994/960
+  linkedin: ../pub/ron-minnich/3/994/960
+  google_plus: ronminnich
+  github: rminnich
+  bitbucket: rminnich
+  twitter: coreboot
+
+"Alex Mizrahi":
+  name: Alex "Killerstorm" Mizrahi
+  bio: >
+    Ukrainian software developer and cryptocurrency expert, with a strong background in mathematics, computer science,
+    algorithms, object-oriented design and programming language theory. MSc in applied mathematics from
+    <a href="http://www.donnu.edu.ua/"><i>Donetsk National University</i></a>, graduated with honors. Author of several academic papers
+    about <a href="https://es.wikipedia.org/wiki/Bitcoin"><b>Bitcoin</b></a>. Developed the first implementation of <b>Bitcoin 2.0</b> in
+    the world. Led the open source <a href="http://coloredcoins.org/"><b>colored coins</b></a> project from 2012. Co-founded
+    <a href="http://chromaway.com/"><i>ChromaWay</i></a> in 2013.
+  avatar: /assets/images/author/quotes/alex_mizrahi.jpg
+  uri: https://www.linkedin.com/in/alex-mizrahi-a1b2b44
+  twitter: killerstorm
+  linkedin: alex-mizrahi-a1b2b44
+
+"Olav Mjelde":
+  name: Olav Alexander Mjelde
+  bio: >
+    Norwegian programmer, web designer and systems manager.
+  avatar: /assets/images/author/quotes/olav_mjelde.jpg
+  uri: http://mjelde.blogspot.com/
+  twitter: olavamjelde
+  sourceforge: dabutcher
+  google_plus: OlavAlexanderMjelde
+  facebook: olav.alexander.mjelde
+  linkedin: olav-alexander-mjelde-1256a822
+  blog: http://mjelde.blogspot.com/
+
+"Nathan Myhrvold":
+  name: Nathan Paul Myhrvold
+  bio: >
+    Formerly <a href="https://en.wikipedia.org/wiki/Chief_Technology_Officer" title="Chief Technology Officer">CTO</a> at
+    <a href="http://www.microsoft.com"><i>Microsoft</i></a>, is co-founder of
+    <a href="http://www.intellectualventures.com/"><b>Intellectual Ventures</b></a> and the principal author of
+    <a href="http://modernistcuisine.com/"><b>Modernist Cuisine</b></a>. Co-inventor on 17 patents at <i>Microsoft</i> and has co-sponsored
+    applications for over 500 other patents for which his corporation is funding the patent monetization effort.
+  avatar: /assets/images/author/quotes/nathan_myhrvold.jpg
+  uri: http://www.nathanmyhrvold.com/index.php/about
+  wikipedia: Nathan_Myhrvold
+  facebook: nathanmyhrvoldofficial/
+  pinterest: nathanmyhrvold
+  email: info@nathanmyhrvold.com
+  twitter: nathanmyhrvold
+  home: http://www.nathanmyhrvold.com/
+
+"Erik Naggum":
+  name: Erik Naggum
+  bio: >
+    Norwegian computer programmer recognized for his work in the fields of
+    <a href="https://en.wikipedia.org/wiki/SGML"><b>SGML</b></a>, <a href="https://en.wikipedia.org/wiki/Emacs"><b>Emacs</b></a> and
+    <a href="https://en.wikipedia.org/wiki/Lisp_programming_language" title="Lisp Programming Language"><b>Lisp</b></a>. Since the early 90s
+    was also a provocative participant on various <a href="https://en.wikipedia.org/wiki/Usenet">Usenet</a> discussion groups. Made
+    significant contributions to <a href="https://en.wikipedia.org/wiki/Link_layer"><b>RFC 1123</b></a>, which defines and discusses
+    the requirements for Internet host software, and <a href="https://en.wikipedia.org/wiki/MIME"><b>RFC 2049</b></a>, which defines
+    electronic information transfer of various binary formats through e-mail.
+  avatar: /assets/images/author/quotes/erik_naggum.jpg
+  uri: http://www.emacswiki.org/emacs/ErikNaggum
+  wikipedia: Erik_Naggum
+  email: erik@naggum.no
+  home: http://naggum.no/
+
+"Ted Nelson":
+  name: Theodor Holm "Ted" Nelson
+  bio: >
+    American pioneer of information technology, philosopher, and sociologist. Coined the terms
+    <a href="https://en.wikipedia.org/wiki/Hypertext"><b>hypertext</b></a> and
+    <a href="https://en.wikipedia.org/wiki/Hypermedia"><b>hypermedia</b></a> in 1963 and published them in 1965. Also coined the terms
+    <a href="https://en.wikipedia.org/wiki/Transclusion"><b>transclusion</b></a>,
+    <a href="https://en.wikipedia.org/wiki/Virtuality_(software_design)"><b>virtuality</b></a>, and
+    <a href="https://en.wikipedia.org/wiki/Intertwingularity"><b>intertwingularity</b></a> (in
+    <a href="https://en.wikipedia.org/wiki/Literary_Machines" title="1980"><b>Literary Machines</b></a>).
+  avatar: /assets/images/author/quotes/ted_nelson.jpg
+  uri: http://www.mprove.de/diplom/referencesNelson.html
+  wikipedia: Ted_Nelson
+  email: ted@xanadu.net
+  twitter: thetednelson
+  linkedin: ted-nelson-78901139
+  home: http://ted.hyperland.com/
+
+"NSA Security Manual":
+  name: National Security Agency
+  bio: >
+    Intelligence organization of the United States government, responsible for global monitoring, collection, and
+    processing of information and data for foreign intelligence and
+    <a href="https://en.wikipedia.org/wiki/Counterintelligence">counterintelligence</a> purposes. Concurrently charged with
+    protection of U.S. government communications and information systems against penetration and network warfare.
+  avatar: /assets/images/author/quotes/nsa.jpg
+  uri: https://www.nsa.gov/about/index.shtml
+  wikipedia: National_Security_Agency
+  twitter: nsagov
+  home: http://www.nsa.gov/
+
+"Christian Neukirchen":
+  name: Christian Neukirchen
+  bio: >
+    German software developer known for creating the first tumblelog <a href="http://anarchaia.org/">Anarchaia</a>. Has written
+    popular <a href="http://www.ruby-lang.org/" title="Ruby programming language">Ruby</a> libraries, such as the abstract webserver
+    interface <a href="http://rack.rubyforge.org/"><b>Rack</b></a> and the Behavior Driven Development framework
+    <a href="https://github.com/chneukirchen/bacon">bacon</a>.
+  avatar: /assets/images/author/quotes/christian_neukirchen.jpg
+  uri: http://chneukirchen.org/infopage.html
+  github: chneukirchen
+  skype: chneukirchen
+  email: chneukirchen@gmail.com
+  twitter: chneukirchen
+  blog: http://chneukirchen.org/trivium/
+  home: http://chneukirchen.org/
+
+"John von Neumann":
+  name: John von Neumann
+  bio: >
+    Hungarian-American pure and applied mathematician, physicist, inventor, and
+    <a href="https://en.wikipedia.org/wiki/Polymath">polymath</a>. Made major contributions to a number of fields, including
+    <b>mathematics</b> (<a href="https://en.wikipedia.org/wiki/Foundations_of_mathematics">foundations of mathematics</a>,
+    <a href="https://en.wikipedia.org/wiki/Functional_analysis">functional analysis</a>,
+    <a href="https://en.wikipedia.org/wiki/Ergodic_theory">ergodic theory</a>, <a href="https://en.wikipedia.org/wiki/Geometry">geometry</a>,
+    <a href="https://en.wikipedia.org/wiki/Topology">topology</a>, and
+    <a href="https://en.wikipedia.org/wiki/Numerical_analysis">numerical analysis</a>), <b>physics</b> (
+    <a href="https://en.wikipedia.org/wiki/Quantum_mechanics">quantum mechanics</a>,
+    <a href="https://en.wikipedia.org/wiki/Fluid_dynamics">hydrodynamics</a>,
+    <a href="https://en.wikipedia.org/wiki/Fluid_dynamics">fluid dynamics</a>
+    and <a href="https://en.wikipedia.org/wiki/Quantum_statistical_mechanics">quantum statistical mechanics</a>), <b>economics</b>
+    (<a href="https://en.wikipedia.org/wiki/Game_theory">game theory</a>), <b>computing</b>
+    (<a href="https://en.wikipedia.org/wiki/Von_Neumann_architecture">Von Neumann architecture</a>,
+    <a href="https://en.wikipedia.org/wiki/Linear_programming">linear programming</a>,
+    <a href="https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor">self-replicating machines</a>,
+    <a href="https://en.wikipedia.org/wiki/Stochastic_computing">stochastic computing</a>), and <b>statistics</b>.
+  avatar: /assets/images/author/quotes/john_von_neumann.jpg
+  uri: http://www-history.mcs.st-andrews.ac.uk/Biographies/Von_Neumann.html
+  wikipedia: John_von_Neumann
+
+"Larry Niven and Jerry Pournelle":
+  name: Oath of Fealty
+  bio: |
+    <ul>
+    <li><a href="https://en.wikipedia.org/wiki/Larry_Niven">Larry Niven</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Jerry_Pournelle">Jerry Pournelle</a></li>
+    </ul>
+  avatar: /assets/images/author/quotes/oath_of_fealty.jpg
+  uri: https://openlibrary.org/works/OL510422W
+  wikipedia: Oath_of_Fealty_(novel)
+
+"Eric O’Dell":
+  name: Eric O’Dell
+  bio: >
+    Posted to the <a href="https://en.wikipedia.org/wiki/Usenet">Usenet</a> group
+    <a href="https://groups.google.com/forum/#!forum/comp.lang.dylan">`comp.lang.dylan`</a>.
+  avatar: /assets/images/author/quotes/default.jpg
+  uri: http://people.csail.mit.edu/gregs/info-dylan-archive-html-2000/msg01208.html
+
+"Brian O’Driscoll":
+  name: Brian Gerald O’Driscoll
+  bio: >
+    Irish former professional rugby union player, regarded as one of the greatest rugby union players of all time.
+    Registered at <a href="https://en.wikipedia.org/wiki/University_College_Dublin_R.F.C."><i>University College Dublin R.F.C.</i></a>,
+    played at outside centre for the Irish provincial team <a href="http://www.leinsterrugby.ie/"><i>Leinster</i></a> and formerly for
+    <a href="http://www.irishrugby.ie/home.php"><i>Ireland</i></a>. Captained Ireland from 2003 until 2012, and captained the
+    <a href="http://www.lionsrugby.com/home.php"><i>British and Irish Lions</i></a> for their 2005 tour of New Zealand.
+  avatar: /assets/images/author/quotes/brian_o_driscoll.jpg
+  uri: http://www.brianodriscoll.com/
+  wikipedia: Brian_O%27Driscoll
+  twitter: BrianODriscoll
+  home: http://www.brianodriscoll.com/
+
+"William of Ockham":
+  name: William of Ockham
+  bio: >
+    English <a href="https://en.wikipedia.org/wiki/Franciscan">Franciscan</a> <a href="https://en.wikipedia.org/wiki/Friar">friar</a>
+    and <a href="https://en.wikipedia.org/wiki/Scholasticism">scholastic</a> philosopher and theologian, who is believed
+    to have been born in <a href="https://en.wikipedia.org/wiki/Ockham,_Surrey"><i>Ockham</i></a>, a small village in
+    <a href="https://en.wikipedia.org/wiki/Surrey"><i>Surrey</i></a>. Considered to be one of the major figures of
+    <a href="https://en.wikipedia.org/wiki/Medieval_philosophy"><b>medieval thought</b></a> and was at the centre of the
+    <b>major intellectual and political controversies of the fourteenth century</b>. Commonly known for the methodological
+    principle that bears his name, <a href="https://en.wikipedia.org/wiki/Occam%27s_razor"><b>Occam’s razor</b></a>.
+    Produced significant works on logic, physics, and theology.
+  avatar: /assets/images/author/quotes/william_of_ockham.jpg
+  uri: http://www-gap.dcs.st-and.ac.uk/~history/Mathematicians/Ockham.html
+  wikipedia: William_of_Ockham
+
+"David Ogilvy":
+  name: David Mackenzie Ogilvy
+  bio: >
+    English Advertising executive who was widely hailed as <b>The Father of Advertising</b>. In 1962,
+    <a href="https://en.wikipedia.org/wiki/Time_(magazine)"><i>Time</i></a> called him
+    <i>"the most sought-after wizard in today’s advertising industry"</i>.
+  avatar: /assets/images/author/quotes/david_ogilvy.jpg
+  uri: http://www.ogilvy.com/About/Our-History/David-Ogilvy-Bio.aspx
+  wikipedia: David_Ogilvy_(businessman)
+
+"Oktal":
+  name: Oktal
+  bio: No biographical information available.
+  avatar: /assets/images/author/quotes/default.jpg
+
+"John Osterhout":
+  name: John Kenneth Ousterhout
+  bio: >
+    <b>Chairman of <a href="http://www.electric-cloud.com/">Electric Cloud</a></b> and a <b>professor of computer science</b> at
+    <a href="http://www.stanford.edu/"><i>Stanford University</i></a>. Founded <b>Electric Cloud</b> with
+    <a href="https://en.wikipedia.org/wiki/John_Graham-Cumming"><i>John Graham-Cumming</i></a>. Previously was a
+    <b>professor of computer science</b> at <a href="http://www.berkeley.edu/">University of California, Berkeley</a> where he created
+    <a href="http://www.tcl-lang.org/" title="the Tcl scripting language"><b>Tcl</b></a> and the <a href="http://www.tcl.tk/"><b>Tk</b></a>
+    platform-independent widget toolkit, and proposed the idea of
+    <a href="https://en.wikipedia.org/wiki/Coscheduling">coscheduling</a>. Also led the research group that designed the
+    <b>experimental <a href="http://www.eecs.berkeley.edu/Research/Projects/CS/sprite/sprite.html">Sprite</a> operating system</b>
+    and <b>the first <a href="https://en.wikipedia.org/wiki/Log-structured_file_system">log-structured file system</a></b>. Also the
+    original author of the <a href="http://opencircuitdesign.com/magic/"><b>Magic</b></a>
+    <a href="https://en.wikipedia.org/wiki/Very-large-scale_integration" title="Very-large-scale integration"><b>VLSI</b></a>
+    <a href="https://en.wikipedia.org/wiki/Computer-aided_design" title="Computer-aided design"><b>CAD</b></a> program.
+  avatar: /assets/images/author/quotes/john_osterhout.jpg
+  uri: https://en.wikipedia.org/wiki/John_Ousterhout
+  wikipedia: John_Ousterhout
+  email: ouster@cs
+  twitter: JohnOusterhout
+  home: http://web.stanford.edu/~ouster/cgi-bin/home.php
+
+"Ray Ozzie":
+  name: Raymond "Ray" Ozzie
+  bio: >
+    American software industry entrepreneur who held the positions of <b>Chief Technical Officer</b> and
+    <b>Chief Software Architect</b> at <a href="http://www.microsoft.com"><i>Microsoft</i></a> between 2005 and 2010.
+    Best known for his role in creating <a href="http://www.notes.net/"><b>Lotus Notes</b></a>, before <i>Microsoft</i>.
+  avatar: /assets/images/author/quotes/ray_ozzie.jpg
+  uri: http://ozzie.net/about/
+  wikipedia: Ray_Ozzie
+  home: http://ozzie.net/
+
+"Sean Parent":
+  name: Sean Parent
+  bio: >
+    American computer scientist and software architect. Worked at <a href="http://www.apple.com/"><i>Apple</i></a> from 1988 through
+    1993, where was part of the system software team that developed the technologies allowing <i>Apple</i>’s successful
+    transition to <a href="https://en.wikipedia.org/wiki/PowerPC">PowerPC</a>. In 1993 joined <a href="http://www.adobe.com/"><i>Adobe</i></a> as a
+    senior engineer working on <a href="http://www.photoshop.com/products/photoshop"><b>Photoshop</b></a> and later managed
+    <a href="http://stlab.adobe.com/"><i>Adobe’s Software Technology Lab</i></a>. In 2009 spent a year at
+    <a href="http://www.google.com"><i>Google</i></a> working on <a href="http://www.google.com/chromeos"><i>Chrome OS</i></a> before returning to
+    <i>Adobe</i> as principal scientist and software architect for <i>Adobe</i>’s
+    <a href="http://blogs.adobe.com/creativecloud/category/digital-imaging/"><b>mobile digital imaging group</b></a>.
+  avatar: /assets/images/author/quotes/sean_parent.jpg
+  uri: https://twitter.com/seanparent
+  email: sean_parent@mac.com
+  github: sean-parent
+  twitter: seanparent
+  linkedin: sean-parent-103777
+  stackoverflow: 1041288/sean-parent
+
+"Parkinson":
+  name: Cyril Northcote Parkinson
+  bio: >
+    British naval historian and author of some 60 books, the most famous of which was his best-seller
+    <a href="https://en.wikipedia.org/wiki/Parkinson%27s_Law"><b>Parkinson’s Law</b></a>, which led him to be also considered as an
+    important scholar in public administration and management.
+  avatar: /assets/images/author/quotes/parkinson.jpg
+  uri: http://www.biography.com/people/c-northcote-parkinson-9433636
+  wikipedia: C._Northcote_Parkinson
+
+"David Parnas":
+  name: David Lorge Parnas
+  bio: >
+    Canadian early pioneer of <a href="https://en.wikipedia.org/wiki/Software_engineering">software engineering</a>. Developed the
+    concept of <a href="https://en.wikipedia.org/wiki/Information_hiding"><b>information hiding</b></a> in
+    <a href="https://en.wikipedia.org/wiki/Modular_programming"><b>modular programming</b></a>, which is an important element of
+    <a href="https://en.wikipedia.org/wiki/Object-oriented_programming"><b>object-oriented programming</b></a> today. Author of the
+    seminal paper <a href="http://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf"><b>On the criteria to be used in decomposing systems into modules</b></a>
+    and <a href="http://dl.acm.org/citation.cfm?id=9800"><b>A rational design process: How and why to fake it</b></a>. Also noted for
+    his advocacy of <b>precise documentation</b>.
+  avatar: /assets/images/author/quotes/david_parnas.jpg
+  uri: https://en.wikipedia.org/wiki/David_Parnas
+  wikipedia: David_Parnas
+
+"Alan Perlis":
+  name: Alan Jay Perlis
+  bio: >
+    American computer scientist known for his <b>pioneering work in programming languages</b> and the first recipient of
+    the <a href="http://amturing.acm.org/"><b>Turing Award</b></a>, for his influence in the area of
+    <b>advanced programming techniques</b> and <b>compiler construction</b>. This is a reference to the work he had done as a
+    member of the team that developed
+    <a href="https://en.wikipedia.org/wiki/ALGOL_programming_language" title="The ALGOL programming language">ALGOL</a>. His article for
+    <a href="https://en.wikipedia.org/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">ACM</a>’s
+    <a href="https://en.wikipedia.org/wiki/SIGPLAN" title="Special Interest Group on Programming Languages">SIGPLAN</a> journal
+    <a href="https://en.wikipedia.org/wiki/Epigrams_on_Programming"><b>Epigrams on Programming</b></a>, described in one-sentence
+    distillations many of the things learned about programming over his career. The epigrams have been widely quoted.
+  avatar: /assets/images/author/quotes/alan_perlis.jpg
+  uri: http://amturing.acm.org/award_winners/perlis_0132439.cfm
+  wikipedia: Alan_Perlis
+
+"Markus Persson":
+  name: Markus Alexej Persson
+  bio: >
+    Swedish video game programmer and designer who founded <a href="http://mojang.com/"><b>Mojang</b></a> alongside
+    <a href="https://en.wikipedia.org/wiki/Carl_Manneh"><i>Carl Manneh</i></a> and
+    <a href="https://en.wikipedia.org/wiki/Jakob_Porser"><i>Jakob Porser</i></a> in late 2010. His principal venture for founding
+    <i>Mojang</i> was <a href="https://en.wikipedia.org/wiki/Minecraft"><b>Minecraft</b></a>, a popular first-person sandbox video game.
+    Has gained significant notability within the video game industry since the release of Minecraft and won multiple
+    awards. Retained his position as the lead designer of <i>Minecraft</i> until the game’s official launch in 2011, after
+    which transferred creative authority to <a href="https://en.wikipedia.org/wiki/Jens_Bergensten">Jens Bergensten</a>. Left
+    <i>Mojang</i> after its acquisition by <a href="http://www.microsoft.com"><i>Microsoft</i></a>, in 2014.
+  avatar: /assets/images/author/quotes/markus_persson.jpg
+  uri: http://www.biography.com/people/markus-persson
+  wikipedia: Markus_Persson
+  email: markus@notch.net
+  github: xNotch
+  facebook: xNotch
+  google_plus: /../116872576248355504859
+  twitter: notch
+  inkedin: in/markus-persson-7282513
+  home: https://notch.net/
+  blog: http://notch.tumblr.com/
+
+"Laurence J. Peter":
+  name: Laurence Johnston Peter
+  bio: >
+    Canadian educator and <a href="https://en.wikipedia.org/wiki/Hierarchical_organization"><i>hierarchiologist</i></a>, best known to
+    the general public for the formulation of the <a href="https://en.wikipedia.org/wiki/Peter_principle"><b>Peter Principle</b></a>,
+    in which he states: "<i>In a hierarchy every employee tends to rise to his level of incompetence ...</i>
+    <i>in time every post tends to be occupied by an employee who is incompetent to carry out its duties ...</i>
+    <i>Work is accomplished by those employees who have not yet reached their level of incompetence.</i>".
+  avatar: /assets/images/author/quotes/laurence_j_peter.jpg
+  uri: http://global.britannica.com/biography/Laurence-J-Peter
+  wikipedia: Laurence_J._Peter
+
+"Henry Petroski":
+  name: Henry Petroski
+  bio: >
+    American engineer specializing in <a href="https://en.wikipedia.org/wiki/Failure_analysis"><b>failure analysis</b></a>. A
+    professor both of <a href="https://en.wikipedia.org/wiki/Civil_engineering"><b>civil engineering</b></a> and history at
+    <a href="http://www.duke.edu/"><i>Duke University</i></a>. Also a prolific author; has written over a dozen books – beginning with
+    <a href="http://www.penguinrandomhouse.com/books/130247/"><b>To Engineer is Human: The Role of Failure in Successful Design</b></a>
+    and including a number of titles detailing the
+    <a href="https://en.wikipedia.org/wiki/Industrial_design"><b>industrial design</b></a> history of common, everyday objects.
+    Frequent lecturer and a columnist for the magazines <a href="http://www.americanscientist.org/"><i>American Scientist</i></a> and
+    <a href="http://prismmagazine.org/"><i>Prism</i></a>. His most recently published book is
+    <a href="https://openlibrary.org/works/OL16216261W"><b>To Forgive Design: Understanding Failure</b></a>.
+  avatar: /assets/images/author/quotes/henry_petroski.jpg
+  uri: http://cee.duke.edu/faculty/henry-petroski
+  wikipedia: Henry_Petroski
+  email: petroski@duke.edu
+
+"Pablo Picasso":
+  name: Pablo Ruiz y Picasso
+  bio: >
+    Spanish painter, sculptor, <a href="https://en.wikipedia.org/wiki/Printmaker">printmaker</a>,
+    <a href="https://en.wikipedia.org/wiki/Ceramicist">ceramicist</a>,
+    <a href="https://en.wikipedia.org/wiki/Stage_designer">stage designer</a>, poet and playwright who spent most of his adult life
+    in France. One of the <b>greatest and most influential artists</b> of the 20th century. Known for co-founding the
+    <a href="https://en.wikipedia.org/wiki/Cubist"><b>Cubist movement</b></a>, the invention of
+    <a href="https://en.wikipedia.org/wiki/Assemblage_(art)"><b>constructed sculpture</b></a>, the co-invention of
+    <a href="https://en.wikipedia.org/wiki/Collage"><b>collage</b></a>, and for the wide variety of styles that helped develop and
+    explore. Among his most famous works are the <a href="https://en.wikipedia.org/wiki/Proto-Cubism">proto-Cubist</a>
+    <a href="https://en.wikipedia.org/wiki/Les_Demoiselles_d%27Avignon" title="1907"><b>Les Demoiselles d’Avignon</b></a>, and
+    <a href="https://en.wikipedia.org/wiki/Guernica_(painting)" title="1937"><b>Guernica</b></a>, a portrayal of the
+    <a href="https://en.wikipedia.org/wiki/Bombing_of_Guernica">Bombing of Guernica</a> by the German and Italian airforces at the
+    behest of the <a href="https://en.wikipedia.org/wiki/Nationalist_faction_(Spanish_Civil_War)">Spanish nationalist government</a>
+    during the <a href="https://en.wikipedia.org/wiki/Spanish_Civil_War">Spanish Civil War</a>.
+  avatar: /assets/images/author/quotes/pablo_picasso.jpg
+  uri: https://en.wikipedia.org/wiki/Pablo_Picasso
+  wikipedia: Pablo_Picasso
+
+"Rob Pike":
+  name: Robert Pike
+  bio: >
+    Canadian software engineer and author. Best known for his work at <a href="http://bell-labs.com"><i>Bell Labs</i></a>, where he was
+    a member of the <a href="http://www.unix.org/" title="The UNIX Operating System"><b>UNIX</b></a> team and was involved in the creation
+    of <a href="http://plan9.bell-labs.com/plan9/" title="Plan 9 operating systems"><b>Plan 9</b></a> and
+    <a href="http://www.vitanuova.com/inferno/" title="Inferno Operating Systems"><b>Inferno</b></a>, as well as
+    <a href="http://www.vitanuova.com/inferno/limbo.html" title="Limbo Programming Language"><b>Limbo</b></a>.
+    Co-author, with <a href="https://en.wikipedia.org/wiki/Brian_Kernighan"><i>Brian Kernighan</i></a> of
+    <a href="http://www.cs.princeton.edu/~bwk/tpop.webpage/"><b>The Practice of Programming</b></a> and
+    <b>The Unix Programming Environment</b>. Co-creator of <a href="https://en.wikipedia.org/wiki/UTF-8"><b>UTF-8</b></a>,
+    with <a href="https://en.wikipedia.org/wiki/Ken_Thompson_(computer_programmer)">Ken Thompson</a>.
+  avatar: /assets/images/author/quotes/rob_pike.jpg
+  uri: http://www.herpolhode.com/rob/rob.html
+  wikipedia: Rob_Pike
+  twitter: rob_pike
+  email: r@google.com
+  home: http://herpolhode.com/rob/
+
+"P. J. Plauger":
+  name: Phillip James (Bill) Plauger
+  bio: >
+    Author, entrepreneur and computer programmer. Has written and co-written articles and books about
+    <b>programming style</b>, <b>software tools</b>, and
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="The C Programming Language"><b>C</b></a>, as well as works of
+    <b>science fiction</b>. Worked at <a href="http://bell-labs.com"><i>Bell Labs</i></a> from 1969 to 1975, where coauthored
+    <a href="https://en.wikipedia.org/wiki/The_Elements_of_Programming_Style"><b>Elements of Programming Style</b></a> and
+    <a href="https://openlibrary.org/books/OL4934660M"><b>Software Tools</b></a> with
+    <a href="https://en.wikipedia.org/wiki/Brian_Kernighan"><i>Brian Kernighan</i></a>. In 1978, founded
+    <a href="https://en.wikipedia.org/wiki/Whitesmiths"><b>Whitesmiths</b></a>, the first company to sell a <b>C compiler</b> and
+    <a href="https://en.wikipedia.org/wiki/Idris_(operating_system)"><b>Unix-like operating system (Idris)</b></a>.
+    Also invented <a href="https://en.wikipedia.org/wiki/Pair_programming"><b>pair programming</b></a> there. Has been involved in
+    C and C++ standardization and is now the president of <a href="http://www.dinkumware.com/"><b>Dinkumware</b></a>.
+  avatar: /assets/images/author/quotes/p_j_plauger.jpg
+  uri: http://www.isfdb.org/cgi-bin/ea.cgi?P._J._Plauger
+  wikipedia: P._J._Plauger
+  email: pjp@plauger.com
+  home: http://www.plauger.com/
+
+"Pliny the Elder":
+  name: Gaius Plinius Secundus
+  bio: >
+    Roman author, naturalist, and natural philosopher. Was also a naval and army commander of the early
+    <a href="https://en.wikipedia.org/wiki/Roman_Empire">Roman Empire</a> and personal friend of the emperor
+    <a href="https://en.wikipedia.org/wiki/Vespasian"><i>Vespasian</i></a>. Spending most of his spare time studying, writing or
+    investigating natural and geographic phenomena in the field, wrote an encyclopedic work,
+    <a href="https://en.wikipedia.org/wiki/Natural_History_(Pliny)"><b>Naturalis Historia</b></a>, which became a model for all other
+    encyclopedias.
+  avatar: /assets/images/author/quotes/pliny_the_elder.jpg
+  uri: https://en.wikipedia.org/wiki/Pliny_the_Elder
+  wikipedia: Pliny_the_Elder
+
+"Latin proverb":
+  name: Latin Proverbs
+  bio: >
+    Proverbs are simple and concrete <i>sayings</i> popularly known and repeated, which express truths, based on common sense
+    or the practical experience of humanity. They are often metaphorical. A proverb that describes a basic rule of
+    conduct may also be known as a <a href="https://en.wikipedia.org/wiki/Maxim_(saying)"><i>maxim</i></a>. If a proverb is
+    distinguished by particularly good phrasing, it may be known as an
+    <a href="https://en.wikipedia.org/wiki/Aphorism"><i>aphorism</i></a>. Medieval Latin has played a considerable role in distributing
+    proverbs across Europe, although almost every culture has examples of its own.
+  avatar: /assets/images/author/quotes/latin_proverb.jpg
+  uri: https://en.wikipedia.org/wiki/List_of_Latin_phrases
+  wikipedia: List_of_Latin_phrases
+
+"Japanese proverb":
+  name: Japanese Proverbs
+  bio: >
+    A Japanese proverb (<a href="https://en.wiktionary.org/wiki/%E8%AB%BA" title="kotowaza">諺, ことわざ</a>) may take the form of a
+    <b>short saying</b> (<span title="iinarawashi">言い習わし</span>),
+    an <b>idiomatic phrase</b> (<span title="kanyouku">慣用句</span>),
+    or a <b>four-character idiom</b> (<a href="https://en.wikipedia.org/wiki/Yojijukugo" title="yojijukugo">四字熟語</a>).
+  avatar: /assets/images/author/quotes/japanese_proverb.jpg
+  uri: https://en.wikipedia.org/wiki/Japanese_proverbs
+  wikipedia: Japanese_proverbs
+
+"Erik Quanstrom":
+  name: Erik Quanstrom
+  bio: >
+    Software Development Engineer and <b>operating systems</b> expert. Author of <a href="http://www.9atom.org/"><b>9atom</b></a>, a fork
+    of <a href="http://plan9.bell-labs.com/plan9/" title="Plan 9 operating systems"><i>Plan 9</i></a> that augments the distribution with the
+    addition of a 386 <a href="https://en.wikipedia.org/wiki/Physical_Address_Extension" title="Physical Address Extension">PAE</a>
+    kernel, an <a href="https://en.wikipedia.org/wiki/X86-64#AMD64">AMD64</a>
+    <a href="https://en.wikipedia.org/wiki/Central_processing_unit" title="Central processing unit">cpu</a> and terminal kernel,
+    <a href="http://www.quanstro.net/plan9/nupas.pdf" title="Scaling Upas (The Plan 9 email system)">nupas</a>, extra PC hardware
+    support, IL and <a href="http://www.quanstro.net/plan9/disklessfs.pdf" title="The diskless fileserver">Ken’s fs</a>.
+  avatar: /assets/images/author/quotes/erik_quanstrom.jpg
+  uri: https://www.linkedin.com/in/erik-quanstrom-32509b88
+  email: quanstro@quanstro.net
+  linkedin: erik-quanstrom-32509b88
+  google_plus: ErikQuanstrom
+  home: http://www.quanstro.net/
+
+"Marcus J. Ranum":
+  name: Marcus J. Ranum
+  bio: >
+    American computer researcher and world-renowned expert on <b>security system design and implementation</b>. Credited
+    with a number of innovations in firewalls, including building
+    <b>the first Internet email server for the <a href="http://whitehouse.gov/">whitehouse.gov domain</a></b>, and
+    <a href="https://en.wikipedia.org/wiki/Intrusion_detection_system">intrusion detection systems</a>. Has held technical and
+    leadership positions with a number of computer security companies, and is a Faculty member of the
+    <a href="http://www.iansresearch.com/"><i>Institute for Applied Network Security</i></a>.
+  avatar: /assets/images/author/quotes/marcus_j_ranum.jpg
+  uri: http://www.ranum.com/stock_content/about.html
+  wikipedia: Marcus_J._Ranum
+  email: mjr@ranum.com
+  twitter: mjranum
+  home: http://www.ranum.com/
+
+"Mitch Ratcliffe":
+  name: Mitch Ratcliffe
+  bio: >
+    American veteran entrepreneur and analyst in digital media, currently chief product officer at
+    <a href="http://www.biakelsey.com/" title="BIA/Kelsey, a leading local media research and investment banking firm"><i>BIA/Kelsey</i></a>.
+    Cofounded <a href="http://www.twelvefold.com/" title="now TwelveFold"><i>BuzzLogic</i></a>, where led the development of a patented social
+    influence analysis system. Was <i>Director of Global Digital Business Process</i> at
+    <a href="http://www.hibu.com"><i>Hibu</i></a> and <i>Lead Senior Program Manager</i> at <a href="https://www.bing.com/"><i>Microsoft Bing</i></a> and
+    <a href="https://technet.microsoft.com/">Technet/MSDN</a>. Was on the founding executive team of
+    <a href="http://www.on24.com/"><i>ON24</i></a> and represented <a href="http://www.softbank.com/"><i>SoftBank Capital</i></a> on the board of
+    directors of <a href="http://match.com/"><i>Match.com</i></a> from its founding in 1996 through 1999.
+    Advised <a href="http://www.audible.com/"><i>Audible.com</i></a>, <i>MyDigs</i>, <i>Earthweb</i>, <a href="http://technorati.com/"><i>Technorati</i></a>
+    and many other early-stage firms.
+  avatar: /assets/images/author/quotes/mitch_ratcliffe.jpg
+  uri: http://www.biakelsey.com/company/management-team/mitch-ratcliffe/
+  twitter: godsdog
+  linkedin: mitchratcliffe
+  youtube: channel/UCaXgLX6KrGnuhiVizAEM9PA
+  home: http://ratcliffeblog.com/
+
+"Mich Ravera":
+  name: Michael Angelo Ravera
+  bio: >
+    No biographical information available.
+  avatar: /assets/images/author/quotes/mich_ravera.jpg
+  uri: https://www.linkedin.com/in/mich-ravera-6ab772
+  email: mravera@nubridges.com
+  linkedin: mich-ravera-6ab772
+  stackoverflow: 4302730/mich-ravera
+
+"Eric S. Raymond":
+  name: Eric Steven Raymond
+  bio: >
+    American software developer, author of the widely cited 1997 essay and 1999 book
+    <a href="http://www.catb.org/~esr/writings/cathedral-bazaar/"><b>The Cathedral and the Bazaar</b></a> and other works, and
+    <b>open-source software advocate</b>. Wrote a guidebook for the <a href="https://en.wikipedia.org/wiki/Roguelike">Roguelike</a>
+    game <a href="https://en.wikipedia.org/wiki/NetHack">NetHack</a>. In the 1990s, he edited and updated the
+    <a href="http://www.catb.org/~esr/jargon/"><b>Jargon File</b></a>, currently in print as the
+    <a href="http://www.amazon.com/TNHD/dp/0262680920"><b>The New Hacker’s Dictionary</b></a>.
+  avatar: /assets/images/author/quotes/eric_s_raymond.jpg
+  uri: http://www.catb.org/~esr/who-is-ESR.html
+  wikipedia: Eric_S._Raymond
+  email: esr@thyrsus.com
+  github: eric-s-raymond
+  twitter: esrtweet
+  home: http://www.catb.org/~esr/
+
+"R6RS":
+  name: The Revised[6] Report on the Algorithmic Language Scheme
+  bio: >
+    The <a href="https://en.wikipedia.org/wiki/Scheme_(programming_language)">Scheme language</a> is standardized in the official
+    <a href="https://www.ieee.org/" title="Institute of Electrical and Electronics Engineers"><i>IEEE</i></a> standard and a <i>de facto</i>
+    standard called the <b>Revised Report on the Algorithmic Language Scheme</b>. The most widely implemented standard is
+    R5RS (1998); a new standard, <a href="http://www.r6rs.org/">R6RS</a>, was ratified in 2007. Scheme has a diverse user base due
+    to its compactness and elegance, but its minimalist philosophy has also caused wide divergence between practical
+    implementations, so much that the <i>Scheme Steering Committee</i> calls it
+    <i>the world's most unportable programming language</i> and <i>a family of dialects</i> rather than a single language.
+  avatar: /assets/images/author/quotes/r6rs.jpg
+  uri: http://www.r6rs.org/
+  wikipedia: https://en.wikipedia.org/wiki/Scheme_(programming_language)
+  home: http://www.scheme-reports.org/
+
+"Jon Ribbens":
+  name: Jonathan Ribbens
+  bio: >
+    British programmer, programming team leader and entrepreneur. Currently Technical Director for
+    <a href="https://sitemorse.com/" title="Sitemorse Technologies Limited">Sitemorse</a>.
+  avatar: /assets/images/author/quotes/jon_ribbens.jpg
+  uri: https://twitter.com/jribbens
+  twitter: jribbens
+  sourceforge: jribbens
+  github: jribbens
+
+"Dennis Ritchie":
+  name: Dennis MacAlistair Ritchie
+  bio: >
+    American computer scientist. Created
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="The C Programming Language"><b>C</b></a> and
+    <a href="http://www.unix.org/" title="The UNIX Operating System"><b>UNIX</b></a> at <a href="http://bell-labs.com"><i>Bell Labs</i></a>,
+    at <a href="http://bell-labs.com"><i>Bell Labs</i></a> with long-time colleague
+    <a href="https://en.wikipedia.org/wiki/Ken_Thompson_(computer_programmer)">Ken Thompson</a>,
+    Both received the <a href="http://amturing.acm.org/"><b>Turing Award</b></a> from the
+    <a href="http://www.acm.org/" title="Association for Computing Machinery"><i>ACM</i></a> in 1983, the
+    <a href="https://en.wikipedia.org/wiki/IEEE_Richard_W._Hamming_Medal"><b>Hamming Medal</b></a> from the
+    <a href="https://www.ieee.org./" title="Institute of Electrical and Electronics Engineers"><i>IEEE</i></a> in 1990 and the
+    <a href="https://en.wikipedia.org/wiki/National_Medal_of_Technology"><b>National Medal of Technology</b></a> in 1999.
+  avatar: /assets/images/author/quotes/dennis_ritchie.jpg
+  uri: http://cm.bell-labs.co/who/dmr/
+  wikipedia: Dennis_Ritchie
+
+"Jonathan Rockway":
+  name: Jonathan Rockway
+  bio: >
+    American software engineer, <a href="https://en.wikipedia.org/wiki/Perl" title="Perl Programming Language"><i>Perl</i></a> hacker and
+    author. Has been programming Perl since his middle-school years. Worked as a software developer at the
+    <a href="http://www.uchicago.edu/"><i>University of Chicago</i></a> and later on at
+    <a href="https://www.iinteractive.com/"><i>Infinity Interactive</i></a>. Currently works at <a href="http://www.google.com"><i>Google</i></a>.
+    Maintains <a href="http://search.cpan.org/~jrockway/">a collection of modules on the CPAN</a>.
+    Member of the <a href="http://www.catalystframework.org/">Catalyst</a> Core Team. Has written a number of
+    <a href="http://www.amazon.com/dp/1847190952/?tag=kmjn-20">books</a> and tries to speak at as many Perl conferences as possible.
+  avatar: /assets/images/author/quotes/jonathan_rockway.jpg
+  stackoverflow: 8457/jrockway
+  uri: https://plus.google.com/+JonathanRockway
+  google_plus: JonathanRockway
+  email: jon@jrock.us
+  github: jrockway
+  twitter: jrockway
+  home: https://www.jrock.us/
+
+"Andy Rooney":
+  name: Andrew Aitken "Andy" Rooney
+  bio: >
+    American radio and television writer who was best known for his weekly broadcast
+    <b>"A Few Minutes with Andy Rooney"</b>, a part of the <a href="http://www.cbsnews.com/"><i>CBS News</i></a> program
+    <a href="http://www.cbsnews.com/60-minutes/"><i>60 Minutes</i></a> from 1978 to 2011.
+  avatar: /assets/images/author/quotes/andy_rooney.jpg
+  uri: http://www.imdb.com/name/nm0740299/
+  wikipedia: Andy_Rooney
+
+"Bertrand Russell":
+  name: Bertrand Arthur William Russell
+  bio: >
+    British philosopher, logician, mathematician, historian, writer, social critic, political activist and
+    <a href="https://en.wikipedia.org/wiki/Nobel_Prize" title="Nobel Prize">Nobel laureate</a>. Considered one of the founders of
+    <a href="https://en.wikipedia.org/wiki/Analytic_philosophy"><b>analytic philosophy</b></a>, led the British
+    <i>revolt against <a href="https://en.wikipedia.org/wiki/British_Idealism">idealism</a></i> in the early 20th century. wrote
+    <a href="https://en.wikipedia.org/wiki/Principia_Mathematica"><b>Principia Mathematica</b></a> with
+    <a href="https://en.wikipedia.org/wiki/A._N._Whitehead"><i>A. N. Whitehead</i></a>, as an attempt to create a logical basis for
+    mathematics. His philosophical essay <a href="https://en.wikipedia.org/wiki/On_Denoting"><b>On Denoting</b></a> has been
+    considered a <i>paradigm of philosophy</i>. His work has had a considerable influence on
+    <a href="https://en.wikipedia.org/wiki/Logic">logic</a>, mathematics, <a href="https://en.wikipedia.org/wiki/Set_theory">set theory</a>,
+    <a href="https://en.wikipedia.org/wiki/Linguistics">linguistics</a>,
+    <a href="https://en.wikipedia.org/wiki/Artificial_intelligence">artificial intelligence</a>,
+    <a href="https://en.wikipedia.org/wiki/Cognitive_science">cognitive science</a>,
+    <a href="https://en.wikipedia.org/wiki/Computer_science">computer science</a> and
+    <a href="https://en.wikipedia.org/wiki/Philosophy">philosophy</a>, especially the
+    <a href="https://en.wikipedia.org/wiki/Philosophy_of_language">philosophy of language</a>,
+    <a href="https://en.wikipedia.org/wiki/Epistemology">epistemology</a>, and
+    <a href="https://en.wikipedia.org/wiki/Metaphysics">metaphysics</a>.
+  avatar: /assets/images/author/quotes/bertrand_russell.jpg
+  uri: http://plato.stanford.edu/entries/russell/
+  wikipedia: Bertrand_Russell
+  home: http://users.drew.edu/jlenz/brs.html
+
+"Chris Sacca":
+  name: Christopher Sacca
+  bio: >
+    <a href="https://en.wikipedia.org/wiki/Silicon_Valley">Silicon Valley</a>
+    <a href="https://en.wikipedia.org/wiki/Venture_capital">venture investor</a>, public speaker,
+    <a href="https://en.wikipedia.org/wiki/Private_equity">private equity</a> adviser, and former employee of
+    <a href="http://www.google.com"><i>Google</i></a>. An investor in <a href="https://twitter.com/"><i>Twitter</i></a> and
+    <a href="https://www.uber.com/">Uber</a>. Known for his signature embroidered cowboy shirts.
+  avatar: /assets/images/author/quotes/chris_sacca.jpg
+  uri: http://www.whatisleft.org/about.html
+  wikipedia: Chris_Sacca
+  email: csacca@gmail.com
+  twitter: Sacca
+  linkedin: chris-sacca-3b7a6210a
+  home: http://lowercasecapital.com/
+
+"Antoine de Saint-Exupéry":
+  name: Antoine Marie Jean-Baptiste Roger, comte de Saint-Exupéry
+  bio: >
+    French writer, poet, aristocrat, journalist, and pioneering aviator. Became a laureate of
+    <b>several of France’s highest literary awards</b> and also won the
+    <a href="https://en.wikipedia.org/wiki/List_of_National_Book_Award_winners#1935_to_1941"><i>U.S. National Book Award</i></a>.
+    Best remembered for his novella
+    <a href="https://en.wikipedia.org/wiki/The_Little_Prince" title="Le Petit Prince"><b>The Little Prince</b></a> and for his lyrical
+    aviation writings, including <a href="https://en.wikipedia.org/wiki/Wind,_Sand_and_Stars"><b>Wind, Sand and Stars</b></a> and
+    <a href="https://en.wikipedia.org/wiki/Night_Flight_(novel)"><b>Night Flight</b></a>.
+  avatar: /assets/images/author/quotes/antoine_de_saint_exupery.jpg
+  uri: http://www.antoinedesaintexupery.com/
+  wikipedia: Antoine_de_Saint-Exupéry
+
+"Steve Sanderson":
+  name: Steven Sanderson
+  bio: >
+    British web developer with a particular interest in building rich JavaScript apps. Works as a program manager for
+    <a href="http://www.microsoft.com"><i>Microsoft</i></a> on the <a href="https://www.asp.net/"><b>ASP.NET</b></a> team. His current focus is on
+    <b>streamlining the <a href="http://www.asp.net/mvc/">ASP.NET MVC</a> development process</b> and providing guidance for
+    mobile-enabling web applications.
+  avatar: /assets/images/author/quotes/steve_sanderson.jpg
+  uri: http://blog.stevensanderson.com/about.html
+  github: SteveSanderson
+  twitter: stevensanderson
+  home: http://blog.stevensanderson.com/
+
+"George Santayana":
+  name: Jorge Agustín Nicolás Ruiz de Santayana y Borrás
+  bio: >
+    American (Spanish-born) philosopher, essayist, poet, and novelist. Known for <b>famous sayings</b>, such as
+    <i>"Those who cannot remember the past are condemned to repeat it"</i> and
+    <i>"Only the dead have seen the end of war"</i>. Was a <b>broad ranging cultural critic</b> whose observations spanned many
+    disciplines.
+  avatar: /assets/images/author/quotes/george_santayana.jpg
+  uri: http://www.poemhunter.com/george-santayana/biography/
+  wikipedia: George_Santayana
+
+"Dan Salomon":
+  name: Daniel Joseph Salomon
+  bio: >
+    Department of Computer Science, <a href="https://uwaterloo.ca/"><i>University of Waterloo</i></a>.
+  avatar: /assets/images/author/quotes/default.jpg
+
+"Sarkos":
+  name: Sarkos
+  bio: >
+    <a href="https://www.reddit.com/">Reddit</a> user.
+  avatar: /assets/images/author/quotes/default.jpg
+  uri: https://www.reddit.com/user/Sarkos
+  reddit: Sarkos
+
+"Esther Schindler":
+  name: Esther Schindler
+  bio: >
+    American technology writer, editor and online community manager. Loves to explain how technology can, indeed,
+    improve the quality of life and, since 1992, <b>translates <i>geek-talk</i> into <i>English</i></b>. Longtime tech industry
+    journalist, wrote thousands of magazine articles for top publications, covering a huge range of subjects:
+    <i>business features</i>, <i>case studies</i>, <i>software and hardware reviews</i>, <i>computer industry news</i>, <i>tips and tricks</i>,
+    <i>interviews</i>, <i>industry analysis</i>.
+  avatar: /assets/images/author/quotes/esther_schindler.jpg
+  uri: https://twitter.com/estherschindler
+  linkedin: estherschindler
+  twitter: estherschindler
+  facebook: esther.schindler
+  google_plus: EstherSchindler
+  youtube: channel/UCVNLSoiP8cqKOuBftar9ICg
+  blog: https://blog.newrelic.com/author/estherschindler/
+
+"George Bernard Shaw":
+  name: George Bernard Shaw
+  bio: >
+    Nobel Prize and Oscar-winning Irish <a href="https://en.wikipedia.org/wiki/Playwright">playwright</a>, critic and socialist
+    whose influence on Western theatre, culture and politics stretched from the 1880s to his death in 1950. Originally
+    earning his way as an influential London music and theatre critic, Shaw’s greatest gift was for the modern drama.
+    Strongly influenced by <a href="https://en.wikipedia.org/wiki/Henrik_Ibsen">Henrik Ibsen</a>, successfully introduced a new
+    realism into English-language drama. Wrote more than 60 plays. With his range from biting contemporary satire to
+    historical allegory, became the <b>leading comedy dramatist of his generation</b> and one of the most important
+    playwrights in the English language since the 17th century.
+  avatar: /assets/images/author/quotes/george_bernard_shaw.jpg
+  uri: http://www.nobelprize.org/nobel_prizes/literature/laureates/1925/shaw-bio.html
+  wikipedia: George_Bernard_Shaw
+
+"Olin Shivers":
+  name: Olin Shivers
+  bio: >
+    American Professor and computer scientist. His principal research interests include
+    <b>programming languages, compilers, and systems</b>. Worked at the
+    <a href="http://mit.edu/" title="Massachusetts Institute of Technology"><i>MIT</i></a>
+    <a href="https://www.csail.mit.edu/"><i>Artificial Intelligence Laboratory</i></a>. Author of
+    <a href="https://en.wikipedia.org/wiki/Scsh" title="Open-source Unix shell embedded within Scheme"><b>Scsh</b></a>. Founder and CTO of
+    the <a href="http://www.smartleaf.com/">Smartleaf Corporation</a>, and a faculty member at the
+    <a href="http://www.gatech.edu/">Georgia Institute of Technology</a>. Currently teaches <i>Fundamentals of Computer Science 1</i>
+    and <i>Compilers</i> at <a href="http://www.ccs.neu.edu/">Northeastern University</a>.
+  avatar: /assets/images/author/quotes/olin_shivers.jpg
+  uri: http://www.ccs.neu.edu/home/shivers/cv.pdf
+  wikipedia: http://www.ccs.neu.edu/people/faculty/member/shivers/
+  email: shivers@ccs.neu.edu
+  twitter: olinshivers
+  home: http://www.ccs.neu.edu/home/shivers/
+
+"Jeff Sickel":
+  name: Jeff Sickel
+  bio: >
+    Responsible for <a href="https://bitbucket.org/jas/cpython"><b>cpython</b></a>, A fresh port of
+    <a href="https://www.python.org/" title="Python Programming Language"><b>Python</b></a>
+    and <a href="https://mercurial.selenic.com/" title="Mercurial Cource Control Management"><b>Mercurial</b></a> to
+    <a href="http://plan9.bell-labs.com/plan9/" title="Plan 9 operating systems"><b>Plan 9</b></a> for ARM, x86, and AMD64.
+    His work balances between the humanities and the technological requirements of living, interpreting,
+    and integrating into our modern culture.
+  avatar: /assets/images/author/quotes/jeff_sickel.jpg
+  uri: http://www.corpus-callosum.com/
+  email: jas@corpus-callosum.com
+  linkedin: jeffsickel
+  sourceforge: jsickel
+  bitbucket: jas
+
+"Charles Simonyi":
+  name: Simonyi Károly
+  bio: >
+    Hungarian-born American computer programmer, businessman and space tourist. Created
+    <b>the first <a href="https://en.wikipedia.org/wiki/WYSIWYG" title="What You See Is What You Get">WYSIWYG</a> Word Processor</b>
+    at <a href="http://www.parc.com/"><i>Xerox PARC</i></a> which transformed how we create documents. In 1981, joined
+    <a href="http://www.microsoft.com"><i>Microsoft</i></a> where developed the
+    <a href="https://en.wikipedia.org/wiki/Hungarian_notation"><b>Hungarian notation</b></a> for naming variables. Oversaw the
+    creation of <a href="https://en.wikipedia.org/wiki/Microsoft_Office"><b>Microsoft’s flagship Office suite of applications</b></a>.
+    Now heads his own company, <a href="http://www.intentsoft.com/"><b>Intentional Software</b></a>, with the aim of developing and
+    marketing his concept of <a href="https://en.wikipedia.org/wiki/Intentional_programming"><b>intentional programming</b></a>.
+    Became the fifth <b>space tourist</b> in April 2007 and made a second trip to the
+    <a href="https://en.wikipedia.org/wiki/International_Space_Station"><i>International Space Station</i></a> in March 2009.
+  avatar: /assets/images/author/quotes/charles_simonyi.jpg
+  uri: http://www.simonyi.ox.ac.uk/dr-charles-simonyi.html
+  wikipedia: Charles_Simonyi
+  twitter: charlessimonyi
+  linkedin: charles-simonyi-b89204
+  home: http://www.simonyifund.org/charlessimonyi.asp
+  blog: http://www.charlesinspace.com/
+
+"Ryan Singer":
+  name: Ryan Singer
+  bio: >
+    American user interface designer and product manager. Frequent speaker at conferences, is a recognised authority on
+    <a href="https://en.wikipedia.org/wiki/User_interface_design"><b>UI design</b></a> and
+    <a href="https://en.wikipedia.org/wiki/Product_design">product design and management</a>. Writes in
+    <a href="http://feltpresence.com/">Felt Presence</a> about these topics. Has been working at
+    <a href="https://basecamp.com/"><i>Basecamp</i></a> since 2003, playing a significant role in the conception and interface design of
+    subsequent products including <a href="http://backpackit.com/"><b>Backpack</b></a>, <a href="https://campfirenow.com/"><b>Campfire</b></a> and
+    <a href="https://highrisehq.com/"><b>Highrise</b></a>. In 2011 worked closely with the partners to re-imagine the <i>Basecamp</i>
+    product from the ground up, managing development from start to finish and defined core interface elements.
+  avatar: /assets/images/author/quotes/ryan_singer.jpg
+  uri: https://medium.com/@rjs
+  email: rsinger@gmail.com
+  twitter: rjs
+  linkedin: ryan-singer-9941592b
+  home: http://feltpresence.com/
+
+"Derek Sivers":
+  name: Derek Sivers
+  bio: >
+    American entrepreneur best known for being the founder and former president of <a href="http://www.cdbaby.com/"><b>CD Baby</b></a>,
+    an online CD store for independent musicians. A professional musician (and circus clown) since 1987, started
+    <i>CD Baby</i> by accident in 1997 when he was selling his own CD on his website, and friends asked if he could sell
+    theirs, too. <i>CD Baby</i> went on to become the largest seller of independent music on the web, with over $100M in
+    sales for over 150,000 musician clients.
+  avatar: /assets/images/author/quotes/derek_sivers.jpg
+  uri: https://sivers.org/
+  wikipedia: Derek_Sivers
+  email: derek@sivers.org
+  facebook: sivers
+  google_plus: DerekSivers1
+  twitter: sivers
+  github: sivers
+  linkedin: dereksivers
+  home: https://sivers.org/
+
+"Sophocles":
+  name: Σοφοκλῆς, Sophoklēs
+  bio: >
+    One of three <a href="https://en.wikipedia.org/wiki/Classical_Greece">ancient Greek</a>
+    <a href="https://en.wikipedia.org/wiki/Tragedy">tragedians</a> whose plays have survived. For almost 50 years, was
+    <b>the most awarded playwright</b> in the dramatic competitions of
+    <a href="https://en.wikipedia.org/wiki/Classical_Athens"><i>Athens</i></a>. Wrote 120 plays during the course of his life, but only
+    seven have survived in a complete form: <a href="https://en.wikipedia.org/wiki/Ajax_(Sophocles)"><i>Ajax</i></a>,
+    <a href="https://en.wikipedia.org/wiki/Antigone_(Sophocles)"><i>Antigone</i></a>,
+    <a href="https://en.wikipedia.org/wiki/The_Trachiniae"><i>The Women of Trachis</i></a>,
+    <a href="https://en.wikipedia.org/wiki/Oedipus_the_King"><i>Oedipus the King</i></a>,
+    <a href="https://en.wikipedia.org/wiki/Electra_(Sophocles)"><i>Electra</i></a>,
+    <a href="https://en.wikipedia.org/wiki/Philoctetes_(Sophocles)"><i>Philoctetes</i></a> and
+    <a href="https://en.wikipedia.org/wiki/Oedipus_at_Colonus"><i>Oedipus at Colonus</i></a>.
+  avatar: /assets/images/author/quotes/sophocles.jpg
+  uri: http://www.gutenberg.org/ebooks/author/26
+  wikipedia: Sophocles
+
+"Henry Spencer":
+  name: Henry Spencer
+  bio: >
+    Canadian computer programmer and space enthusiast. Wrote
+    <a href="https://groups.google.com/forum/#!original/mod.sources/OqVZYQNSmDs/G_T2jHu5QI8J"><b>regex</b></a>, a widely used software
+    library for <a href="https://en.wikipedia.org/wiki/Regular_expression"><i>regular expressions</i></a>;
+    co-wrote <a href="https://en.wikipedia.org/wiki/C_News" title="A Usenet server program"><b>C News</b></a>. Also wrote
+    <a href="https://groups.google.com/forum/#!msg/comp.lang.c/CYgWkWdWCcQ/thMt3RfByAgJ"><b>The Ten Commandments for C Programmers</b></a>.
+    Co-author, with <a href="http://www.oreilly.com/pub/au/452"><i>David Lawrence</i></a>,
+    of the book <a href="http://www.oreilly.com/catalog/musenet/"><b>Managing Usenet</b></a>.
+  avatar: /assets/images/author/quotes/henry_spencer.jpg
+  uri: https://en.wikipedia.org/wiki/Henry_Spencer
+  wikipedia: Henry_Spencer
+
+"Mike Stay":
+  name: Michael Stay
+  bio: >
+    American cryptanalyst and <a href="https://en.wikipedia.org/wiki/Reverse_engineering">reverse engineer</a>. For five years was
+    one of the principal developers on <a href="https://developers.google.com/caja/"><b>Google’s Caja</b></a> project, a
+    virtualization layer for web browsers. Co-designed the <b>security model</b> which was later adopted by
+    <a href="http://www.ecma-international.org/publications/standards/Ecma-262.htm">ECMAScript 5</a> --- every modern web browser
+    uses it. Also wrote the rules for an
+    <b>ES3-to-ES5 <a href="https://en.wikipedia.org/wiki/Source-to-source_compiler">transpiler</a></b> that inserted security hooks
+    and the runtime security library to support it.
+    Has published papers on <a href="https://en.wikipedia.org/wiki/Cryptanalysis"><b>cryptanalysis</b></a>,
+    <a href="https://en.wikipedia.org/wiki/Algorithmic_information_theory"><b>algorithmic information theory</b></a>,
+    <a href="https://en.wikipedia.org/wiki/Thermodynamics"><b>thermodynamics</b></a>,
+    <a href="https://en.wikipedia.org/wiki/Quantum_computation"><b>quantum computation</b></a>, and
+    <a href="https://en.wikipedia.org/wiki/Higher_category_theory"><b>higher category theory</b></a>.
+  avatar: /assets/images/author/quotes/mike_stay.jpg
+  uri: https://www.cs.auckland.ac.nz/~mike/
+  email: metaweta@gmail.com
+  youtube: user/metawetayt
+  twitter: metaweta
+  google_plus: MikeStay
+  github: metaweta
+  home: https://reperiendi.wordpress.com/
+
+"Joe Stoy":
+  name: Joseph E. "Joe" Stoy
+  bio: >
+    British computer scientist. In the 1970s, worked on
+    <a href="https://en.wikipedia.org/wiki/Denotational_semantics"><b>denotational semantics</b></a>
+    with <a href="https://en.wikipedia.org/wiki/Christopher_Strachey"><i>Christopher Strachey</i></a> in the
+    <a href="https://en.wikipedia.org/wiki/Programming_Research_Group"><i>Programming Research Group</i></a> at the
+    <i><a href="http://www.ox.ac.uk/">Oxford University</a> Computing Laboratory</i> (now the
+    <a href="http://www.cs.ox.ac.uk/">Oxford University Department of Computer Science</a>). Author of
+    <a href="http://www.amazon.com/dp/0262690764"><b>Denotational Semantics: The Scott-Strachey Approach to Programming Language Semantics</b></a>.
+    In 2003, co-founded <a href="http://www.bluespec.com/"><b>Bluespec, Inc</b></a>.
+  avatar: /assets/images/author/quotes/joe_stoy.jpg
+  uri: https://en.wikipedia.org/wiki/Joe_Stoy
+  wikipedia: Joe_Stoy
+  linkedin: ../pub/joe-stoy/1/1b/301
+  google_plus: /../111748200812982718595
+
+"Randy Stross":
+  name: Randall E. Stross
+  bio: >
+    American historian who writes mostly about present-day technology, business, and society. Author of the
+    <b>DigitalDomain</b> column for the <a href="http://www.nytimes.com/"><i>New York Times</i></a>. Professor of <i>Business and Society</i>
+    and <i>Strategic Management</i> at <a href="http://www.sjsu.edu/"><i>San Jose State University</i></a>. Author of several books,
+    including: <a href="https://openlibrary.org/works/OL3279507W/"><b>The Microsoft Way</b></a>,
+    <a href="http://www.goodreads.com/book/show/"><b>Thomas Edison: The Wizard of Menlo Park</b></a> and
+    <a href="https://openlibrary.org/works/OL3279500W/"><b>Planet Google</b></a>
+  avatar: /assets/images/author/quotes/randy_stross.jpg
+  uri: http://www.randallstross.com/bio/
+  email: rs@randallstross.com
+  reddit: randallstross
+  home: http://www.randallstross.com/
+
+"Bjarne Stroustrup":
+  name: Bjarne Stroustrup
+  bio: >
+    Danish computer scientist, most notable for the
+    <b>creation and development of the widely used <a href="https://isocpp.org/" title="The C++ Programming Language">C++</a></b>.
+    Distinguished <b>Research Professor</b> and holds the <b>College of Engineering Chair in Computer Science</b> at
+    <a href="http://www.tamu.edu/"><i>Texas A&M University</i></a>, a visiting professor at
+    <a href="http://www.columbia.edu/"><i>Columbia University</i></a>, and works at
+    <a href="https://www.morganstanley.com/"><i>Morgan Stanley</i></a>. Has written or co-written a number of books, including
+    the following: <a href="http://www.stroustrup.com/Tour.html"><b>A Tour of C++</b></a>,
+    <a href="http://www.stroustrup.com/programming.html"><b>Programming: Principles and Practice Using C++</b></a>,
+    <a href="http://www.stroustrup.com/4th.html"><b>The C++ Programming Language</b></a>,
+    <a href="http://www.stroustrup.com/dne.html"><b>The Design and Evolution of C++</b></a>
+    and <a href="http://www.stroustrup.com/papers.html"><b>many other publications</b></a>.
+  avatar: /assets/images/author/quotes/bjarne_stroustrup.jpg
+  uri: https://parasol.tamu.edu/people/bs/
+  wikipedia: Bjarne_Stroustrup
+  email: bjarne@stroustrup.com
+  home: http://www.stroustrup.com/
+
+"Charles Stross":
+  name: Charles David George "Charlie" Stross
+  bio: >
+    British writer of science fiction, <a href="https://en.wikipedia.org/wiki/Lovecraftian_horror">Lovecraftian horror</a> and
+    fantasy. Specialises in <a href="https://en.wikipedia.org/wiki/Hard_science_fiction"><b>hard science fiction</b></a> and
+    <a href="https://en.wikipedia.org/wiki/Space_opera"><b>space opera</b></a>. Between 1994 and 2004, was also an active writer for
+    the magazine <a href="http://www.computershopper.co.uk/"><i>Computer Shopper</i></a> and was responsible for the monthly
+    <i>Linux column</i>. Due to time constraints, he eventually stopped writing for <i>Computer Shopper</i> to devote more time to
+    <b>novels</b>. However, he continues to publish freelance articles on the Internet.
+  avatar: /assets/images/author/quotes/charles_stross.jpg
+  uri: http://www.antipope.org/charlie/blog-static/fiction/faq.html
+  wikipedia: https://en.wikipedia.org/wiki/Charles_Stross
+  twitter: cstross
+  home: http://www.antipope.org/charlie/
+
+"Andrew S. Tanenbaum":
+  name: Andrew Stuart "Andy" Tanenbaum
+  bio: >
+    American computer scientist and professor emeritus of computer science at the
+    <a href="http://www.vu.nl/"><i>Vrije Universiteit</i></a>, Amsterdam in the Netherlands. Best known as the author of
+    <a href="http://www.minix3.org/"><b>MINIX</b></a>, a free Unix-like operating system for teaching purposes, and for his
+    computer science textbooks, regarded as standard texts in the field:
+    <a href="https://www.pearsonhighered.com/program/PGM270019.html"><b>Computer Networks</b></a>,
+    <a href="https://www.pearsonhighered.com/program/PGM270019.html"><b>Operating Systems: Design and Implementation</b></a>,
+    <a href="https://www.pearsonhighered.com/program/PGM80736.html"><b>Modern Operating Systems</b></a>,
+    <a href="https://www.pearsonhighered.com/program/PGM84396.html"><b>Distributed Operating Systems</b></a>,
+    <a href="https://www.pearsonhighered.com/program/PGM200985.html"><b>Structured Computer Organization</b></a>,
+    <a href="https://www.pearsonhighered.com/program/PGM104647.html"><b>Distributed Systems: Principles and Paradigms</b></a>.
+  avatar: /assets/images/author/quotes/andrew_s_tanenbaum.jpg
+  uri: http://www.cs.vu.nl/~ast/home/cv.pdf
+  wikipedia: Andrew_S._Tanenbaum
+  email: ast@cs.vu.nl
+  youtube: channel/UCGE79COc35OCPu7UQJYILQw
+  google_plus: /../105311887941558130852
+  linkedin: andrew-tanenbaum-a142b5
+  home: http://www.cs.vu.nl/~ast/
+
+"Audrey Tang":
+  name: Audrey Tang
+  bio: >
+    Taiwanese <a href="https://www.gnu.org/philosophy/free-sw.html"><b>free software</b></a> programmer, who has been described as one
+    of the <i>ten greats of Taiwanese computing</i>. Best known for initiating and leading
+    <a href="http://pugs.blogs.com/"><b>Pugs</b></a>, a joint effort from the
+    <a href="https://en.wikipedia.org/wiki/Haskell_(programming_language)" title="Haskell Programming Language"><i>Haskell</i></a> and
+    <a href="https://en.wikipedia.org/wiki/Perl" title="Perl Programming Language"><i>Perl</i></a> communities to implement
+    <a href="http://perl6.org/" title="The Perl 6 Programming Language"><i>Perl 6</i></a>. Also made contributions to internationalization and
+    localization efforts for several <i>Free Software</i> programs, including
+    <a href="https://metacpan.org/pod/SVK" title="SVK - A Distributed Version Control System"><b>SVK</b></a>,
+    <a href="https://bestpractical.com/rt/" title="RT; Request Tracker"><b>RT</b></a> and
+    <a href="http://slashdot.org/" title="Slashdot Weblog System"><b>Slashdot</b></a>.
+  avatar: /assets/images/author/quotes/audrey_tang.jpg
+  uri: https://en.wikipedia.org/wiki/Audrey_Tang
+  wikipedia: Audrey_Tang
+  home: http://pugs.blogs.com/audrey/
+
+"Ken Thompson":
+  name: Kenneth "Ken" Thompson
+  bio: >
+    American pioneer of computer science. Designed and implemented
+    <a href="http://www.unix.org/" title="The UNIX Operating System"><b>UNIX</b></a> at <a href="http://bell-labs.com"><i>Bell Labs</i></a>.
+    Invented <a href="https://en.wikipedia.org/wiki/B_(programming_language)" title="The B Programming Language"><b>B</b></a>, the
+    direct predecessor to <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="The C Programming Language"><b>C</b></a>.
+    Creator and early developer of <a href="http://plan9.bell-labs.com/plan9/" title="Plan 9 operating systems"><b>Plan 9</b></a>.
+    Co-inventor of <a href="https://golang.org/" title="The Go programming language"><b>Go</b></a>, at <a href="http://www.google.com"><i>Google</i></a>.
+  avatar: /assets/images/author/quotes/ken_thompson.jpg
+  uri: http://genius.cat-v.org/ken-thompson/
+  wikipedia: Ken_Thompson
+  email: ken@google.com
+
+"J.R.R. Tolkien":
+  name: John Ronald Reuel Tolkien
+  bio: >
+    English writer, poet, philologist, and university professor who is best known as the author of the classic
+    <a href="https://en.wikipedia.org/wiki/High_fantasy">high-fantasy</a> works
+    <a href="https://en.wikipedia.org/wiki/The_Hobbit"><b>The Hobbit</b></a>,
+    <a href="https://en.wikipedia.org/wiki/The_Lord_of_the_Rings"><b>The Lord of the Rings</b></a>, and
+    <a href="https://en.wikipedia.org/wiki/The_Silmarillion"><b>The Silmarillion</b></a>.
+  avatar: /assets/images/author/quotes/j_r_r_tolkien.jpg
+  uri: http://www.tolkiensociety.org/author/biography/
+  wikipedia: J._R._R._Tolkien
+  home: http://www.tolkienestate.com/
+
+"Linus Torvalds":
+  name: Linus Benedict Torvalds
+  bio: >
+    Finnish American software engineer, who was the principal force behind the development of the
+    <a href="https://en.wikipedia.org/wiki/Linux_kernel"><b>Linux kernel</b></a> that became
+    <b>the most popular kernel for operating systems</b>, like <a href="https://en.wikipedia.org/wiki/GNU"><i>GNU</i></a> and
+    <a href="https://en.wikipedia.org/wiki/Android_(operating_system)"><i>Android</i></a>. Later became the chief architect of the Linux
+    kernel and now acts as the project’s coordinator. Also created
+    <a href="https://git-scm.com/" title="Git, the distributed revision control system"><b>Git</b></a>. Was honored, along with
+    <a href="https://en.wikipedia.org/wiki/Shinya_Yamanaka"><i>Shinya Yamanaka</i></a>, with the 2012
+    <a href="http://taf.fi/en/millennium-technology-prize/"><b>Millennium Technology Prize</b></a> by the
+    <a href="http://www.technologyacademy.fi/index_en.html"><i>Technology Academy Finland</i></a>
+    <i>in recognition of his creation of a new open source operating system for computers leading to the widely used Linux kernel</i>.
+    Is also the recipient of the 2014 <a href="https://www.ieee.org./" title="Institute of Electrical and Electronics Engineers"><i>IEEE</i></a>
+    <a href="http://www.computer.org/web/awards/pioneer"><b>Computer Society Computer Pioneer Award</b></a>.
+  avatar: /assets/images/author/quotes/linus_torvalds.jpg
+  uri: https://en.wikipedia.org/wiki/Linus_Torvalds
+  wikipedia: Linus_Torvalds
+  google_plus: LinusTorvalds
+  youtube: user/971linus
+  github: torvalds
+  home: http://torvalds-family.blogspot.com/
+
+"Verity Stob":
+  name: Verity Stob
+  bio: >
+    Verity Stob is the pseudonym of a British software developer and satirical columnist. Author of
+    <b>humorous and satirical articles about information technology</b>, particularly software development.
+    Has written articles and columns for various magazines, newspapers, and websites, including
+    <a href="http://gizmonaut.net/exe/"><i>.EXE magazine</i></a>,
+    <a href="http://www.drdobbs.com/jvm/verity-stob/228700850"><i>Dr. Dobb’s Journal</i></a> and
+    <a href="http://www.theregister.co.uk/software/stob/"><i>The Register</i></a> for over 20 years.
+  avatar: /assets/images/author/quotes/verity_stob.jpg
+  uri: http://programmer.97things.oreilly.com/wiki/index.php/Verity_Stob
+  wikipedia: Verity_Stob
+  email: verity.stob@gmail.com
+  home: http://www.theregister.co.uk/software/stob/
+
+"Leonardo da Vinci":
+  name: Leonardo di ser Piero da Vinci
+  bio: >
+    Italian <a href="https://en.wikipedia.org/wiki/Polymath">polymath</a> whose areas of interest included invention, painting,
+    sculpting, architecture, science, music, mathematics, engineering, literature, anatomy, geology, astronomy, botany,
+    writing, history, and cartography. Has been variously called the father of <b>paleontology</b>, <b>ichnology</b>, and
+    <b>architecture</b>, and is widely considered <b>one of the greatest painters of all time</b>. Sometimes credited with the
+    inventions of the <b>parachute</b>, <b>helicopter</b> and <b>tank</b>, his genius epitomized the Renaissance humanist ideal.
+  avatar: /assets/images/author/quotes/leonardo_da_vinci.jpg
+  uri: http://www.biography.com/people/leonardo-da-vinci-40396
+  wikipedia: Leonardo_da_Vinci
+
+"Alexander Viro":
+  name: Alexander Viro
+  bio: >
+    Developer of the <a href="https://en.wikipedia.org/wiki/Linux_kernel"><b>Linux kernel</b></a>. Maintains the file subsystem,
+    <a href="https://en.wikipedia.org/wiki/Virtual_file_system" title="Virtual file system"><b>VFS</b></a>. Icorporated the private
+    name space concept into the 2.5 Linux kernel. <a href="https://en.wikipedia.org/wiki/Linus_Torvalds"><i>Linus Torvalds</i></a> said
+    about his code: <a href="https://lkml.org/lkml/2001/12/27/99">"Poetry in patches, indeed"</a>.
+  avatar: /assets/images/author/quotes/alexander_viro.jpg
+  uri: http://www.abclinuxu.cz/kdo-je/alexander-viro
+  email: viro@zeniv.linux.org.uk
+
+"Tom Van Vleck":
+  name: Tom Van Vleck
+  bio: >
+    American computer software engineer and a computer security expert.
+    Worked at <a href="http://mit.edu/" title="Massachusetts Institute of Technology"><i>MIT</i></a>
+    on <a href="https://en.wikipedia.org/wiki/Compatible_Time-Sharing_System" title="Compatible Time-Sharing System"><b>CTSS</b></a>,
+    and co-authored its <a href="http://www.multicians.org/thvv/mail-history.html"><b>first email program</b></a>. In 1965, joined
+    <a href="https://en.wikipedia.org/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory#Project_MAC" title="Project on Mathematics and Computation"><b>Project Mac</b></a>,
+    which is the origin of the
+    <a href="https://en.wikipedia.org/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory" title="MIT Computer Science and Artificial Intelligence Laboratory"><i>MIT Computer Science and Artificial Intelligence Laboratory</i></a>.
+    Worked for development of
+    <a href="http://www.multicians.org/history.html" title="Multiplexed Information and Computing Service"><b>Multics</b></a>
+    for more than 16 years at <i>MIT</i> and <a href="http://honeywell.com/"><i>Honeywell Information Systems</i></a>.
+    Since 2007, most of the <a href="http://www.multicians.org/multics-source.html"><b>Multics source code</b></a> and documentation
+    is provided as <a href="https://www.gnu.org/philosophy/free-sw.html"><i>free software</i></a> by
+    <a href="https://ist.mit.edu/" title="Information Systems & Technology"><i>IS&T at MIT</i></a>.
+  avatar: /assets/images/author/quotes/tom_van_vleck.jpg
+  uri: http://www.multicians.org/thvv/tvvvita.html
+  google_plus: TomVanVleck
+  home: http://www.multicians.org/thvv/tvv-home.html?1
+  blog: http://thvv.livejournal.com/
+  linkedin: tomvanvleck
+
+"Voltaire":
+  name: François-Marie Arouet
+  bio: >
+    French <b><a href="https://en.wikipedia.org/wiki/Age_of_Enlightenment">Enlightenment</a> writer</b>, historian, and philosopher
+    famous for his wit, his attacks on the established Catholic Church, and his advocacy of
+    <a href="https://en.wikipedia.org/wiki/Freedom_of_religion"><b>freedom of religion</b></a>,
+    <a href="https://en.wikipedia.org/wiki/Freedom_of_expression"><b>freedom of expression</b></a>,
+    and <a href="https://en.wikipedia.org/wiki/Separation_of_church_and_state"><b>separation of church and state</b></a>.
+  avatar: /assets/images/author/quotes/voltaire.jpg
+  uri: https://en.wikipedia.org/wiki/Voltaire
+  wikipedia: Voltaire
+
+"Victor A. Vyssotsky":
+  name: Victor Alexander Vyssotsky
+  bio: >
+    American mathematician and computer scientist. Was the technical head of
+    <a href="http://www.multicians.org/history.html" title="Multiplexed Information and Computing Service"><b>the Multics project</b></a> at
+    <a href="http://bell-labs.com"><i>Bell Labs</i></a> and later <i>Executive Director of Research</i> in the Information Systems Division
+    of <a href="http://www.att.com/"><i>AT&T</i></a> <i>Bell Labs</i>. Multics, whilst not particularly commercially successful in itself,
+    directly inspired <a href="https://en.wikipedia.org/wiki/Ken_Thompson_(computer_programmer)"><i>Ken Thompson</i></a> to develop
+    <a href="http://www.unix.org/" title="The UNIX Operating System"><b>UNIX</b></a>. In the early 1960s, along with
+    <a href="https://en.wikipedia.org/wiki/Robert_Morris_Sr."><i>Robert Morris Sr.</i></a> and
+    <a href="https://en.wikipedia.org/wiki/Doug_McIlroy"><i>Doug McIlroy</i></a>, devised and played a computer game called
+    <a href="https://en.wikipedia.org/wiki/Darwin_(programming_game)"><b>Darwin</b></a> (later known as
+    <a href="http://corewar.co.uk/darwin.htm"><i>Core War</i></a>) on an <a href="https://en.wikipedia.org/wiki/IBM_7090">IBM 7090</a> at
+    <i>Bell Labs</i>. Later virus developers used the same technique to develop some viruses.
+  avatar: /assets/images/author/quotes/v_a_vyssotsky.jpg
+  uri: https://en.wikipedia.org/wiki/Victor_A._Vyssotsky
+  wikipedia: Victor_A._Vyssotsky
+
+"Philip Wadler":
+  name: Philip Lee "Phil" Wadler
+  bio: >
+    American computer scientist known for his contributions to <b>programming language design</b> and <b>type theory</b>.
+    In particular, contributed to the theory behind
+    <a href="https://en.wikipedia.org/wiki/Functional_programming"><b>functional programming</b></a> and the use of
+    <a href="https://en.wikipedia.org/wiki/Monads_in_functional_programming"><b>monads in functional programming</b></a>,
+    the design of <a href="http://haskell.org/" title="A purely functional language"><b>Haskell</b></a>, and
+    <a href="http://www.w3.org/XML/Query/" title="A declarative query language"><b>XQuery</b></a>. In 1984, created
+    <a href="https://en.wikipedia.org/wiki/Orwell_(programming_language)" title="Orwell programming language"><b>Orwell</b></a>.
+    Was involved in adding <a href="https://en.wikipedia.org/wiki/Generic_programming"><b>generic types</b></a> to
+    <a href="https://www.java.com/"><i>Java 5.0</i></a>.
+  avatar: /assets/images/author/quotes/philip_wadler.jpg
+  uri: http://homepages.inf.ed.ac.uk/wadler/bio.html
+  wikipedia: Philip_Wadler
+  twitter: philipwadler
+  google_plus: /../100359591585949676427
+  youtube: user/philipwadler
+  home: http://homepages.inf.ed.ac.uk/wadler/
+  blog: http://wadler.blogspot.com/
+
+"Roberto Waltman":
+  name: Roberto Waltman
+  bio: >
+    American Software Engineer at <a href="http://crestron.com/"><i>Crestron Electronics</i></a>.
+  avatar: /assets/images/author/quotes/roberto_waltman.jpg
+  uri: https://twitter.com/robertwaltman
+  linkedin: roberto-waltman-29258083
+  twitter: robertwaltman
+  youtube: user/beaninfo
+  google_plus: RobertWaltman1
+  home: http://robertwaltman.blogspot.com/
+  blog: http://itdoeswhat.blogspot.com/
+
+"Chris Wenham":
+  name: Christopher Lawrence Wenham
+  bio: >
+    Worked deep for a number of IT departments, internet providers and web design firms as a <b>programmer</b> and
+    <b>manager</b> for several decades, quitting while he was ahead. Now writes as a <b>freelancer</b>. Has written for
+    <a href="http://www.salon.com/"><i>Salon</i></a> and has been published in <a href="http://hackermonthly.com/"><i>Hacker Monthly</i></a>
+    and a little bit of private and small press.
+  avatar: /assets/images/author/quotes/chris_wenham.jpg
+  uri: http://chriswenham.com/about/
+  email: cwenham@gmail.com
+  twitter: WenhamToo
+  google_plus: ChrisWenham
+  youtube: user/clwenham
+  home: http://chriswenham.com/
+  blog: https://sites.google.com/site/yacoset/
+
+"David Wheeler":
+  name: David Wheeler
+  bio: >
+    British computer scientist at the <a href="http://www.cam.ac.uk/"><i>University of Cambridge</i></a>. Born in Birmingham and gained
+    a scholarship at <a href="http://www.trin.cam.ac.uk/"><i>Trinity College</i></a> to read the
+    <a href="https://en.wikipedia.org/wiki/Mathematical_Tripos"><b>Cambridge Mathematical Tripos</b></a>, graduating in 1948.
+    Completed <b>the world’s first Ph.D. in computer science</b> in 1951.
+  avatar: /assets/images/author/quotes/david_wheeler.jpg
+  uri: https://en.wikipedia.org/wiki/David_Wheeler_(British_computer_scientist)
+  wikipedia: David_Wheeler_(British_computer_scientist)
+
+"Matt Wedel":
+  name: Mathew John Wedel
+  bio: >
+    American <a href="https://en.wikipedia.org/wiki/Paleontologist">paleontologist</a>. Associate professor at the
+    <a href="http://www.westernu.edu/"><i>Western University of Health Sciences</i></a> <i>Department of Anatomy</i> in California.
+    Studies <a href="https://en.wikipedia.org/wiki/Sauropod"><b>sauropods</b></a> and
+    <b>the evolution of <a href="https://en.wikipedia.org/wiki/Air_sacs">pneumatic bones</a> in dinosaurs</b>. Has authored papers
+    naming <a href="https://en.wikipedia.org/wiki/Aquilops" title="2014"><b>Aquilops</b></a>,
+    <a href="https://en.wikipedia.org/wiki/Brontomerus" title="2011"><b>Brontomerus</b></a>, and
+    <a href="https://en.wikipedia.org/wiki/Sauroposeidon" title="2000"><b>Sauroposeidon</b></a>.
+  avatar: /assets/images/author/quotes/matt_wedel.jpg
+  uri: https://sauroposeidon.wordpress.com/
+  wikipedia: Matt_J._Wedel
+  email: mathew.wedel@gmail.com
+  blog: https://echostation57.wordpress.com/
+  home: https://svpow.com/
+
+"Maurice Wilkes":
+  name: Sir Maurice Vincent Wilkes
+  bio: >
+    British computer scientist credited with several important developments in computing. Received a number of
+    distinctions: <a href="https://en.wikipedia.org/wiki/DFBCS"><i>Distinguished Fellow of the British Computer Society</i></a>,
+    <a href="https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Academy_of_Engineering"><i>Fellow of the Royal Academy of Engineering</i></a>
+    and <a href="https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society"><i>Fellow of the Royal Society</i></a>. At the time of his
+    death, was an <i>Emeritus Professor</i> of the <a href="http://cam.ac.uk/"><i>University of Cambridge</i></a>.
+  avatar: /assets/images/author/quotes/maurice_wilkes.jpg
+  uri: http://www.cl.cam.ac.uk/archive/mvw1/short-biography.html
+  wikipedia: Maurice_Wilkes
+  home: http://www.cl.cam.ac.uk/archive/mvw1
+
+"Niklaus Wirth":
+  name: Niklaus Emil Wirth
+  bio: >
+    Swiss computer scientist, best known for <b>designing several programming languages</b>, including
+    <a href="http://pascal-central.com/ppl/index.html#Origins"><b>Pascal</b></a>, and for pioneering several classic topics in
+    <b>software engineering</b>. In 1984, won the <a href="http://amturing.acm.org/"><b>Turing Award</b></a> for developing a sequence of
+    <b>innovative computer languages</b>.
+  avatar: /assets/images/author/quotes/niklaus_wirth.jpg
+  uri: http://www.computerhistory.org/fellowawards/hall/bios/Niklaus,Wirth/
+  wikipedia: Niklaus_Wirth
+  home: http://people.inf.ethz.ch/wirth/
+
+"John F. Woods":
+  name: John F. Woods
+  bio: >
+    American Software Engineer at <a href="http://acacia-inc.com/"><i>Acacia Communications Inc</i></a>.
+  avatar: /assets/images/author/quotes/john_f_woods.jpg
+  uri: https://www.linkedin.com/in/john-woods-6140ab1a
+  linkedin: john-woods-6140ab1a
+
+"William Wulf":
+  name: William Allan Wulf
+  bio: >
+    Computer scientist notable for his work in <b>programming languages</b> and <b>compilers</b>. Was a University Professor
+    and the <i>AT&T Professor of Engineering and Applied Sciences</i> in the Department of Computer Science at the
+    <a href="http://www.virginia.edu/"><i>University of Virginia</i></a>, until June 2012.
+  avatar: /assets/images/author/quotes/william_wulf.jpg
+  uri: http://www.cs.virginia.edu/people/faculty/wulf.html
+  wikipedia: William_Wulf
+  email: wulf@cs.virginia.edu
+  home: http://www.cs.virginia.edu/~wulf/
+
+"yiyus":
+  name: Jesús Galán López
+  bio: >
+    Spanish scientific researcher and Ph.D. student.
+  avatar: /assets/images/author/quotes/default.jpg
+  uri: http://yiyus.info/cv.pdf
+  email: yiyu.jgl@gmail.com
+  reddit: yiyus
+  github: yiyus
+  bitbucket: yiyus
+  deviantart: y-i-y-u-s
+  home: http://yiyus.info/
+
+"Pamela Zave":
+  name: Pamela Zave
+  bio: >
+    American computer scientist and researcher. Author of several technical publications, some of which won
+    <b>Best Paper awards</b>. Has given numerous talks all over the world, including invited lectures at several
+    conferences. Known for her work in
+    <a href="https://en.wikipedia.org/wiki/Requirements_engineering"><b>requirements engineering</b></a> and her use of
+    <a href="https://en.wikipedia.org/wiki/Formal_methods"><b>formal methods</b></a> in telecommunications. Works at
+    <a href="http://www.att.com/"><i>AT&T</i></a> Labs. Holds 16 patents in the telecommunications area, and is currently chair of
+    <a href="http://www.ifip.org/" title="International Federation for Information Processing"><i>IFIP</i></a>
+    <a href="https://ifip-tc2-wg23.paluno.uni-due.de/"><i>Working Group 2.3</i></a> on Programming Methodology.
+  avatar: /assets/images/author/quotes/pamela_zave.jpg
+  uri: http://www.research.att.com/people/Zave_Pamela
+  wikipedia: Pamela_Zave
+  email: pamela@research.att.com
+  linkedin: pamela-zave-74959b2
+  home: http://www.pamelazave.com/
+
+"Jamie Zawinski":
+  name: James Werner "Jamie" Zawinski
+  bio: >
+    American <a href="https://en.wikipedia.org/wiki/Hacker_(programmer_subculture)">hacker</a> responsible for significant
+    contributions to the <a href="https://www.gnu.org/philosophy/free-sw.html"><b>free software</b></a> projects
+    <a href="https://www.mozilla.org/" title="Mozilla Free Software Community"><b>Mozilla</b></a> and
+    <a href="http://www.xemacs.org/" title="XEmacs, The next generation of Emacs"><b>XEmacs</b></a>, and early versions of the
+    <a href="https://en.wikipedia.org/wiki/Netscape_Navigator"><b>Netscape Navigator</b></a> web browser. Maintains
+    <a href="http://www.jwz.org/xscreensaver/" title="The XScreenSaver project"><b>XScreenSaver</b></a>, which provides
+    screen-blanking for <a href="https://en.wikipedia.org/wiki/Mac_OS_X"><i>Mac OS X</i></a> and for
+    <a href="http://www.unix.org/" title="The UNIX Operating System"><i>Unix</i></a> and
+    <a href="https://en.wikipedia.org/wiki/Unix-like"><i>Unix-like</i></a> computer operating systems
+    using <a href="http://www.x.org/" title="The X Window System"><i>X Window</i></a>.
+  avatar: /assets/images/author/quotes/jamie_zawinski.jpg
+  uri: http://www.jwz.org/about.html
+  wikipedia: Jamie_Zawinski
+  email: jwz@jwz.org
+  twitter: jwz
+  facebook: yesthatjwz
+  youtube: user/yesthatjwz
+  google_plus: /../103802396060899980860
+  kickstarter: jwz
+  slashdot: Jamie+Zawinski
+  home: http://www.jwz.org/
+
+"Ezra Zygmuntowicz":
+  name: Ezra Zygmuntowicz
+  bio: >
+    Seasoned expert in <a href="http://rubyonrails.org/"><b>Rails</b></a> application deployment and a regular contributor in the
+    Rails community. Contributed many open source projects, such as
+    <a href="http://backgroundrb.rubyforge.org/"><b>BackgrounDrb</b></a>, <a href="https://github.com/ezmobius/ez-where"><b>ez-where</b></a>,
+    <a href="http://rubini.us/"><b>Rubinius</b></a> and <a href="https://en.wikipedia.org/wiki/Merb"><b>Merb</b></a>. Author of the book
+    <a href="https://pragprog.com/book/fr_deploy/deploying-rails-applications"><b>Deploying Rails Applications, a Step-by-Step Guide</b></a>.
+    Co-founder of the Rails hosting company <a href="https://www.engineyard.com/"><i>Engine Yard</i></a> and CTO at
+    <a href="http://www.stuffstr.com/"><i>Stuffstr.com</i></a>.
+  avatar: /assets/images/author/quotes/ezra_zygmuntowicz.jpg
+  uri: https://blog.newrelic.com/2014/12/02/ezra-zygmuntowicz/
+  linkedin: ezraz
+  github: ezmobius
+  twitter: ezmobius
+  mail: ez@stuffstr.com
+  home: http://www.stuffstr.com/
