@@ -142,6 +142,13 @@ whitelist:
 
 
 #
+# Pagination
+#
+paginate: 16
+paginate_path: /blog/:num/
+
+
+#
 # Default values
 #
 defaults:
