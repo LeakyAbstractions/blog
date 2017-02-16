@@ -4,3 +4,13 @@
 .sidebar .social-icons .fa-bitbucket-square {
   color: #205081;
 }
+
+.sidebar .social-icons .fa-paper-plane,
+.sidebar .social-icons .fa-paper-plane-o {
+  color: #54B3E6;
+}
+
+footer .page__footer-follow .fa-bitbucket,
+footer .page__footer-follow .fa-bitbucket-square {
+  color: #205081;
+}
