@@ -1,5 +1,9 @@
 /* Simius Ex Machina */
 
+h2.tagname:before {
+  content: "#";
+}
+
 .sidebar .social-icons .fa-bitbucket,
 .sidebar .social-icons .fa-bitbucket-square {
   color: #205081;
