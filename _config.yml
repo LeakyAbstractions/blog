@@ -1,0 +1,63 @@
+﻿#
+# Site settings
+#
+title: Simius Ex Machina
+title_separator: •
+description: Personal blog about programming, technology and software engineering in general.
+url: https://guillermo.in
+baseurl:
+twitter: SimiusExMachina
+locale: en_US
+repository: guillermocalvo/guillermocalvo.github.io
+
+
+#
+# Build settings
+#
+permalink:   /posts/:year/:month/:day/:title.html
+incremental: false
+encoding: utf-8
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - Gemfile
+keep_files:
+  - .git
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+markdown_ext: markdown,mkdown,mkdn,mkd,md
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+sass:
+  sass_dir: _sass
+  style: compressed
+  deploy_style: compressed
+compress_html:
+  clippings: all
+  comments: []
+  endings: []
+  profile: false
+  ignore:
+    envs: [development]
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
