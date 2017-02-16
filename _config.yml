@@ -215,3 +215,11 @@ collections:
   quotes:
     output: true
     permalink: /quotes/:title.html
+
+
+#
+# Archives
+#
+category_archive:
+  type: liquid
+  path: /categories/
