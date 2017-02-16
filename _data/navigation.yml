@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: <i class="fa fa-info-circle"></i> About
+    url: /about/
+  - title: <i class="fa fa-pencil-square-o"></i> Blog
+    url: /blog/
+  - title: <i class="fa fa-quote-left"></i> Quotes
+    url: /quotes/
+  - title: <i class="fa fa-flask"></i> Projects
+    url: /projects/
+  - title: <i class="fa fa-tags"></i> Tags
+    url: /tags/
