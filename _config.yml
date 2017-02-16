@@ -12,6 +12,84 @@ repository: guillermocalvo/guillermocalvo.github.io
 
 
 #
+# Site author
+#
+author:
+  name: &site_author_name Guillermo Calvo
+  avatar:
+  bio: Seeking the troof through programming.
+  location: Tokyo, Japan
+  uri:
+  email: hello@guillermo.in
+  keybase:
+  twitter: guillermonkey
+  facebook:
+  google_plus:
+  linkedin: guillermocalvo
+  xing:
+  tumblr:
+  bitbucket: guillermocalvo
+  github: guillermocalvo
+  stackoverflow: 534374/guillermo
+  lastfm:
+  dribbble:
+  pinterest:
+  foursquare:
+  steam:
+  youtube:
+  soundcloud:
+  weibo:
+  flickr:
+  codepen:
+  vine:
+  telegram: guillermocalvo
+
+
+#
+# Theme settings
+#
+theme: minimal-mistakes-jekyll
+name: *site_author_name
+timezone: Europe/Madrid
+teaser:
+breadcrumbs: false
+words_per_minute: 200
+atom_feed:
+  path: /feed.xml
+
+# Comment settings
+comments:
+  provider: disqus
+  disqus:
+    shortname: guillermocalvo-github-io
+
+# SEO Related
+google_site_verification: google4b20f13f27a4818e.html
+bing_site_verification: 77F6CF1F1E66E82D8F062B7A3E633F67
+
+# Analytics
+analytics:
+  provider: google-universal
+  google:
+    tracking_id: UA-61670496-3
+
+# Social Sharing
+twitter:
+  username: SimiusExMachina
+
+# Open Graph/Twitter default site image
+og_image:
+
+# For specifying social profiles
+social:
+  type: Person
+  name: *site_author_name
+  links: # An array of links to social media profiles
+    - https://twitter.com/guillermonkey
+    - https://twitter.com/SimiusExMachina
+
+
+#
 # Build settings
 #
 permalink:   /posts/:year/:month/:day/:title.html
@@ -61,3 +139,47 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+
+
+#
+# Default values
+#
+defaults:
+  # _posts
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      category: blog
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+  # _drafts
+  -
+    scope:
+      path: ""
+      type: drafts
+    values:
+      layout: single
+      category: blog
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
