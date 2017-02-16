@@ -183,3 +183,28 @@ defaults:
       comments: true
       share: true
       related: true
+  # _quotes
+  -
+    scope:
+      path: ""
+      type: quotes
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: true
+      share: true
+      related: true
+      header:
+        teaser: /assets/images/header/teaser/ada-lovelace.jpg
+        image: /assets/images/header/ada-lovelace.jpg
+        caption: "Photo credit: Portrait of Ada Lovelace [**Science & Society Picture Library**](http://www.scienceandsociety.co.uk/results.asp?image=10312035)"
+
+
+#
+# Collections
+#
+collections:
+  quotes:
+    output: true
+    permalink: /quotes/:title.html
