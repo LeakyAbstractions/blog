@@ -1,7 +1,10 @@
 ---
 permalink: /about/
 title: About Me
-excerpt: I'm Guillermo, a software developer from Zaragoza, Spain. I believe in the beauty and elegance of small, uncomplicated code. I always try to keep things as simple as possible, but not simpler.
+excerpt: >
+  I'm Guillermo, a software developer from Zaragoza, currently living in Tokyo.
+  I believe in the beauty and elegance of small, uncomplicated code.
+  I always try to keep things as simple as possible, but not simpler.
 share: false
 header:
   teaser: /assets/images/header/teaser/beautiful-solution.png
@@ -9,7 +12,8 @@ header:
   caption: If the solution to the problem is not beautiful, it is wrong.
 ---
 
-Hello! I'm Guillermo, a <del>code monkey</del> **software developer** from [Zaragoza, Spain][ZGZ].
+Hello! I'm Guillermo, a <del>code monkey</del> **software developer** from [Zaragoza][ZGZ],
+currently living in [Tokyo][TOKYO].
 I believe in the **beauty** and elegance of small, uncomplicated code.
 That's why I always try to keep things as **simple** as possible (but not simpler).
 I like reading about **programming languages**, compilers, interpreters and virtual machines.
@@ -25,4 +29,5 @@ Oh and I love **Japan**: anime, manga, origami, calligraphy, food... you name it
 [<i class="fa fa-suitcase"></i> View my Curriculum Vitae](https://resume.guillermo.in/){: .btn .btn--success .btn--x-large}
 
 
-[ZGZ]: https://en.wikipedia.org/wiki/Zaragoza
+[ZGZ]: https://en.wikipedia.org/wiki/Zaragoza "Zaragoza, Spain"
+[TOKYO]: https://en.wikipedia.org/wiki/Tokyo "Tokyo, Japan"
