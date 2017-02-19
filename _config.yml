@@ -98,6 +98,7 @@ encoding: utf-8
 include:
   - .htaccess
   - _pages
+  - _redirects
 exclude:
   - Gemfile
 keep_files:

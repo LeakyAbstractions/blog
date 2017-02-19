@@ -1,0 +1,10 @@
+# Simple redirects from one path to another
+/bitbucket/                     https://bitbucket.org/guillermocalvo/
+/github/                        https://github.com/guillermocalvo
+/instagram/                     https://www.instagram.com/guillermocalvo/
+/linkedin/                      https://linkedin.com/in/guillermocalvo
+/reddit/                        https://www.reddit.com/user/guillermocalvo
+/stackoverflow/                 https://stackoverflow.com/users/534374/guillermo?tab=profile
+/taiga/                         https://tree.taiga.io/profile/guillermocalvo
+/telegram/                      https://telegram.me/guillermocalvo
+/twitter/                       https://twitter.com/guillermonkey
