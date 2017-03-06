@@ -9,19 +9,20 @@ header:
 ---
 
 
-## Kana Memory
+## Memorize Kana
 
-**Kana Memory** is [**Origame Studio**](http://origamestudio.tumblr.com/)'s first published game for *Android* platform.
-It is a memory game which lets you learn Japanese by playing it.
+**Memorize Kana**, formerly **Kana Memory**, is [**Origame Studio**](http://origamestudio.tumblr.com/)'s first published game for *Android*.
+It is a memory game which helps you memorize Kana (syllabic Japanese scripts) as you play.
 
 ![](/assets/images/projects/kana-memory.png "Have fun studying Japanese! Play this memory game to learn Hiragana & Katakana")
 
-This app is available for free on *Google Play* and translated to several languages.
-Currently hundreds of people around the world use it.
+This app is [available for free on **Google Play**](https://play.google.com/apps/testing/com.origamestudio.memorizekana) and translated to several languages.
+
+**Memorize Kana** is *open source*; it was developed with [**Unity**](https://unity3d.com/ "Unity game development platform") and [the source code can be accessed at **GitHub**](https://github.com/OrigameStudio/KanaMemory).
 
 ---
 
-[View Kana Memory on Google Play](https://play.google.com/store/apps/details?id=com.origamestudio.kanamemory){: .btn}
+[View Memorize Kana on Google Play](https://play.google.com/apps/testing/com.origamestudio.memorizekana){: .btn}
 
 
 ## exceptions4c
