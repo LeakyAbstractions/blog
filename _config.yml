@@ -22,7 +22,7 @@ author:
   uri:
   email: hello@guillermo.in
   keybase:
-  twitter: guillermonkey
+  twitter: gcalvo
   facebook:
   google_plus:
   linkedin: guillermocalvo
@@ -85,7 +85,7 @@ social:
   type: Person
   name: *site_author_name
   links: # An array of links to social media profiles
-    - https://twitter.com/guillermonkey
+    - https://twitter.com/gcalvo
     - https://twitter.com/SimiusExMachina
 
 
