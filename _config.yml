@@ -123,10 +123,12 @@ sass:
 compress_html:
   clippings: all
   comments: []
+  blanklines: false
+  startings: []
   endings: []
   profile: false
   ignore:
-    envs: [development]
+    envs: []
 gems:
   - jekyll-paginate
   - jekyll-sitemap
