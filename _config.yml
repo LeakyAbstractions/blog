@@ -1,14 +1,14 @@
 ﻿#
 # Site settings
 #
-title: Simius Ex Machina
+title: Leaky Abstractions
 title_separator: •
 description: Personal blog about programming, technology and software engineering in general.
-url: https://guillermo.in
+url: https://leakyabstractions.com
 baseurl:
-twitter: SimiusExMachina
+twitter: LeakAbstraction
 locale: en_US
-repository: guillermocalvo/guillermocalvo.github.io
+repository: guillermocalvo/leakyabstractions
 
 
 #
@@ -20,7 +20,7 @@ author:
   bio: Seeking the troof through programming.
   location: Tokyo, Japan
   uri:
-  email: hello@guillermo.in
+  email: guillermo@leakyabstractions.com
   keybase:
   twitter: gcalvo
   facebook:
@@ -61,21 +61,21 @@ atom_feed:
 comments:
   provider: disqus
   disqus:
-    shortname: guillermocalvo-github-io
+    shortname: leakyabstractions
 
 # SEO Related
-google_site_verification: google4b20f13f27a4818e.html
+google_site_verification: Ch9BjSSbuXSH37m32EOBw1ibbwk9VR5TuUuM4Kxf0XU
 bing_site_verification: 77F6CF1F1E66E82D8F062B7A3E633F67
 
 # Analytics
 analytics:
   provider: google-universal
   google:
-    tracking_id: UA-61670496-3
+    tracking_id: UA-97888471-1
 
 # Social Sharing
 twitter:
-  username: SimiusExMachina
+  username: LeakAbstraction
 
 # Open Graph/Twitter default site image
 og_image: /assets/images/site-logo.png
@@ -86,7 +86,7 @@ social:
   name: *site_author_name
   links: # An array of links to social media profiles
     - https://twitter.com/gcalvo
-    - https://twitter.com/SimiusExMachina
+    - https://twitter.com/LeakAbstraction
 
 
 #
