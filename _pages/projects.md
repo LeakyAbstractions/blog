@@ -16,13 +16,13 @@ It is a memory game which helps you memorize Kana (syllabic Japanese scripts) as
 
 ![](/assets/images/projects/kana-memory.png "Have fun studying Japanese! Play this memory game to learn Hiragana & Katakana")
 
-This app is [available for free on **Google Play**](https://play.google.com/apps/testing/com.origamestudio.memorizekana) and translated to several languages.
+This app is [available for free on **Google Play**](https://play.google.com/store/apps/details?id=com.origamestudio.memorizekana) and translated to several languages.
 
 **Memorize Kana** is *open source*; it was developed with [**Unity**](https://unity3d.com/ "Unity game development platform") and [the source code can be accessed at **GitHub**](https://github.com/OrigameStudio/KanaMemory).
 
 ---
 
-[View Memorize Kana on Google Play](https://play.google.com/apps/testing/com.origamestudio.memorizekana){: .btn}
+[View Memorize Kana on Google Play](https://play.google.com/store/apps/details?id=com.origamestudio.memorizekana){: .btn}
 
 
 ## exceptions4c
