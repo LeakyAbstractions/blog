@@ -5,3 +5,11 @@
           </a>
         </li>
       {% endif %}
+
+      {% if author.artsy %}
+        <li>
+          <a href="https://www.artsy.net/{{ author.artsy }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-paint-brush" aria-hidden="true"></i> Artsy
+          </a>
+        </li>
+      {% endif %}
