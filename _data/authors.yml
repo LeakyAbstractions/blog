@@ -1948,6 +1948,7 @@
   avatar: /assets/images/author/quotes/pablo_picasso.jpg
   uri: https://en.wikipedia.org/wiki/Pablo_Picasso
   wikipedia: Pablo_Picasso
+  artsy: artist/pablo-picasso
 
 "Rob Pike":
   name: Robert Pike
