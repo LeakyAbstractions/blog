@@ -26,7 +26,7 @@ Oh and I love **Japan**: anime, manga, origami, calligraphy, food... you name it
 
 ---
 
-[<i class="fa fa-suitcase"></i> View my Curriculum Vitae](https://resume.guillermo.in/){: .btn .btn--success .btn--x-large}
+[<i class="fa fa-suitcase"></i> View my Curriculum Vitae](https://guillermo.dev/){: .btn .btn--success .btn--x-large}
 
 
 [ZGZ]: https://en.wikipedia.org/wiki/Zaragoza "Zaragoza, Spain"

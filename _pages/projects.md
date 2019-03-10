@@ -33,7 +33,7 @@ A **C library for error handling** through exceptions. Among other functionaliti
 
 ---
 
-[Find out more about exceptions4c](http://exceptions4c.guillermo.in/){: .btn}
+[Find out more about exceptions4c](http://guillermo.dev/exceptions4c/){: .btn}
 
 
 ## AdMobPlugin For Unity
