@@ -24,7 +24,7 @@ or a failure value that explains what went wrong.
 
 ---
 
-[Project Page](https://github.com/leakyabstractions/result){: .btn}
+[View project page on GitHub](https://github.com/leakyabstractions/result){: .btn}
 
 
 ## Pragmatic Versioning
@@ -35,7 +35,7 @@ A **specification** describing a set of rules and requirements that dictate how 
 
 ---
 
-[Read the specification](https://pragver.github.io/){: .btn}
+[Read the documentation](https://pragver.github.io/spec/){: .btn}
 
 
 ## Memorize Kana
