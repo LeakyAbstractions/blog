@@ -9,6 +9,35 @@ header:
 ---
 
 
+## Result Library for Java
+
+The purpose of this library is to provide a type-safe encapsulation of operation results that may have succeeded or
+failed, instead of throwing exceptions.
+
+If you like `Optional` but feel that it sometimes falls too short, you'll love `Result`.
+
+![](/assets/images/projects/result.png "Handle success and failure without exceptions")
+
+The best way to think of _Result_ is as a super-powered version of _Optional_. The only difference is that whereas
+_Optional_ may contain a successful value or express the absence of a value, _Result_ contains either a successful value
+or a failure value that explains what went wrong.
+
+---
+
+[Project Page](https://github.com/leakyabstractions/result){: .btn}
+
+
+## Pragmatic Versioning
+
+A **specification** describing a set of rules and requirements that dictate how *version identifiers* must be bumped and and assigned to *releases*.
+
+![](/assets/images/projects/pragver.png "Versioning for the rest of us")
+
+---
+
+[Read the specification](https://pragver.github.io/){: .btn}
+
+
 ## Memorize Kana
 
 **Memorize Kana**, formerly **Kana Memory**, is [**Origame Studio**](http://origamestudio.tumblr.com/)'s first published game for *Android*.
